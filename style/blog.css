@@ -1,0 +1,44 @@
+nav, #content, #footer {
+	max-width: 1000px;
+	margin: auto;
+	clear: both;
+}
+
+nav ul {
+	margin: 2em auto auto 30%;
+}
+
+nav li {
+	display: inline;
+	font-size: 1.1em;
+}
+
+nav a {
+	padding: 1em;
+}
+
+#content {
+	margin-top: 2em;
+}
+
+.main {
+	float: left;
+	width: 60%;
+}
+
+.related {
+	float: right;
+	width: 30%;
+}
+
+#footer {
+	font-size: 0.8em;
+	color: #bbb;
+	background-color: transparent;
+	padding-top: 20em;
+}
+
+#footer a {
+	color: #999;
+	background-color: transparent;
+}

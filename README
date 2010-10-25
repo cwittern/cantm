@@ -1,0 +1,20 @@
+[2010-10-25T14:40:02+0900]
+I am just trying to get started with topicmap webapps in ontopia.
+What I have at the moment is modelled on this blog series[1] and inspection of the omnigator code.
+[1] http://www.topicobserver.com/blog/semantic-web/tm/2010/web-application-development-with-ontopia-part-3/
+
+I am also trying out using github to maintain this project.
+
+To make this work, I have added the following at the top of $ONTOPIA/apache-tomcat/common/classes/tm-sources.xml
+
+
+  <source class="net.ontopia.topicmaps.utils.ltm.LTMPathTopicMapSource">
+    <param name="path" value="/Users/chris/projects/cantm/"/>
+    <param name="hidden" value="true"/>
+    <param name="suffix" value=".ltm"/>
+    <param name="duplicateSuppression" value="true"/>
+  </source>
+
+and then added a symlink to the project directory /Users/chris/projects/cantm/ to 
+$ONTOPIA/apache-tomcat/webapps
+
