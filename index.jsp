@@ -1,6 +1,6 @@
 <%--
 
-	Index page containing a blog post index.
+	Index page containing a topic index.
 	
 	
 	@author Christian Wittern

@@ -1,4 +1,10 @@
 @"utf-8"
+#MERGEMAP "file:canwww.ltm"
+#MERGEMAP "bessatsu.ltm"
+#MERGEMAP "hcl.ltm"
+#MERGEMAP "bulei.ltm"
+#MERGEMAP "dazangjicheng.ltm"
+#MERGEMAP "tripitaka-id.ltm"
 
 [short-name = "Short Name"]
 [zh-people = "Chinese"
@@ -124,7 +130,7 @@
 
 /* additional topics */
 [taisho : canon = "大正新修大藏經" /zh]
-[zokuzokyo : canon = "新纂大日本續蔵經" /zh x
+[zokuzokyo : canon = "新纂大日本續蔵經" /zh 
 	   = "大日本續蔵經" / z]
 [jiaxingzang : canon = "嘉興大藏經" /zh]
 [koraizo : canon = "高麗大藏經" /zh]
