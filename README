@@ -9,7 +9,7 @@ To make this work, I have added the following at the top of $ONTOPIA/apache-tomc
 
 
   <source class="net.ontopia.topicmaps.utils.ltm.LTMPathTopicMapSource">
-    <param name="path" value="/Users/chris/projects/cantm/"/>
+    <param name="path" value="/Users/chris/projects/cantm/WEB-INF/topicmaps"/>
     <param name="hidden" value="true"/>
     <param name="suffix" value=".ltm"/>
     <param name="duplicateSuppression" value="true"/>
