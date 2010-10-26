@@ -2,8 +2,8 @@
 #MERGEMAP "file:canwww.ltm"
 #MERGEMAP "bessatsu.ltm"
 #MERGEMAP "hcl.ltm"
-#MERGEMAP "bulei.ltm"
-#MERGEMAP "dazangjicheng.ltm"
+#MERGEMAP "bulei.ltm" 
+/* #MERGEMAP "dazangjicheng.ltm" */
 #MERGEMAP "tripitaka-id.ltm"
 
 /* INSTANCES */

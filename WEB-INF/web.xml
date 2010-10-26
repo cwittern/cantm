@@ -8,7 +8,7 @@
 
   <context-param>
     <param-name>tmid</param-name>
-    <param-value>canwww.ltm</param-value>
+    <param-value>cantm.ltm</param-value>
   </context-param>
   
   <!-- Session listeners -->
