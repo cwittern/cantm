@@ -1,4 +1,5 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
 
 [mk0001 : man = "般若波羅蜜多經" / zh korcat
         = "반야파라밀다경" / ko korcat

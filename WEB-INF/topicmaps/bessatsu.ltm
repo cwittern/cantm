@@ -1,4 +1,5 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
 
 [mT01n0001 : man = "長阿含經" / zh hobogirin
         = "JŌAGON GYŌ" /ja-rom
