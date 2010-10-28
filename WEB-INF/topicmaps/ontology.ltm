@@ -89,6 +89,9 @@
 [has-genre = "Genre"]
 [sequence = "next" /next
 	  = "prev" /prev]
+
+[aut = "authored-by"]
+
 /* association role types */
 [part = "Part"]
 [whole = "Whole"]
@@ -96,7 +99,9 @@
 [source = "Source"]
 [next = "Next"]
 [prev = "Prev"]
+
 /* ----------------- Role Types ---------------- */
+[text = "Text"]
 
 [subordinate-role-type = "Subordinate role type"
     @"http://www.techquila.com/psi/hierarchy/#subordinate-role-type"]
@@ -132,6 +137,8 @@
 [toc = "Table of Contents"]
 [z = "Zokuzokyo"]
 [desc = "Description"]
+[startpage = "Startpage"]
+[xptr = "Related texts"]
 /* sources and resp */
 
 
