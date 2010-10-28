@@ -11,9 +11,9 @@
 
 [zh-Latn-x-pinyin = "Hanyu pinyin"
 	=  "漢語拼音" /zh]
+[zh-py = "Hanyu Pinyin"]
 [zh-Hant = "Chinese"
-          = "中文" /zh
-]
+          = "中文" /zh]
 
 [date = "Date"]
 
@@ -61,7 +61,9 @@
 [canwww = "WWW Database of Chinese Buddhist Texts"
 	= "canwww" / short-name]
 [ja-Hira = "Japanese Hiragana"]
+[ja-rom = "Japanese Hiragana"]
 [sa : language = "Sanskrit"]
+[sk : language = "Sanskrit"]
 [pi : language = "Pali"]
 [alt : name = "Alternate name"]
 [main : name = "Name"]
