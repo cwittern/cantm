@@ -1226,7 +1226,7 @@ related-text(mk0048 : source, mk1424 : target)
     @"http://psi.iba-net.org/texts/hkw_0049" ]
 [et0347 : exp = "大乘顯識經" / zh korcat 
  @"http://psi.iba-net.org/expressions/hnt_0347"]
-is-embodied-in(et0341 : exp, mk0049 : man)
+is-embodied-in(et0347 : exp, mk0049 : man)
 related-text(mk0049 : source, mk0022 : target)
 [mk0050 : man = "大乘方等要慧經" / zh korcat
         = "대승방등요혜경" / ko korcat
@@ -3961,9 +3961,9 @@ is-embodied-in(et1180 : exp, mk0316 : man)
         = "관자재보살수심주경" / ko korcat
         = "Kuan tzu tsai p'u sa sui hsin chou ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0317" ]
-[et11033 : exp = "觀自在菩薩隨心咒經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11033"]
-is-embodied-in(et11033 : exp, mk0317 : man)
+[et1103a : exp = "觀自在菩薩隨心咒經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1103a"]
+is-embodied-in(et1103a : exp, mk0317 : man)
 [mk0318 : man = "種種雜咒經" / zh korcat
         = "종종잡주경" / ko korcat
         = "Chung chung tsa chou ching" /zh-wg  korcat
@@ -4291,9 +4291,9 @@ related-text(mk0342 : source, mk1236 : target)
         = "Sgo bzaṅ po" /bo  korcat
         = "Chin kang pi mi shan men t'o lo ni chou ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0343" ]
-[et11388 : exp = "金剛祕密善門陀羅尼呪經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11388"]
-is-embodied-in(et11388 : exp, mk0343 : man)
+[et1138a : exp = "金剛祕密善門陀羅尼呪經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1138a"]
+is-embodied-in(et1138a : exp, mk0343 : man)
 related-text(mk0343 : source, mk0342 : target)
 related-text(mk0343 : source, mk0351 : target)
 related-text(mk0343 : source, mk1236 : target)
@@ -4314,9 +4314,9 @@ related-text(mk0344 : source, mk1159 : target)
         = "Saḍakṣaravidyāmantra(sūtra)" /sa  korcat
         = "Liu tzu [shen] chou wang ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0345" ]
-[et10455 : exp = "六字神咒王經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10455"]
-is-embodied-in(et10455 : exp, mk0345 : man)
+[et1045b : exp = "六字神咒王經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1045b"]
+is-embodied-in(et1045b : exp, mk0345 : man)
 [mk0346 : man = "虛空藏菩薩問七佛陀羅尼咒經" / zh korcat
         = "허공장보살문칠불타라니주경" / ko korcat
         = "Saptabuddhakasūtra" /sa  korcat
@@ -5067,16 +5067,16 @@ is-embodied-in(et1335 : exp, mk0434 : man)
         = "문수사리법보장타라니경" / ko korcat
         = "Wen shu shih li fa pao ts'ang t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0435" ]
-[et11855 : exp = "文殊師利法寶藏陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11855"]
-is-embodied-in(et11855 : exp, mk0435 : man)
+[et1185a : exp = "文殊師利法寶藏陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1185a"]
+is-embodied-in(et1185a : exp, mk0435 : man)
 [mk0436 : man = "金剛光焰止風雨陀羅尼經" / zh korcat
         = "김강광염지풍우타라니경" / ko korcat
         = "Chin kang kuang yen chih feng yu t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0436" ]
-[et10277 : exp = "金剛光焰止風雨陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10277"]
-is-embodied-in(et10277 : exp, mk0436 : man)
+[et1027b : exp = "金剛光焰止風雨陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1027b"]
+is-embodied-in(et1027b : exp, mk0436 : man)
 [mk0437 : man = "安宅神咒經" / zh korcat
         = "안택신주경" / ko korcat
         = "An chai shen chou ching" /zh-wg  korcat
@@ -5150,16 +5150,16 @@ related-text(mk0438h : source, mk1354 : target)
         = "원사발소설신주경" / ko korcat
         = "Hsüan shih pa t'o so shuo shen chou ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0439" ]
-[et13788 : exp = "元師颰所說神咒經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_13788"]
-is-embodied-in(et13788 : exp, mk0439 : man)
+[et1378a : exp = "元師颰所說神咒經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1378a"]
+is-embodied-in(et1378a : exp, mk0439 : man)
 [mk0440 : man = "護諸童子陀羅尼經" / zh korcat
         = "호제동자타라니경" / ko korcat
         = "Hu chu t'ung tzu t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0440" ]
-[et10288 : exp = "護諸童子陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10288"]
-is-embodied-in(et10288 : exp, mk0440 : man)
+[et1028a : exp = "護諸童子陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1028a"]
+is-embodied-in(et1028a : exp, mk0440 : man)
 [mk0441 : man = "大普賢陀羅尼經" / zh korcat
         = "대보현타라니경" / ko korcat
         = "Ta p'u hsien t'o lo ni ching" /zh-wg  korcat
@@ -5464,9 +5464,9 @@ is-embodied-in(et1397 : exp, mk0476 : man)
         = "백천인타라니경" / ko korcat
         = "Pai ch'ien yin t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0477" ]
-[et13699 : exp = "百千印陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_13699"]
-is-embodied-in(et13699 : exp, mk0477 : man)
+[et1369b : exp = "百千印陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1369b"]
+is-embodied-in(et1369b : exp, mk0477 : man)
 [mk0478 : man = "諸法最上王經" / zh korcat
         = "제법최상왕경" / ko korcat
         = "Chu fa tsui shang wang ching" /zh-wg  korcat
@@ -7828,9 +7828,9 @@ related-text(mk0737 : source, mk0650 : target)
         = "칠처삼관경" / ko korcat
         = "Ch'i ch'u san kuan ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0738" ]
-[et01500 : exp = "七處三觀經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_01500"]
-is-embodied-in(et01500 : exp, mk0738 : man)
+[et0150a : exp = "七處三觀經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0150a"]
+is-embodied-in(et0150a : exp, mk0738 : man)
 related-text(mk0738 : source, mk0882 : target)
 [mk0739 : man = "阿那邠邸化七子經" / zh korcat
         = "아나빈저화칠자경" / ko korcat
@@ -8972,9 +8972,9 @@ is-embodied-in(et0592 : exp, mk0881 : man)
         = "구횡경" / ko korcat
         = "Chiu heng ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0882" ]
-[et01500 : exp = "九橫經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_01500"]
-is-embodied-in(et01500 : exp, mk0882 : man)
+[et0150b : exp = "九橫經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0150b"]
+is-embodied-in(et0150b : exp, mk0882 : man)
 related-text(mk0882 : source, mk0738 : target)
 [mk0883 : man = "父母恩難報經" / zh korcat
         = "부모은난보경" / ko korcat
@@ -10002,9 +10002,9 @@ related-text(mk1001 : source, mk1252 : target)
         = "Miliṇḍapañha" /sa  korcat
         = "Na hsien pi ch'iu ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1002" ]
-[et16700 : exp = "那先比丘經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_16700"]
-is-embodied-in(et16700 : exp, mk1002 : man)
+[et1670a : exp = "那先比丘經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1670a"]
+is-embodied-in(et1670a : exp, mk1002 : man)
 [mk1003 : man = "達摩多羅禪經" / zh korcat
         = "달마다라선경" / ko korcat
         = "Yogacārabhūmi" /sa  korcat
@@ -10669,9 +10669,9 @@ is-embodied-in(et0258 : exp, mk1090 : man)
         = "Ṅan-ḥgro thams-cad yoṅs-su 	sbyoṅ-ba gtsug-tor rnam-par rgyal-ba" /bo  korcat
         = "Tsui sheng fo ting t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1091" ]
-[et09744 : exp = "最勝佛頂陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_09744"]
-is-embodied-in(et09744 : exp, mk1091 : man)
+[et0974a : exp = "最勝佛頂陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0974a"]
+is-embodied-in(et0974a : exp, mk1091 : man)
 [mk1092 : man = "七佛讚唄伽他" / zh korcat
         = "칠불찬패가타" / ko korcat
         = "Saptabuddhastotra" /sa  korcat
@@ -11768,9 +11768,9 @@ is-embodied-in(et1242 : exp, mk1214 : man)
         = "Dkyil-ḥkhor brgyad-pa" /bo  korcat
         = "Ta ch'eng pa ta man na lo ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1215" ]
-[et11688 : exp = "大乘八大曼拏羅經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11688"]
-is-embodied-in(et11688 : exp, mk1215 : man)
+[et1168a : exp = "大乘八大曼拏羅經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1168a"]
+is-embodied-in(et1168a : exp, mk1215 : man)
 related-text(mk1215 : source, mk1304 : target)
 [mk1216 : man = "囉嚩拏說救療小兒疾病經" / zh korcat
         = "라박나설구료소아질병경" / ko korcat
@@ -12353,9 +12353,9 @@ is-embodied-in(et0876 : exp, mk1268 : man)
         = "천수천안관세음보살대신주본" / ko korcat
         = "Ch'ien shou ch'ien yen kuan shih yin p'u sa ta shen chou pen" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1269" ]
-[et10622 : exp = "千手千眼觀世音菩薩大身咒本" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10622"]
-is-embodied-in(et10622 : exp, mk1269 : man)
+[et1062a : exp = "千手千眼觀世音菩薩大身咒本" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1062a"]
+is-embodied-in(et1062a : exp, mk1269 : man)
 related-text(mk1269 : source, mk0292 : target)
 related-text(mk1269 : source, mk0293 : target)
 related-text(mk1269 : source, mk0294 : target)
@@ -12386,9 +12386,9 @@ is-embodied-in(et1202 : exp, mk1271 : man)
         = "대승유가금강성해만수실리천비천발대교왕경" / ko korcat
         = "Ta ch'eng yü ch'ieh chin kang hsing hai man shu shih li ch'ien pei ch'ien po ta chiao wang ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1272" ]
-[et11777 : exp = "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11777"]
-is-embodied-in(et11777 : exp, mk1272 : man)
+[et1177a : exp = "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1177a"]
+is-embodied-in(et1177a : exp, mk1272 : man)
 related-text(mk1272 : source, mk1213 : target)
 [mk1273 : man = "金剛頂瑜伽念珠經" / zh korcat
         = "금강정유가염주경" / ko korcat
@@ -12530,9 +12530,9 @@ is-embodied-in(et1069 : exp, mk1286 : man)
         = "De bshin-gśegs-pa thams-cad-kyi byin-gyis-brlabs-kyi sñiṅ-po gsaṅ-ba riṅ-bsrel-gyi za-ma-tog" /bo  korcat
         = "I ch'ieh ju lai hsin pi mi ch'üan shen she li pao ch'ieh yin t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1287" ]
-[et10222 : exp = "一切如來心祕密全身舍利寳篋印陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10222"]
-is-embodied-in(et10222 : exp, mk1287 : man)
+[et1022a : exp = "一切如來心祕密全身舍利寳篋印陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1022a"]
+is-embodied-in(et1022a : exp, mk1287 : man)
 related-text(mk1287 : source, mk1113 : target)
 [mk1288 : man = "大吉祥天女十二名號經" / zh korcat
         = "대길상천녀십이명호경" / ko korcat
@@ -12640,9 +12640,9 @@ related-text(mk1297 : source, mk1191 : target)
         = "Nor-bu chen-po rgyas-paḥi gshal-med-khaṅ śin-tu rab-tu-gnas-pa gsaṅ-ba dam-paḥi gsaṅ-baḥi cho-ga shib-moḥi rgyal-po" /bo  korcat
         = "Ta pao kuang po lou ko shan chou pi mi t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1298" ]
-[et10055 : exp = "大寶廣博樓閣善住祕密陀羅尼經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_10055"]
-is-embodied-in(et10055 : exp, mk1298 : man)
+[et1005a : exp = "大寶廣博樓閣善住祕密陀羅尼經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1005a"]
+is-embodied-in(et1005a : exp, mk1298 : man)
 related-text(mk1298 : source, mk0422 : target)
 related-text(mk1298 : source, mk0430 : target)
 [mk1299 : man = "菩提場莊嚴陀羅尼經" / zh korcat
@@ -12837,9 +12837,9 @@ is-embodied-in(et0955 : exp, mk1320 : man)
         = "일자정륜왕염송의궤" / ko korcat
         = "I tzu ting lun wang nien sung i kuei" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1321" ]
-[et09544 : exp = "一字頂輪王念誦儀軌" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_09544"]
-is-embodied-in(et09544 : exp, mk1321 : man)
+[et0954a : exp = "一字頂輪王念誦儀軌" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0954a"]
+is-embodied-in(et0954a : exp, mk1321 : man)
 [mk1322 : man = "仁王般若念誦法" / zh korcat
         = "인왕반야염송법" / ko korcat
         = "Jen wang po jo nien sung fa" /zh-wg  korcat
@@ -13030,9 +13030,9 @@ is-embodied-in(et1174 : exp, mk1345 : man)
         = "금강정승초유가경중약출대락금강살타염송의" / ko korcat
         = "Chin kang ting sheng ch'u yü ch'ieh ching chung liao ch'u ta lo chin kang sa to nien sung i" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1346" ]
-[et11200 : exp = "金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11200"]
-is-embodied-in(et11200 : exp, mk1346 : man)
+[et1120a : exp = "金剛頂勝初瑜伽經中略出大樂金剛薩埵念誦儀" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1120a"]
+is-embodied-in(et1120a : exp, mk1346 : man)
 [mk1347 : man = "大樂金剛薩埵修行成就儀軌" / zh korcat
         = "대락금강살타수행성취의궤" / ko korcat
         = "Ta lo chin kang sa t'o hsiu hsing ch'eng chiu i kuei" /zh-wg  korcat
@@ -13252,9 +13252,9 @@ is-embodied-in(et1030 : exp, mk1374 : man)
         = "Rig-sṅags-kyi rgyal-mo rma-bya chen-mo" /bo  korcat
         = "Ta k'ung ch'iao ming wang hua hsiang t'an ch'ang i kuei" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1375" ]
-[et09833 : exp = "大孔雀明王畫像壇場儀軌" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_09833"]
-is-embodied-in(et09833 : exp, mk1375 : man)
+[et0983a : exp = "大孔雀明王畫像壇場儀軌" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0983a"]
+is-embodied-in(et0983a : exp, mk1375 : man)
 related-text(mk1375 : source, mk0303 : target)
 related-text(mk1375 : source, mk0304 : target)
 related-text(mk1375 : source, mk0305 : target)
@@ -14334,9 +14334,9 @@ is-embodied-in(et2129 : exp, mk1497 : man)
         = "대승유가금강성해만수실리천비천발대교왕경" / ko korcat
         = "Ta ch'eng yü ch'ieh chin kang hsing hai man shu shih li ch'ien pei ch'ien po ta chiao wang ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_1272a" ]
-[et11777 : exp = "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_11777"]
-is-embodied-in(et11777 : exp, mk1272a : man)
+[et1177a : exp = "大乘瑜伽金剛性海曼殊室利千臂千鉢大教王經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1177a"]
+is-embodied-in(et1177a : exp, mk1272a : man)
 [mk1498 : man = "一切經音義" / zh korcat
         = "일체경음의" / ko korcat
         = "I ch'ieh ching yin i" /zh-wg  korcat
@@ -14367,9 +14367,9 @@ related-text(mk1501 : source, mk0521 : target)
         = "Pŏp-kye-do ki ch'ong-su-rok 법계도기총수록 Hwa-ŏm il-sŭng pŏp-kye-do" / ko korcat
         = "Pŏp-kye-do ki ch'ong-su-rok" /ko-mr  korcat
     @"http://psi.iba-net.org/texts/hkw_1502" ]
-[et18877 : exp = "法界圖記叢髓錄" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_18877"]
-is-embodied-in(et18877 : exp, mk1502 : man)
+[et1887b : exp = "法界圖記叢髓錄" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_1887b"]
+is-embodied-in(et1887b : exp, mk1502 : man)
 [mk1503 : man = "祖堂集" / zh korcat
         = "조당집" / ko korcat
         = "Tsu t'ang chi" /zh-wg  korcat
@@ -14837,9 +14837,9 @@ is-embodied-in(et2008 : exp, mks0078 : man)
         = "Kye ch'o-sim hak-in mun 계초심학인문" / ko korcat
         = "Kye ch'o-sim hak-in mun" /ko-mr  korcat
     @"http://psi.iba-net.org/texts/hkw_s0080" ]
-[et20199 : exp = "誡初心學人文" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_20199"]
-is-embodied-in(et20199 : exp, mks0080 : man)
+[et2019b : exp = "誡初心學人文" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_2019b"]
+is-embodied-in(et2019b : exp, mks0080 : man)
 [mks0081 : man = "發心修行章" / zh korcat
         = "Pal-sim su-haeng 	chang 발심수행장" / ko korcat
         = "Pal-sim su-haeng 	chang" /ko-mr  korcat
