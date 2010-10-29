@@ -1224,8 +1224,8 @@ related-text(mk0048 : source, mk1424 : target)
         = "Tshoṅ-dpon bzaṅ-skyoṅ-gis shus-pa" /bo  korcat
         = "Ta ch'eng hsien shih ching" /zh-wg  korcat
     @"http://psi.iba-net.org/texts/hkw_0049" ]
-[et0341 : exp = "大乘顯識經" / zh korcat 
- @"http://psi.iba-net.org/expressions/hnt_0341"]
+[et0347 : exp = "大乘顯識經" / zh korcat 
+ @"http://psi.iba-net.org/expressions/hnt_0347"]
 is-embodied-in(et0341 : exp, mk0049 : man)
 related-text(mk0049 : source, mk0022 : target)
 [mk0050 : man = "大乘方等要慧經" / zh korcat

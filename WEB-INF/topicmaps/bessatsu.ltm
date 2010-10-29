@@ -3621,7 +3621,7 @@ aut(eT02n0122 : text, aut-12 : resp)
         = "HŌGO KYŌ" /ja-rom
         = "(Fang niu jing)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_0123"             
-    @"http://psi.iba-net.org/texts/hkw_0746" ]
+    @"http://psi.iba-net.org/texts/hkw_0746a" ]
 {eT02n0123, extent, [[I]]}
 {eT02n0123, startpage, [[T02, p.546]]}
 aut(eT02n0123 : text, aut-13 : resp)
@@ -6462,7 +6462,7 @@ aut(eT14n0439 : text, aut-8 : resp)
         = "BUTSUMYŌ KYŌ" /ja-rom
         = "(Fo ming jing)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_0440"             
-    @"http://psi.iba-net.org/texts/hkw_0309" ]
+    @"http://psi.iba-net.org/texts/hkw_0390" ]
 {eT14n0440, extent, [[XII]]}
 {eT14n0440, startpage, [[T14, p.114]]}
 aut(eT14n0440 : text, aut-55 : resp)
@@ -9592,7 +9592,7 @@ aut(eT17n0805 : text, aut-5 : resp)
         = "KOJU KYŌ" /ja-rom
         = "(Ku shu jing)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_0806"             
-    @"http://psi.iba-net.org/texts/hkw_0746" ]
+    @"http://psi.iba-net.org/texts/hkw_0746b" ]
 {eT17n0806, extent, [[I]]}
 {eT17n0806, startpage, [[T17, p.751]]}
 [eT17n0807 : exp = "内藏百寶經" / zh hobogirin
