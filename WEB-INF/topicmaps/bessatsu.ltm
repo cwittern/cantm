@@ -13012,7 +13012,7 @@ aut(eT20n1185B : text, aut-55 : resp)
         = "MYŌKICHIJŌBOSATSU DARANI" /ja-rom
         = "(Miao ji xiang pu sa tuo luo ni)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_1186"             
-    @"http://psi.iba-net.org/texts/hkw_1230" ]
+    @"http://psi.iba-net.org/texts/hkw_1230a" ]
 {eT20n1186, extent, [[I]]}
 {eT20n1186, startpage, [[T20, p.807]]}
 aut(eT20n1186 : text, aut-7 : resp)
@@ -13805,7 +13805,7 @@ aut(eT21n1281 : text, aut-112 : resp)
         = "(Bao xian tuo luo ni jing)" /zh-py
         = "±Mañibhadradhārañī" /sk
     @"http://psi.iba-net.org/expressions/hnt_1285"             
-    @"http://psi.iba-net.org/texts/hkw_1238" ]
+    @"http://psi.iba-net.org/texts/hkw_1238b" ]
 {eT21n1285, extent, [[I]]}
 {eT21n1285, startpage, [[T21, p.353]]}
 aut(eT21n1285 : text, aut-7 : resp)
@@ -14037,7 +14037,7 @@ aut(eT21n1315 : text, aut-61 : resp)
         = "(Gan lu jing tuo luo ni zhou)" /zh-py
         = "±Parimitaguñānuśaṃsādhārañī" /sk
     @"http://psi.iba-net.org/expressions/hnt_1316"             
-    @"http://psi.iba-net.org/texts/hkw_0474" ]
+    @"http://psi.iba-net.org/texts/hkw_0474b" ]
 {eT21n1316, extent, [[I]]}
 {eT21n1316, startpage, [[T21, p.468]]}
 aut(eT21n1316 : text, aut-73 : resp)
@@ -14133,7 +14133,7 @@ aut(eT21n1325 : text, aut-22 : resp)
         = "(Zhou mu jing)" /zh-py
         = "±Cakṣurviśodhanavidyā" /sk
     @"http://psi.iba-net.org/expressions/hnt_1328"             
-    @"http://psi.iba-net.org/texts/hkw_0438" ]
+    @"http://psi.iba-net.org/texts/hkw_0438g" ]
 {eT21n1328, extent, [[I]]}
 {eT21n1328, startpage, [[T21, p.491]]}
 [eT21n1329 : exp = "呪小兒經" / zh hobogirin
@@ -14616,7 +14616,7 @@ aut(eT21n1380 : text, aut-7 : resp)
         = "DAIKICHIJŌ DARANI KYŌ" /ja-rom
         = "(Da ji xiang tuo luo ni jing)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_1381"             
-    @"http://psi.iba-net.org/texts/hkw_1238" ]
+    @"http://psi.iba-net.org/texts/hkw_1238a" ]
 {eT21n1381, extent, [[I]]}
 {eT21n1381, startpage, [[T21, p.903]]}
 aut(eT21n1381 : text, aut-7 : resp)
@@ -15958,7 +15958,7 @@ aut(eT26n1535 : text, aut-229 : resp)
         = "(A pi da mo ji yi men zu lun)" /zh-py
         = "[Abhidharma]saṃgītiparyāya[pādaśāstra]" /sk
     @"http://psi.iba-net.org/expressions/hnt_1536"             
-    @"http://psi.iba-net.org/texts/hkw_0964" ]
+    @"http://psi.iba-net.org/texts/hkw_0946" ]
 {eT26n1536, extent, [[XX]]}
 {eT26n1536, startpage, [[T26, p.367]]}
 aut(eT26n1536 : text, aut-230 : resp)
@@ -20125,7 +20125,7 @@ aut(eT50n2043 : text, aut-87 : resp)
         = "TENSON SETSU AIKUŌ HIYU KYŌ" /ja-rom
         = "(Tian zun shuo a yu wang pi yu jing)" /zh-py
     @"http://psi.iba-net.org/expressions/hnt_2044"             
-    @"http://psi.iba-net.org/texts/hkw_1051" ]
+    @"http://psi.iba-net.org/texts/hkw_1015" ]
 {eT50n2044, extent, [[I]]}
 {eT50n2044, startpage, [[T50, p.170]]}
 aut(eT50n2044 : text, aut-5 : resp)
