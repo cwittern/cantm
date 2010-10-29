@@ -7428,7 +7428,8 @@ aut(eT14n0549 : text, aut-8 : resp)
 [eT14n0554 : exp = "U女耆婆經" / zh hobogirin
         = "NAINYO GIBA KYŌ" /ja-rom
         = "(Nai nü qi po jing)" /zh-py
-    @"http://psi.iba-net.org/expressions/hnt_0554"]
+    @"http://psi.iba-net.org/expressions/hnt_0554"             
+    @"http://psi.iba-net.org/texts/hkw_0553" ]
 {eT14n0554, extent, [[I]]}
 {eT14n0554, startpage, [[T14, p.902]]}
 [eT14n0555 : exp = "五母子經" / zh hobogirin
