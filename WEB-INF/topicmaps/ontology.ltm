@@ -107,8 +107,9 @@
 [creation-date = "Creation Date"
 	       @"http://psi.iba-net.org/def/creation-date"]
 [nanjio : catalog = "Nanjio's Catalog"
-@"http://psi.iba-net.org/def/nanjio"
-]
+@"http://psi.iba-net.org/def/nanjio"]
+[catalog : work = "A Catalog" 
+	 @"http://psi.iba-net.org/def/catalog"]
 /* association topic types */
 [part-of = "Part of" /part
 	 = "has part" /whole
@@ -176,18 +177,29 @@
     @"http://www.topicmaps.org/xtm/1.0/core.xtm#superclass-subclass"]
 
 /* additional topics */
-[def:taisho : canon = "大正新修大藏經" /zh]
-[def:zokuzokyo : canon = "新纂大日本續蔵經" /zh 
-	   = "大日本續蔵經" / z]
-[def:jiaxingzang : canon = "嘉興大藏經" /zh]
-[def:koraizo : canon = "高麗大藏經" /zh]
-[def:koreanbudbooks : canon = "韓國佛教全書" /zh]
-[def:other : canon = "Other collection"]
-[def:toc = "Table of Contents"]
-[def:z = "Zokuzokyo"]
-[def:desc = "Description"]
-[def:startpage = "Startpage"]
-[def:xptr = "Related texts"]
+[taisho : canon = "大正新修大藏經" /zh 
+	@"http://psi.iba-net.org/def/taisho"]
+[zokuzokyo : canon = "新纂大日本續蔵經" /zh 
+	   = "大日本續蔵經" / z
+	   @"http://psi.iba-net.org/def/zokuzokyo"]
+[jiaxingzang : canon = "嘉興大藏經" /zh
+		 @"http://psi.iba-net.org/def/jiaxingzang"]
+[koraizo : canon = "高麗大藏經" /zh
+	     @"http://psi.iba-net.org/def/koraizo"]
+[koreanbudbooks : canon = "韓國佛教全書" /zh
+		    @"http://psi.iba-net.org/def/koreanbudbooks"]
+[other : canon = "Other collection"
+	   @"http://psi.iba-net.org/def/other"]
+[toc = "Table of Contents" 
+     @"http://psi.iba-net.org/def/toc"]
+[z = "Zokuzokyo"
+       @"http://psi.iba-net.org/def/zokuzokyo"]
+[desc = "Description"
+      @"http://psi.iba-net.org/def/desc"]
+[startpage = "Startpage"
+	@"http://psi.iba-net.org/def/startpage"       ]
+[xptr = "Related texts"
+      @"http://psi.iba-net.org/def/related-texts"]
 /* sources and resp */
 
 
