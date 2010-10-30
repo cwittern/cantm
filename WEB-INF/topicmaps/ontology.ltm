@@ -1,7 +1,9 @@
 @"utf-8"
-[short-name = "Short Name"]
-[zh-people = "Chinese"
-	   = "中國人" / zh]
+#PREFIX i @"http://psi.iba-net.org/def/"
+#PREFIX frbr @"http://purl.org/vocab/frbr/core#"
+
+[i:short-name = "Short Name"]
+
 [zh : language = "Chinese"
           = "中文" /zh
 	  = "zh" / iso639-1
@@ -10,12 +12,17 @@
     @"http://www.topicmaps.org/xtm/1.0/language.xtm#zh"]
 
 [zh-Latn-x-pinyin = "Hanyu pinyin"
-	=  "漢語拼音" /zh]
-[zh-py = "Hanyu Pinyin"]
-[zh-Hant = "Chinese"
-          = "中文" /zh]
+	=  "漢語拼音" /zh
+	@"http://dbpedia.org/page/Pinyin"]
+[zh-py = "Hanyu Pinyin"
+	@"http://dbpedia.org/page/Pinyin"]
 
-[date = "Date"]
+[zh-Hant = "Chinese"
+          = "中文" /zh
+    @"http://www.topicmaps.org/xtm/1.0/language.xtm#zh"]
+
+[date = "Date"
+    @"http://psi.iba-net.org/def/date"]
 
 [topic-name = "Topic Name" @"http://psi.topicmaps.org/iso13250/model/topic-name"]
 
@@ -36,36 +43,43 @@
 [codetype = "Code type"]
 
 [work = "Work"
-      = "作品" /zh]
+      = "作品" /zh
+      @"http://purl.org/vocab/frbr/core#Work"]
 [exp  = "Expression"
-      = "內容表達" /zh]
+      = "內容表達" /zh
+       @"http://purl.org/vocab/frbr/core#Expression"]
+
 [man  = "Manifestation"
-      = "載體表現" /zh ]
+      = "載體表現" /zh 
+       @"http://purl.org/vocab/frbr/core#Manifestation"]
+
 [item = "Item"
-      = "單件" /zh]
-[person = "Person"
+      = "單件" /zh
+       @"http://purl.org/vocab/frbr/core#Item"]
+
+[def:person = "Person"
 	= "人物" /zh]
-[translated-by = "Translated by"
+[def:translated-by = "Translated by"
 	       = "譯" /zh]
 
-[is-embodied-in = "is embodied in" 
+[def:is-embodied-in = "is embodied in" 
 		= "embodies" / man
 		= "被載體表現於" /zh 
 		= "呈現" / zh man]
-[location = "Location"
+[def:location = "Location"
 	  = "出處" /zh]
-[extent = "Extent"
+[def:extent = "Extent"
 	= "數量" /zh]
 
-[id = "Identification Number"]
-[canwww = "WWW Database of Chinese Buddhist Texts"
+[def:id = "Identification Number"]
+[def:canwww = "WWW Database of Chinese Buddhist Texts"
 	= "canwww" / short-name]
-[ja-Hira = "Japanese Hiragana"]
-[ja-rom = "Japanese Hiragana"]
-[sa : language = "Sanskrit"]
-[sk : language = "Sanskrit"]
-[pi : language = "Pali"]
-[alt : name = "Alternate name"]
+[def:ja-Hira = "Japanese Hiragana"]
+[def:ja-rom = "Japanese Hiragana"]
+[def:sa : language = "Sanskrit"]
+[def:sk : language = "Sanskrit"]
+[def:pi : language = "Pali"]
+[def:alt : name = "Alternate name"]
 [main : name = "Name"]
 [creation-event = "created"]
 [canon = "Canonical collection"]
