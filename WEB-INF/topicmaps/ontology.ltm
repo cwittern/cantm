@@ -1,8 +1,9 @@
 @"utf-8"
-#PREFIX i @"http://psi.iba-net.org/def/"
+#PREFIX def @"http://psi.iba-net.org/def/"
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
 
-[i:short-name = "Short Name"]
+[short-name = "Short Name"
+	    @"http://psi.iba-net.org/def/short-name"]
 
 [zh : language = "Chinese"
           = "中文" /zh
@@ -57,67 +58,99 @@
       = "單件" /zh
        @"http://purl.org/vocab/frbr/core#Item"]
 
-[def:person = "Person"
-	= "人物" /zh]
-[def:translated-by = "Translated by"
-	       = "譯" /zh]
+[person = "Person"
+	= "人物" /zh
+	@"http://psi.iba-net.org/def/person"]
+[translated-by = "Translated by"
+	       = "譯" /zh
+	       @"http://psi.iba-net.org/def/translated-by"]
 
-[def:is-embodied-in = "is embodied in" 
+[is-embodied-in = "is embodied in" 
 		= "embodies" / man
 		= "被載體表現於" /zh 
-		= "呈現" / zh man]
-[def:location = "Location"
-	  = "出處" /zh]
-[def:extent = "Extent"
-	= "數量" /zh]
+		= "呈現" / zh man
+		@"http://psi.iba-net.org/def/is-embodied-in"]
+[location = "Location"
+	  = "出處" /zh
+	  @"http://psi.iba-net.org/def/location"]
+[extent = "Extent"
+	= "數量" /zh
+	@"http://psi.iba-net.org/def/extent"]
 
-[def:id = "Identification Number"]
-[def:canwww = "WWW Database of Chinese Buddhist Texts"
-	= "canwww" / short-name]
-[def:ja-Hira = "Japanese Hiragana"]
-[def:ja-rom = "Japanese Hiragana"]
-[def:sa : language = "Sanskrit"]
-[def:sk : language = "Sanskrit"]
-[def:pi : language = "Pali"]
-[def:alt : name = "Alternate name"]
-[main : name = "Name"]
-[creation-event = "created"]
-[canon = "Canonical collection"]
-[creation-date = "Creation Date"]
-[nanjio  = "Nanjio's Catalog"]
+[id = "Identification Number"
+    @"http://psi.iba-net.org/def/id"]
+[canwww = "WWW Database of Chinese Buddhist Texts"
+	= "canwww" / short-name
+	@"http://psi.iba-net.org/def/canwww"]
+
+[ja-Hira = "Japanese Hiragana"
+	 @"http://psi.iba-net.org/def/hiragana"]
+[ja-rom = "Japanese Hiragana"
+	 @"http://psi.iba-net.org/def/romaji"]
+
+[sa : language = "Sanskrit"
+    @"http://www.topicmaps.org/xtm/1.0/language.xtm#sa"]
+
+[sk : language = "Sanskrit"
+    @"http://www.topicmaps.org/xtm/1.0/language.xtm#zh"]
+
+[pi : language = "Pali"
+    	 @"http://psi.iba-net.org/def/pi"]
+[alt : name = "Alternate name"
+        @"http://psi.iba-net.org/def/alt"]
+[main : name = "Name"
+      @"http://psi.iba-net.org/def/main"]
+[creation-event = "created"
+      @"http://psi.iba-net.org/def/creation-event"]
+[canon = "Canonical collection"
+       @"http://psi.iba-net.org/def/canon"]
+[creation-date = "Creation Date"
+	       @"http://psi.iba-net.org/def/creation-date"]
+[nanjio : catalog = "Nanjio's Catalog"
+@"http://psi.iba-net.org/def/nanjio"
+]
 /* association topic types */
 [part-of = "Part of" /part
-	 = "has part" /whole]
-[related-sutra = "Related Sutra"]
-[based-on-source = "based on"]
-[resp = "Resp"]
-[oldrel = "old reference"]
+	 = "has part" /whole
+	 @"http://www.techquila.com/psi/thesaurus/#part-whole"]
+[related-sutra = "Related Sutra"
+	       @"http://psi.iba-net.org/def/related-sutra"]
+[based-on-source = "based on"
+		 @"http://psi.iba-net.org/def/based-on-source"]
+[resp = "Resp"
+      @"http://psi.iba-net.org/def/resp"]
+[oldrel = "old reference"
+	@"http://psi.iba-net.org/def/oldrel"]
 {oldrel, desc, [[this is based on old information about related text prior to the reworking of the structure at some point in June 2007.]]}
-[typerel = "new reference"]
+[typerel = "new reference"
+	 @"http://psi.iba-net.org/def/typerel"]
 {typerel, desc, [[related texts as of after June 2007.]]}
-[volume = "Volume"]
-[dynasty = "Dynasty"]
-[division = "Canonical Division"]
-[name = "Name"]
-[commentary = "Commentary"]
-[related-work = "Related Work"]
-[is-contained-in = "is contained in"]
-[has-genre = "Genre"]
+[volume = "Volume" @"http://psi.iba-net.org/def/volume"]
+[dynasty = "Dynasty" @"http://psi.iba-net.org/def/dynasty"]
+[division = "Canonical Division" @"http://psi.iba-net.org/def/division"]
+[name = "Name" @"http://psi.iba-net.org/def/name"]
+[commentary = "Commentary" @"http://psi.iba-net.org/def/commentary"]
+[related-work = "Related Work" @"http://psi.iba-net.org/def/related-work"]
+[is-contained-in = "is contained in" @"http://psi.iba-net.org/def/is-contained-in"]
+[has-genre = "Genre" @"http://psi.iba-net.org/def/has-genre"]
 [sequence = "next" /next
-	  = "prev" /prev]
+	  = "prev" /prev
+	  @"http://psi.iba-net.org/def/sequence"]
 
-[aut = "authored-by"]
+[aut = "authored-by"	@"http://psi.iba-net.org/def/aut"]
 
 /* association role types */
-[part = "Part"]
-[whole = "Whole"]
-[target = "Target"]
-[source = "Source"]
-[next = "Next"]
-[prev = "Prev"]
+[part = "Part"
+      @"http://www.techquila.com/psi/thesaurus/#part"]
+[whole = "Whole"
+       @"http://www.techquila.com/psi/thesaurus/#whole"]
+[target = "Target" @"http://psi.iba-net.org/def/target"]
+[source = "Source" @"http://psi.iba-net.org/def/source"]
+[next = "Next" @"http://psi.iba-net.org/def/next"]
+[prev = "Prev" @"http://psi.iba-net.org/def/prev"]
 
 /* ----------------- Role Types ---------------- */
-[text = "Text"]
+[text = "Text" @"http://psi.iba-net.org/def/text"]
 
 [subordinate-role-type = "Subordinate role type"
     @"http://www.techquila.com/psi/hierarchy/#subordinate-role-type"]
@@ -143,18 +176,18 @@
     @"http://www.topicmaps.org/xtm/1.0/core.xtm#superclass-subclass"]
 
 /* additional topics */
-[taisho : canon = "大正新修大藏經" /zh]
-[zokuzokyo : canon = "新纂大日本續蔵經" /zh 
+[def:taisho : canon = "大正新修大藏經" /zh]
+[def:zokuzokyo : canon = "新纂大日本續蔵經" /zh 
 	   = "大日本續蔵經" / z]
-[jiaxingzang : canon = "嘉興大藏經" /zh]
-[koraizo : canon = "高麗大藏經" /zh]
-[koreanbudbooks : canon = "韓國佛教全書" /zh]
-[other : canon = "Other collection"]
-[toc = "Table of Contents"]
-[z = "Zokuzokyo"]
-[desc = "Description"]
-[startpage = "Startpage"]
-[xptr = "Related texts"]
+[def:jiaxingzang : canon = "嘉興大藏經" /zh]
+[def:koraizo : canon = "高麗大藏經" /zh]
+[def:koreanbudbooks : canon = "韓國佛教全書" /zh]
+[def:other : canon = "Other collection"]
+[def:toc = "Table of Contents"]
+[def:z = "Zokuzokyo"]
+[def:desc = "Description"]
+[def:startpage = "Startpage"]
+[def:xptr = "Related texts"]
 /* sources and resp */
 
 
