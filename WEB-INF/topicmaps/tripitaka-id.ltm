@@ -3,9 +3,12 @@
 [HNT = "大正新修大藏經" @"http://psi.iba-net.org/canons/hnt"]
 {HNT, id, [[HNT]]}
 {HNT, seq, [[1]]}
+[HKD = "高麗藏 東國大學校影印本" @"http://psi.iba-net.org/canons/hkw"]
+{HKD, id, [[HKW]]}
+{HKD, seq, [[2]]}
 [HKW = "高麗藏 新文豐影印本" @"http://psi.iba-net.org/canons/hkw"]
 {HKW, id, [[HKW]]}
-{HKW, seq, [[2]]}
+{HKW, seq, [[999]]}
 [HNX = "大日本續藏經 (卍續藏新版)" @"http://psi.iba-net.org/canons/hnx"]
 {HNX, id, [[HNX]]}
 {HNX, seq, [[3]]}
