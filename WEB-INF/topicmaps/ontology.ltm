@@ -102,7 +102,10 @@
 	    @"http://psi.iba-net.org/def/short-name"]
 [norm = "Normalized Name"
 	    @"http://psi.iba-net.org/def/norm"]
-
+{norm, desc, [[This is the name after applying normalization.]]}
+[orig = "Original Name"
+	    @"http://psi.iba-net.org/def/norm"]
+{orig, desc, [[This is the name as it occurred in the source before applying any normalization.]]}
 [creation-event = "created"
       @"http://psi.iba-net.org/def/creation-event"]
 [canon = "Canonical collection"
