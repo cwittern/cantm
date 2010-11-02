@@ -3,7 +3,7 @@
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
 
 [hcl = "HCL Context"]
-
+[hobogirin = "Hobogirin"]
 [zh : language = "Chinese"
           = "中文" /zh
 	  = "zh" / iso639-1
@@ -25,7 +25,7 @@
     @"http://psi.iba-net.org/def/date"]
 
 [topic-name = "Topic Name" @"http://psi.topicmaps.org/iso13250/model/topic-name"]
-
+[instance = "Instance" @"http://psi.topicmaps.org/iso13250/model/instance"]
 [language = "Language"
 	  = "語言" / zh
     @"http://psi.ontopedia.net/Language"]
