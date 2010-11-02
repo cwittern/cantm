@@ -2,6 +2,7 @@
 #PREFIX def @"http://psi.iba-net.org/def/"
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
 
+[hcl = "HCL Context"]
 
 [zh : language = "Chinese"
           = "中文" /zh
