@@ -26,6 +26,9 @@
 
 [topic-name = "Topic Name" @"http://psi.topicmaps.org/iso13250/model/topic-name"]
 [instance = "Instance" @"http://psi.topicmaps.org/iso13250/model/instance"]
+[type-instance = "Type Instance"  @"http://psi.topicmaps.org/iso13250/model/type-instance"]
+[type = "Type" @"http://psi.topicmaps.org/iso13250/model/type"]
+
 [language = "Language"
 	  = "語言" / zh
     @"http://psi.ontopedia.net/Language"]
