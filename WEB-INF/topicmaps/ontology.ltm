@@ -2,8 +2,6 @@
 #PREFIX def @"http://psi.iba-net.org/def/"
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
 
-[short-name = "Short Name"
-	    @"http://psi.iba-net.org/def/short-name"]
 
 [zh : language = "Chinese"
           = "中文" /zh
@@ -92,7 +90,7 @@
     @"http://www.topicmaps.org/xtm/1.0/language.xtm#sa"]
 
 [sk : language = "Sanskrit"
-    @"http://www.topicmaps.org/xtm/1.0/language.xtm#zh"]
+    @"http://www.topicmaps.org/xtm/1.0/language.xtm#sa"]
 
 [pi : language = "Pali"
     	 @"http://psi.iba-net.org/def/pi"]
@@ -100,6 +98,11 @@
         @"http://psi.iba-net.org/def/alt"]
 [main : name = "Name"
       @"http://psi.iba-net.org/def/main"]
+[short-name = "Short Name"
+	    @"http://psi.iba-net.org/def/short-name"]
+[norm = "Normalized Name"
+	    @"http://psi.iba-net.org/def/norm"]
+
 [creation-event = "created"
       @"http://psi.iba-net.org/def/creation-event"]
 [canon = "Canonical collection"
