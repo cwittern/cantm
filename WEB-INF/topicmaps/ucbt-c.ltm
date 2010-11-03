@@ -21415,7 +21415,7 @@ aut(eT57n2208B : text, aut-446 : resp)
 [eT57n2208C : exp = "觀經義拙疑巧答研覈鈔" / zh 
         = "KANGYŌ GI SETSUGI GYŌTŌ KENKAKU SHŌ" /ja-rom
         = "(Guan jing yi zhuo yi qiao da yan he chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2208C" ]
+    @"http://psi.iba-net.org/exp/hnt_2208c" ]
 {eT57n2208C, extent, [[I]]}
 {eT57n2208C, startpage, [[T57, p.483]]}
 [eT57n2209 : exp = "觀經疏傳通記" / zh 
@@ -21694,7 +21694,7 @@ aut(eT61n2236A : text, aut-421 : resp)
 [eT61n2236C : exp = "理趣經開題" / zh 
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2236C" ]
+    @"http://psi.iba-net.org/exp/hnt_2236c" ]
 {eT61n2236C, extent, [[]]}
 {eT61n2236C, startpage, [[T61, p.612]]}
 [eT61n2237 : exp = "眞實經文句" / zh 

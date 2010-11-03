@@ -3857,14 +3857,14 @@ aut(eT02n0147 : text, aut-5 : resp)
 [eT02n0150A : exp = "七處三觀經" / zh hobogirin
         = "SHICHISHO SANKAN GYŌ" /ja-rom
         = "(Qi chu san guan jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0150A"             
+    @"http://psi.iba-net.org/exp/hnt_0150a"             
     @"http://psi.iba-net.org/man/hkd_0738" ]
 {eT02n0150A, extent, [[I]]}
 {eT02n0150A, startpage, [[T02, p.875]]}
 [eT02n0150B : exp = "九横經" / zh hobogirin
         = "KU Ō KYŌ" /ja-rom
         = "(Jiu heng jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0150B"             
+    @"http://psi.iba-net.org/exp/hnt_0150b"             
     @"http://psi.iba-net.org/man/hkd_0882" ]
 {eT02n0150B, extent, [[I]]}
 {eT02n0150B, startpage, [[T02, p.883]]}
@@ -10077,13 +10077,13 @@ aut(eT18n0863 : text, aut-130 : resp)
 [eT18n0864A : exp = "大日如來劍印" / zh hobogirin
         = "DAINICHINYORAI KEṄIN" /ja-rom
         = "(Da ri ru lai jian yin)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0864A" ]
+    @"http://psi.iba-net.org/exp/hnt_0864a" ]
 {eT18n0864A, extent, [[I]]}
 {eT18n0864A, startpage, [[T18, p.195]]}
 [eT18n0864B : exp = "胎藏金剛教法名號" / zh hobogirin
         = "TAIZŌ KONGŌ KYŌBŌ MYŌGŌ" /ja-rom
         = "(Tai zang jin gang jiao fa ming hao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0864B" ]
+    @"http://psi.iba-net.org/exp/hnt_0864b" ]
 {eT18n0864B, extent, [[I]]}
 {eT18n0864B, startpage, [[T18, p.203]]}
 aut(eT18n0864B : text, aut-131 : resp)
@@ -10568,21 +10568,21 @@ aut(eT19n0923 : text, aut-132 : resp)
 [eT19n0924A : exp = "藥師如來念誦儀軌" / zh hobogirin
         = "YAKUSHINYORAI NENJU GIKI" /ja-rom
         = "(Yao shi ru lai nian song yi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0924A" ]
+    @"http://psi.iba-net.org/exp/hnt_0924a" ]
 {eT19n0924A, extent, [[I]]}
 {eT19n0924A, startpage, [[T19, p.29]]}
 aut(eT19n0924A : text, aut-61 : resp)
 [eT19n0924B : exp = "藥師如來念誦儀軌" / zh hobogirin
         = "YAKUSHINYORAI NENJU GIKI" /ja-rom
         = "(Yao shi ru lai nian song yi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0924B" ]
+    @"http://psi.iba-net.org/exp/hnt_0924b" ]
 {eT19n0924B, extent, [[I]]}
 {eT19n0924B, startpage, [[T19, p.30]]}
 aut(eT19n0924B : text, aut-61 : resp)
 [eT19n0924C : exp = "藥師儀軌一具" / zh hobogirin
         = "YAKUSHI GIKI ICHIGU" /ja-rom
         = "(Yao shi yi gui yi ju)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0924C" ]
+    @"http://psi.iba-net.org/exp/hnt_0924c" ]
 {eT19n0924C, extent, [[I]]}
 {eT19n0924C, startpage, [[T19, p.30]]}
 [eT19n0925 : exp = "藥師琉璃光王七佛本願功徳經念誦儀軌" / zh hobogirin
@@ -10736,7 +10736,7 @@ aut(eT19n0943 : text, aut-8 : resp)
         = "DAIBUCCHŌNYORAI HŌKŌ SHITTATAHATTARA DARANI" /ja-rom
         = "(Da fo ding ru lai fang guang xi da duo bo dan luo tuo luo ni)" /zh-py
         = "*[Sarva]tathāgatoṣñīṣasitātapatrādhārañī" /sk
-    @"http://psi.iba-net.org/exp/hnt_0944A" ]
+    @"http://psi.iba-net.org/exp/hnt_0944a" ]
 {eT19n0944A, extent, [[I]]}
 {eT19n0944A, startpage, [[T19, p.100]]}
 aut(eT19n0944A : text, aut-61 : resp)
@@ -10744,7 +10744,7 @@ aut(eT19n0944A : text, aut-61 : resp)
 [eT19n0944B : exp = "大佛頂大陀羅尼" / zh hobogirin
         = "DAIBUCCHŌ DAIDARANI" /ja-rom
         = "(Da fo ding da tuo luo ni)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0944B" ]
+    @"http://psi.iba-net.org/exp/hnt_0944b" ]
 {eT19n0944B, extent, [[I]]}
 {eT19n0944B, startpage, [[T19, p.102]]}
 {eT19n0944B, xptr, [[Cf. 2235]]}
@@ -10828,7 +10828,7 @@ aut(eT19n0953 : text, aut-61 : resp)
 [eT19n0954A : exp = "一字頂輪王念誦儀軌" / zh hobogirin
         = "ICHIJICHŌRINNŌ NENJU GIKI" /ja-rom
         = "(Yi zi ding lun wang nian song yi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0954A"             
+    @"http://psi.iba-net.org/exp/hnt_0954a"             
     @"http://psi.iba-net.org/man/hkd_1321" ]
 {eT19n0954A, extent, [[I]]}
 {eT19n0954A, startpage, [[T19, p.307]]}
@@ -10837,7 +10837,7 @@ aut(eT19n0954A : text, aut-61 : resp)
 [eT19n0954B : exp = "一字頂輪王念誦儀軌" / zh hobogirin
         = "ICHIJICHŌRINNŌ NENJU GIKI" /ja-rom
         = "(Yi zi ding lun wang nian song yi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0954B" ]
+    @"http://psi.iba-net.org/exp/hnt_0954b" ]
 {eT19n0954B, extent, [[I]]}
 {eT19n0954B, startpage, [[T19, p.310]]}
 [eT19n0955 : exp = "一字頂輪王瑜伽觀行儀軌" / zh hobogirin
@@ -11005,7 +11005,7 @@ aut(eT19n0973 : text, aut-126 : resp)
         = "SAISHŌ BUCCHŌ DARANI KYŌ" /ja-rom
         = "(Zun sheng fo ding tuo luo ni jing)" /zh-py
         = "*[Sarvadurgatipariśodhana]uṣñīṣavijayadhārañī" /sk
-    @"http://psi.iba-net.org/exp/hnt_0974A"             
+    @"http://psi.iba-net.org/exp/hnt_0974a"             
     @"http://psi.iba-net.org/man/hkd_1091" ]
 {eT19n0974A, extent, [[I]]}
 {eT19n0974A, startpage, [[T19, p.383]]}
@@ -11013,33 +11013,33 @@ aut(eT19n0974A : text, aut-3 : resp)
 [eT19n0974B : exp = "佛頂尊勝陀羅尼" / zh hobogirin
         = "BUCCHŌ SONSHŌ DARANI" /ja-rom
         = "(Fo ding zun sheng tuo luo ni)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0974B" ]
+    @"http://psi.iba-net.org/exp/hnt_0974b" ]
 {eT19n0974B, extent, [[I]]}
 {eT19n0974B, startpage, [[T19, p.384]]}
 {eT19n0974B, xptr, [[Cf. 967-971]]}
 [eT19n0974C : exp = "加句靈驗佛頂尊勝陀羅尼記" / zh hobogirin
         = "KA KU REIGEM BUCCHŌ SONSHŌ DARANI KI" /ja-rom
         = "(Jia qu ling yan fo ding zun sheng tuo luo ni ji)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0974C" ]
+    @"http://psi.iba-net.org/exp/hnt_0974c" ]
 {eT19n0974C, extent, [[I]]}
 {eT19n0974C, startpage, [[T19, p.386]]}
 [eT19n0974D : exp = "佛頂尊勝陀羅尼注義" / zh hobogirin
         = "BUCCHŌ SONSHŌ DARANI CHŪGI" /ja-rom
         = "(Fo ding zun sheng tuo luo n zhu yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0974D" ]
+    @"http://psi.iba-net.org/exp/hnt_0974d" ]
 {eT19n0974D, extent, [[I]]}
 {eT19n0974D, startpage, [[T19, p.388]]}
 aut(eT19n0974D : text, aut-61 : resp)
 [eT19n0974E : exp = "佛頂尊勝陀羅尼眞言" / zh hobogirin
         = "BUCCHŌ SONSHŌ DARANI SHINGON" /ja-rom
         = "(Fo ding zun sheng tuo luo ni zhen yan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0974E" ]
+    @"http://psi.iba-net.org/exp/hnt_0974e" ]
 {eT19n0974E, extent, [[I]]}
 {eT19n0974E, startpage, [[T19, p.389]]}
 [eT19n0974F : exp = "佛頂尊勝陀羅尼別法" / zh hobogirin
         = "BUCCHŌ SONSHŌ DARANI BEPPŌ" /ja-rom
         = "(Fo ding zun sheng tuo luo ni bie fa)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0974F" ]
+    @"http://psi.iba-net.org/exp/hnt_0974f" ]
 {eT19n0974F, extent, [[I]]}
 {eT19n0974F, startpage, [[T19, p.396]]}
 aut(eT19n0974F : text, aut-146 : resp)
@@ -11114,7 +11114,7 @@ aut(eT19n0982 : text, aut-61 : resp)
         = "DAIKUJAKUMYŌŌ GAZŌ DANJŌ GIKI" /ja-rom
         = "(Da kong qiao ming wang hua xiang tan cheng yi gui)" /zh-py
         = "*Mahāmāyūrī[vidyārājñī]" /sk
-    @"http://psi.iba-net.org/exp/hnt_0983A"             
+    @"http://psi.iba-net.org/exp/hnt_0983a"             
     @"http://psi.iba-net.org/man/hkd_1375" ]
 {eT19n0983A, extent, [[I]]}
 {eT19n0983A, startpage, [[T19, p.439]]}
@@ -11124,7 +11124,7 @@ aut(eT19n0983A : text, aut-61 : resp)
         = "KUJAKUKYŌ SHINGONTŌ BOMPON" /ja-rom
         = "(Kong qiao jing zhen yan deng fan ben)" /zh-py
         = "*Mahāmāyūrī[vidyārājñī]" /sk
-    @"http://psi.iba-net.org/exp/hnt_0983B" ]
+    @"http://psi.iba-net.org/exp/hnt_0983b" ]
 {eT19n0983B, extent, [[I]]}
 {eT19n0983B, startpage, [[T19, p.441]]}
 [eT19n0984 : exp = "孔雀王呪經" / zh hobogirin
@@ -11323,7 +11323,7 @@ aut(eT19n1004 : text, aut-61 : resp)
         = "DAIHŌKŌBAKURŌKAKU ZENJŪ HIMITSUDARANI KYŌ" /ja-rom
         = "(Da bao guan bao lou ge shan zhu bi mi tuo luo ni jing)" /zh-py
         = "±Mahāmañivipulavimānaviśvasupratiṣṭhitaguhyaparamarahasyakalparājadhārañī" /sk
-    @"http://psi.iba-net.org/exp/hnt_1005A"             
+    @"http://psi.iba-net.org/exp/hnt_1005a"             
     @"http://psi.iba-net.org/man/hkd_1298" ]
 {eT19n1005A, extent, [[III]]}
 {eT19n1005A, startpage, [[T19, p.619]]}
@@ -11332,7 +11332,7 @@ aut(eT19n1005A : text, aut-61 : resp)
 [eT19n1005B : exp = "寶樓閣經梵字眞言" / zh hobogirin
         = "HŌRŌKAKKYŌ BONJI SHINGON" /ja-rom
         = "(Bao lou ge jing fan zi zhen yan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1005B" ]
+    @"http://psi.iba-net.org/exp/hnt_1005b" ]
 {eT19n1005B, extent, [[I]]}
 {eT19n1005B, startpage, [[T19, p.634]]}
 aut(eT19n1005B : text, aut-5 : resp)
@@ -11487,7 +11487,7 @@ aut(eT19n1021 : text, aut-73 : resp)
         = "ISSAINYORAI SHIN HIMITSU ZENSHIN SHARI HŌKYŌIN DARANI KYŌ" /ja-rom
         = "(Yi qie ru lai xin bi mi quan shen she li bao qie yin tuo luo ni jing)" /zh-py
         = "±Sarvatathāgatādhiṣṭhānahṛdayaguhyadhātukarañḍamudrādhārañī" /sk
-    @"http://psi.iba-net.org/exp/hnt_1022A"             
+    @"http://psi.iba-net.org/exp/hnt_1022a"             
     @"http://psi.iba-net.org/man/hkd_1287" ]
 {eT19n1022A, extent, [[I]]}
 {eT19n1022A, startpage, [[T19, p.710]]}
@@ -11497,7 +11497,7 @@ aut(eT19n1022A : text, aut-61 : resp)
         = "ISSAINYORAI SHIN HIMITSU ZENSHIN SHARI HŌKYŌIN
 DARANI KYŌ" /ja-rom
         = "(Yi qie ru lai xin bi mi quan shen she li bao qie yin tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1022B" ]
+    @"http://psi.iba-net.org/exp/hnt_1022b" ]
 {eT19n1022B, extent, [[I]]}
 {eT19n1022B, startpage, [[T19, p.712]]}
 aut(eT19n1022B : text, aut-151 : resp)
@@ -11538,7 +11538,7 @@ aut(eT19n1026 : text, aut-63 : resp)
 [eT19n1027A : exp = "金剛光焔止風雨陀羅尼經" / zh hobogirin
         = "KONGŌKŌEN SHIFŪU DARANI KYŌ" /ja-rom
         = "(Jin gang guang yan zhi feng yu tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1027A"             
+    @"http://psi.iba-net.org/exp/hnt_1027a"             
     @"http://psi.iba-net.org/man/hkd_0436" ]
 {eT19n1027A, extent, [[I]]}
 {eT19n1027A, startpage, [[T19, p.728]]}
@@ -11546,14 +11546,14 @@ aut(eT19n1027A : text, aut-55 : resp)
 [eT19n1027B : exp = "金剛光焔止風雨陀羅尼經" / zh hobogirin
         = "KONGŌKŌEN SHIFŪU DARANI KYŌ" /ja-rom
         = "(Jin gang guang yan zhi feng yu tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1027B" ]
+    @"http://psi.iba-net.org/exp/hnt_1027b" ]
 {eT19n1027B, extent, [[I]]}
 {eT19n1027B, startpage, [[T19, p.735]]}
 aut(eT19n1027B : text, aut-55 : resp)
 [eT19n1028A : exp = "護諸童子陀羅尼經" / zh hobogirin
         = "GOSHODŌJI DARANI KYŌ" /ja-rom
         = "(Hu zhu tong zi tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1028A"             
+    @"http://psi.iba-net.org/exp/hnt_1028a"             
     @"http://psi.iba-net.org/man/hkd_0440" ]
 {eT19n1028A, extent, [[I]]}
 {eT19n1028A, startpage, [[T19, p.741]]}
@@ -11561,7 +11561,7 @@ aut(eT19n1028A : text, aut-55 : resp)
 [eT19n1028B : exp = "童子經念誦法" / zh hobogirin
         = "DŌJIKYŌ NENJU HŌ" /ja-rom
         = "(Tong zi jing nian song fa)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1028B" ]
+    @"http://psi.iba-net.org/exp/hnt_1028b" ]
 {eT19n1028B, extent, [[I]]}
 {eT19n1028B, startpage, [[T19, p.742]]}
 aut(eT19n1028B : text, aut-126 : resp)
@@ -11708,7 +11708,7 @@ aut(eT20n1043 : text, aut-154 : resp)
         = "ROKUJI SHIN JUŌ KYŌ" /ja-rom
         = "(Liu zi shen zhou wang jing)" /zh-py
         = "Ṣaḍakṣaravidyāmantra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1045A"             
+    @"http://psi.iba-net.org/exp/hnt_1045a"             
     @"http://psi.iba-net.org/man/hkd_0345" ]
 {eT20n1045A, extent, [[I]]}
 {eT20n1045A, startpage, [[T20, p.39]]}
@@ -11717,7 +11717,7 @@ aut(eT20n1043 : text, aut-154 : resp)
         = "ROKUJI SHIN JUŌ KYŌ" /ja-rom
         = "(Liu zi shen zhou wang jing)" /zh-py
         = "Ṣaḍakṣaravidyāmantra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1045B" ]
+    @"http://psi.iba-net.org/exp/hnt_1045b" ]
 {eT20n1045B, extent, [[I]]}
 {eT20n1045B, startpage, [[T20, p.41]]}
 [eT20n1046 : exp = "六字大陀羅尼呪經" / zh hobogirin
@@ -11818,7 +11818,7 @@ aut(eT20n1056 : text, aut-61 : resp)
         = "SENGENSEMBIKANZEOMBOSATSU DARANI SHINJU KYŌ" /ja-rom
         = "(Qian yan qian bi guan shi yin pu sa tuo luo ni shen zhou jing)" /zh-py
         = "Nīlakañṭha[ka]?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1057A"             
+    @"http://psi.iba-net.org/exp/hnt_1057a"             
     @"http://psi.iba-net.org/man/hkd_0292" ]
 {eT20n1057A, extent, [[II]]}
 {eT20n1057A, startpage, [[T20, p.83]]}
@@ -11827,7 +11827,7 @@ aut(eT20n1056 : text, aut-61 : resp)
         = "SENGENSEMBIKANZEOMBOSATSU DARANI SHINJU KYŌ" /ja-rom
         = "(Qian yan qian bi guan shi yin pu sa tuo luo ni shen zhou jing)" /zh-py
         = "Nīlakañṭha[ka]?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1057B" ]
+    @"http://psi.iba-net.org/exp/hnt_1057b" ]
 {eT20n1057B, extent, [[II]]}
 {eT20n1057B, startpage, [[T20, p.90]]}
 {eT20n1057B, xptr, [[Cf. 1058]]}
@@ -11871,7 +11871,7 @@ aut(eT20n1061 : text, aut-132 : resp)
 [eT20n1062A : exp = "千手千眼觀世音菩薩大身呪本" / zh hobogirin
         = "SENJUSENGENKANZEOMBOSATSU DAISHIN JU HON" /ja-rom
         = "(Qian shou qian yuan guan shi yin pu sa da shen zhou ben)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1062A"             
+    @"http://psi.iba-net.org/exp/hnt_1062a"             
     @"http://psi.iba-net.org/man/hkd_1269" ]
 {eT20n1062A, extent, [[I]]}
 {eT20n1062A, startpage, [[T20, p.113]]}
@@ -11881,7 +11881,7 @@ aut(eT20n1062A : text, aut-132 : resp)
         = "SESONSHŌJA SENGENSENJUSENZOKUSENZETSUSEMBIKANJIZAIBODAISATTATABA
 KŌDAIEMMAMMUGEDAIHISHINDARANI" /ja-rom
         = "(Shi zun sheng zhe qian yan qian shou qian zu qian she qian bi guan zi zai pu ti sa duo dan fu guang da yuan man wu ai da bei xin tuo luo ni)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1062B" ]
+    @"http://psi.iba-net.org/exp/hnt_1062b" ]
 {eT20n1062B, extent, [[I]]}
 {eT20n1062B, startpage, [[T20, p.114]]}
 aut(eT20n1062B : text, aut-5 : resp)
@@ -11962,7 +11962,7 @@ aut(eT20n1070 : text, aut-158 : resp)
         = "SHŌKAYAKIRIBADAIINUŌ RYŪJŌDAISHINKEN KUYŌ NENJU
 GIKIHŌ BON" /ja-rom
         = "(Sheng he ye he li fu da wei nu wang li cheng da shen yan gong yang nian song yi gui fa pin)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1072A" ]
+    @"http://psi.iba-net.org/exp/hnt_1072a" ]
 {eT20n1072A, extent, [[II]]}
 {eT20n1072A, startpage, [[T20, p.155]]}
 aut(eT20n1072A : text, aut-61 : resp)
@@ -11971,7 +11971,7 @@ aut(eT20n1072A : text, aut-61 : resp)
         = "BATŌKANNON SHINDARANI" /ja-rom
         = "(Ma tou guan yin xin tuo luo ni)" /zh-py
         = "*Hayagrīvavidyā" /sk
-    @"http://psi.iba-net.org/exp/hnt_1072B" ]
+    @"http://psi.iba-net.org/exp/hnt_1072b" ]
 {eT20n1072B, extent, [[I]]}
 {eT20n1072B, startpage, [[T20, p.170]]}
 aut(eT20n1072B : text, aut-5 : resp)
@@ -12238,7 +12238,7 @@ aut(eT20n1102 : text, aut-61 : resp)
 [eT20n1103A : exp = "觀自在菩薩隨心呪經" / zh hobogirin
         = "KANJIZAIBOSATSU ZUISHINJU KYŌ" /ja-rom
         = "(Guan zi zai pu sa da sui xin zhuo jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1103A"             
+    @"http://psi.iba-net.org/exp/hnt_1103a"             
     @"http://psi.iba-net.org/man/hkd_0317" ]
 {eT20n1103A, extent, [[I]]}
 {eT20n1103A, startpage, [[T20, p.457]]}
@@ -12246,7 +12246,7 @@ aut(eT20n1103A : text, aut-153 : resp)
 [eT20n1103B : exp = "觀自在菩薩怛m多k隨心陀羅尼經" / zh hobogirin
         = "KANJIZAIBOSATSU TABATARI ZUISHINDARANI KYŌ" /ja-rom
         = "(Guan zi zai pu sa dan fu duo li sui xin tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1103B" ]
+    @"http://psi.iba-net.org/exp/hnt_1103b" ]
 {eT20n1103B, extent, [[I]]}
 {eT20n1103B, startpage, [[T20, p.463]]}
 aut(eT20n1103B : text, aut-153 : resp)
@@ -12291,14 +12291,14 @@ aut(eT20n1107 : text, aut-8 : resp)
         = "SHŌKUDOBUTSUMO NIJŪISSHU RAISAN GYŌ" /ja-rom
         = "(Sheng jiu du fo mu er shi yi zhong li zan jing)" /zh-py
         = "*[Tārā]ekaviṃśatistotra" /sk
-    @"http://psi.iba-net.org/exp/hnt_1108A" ]
+    @"http://psi.iba-net.org/exp/hnt_1108a" ]
 {eT20n1108A, extent, [[I]]}
 {eT20n1108A, startpage, [[T20, p.478]]}
 [eT20n1108B : exp = "救度佛母二十一種禮讃經" / zh hobogirin
         = "KUDOBUTSUMO NIJŪISSHU RAISAN GYŌ" /ja-rom
         = "(Jiu du fo mu er shi yi zhong li zan jing)" /zh-py
         = "*[Tārā]ekaviṃśatistotra" /sk
-    @"http://psi.iba-net.org/exp/hnt_1108B" ]
+    @"http://psi.iba-net.org/exp/hnt_1108b" ]
 {eT20n1108B, extent, [[I]]}
 {eT20n1108B, startpage, [[T20, p.479]]}
 [eT20n1109 : exp = "白救度佛母讃" / zh hobogirin
@@ -12336,7 +12336,7 @@ aut(eT20n1112 : text, aut-132 : resp)
 [eT20n1113A : exp = "觀自在菩薩廣大圓滿無礙大悲心大陀羅尼" / zh hobogirin
         = "KANJIZAIBOSATSU KŌDAIEMMAMMUGEDAIHISHIN DAIDARANI" /ja-rom
         = "(Guan zi zai pu sa guang da yuan man wu ai da bei xin da tuo luo ni)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1113A" ]
+    @"http://psi.iba-net.org/exp/hnt_1113a" ]
 {eT20n1113A, extent, [[I]]}
 {eT20n1113A, startpage, [[T20, p.497]]}
 aut(eT20n1113A : text, aut-148 : resp)
@@ -12353,7 +12353,7 @@ aut(eT20n1113app : text, aut-148 : resp)
 KŌDAIEMMAMMUGEJIZAI SHŌKYŌDAIHISHIN DARANI" /ja-rom
         = "(Da ci da bei jiu ku guan shi yin zi zai pu sa guang da yuan man wu ai zi zai qing jing da bei xin tuo luo ni)" /zh-py
         = "*Nīlakañṭhadhāranī" /sk
-    @"http://psi.iba-net.org/exp/hnt_1113B" ]
+    @"http://psi.iba-net.org/exp/hnt_1113b" ]
 {eT20n1113B, extent, [[I]]}
 {eT20n1113B, startpage, [[T20, p.498]]}
 aut(eT20n1113B : text, aut-61 : resp)
@@ -12410,7 +12410,7 @@ aut(eT20n1119 : text, aut-61 : resp)
         = "KONGŌCHŌ SHŌSHOYUGAKYŌ CHŪ RYAKUSHUTSU
 DAIRAKUKONGŌSATTA NENJU GIKI" /ja-rom
         = "(Jin gang ding sheng chu yu qie jing zhong lüe chu da le jin gang sa duo nian song yi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1120A"             
+    @"http://psi.iba-net.org/exp/hnt_1120a"             
     @"http://psi.iba-net.org/man/hkd_1346" ]
 {eT20n1120A, extent, [[I]]}
 {eT20n1120A, startpage, [[T20, p.513]]}
@@ -12418,7 +12418,7 @@ aut(eT20n1120A : text, aut-61 : resp)
 [eT20n1120B : exp = "勝初瑜伽儀軌眞言" / zh hobogirin
         = "SHŌSHOYUGA GIKI SHINGON" /ja-rom
         = "(Sheng chu yu qie yi gui zhen yan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1120B" ]
+    @"http://psi.iba-net.org/exp/hnt_1120b" ]
 {eT20n1120B, extent, [[I]]}
 {eT20n1120B, startpage, [[T20, p.520]]}
 aut(eT20n1120B : text, aut-5 : resp)
@@ -12529,7 +12529,7 @@ aut(eT20n1133 : text, aut-61 : resp)
 [eT20n1134A : exp = "金剛壽命陀羅尼經法" / zh hobogirin
         = "KONGŌJUMYŌ DARANI KYŌ HŌ" /ja-rom
         = "(Jin gang shou ming tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1134A" ]
+    @"http://psi.iba-net.org/exp/hnt_1134a" ]
 {eT20n1134A, extent, [[I]]}
 {eT20n1134A, startpage, [[T20, p.576]]}
 aut(eT20n1134A : text, aut-61 : resp)
@@ -12537,7 +12537,7 @@ aut(eT20n1134A : text, aut-61 : resp)
 [eT20n1134B : exp = "金剛壽命陀羅尼經" / zh hobogirin
         = "KONGŌJUMYŌ DARANI KYŌ" /ja-rom
         = "(Jin gang shou ming tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1134B" ]
+    @"http://psi.iba-net.org/exp/hnt_1134b" ]
 {eT20n1134B, extent, [[I]]}
 {eT20n1134B, startpage, [[T20, p.577]]}
 aut(eT20n1134B : text, aut-61 : resp)
@@ -12569,7 +12569,7 @@ aut(eT20n1137 : text, aut-5 : resp)
 [eT20n1138A : exp = "金剛祕密善門陀羅尼經" / zh hobogirin
         = "r KONGŌ HIMITSU ZEMMON DARANI KYŌ" /ja-rom
         = "(Jin gang bi mi shan men tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1138A"             
+    @"http://psi.iba-net.org/exp/hnt_1138a"             
     @"http://psi.iba-net.org/man/hkd_0343" ]
 {eT20n1138A, extent, [[I]]}
 {eT20n1138A, startpage, [[T20, p.581]]}
@@ -12578,7 +12578,7 @@ aut(eT20n1138A : text, aut-5 : resp)
 [eT20n1138B : exp = "金剛祕密善門陀羅尼呪經" / zh hobogirin
         = "KONGO HIMITSU ZEMMON DARANIJU KYŌ" /ja-rom
         = "(Jin gang bi mi shan men tuo luo ni zhou jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1138B" ]
+    @"http://psi.iba-net.org/exp/hnt_1138b" ]
 {eT20n1138B, extent, [[I]]}
 {eT20n1138B, startpage, [[T20, p.583]]}
 aut(eT20n1138B : text, aut-5 : resp)
@@ -12726,7 +12726,7 @@ aut(eT20n1155 : text, aut-61 : resp)
 [eT20n1156A : exp = "大隨求即得大陀羅尼明王懺悔法" / zh hobogirin
         = "r DAIZUIGUSOKUTOKUDAIDARANI MYŌŌ SANGE HŌ" /ja-rom
         = "(Da sui qiu ji de da tuo luo ni ming wang chan hui fa)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1156A" ]
+    @"http://psi.iba-net.org/exp/hnt_1156a" ]
 {eT20n1156A, extent, [[I]]}
 {eT20n1156A, startpage, [[T20, p.649]]}
 aut(eT20n1156A : text, aut-130 : resp)
@@ -12734,7 +12734,7 @@ aut(eT20n1156A : text, aut-130 : resp)
         = "SHŪEISŌJŌ OTŌKOKU SHISHOKUJU" /ja-rom
         = "(Zong rui seng zheng yu tang guo shi suo kou shou)" /zh-py
         = "*Daizuiguhachiin" /sk
-    @"http://psi.iba-net.org/exp/hnt_1156B" ]
+    @"http://psi.iba-net.org/exp/hnt_1156b" ]
 {eT20n1156B, extent, [[I]]}
 {eT20n1156B, startpage, [[T20, p.650]]}
 [eT20n1157 : exp = "香王菩薩陀羅尼呪經" / zh hobogirin
@@ -12755,13 +12755,13 @@ aut(eT20n1158 : text, aut-128 : resp)
 [eT20n1159A : exp = "rs大道心驅策法" / zh hobogirin
         = "JIZŌ DAIDŌSHINKUSAKU HŌ" /ja-rom
         = "(Di zang da dao xin qu ce fa)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1159A" ]
+    @"http://psi.iba-net.org/exp/hnt_1159a" ]
 {eT20n1159A, extent, [[I]]}
 {eT20n1159A, startpage, [[T20, p.652]]}
 [eT20n1159B : exp = "地藏菩薩陀羅尼經" / zh hobogirin
         = "JIZŌBOSATSU DARANI KYŌ" /ja-rom
         = "(Di zang pu sa tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1159B" ]
+    @"http://psi.iba-net.org/exp/hnt_1159b" ]
 {eT20n1159B, extent, [[I]]}
 {eT20n1159B, startpage, [[T20, p.655]]}
 [eT20n1160 : exp = "日光菩薩月光菩薩陀羅尼" / zh hobogirin
@@ -12840,7 +12840,7 @@ aut(eT20n1167 : text, aut-61 : resp)
         = "DAIJŌ HACHIDAI MANDARA KYŌ" /ja-rom
         = "(Da cheng ba da man na luo jing)" /zh-py
         = "±Aṣṭamañḍalakasūtra" /sk
-    @"http://psi.iba-net.org/exp/hnt_1168A"             
+    @"http://psi.iba-net.org/exp/hnt_1168a"             
     @"http://psi.iba-net.org/man/hkd_1215" ]
 {eT20n1168A, extent, [[I]]}
 {eT20n1168A, startpage, [[T20, p.676]]}
@@ -12849,7 +12849,7 @@ aut(eT20n1168A : text, aut-7 : resp)
 [eT20n1168B : exp = "八曼荼羅經" / zh hobogirin
         = "HACHI MANDARA KYŌ" /ja-rom
         = "(Ba man tu luo jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1168B" ]
+    @"http://psi.iba-net.org/exp/hnt_1168b" ]
 {eT20n1168B, extent, [[I]]}
 {eT20n1168B, startpage, [[T20, p.676]]}
 aut(eT20n1168B : text, aut-5 : resp)
@@ -12925,7 +12925,7 @@ aut(eT20n1176 : text, aut-61 : resp)
         = "DAIJŌYUGAKONGŌSHŌKAI MANJUSHIRI SEMBISEMPATSU
 DAIKYŌŌ KYŌ" /ja-rom
         = "(Da cheng yu qie jin gang xing hai man shu shi li qian bo da jiao wang jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1177A"             
+    @"http://psi.iba-net.org/exp/hnt_1177a"             
     @"http://psi.iba-net.org/man/hkd_1272" ]
 {eT20n1177A, extent, [[X]]}
 {eT20n1177A, startpage, [[T20, p.724]]}
@@ -12933,7 +12933,7 @@ aut(eT20n1177A : text, aut-61 : resp)
 [eT20n1177B : exp = "千鉢文殊一百八名讃" / zh hobogirin
         = "SEMPATSU MONJU IPPYAKUHACHIMYŌ SEN" /ja-rom
         = "(Qian bo wen shu yi bai ba ming zan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1177B" ]
+    @"http://psi.iba-net.org/exp/hnt_1177b" ]
 {eT20n1177B, extent, [[I]]}
 {eT20n1177B, startpage, [[T20, p.776]]}
 aut(eT20n1177B : text, aut-5 : resp)
@@ -12995,7 +12995,7 @@ aut(eT20n1184 : text, aut-163 : resp)
 [eT20n1185A : exp = "文殊師利法寶藏陀羅尼經" / zh hobogirin
         = "MONJUSHIRI HŌBŌZŌ DARANI KYŌ" /ja-rom
         = "(Wen shu shi li fa bao zang tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1185A"             
+    @"http://psi.iba-net.org/exp/hnt_1185a"             
     @"http://psi.iba-net.org/man/hkd_0435" ]
 {eT20n1185A, extent, [[I]]}
 {eT20n1185A, startpage, [[T20, p.791]]}
@@ -13003,7 +13003,7 @@ aut(eT20n1185A : text, aut-55 : resp)
 [eT20n1185B : exp = "文殊師利寶藏陀羅尼經" / zh hobogirin
         = "MONJUSHIRI HŌZŌ DARANI KYŌ" /ja-rom
         = "(Wen shu shi li bao zang tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1185B" ]
+    @"http://psi.iba-net.org/exp/hnt_1185b" ]
 {eT20n1185B, extent, [[I]]}
 {eT20n1185B, startpage, [[T20, p.798]]}
 aut(eT20n1185B : text, aut-55 : resp)
@@ -13288,7 +13288,7 @@ aut(eT21n1221 : text, aut-168 : resp)
         = "SHŌKANIFUNNU KONGŌDŌJIBOSATSU JŌJU GIKI KYŌ" /ja-rom
         = "(Sheng jia ni fen nu jin gang tong zi pu sa cheng jiu yi gui jing)" /zh-py
         = "Vajrakumāratantra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1222A"             
+    @"http://psi.iba-net.org/exp/hnt_1222a"             
     @"http://psi.iba-net.org/man/hkd_1355" ]
 {eT21n1222A, extent, [[III]]}
 {eT21n1222A, startpage, [[T21, p.102]]}
@@ -13297,7 +13297,7 @@ aut(eT21n1222A : text, aut-61 : resp)
         = "SHŌKANIFUNNU KONGŌDŌJIBOSATSU JŌJU GIKI KYŌ" /ja-rom
         = "(Sheng jia ni fen nu jin gang tong zi pu sa cheng jiu yi gui jing)" /zh-py
         = "Vajrakumāratantra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1222B" ]
+    @"http://psi.iba-net.org/exp/hnt_1222b" ]
 {eT21n1222B, extent, [[III]]}
 {eT21n1222B, startpage, [[T21, p.118]]}
 aut(eT21n1222B : text, aut-61 : resp)
@@ -13527,7 +13527,7 @@ aut(eT21n1251 : text, aut-132 : resp)
         = "DAIKICHIJŌTENNYO JŪNIMYŌGŌ KYŌ" /ja-rom
         = "(Da ji xiang tian nü shi er ming hao jing)" /zh-py
         = "±Mahāśrīsūtra" /sk
-    @"http://psi.iba-net.org/exp/hnt_1252A"             
+    @"http://psi.iba-net.org/exp/hnt_1252a"             
     @"http://psi.iba-net.org/man/hkd_1288" ]
 {eT21n1252A, extent, [[I]]}
 {eT21n1252A, startpage, [[T21, p.252]]}
@@ -13536,7 +13536,7 @@ aut(eT21n1252A : text, aut-61 : resp)
         = "DAIKICHIJŌTENNYO JŪNIMYŌGŌ KYŌ" /ja-rom
         = "(Da ji xiang tian nü shi er ming hao jing)" /zh-py
         = "±Mahāśrīsūtra" /sk
-    @"http://psi.iba-net.org/exp/hnt_1252B" ]
+    @"http://psi.iba-net.org/exp/hnt_1252b" ]
 {eT21n1252B, extent, [[I]]}
 {eT21n1252B, startpage, [[T21, p.252]]}
 aut(eT21n1252B : text, aut-61 : resp)
@@ -13561,7 +13561,7 @@ aut(eT21n1254 : text, aut-61 : resp)
 [eT21n1255A : exp = "摩利支天菩薩陀羅尼經" / zh hobogirin
         = "MARISHITEMBOSATSU DARANI KYŌ" /ja-rom
         = "(Mo li zhi tian pu sa tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1255A"             
+    @"http://psi.iba-net.org/exp/hnt_1255a"             
     @"http://psi.iba-net.org/man/hkd_1354" ]
 {eT21n1255A, extent, [[I]]}
 {eT21n1255A, startpage, [[T21, p.259]]}
@@ -13569,7 +13569,7 @@ aut(eT21n1255A : text, aut-61 : resp)
 [eT21n1255B : exp = "摩利支天經" / zh hobogirin
         = "MARISHITEN GYŌ" /ja-rom
         = "(Mo li zhi tian jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1255B" ]
+    @"http://psi.iba-net.org/exp/hnt_1255b" ]
 {eT21n1255B, extent, [[I]]}
 {eT21n1255B, startpage, [[T21, p.260]]}
 aut(eT21n1255B : text, aut-61 : resp)
@@ -13638,7 +13638,7 @@ aut(eT21n1263 : text, aut-61 : resp)
         = "KANJIZAIBOSATSU KESHIN JŌGURIEIDŌNYO
 SHŌBUKUDOKUGAI DARANI KYŌ" /ja-rom
         = "(Guang zi zai pu sa hua shen rang yu li ye tong nü xiao fu du hai tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1264A"             
+    @"http://psi.iba-net.org/exp/hnt_1264a"             
     @"http://psi.iba-net.org/man/hkd_1296" ]
 {eT21n1264A, extent, [[I]]}
 {eT21n1264A, startpage, [[T21, p.292]]}
@@ -13647,7 +13647,7 @@ aut(eT21n1264A : text, aut-61 : resp)
         = "JŌGURIDŌNYO KYŌ" /ja-rom
         = "(Rang yu li tong nü jing)" /zh-py
         = "±Jāṇgulīvidyā" /sk
-    @"http://psi.iba-net.org/exp/hnt_1264B" ]
+    @"http://psi.iba-net.org/exp/hnt_1264b" ]
 {eT21n1264B, extent, [[I]]}
 {eT21n1264B, startpage, [[T21, p.293]]}
 aut(eT21n1264B : text, aut-61 : resp)
@@ -14499,7 +14499,7 @@ aut(eT21n1368 : text, aut-5 : resp)
 [eT21n1369A : exp = "百千印陀羅尼經" / zh hobogirin
         = "HYAKUSEṄIN DARANI KYŌ" /ja-rom
         = "(Bai qian yin tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1369A"             
+    @"http://psi.iba-net.org/exp/hnt_1369a"             
     @"http://psi.iba-net.org/man/hkd_0477" ]
 {eT21n1369A, extent, [[I]]}
 {eT21n1369A, startpage, [[T21, p.885]]}
@@ -14507,7 +14507,7 @@ aut(eT21n1369A : text, aut-73 : resp)
 [eT21n1369B : exp = "百千印陀羅尼經" / zh hobogirin
         = "HYAKUSEṄIN DARANI KYŌ" /ja-rom
         = "(Bai qian yin tuo luo ni jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1369B" ]
+    @"http://psi.iba-net.org/exp/hnt_1369b" ]
 {eT21n1369B, extent, [[I]]}
 {eT21n1369B, startpage, [[T21, p.866]]}
 aut(eT21n1369B : text, aut-73 : resp)
@@ -14584,14 +14584,14 @@ aut(eT21n1377 : text, aut-8 : resp)
 [eT21n1378A : exp = "玄師L陀所説神呪經" / zh hobogirin
         = "GENSHI BADA SHOSETSU SHINJU KYŌ" /ja-rom
         = "(Xuan shi po tuo suo shuo shen zhou jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1378A"             
+    @"http://psi.iba-net.org/exp/hnt_1378a"             
     @"http://psi.iba-net.org/man/hkd_0439" ]
 {eT21n1378A, extent, [[I]]}
 {eT21n1378A, startpage, [[T21, p.901]]}
 [eT21n1378B : exp = "幻師L陀神呪經" / zh hobogirin
         = "GENSHI BADA SHINJU KYŌ" /ja-rom
         = "(Huan shi po tuo shen zhou jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1378B" ]
+    @"http://psi.iba-net.org/exp/hnt_1378b" ]
 {eT21n1378B, extent, [[I]]}
 {eT21n1378B, startpage, [[T21, p.902]]}
 [eT21n1379 : exp = "大愛陀羅尼經" / zh hobogirin
@@ -17243,7 +17243,7 @@ aut(eT32n1669 : text, aut-227 : resp)
         = "NASEMBIKU KYŌ" /ja-rom
         = "(Na xian bi qiu jing)" /zh-py
         = "Nāgasenabhikṣusūtra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1670A"             
+    @"http://psi.iba-net.org/exp/hnt_1670a"             
     @"http://psi.iba-net.org/man/hkd_1002" ]
 {eT32n1670A, extent, [[II]]}
 {eT32n1670A, startpage, [[T32, p.694]]}
@@ -17251,7 +17251,7 @@ aut(eT32n1669 : text, aut-227 : resp)
         = "NASEMBIKU KYŌ" /ja-rom
         = "(Na xian bi qiu jing)" /zh-py
         = "Nāgasenabhikṣusūtra?" /sk
-    @"http://psi.iba-net.org/exp/hnt_1670B" ]
+    @"http://psi.iba-net.org/exp/hnt_1670b" ]
 {eT32n1670B, extent, [[III]]}
 {eT32n1670B, startpage, [[T32, p.703]]}
 [eT32n1671 : exp = "福蓋正行所集經" / zh hobogirin
@@ -18947,7 +18947,7 @@ aut(eT45n1886 : text, aut-324 : resp)
 [eT45n1887A : exp = "華嚴一乘法界圖" / zh hobogirin
         = "KEGOṄ ICHIJŌ HOKKAI ZU" /ja-rom
         = "(Hua yan yi sheng fa jie tu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1887A" ]
+    @"http://psi.iba-net.org/exp/hnt_1887a" ]
 {eT45n1887A, extent, [[I]]}
 {eT45n1887A, startpage, [[T45, p.711]]}
 aut(eT45n1887A : text, aut-343 : resp)
@@ -18955,7 +18955,7 @@ aut(eT45n1887A : text, aut-343 : resp)
 [eT45n1887B : exp = "法界圖記叢髓録" / zh hobogirin
         = "HOKKAIZUKI SŌZUI ROKU" /ja-rom
         = "(Fa jie tu ji cong sui lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1887B"             
+    @"http://psi.iba-net.org/exp/hnt_1887b"             
     @"http://psi.iba-net.org/man/hkd_1502" ]
 {eT45n1887B, extent, [[IV]]}
 {eT45n1887B, startpage, [[T45, p.716]]}
@@ -19540,14 +19540,14 @@ aut(eT47n1968 : text, aut-351 : resp)
 [eT47n1969A : exp = "樂邦文類" / zh hobogirin
         = "RAKUHŌ MONRUI" /ja-rom
         = "(Le bang wen lei)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1969A" ]
+    @"http://psi.iba-net.org/exp/hnt_1969a" ]
 {eT47n1969A, extent, [[V]]}
 {eT47n1969A, startpage, [[T47, p.148]]}
 aut(eT47n1969A : text, aut-349 : resp)
 [eT47n1969B : exp = "" / zh hobogirin
         = "RAKUHŌ IKŌ" /ja-rom
         = "(Le bang yi gao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1969B" ]
+    @"http://psi.iba-net.org/exp/hnt_1969b" ]
 {eT47n1969B, extent, [[樂邦遺稿 II]]}
 {eT47n1969B, startpage, [[T47, p.231]]}
 aut(eT47n1969B : text, aut-349 : resp)
@@ -19663,24 +19663,24 @@ aut(eT47n1984 : text, aut-351 : resp)
 [eT47n1986A : exp = "ṃ州洞山悟本禪師語録" / zh hobogirin
         = "INSHŪ TŌZAN GOHONZENJI GOROKU" /ja-rom
         = "(Yun zhou dong shan wu ben chan shi yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1986A" ]
+    @"http://psi.iba-net.org/exp/hnt_1986a" ]
 {eT47n1986A, extent, [[I]]}
 {eT47n1986A, startpage, [[T47, p.507]]}
 [eT47n1986B : exp = "瑞州洞山良价禪師語録" / zh hobogirin
         = "ZUISHŪ TŌZAN RYŌKAIZENJI GOROKU" /ja-rom
         = "(Rui zhou dong shan liang jie chan shi yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1986B" ]
+    @"http://psi.iba-net.org/exp/hnt_1986b" ]
 {eT47n1986B, extent, [[I]]}
 {eT47n1986B, startpage, [[T47, p.519]]}
 [eT47n1987A : exp = "撫州曹山元證禪師語録" / zh hobogirin
         = "BUSHŪ SŌZAN GANSHŌZENJI GOROKU" /ja-rom
         = "(Fu zhou cao shan yuan zheng chan shi yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1987A" ]
+    @"http://psi.iba-net.org/exp/hnt_1987a" ]
 {eT47n1987A, extent, [[I]]}
 {eT47n1987A, startpage, [[T47, p.526]]}
 [eT47n1987B : exp = "撫州曹山本寂禪師語録" / zh hobogirin
         = "BUSHŪ SŌZAN HONJAKUZENJI GOROKU" /ja-rom
-    @"http://psi.iba-net.org/exp/hnt_1987B" ]
+    @"http://psi.iba-net.org/exp/hnt_1987b" ]
 {eT47n1987B, extent, [[II]]}
 {eT47n1987B, startpage, [[T47, p.535]]}
 [eT47n1988 : exp = "雲門匡眞禪師廣録" / zh hobogirin
@@ -19722,13 +19722,13 @@ aut(eT47n1984 : text, aut-351 : resp)
 [eT47n1994A : exp = "楊岐方會和尚後録" / zh hobogirin
         = "YŌGIHŌEOSHŌ GOROKU" /ja-rom
         = "(Yang qi fang hui he shang hou lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1994A" ]
+    @"http://psi.iba-net.org/exp/hnt_1994a" ]
 {eT47n1994A, extent, [[I]]}
 {eT47n1994A, startpage, [[T47, p.640]]}
 [eT47n1994B : exp = "楊岐方會和尚語録" / zh hobogirin
         = "YŌGIHŌEOSHŌ GOROKU" /ja-rom
         = "(Yang qi fang hui he shang hou lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1994B" ]
+    @"http://psi.iba-net.org/exp/hnt_1994b" ]
 {eT47n1994B, extent, [[I]]}
 {eT47n1994B, startpage, [[T47, p.646]]}
 aut(eT47n1994B : text, aut-364 : resp)
@@ -19753,13 +19753,13 @@ aut(eT47n1994B : text, aut-364 : resp)
 [eT47n1998A : exp = "大慧普覺禪師語録" / zh hobogirin
         = "DAIEFUKAKUZENJI GOROKU" /ja-rom
         = "(Da hui pu jue chan shi yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1998A" ]
+    @"http://psi.iba-net.org/exp/hnt_1998a" ]
 {eT47n1998A, extent, [[XXX]]}
 {eT47n1998A, startpage, [[T47, p.811]]}
 [eT47n1998B : exp = "大慧普覺禪師宗門武庫" / zh hobogirin
         = "DAIE FUKAKUZENJI SHŪMOM BUKO" /ja-rom
         = "(Da hui pu jue chan shi zong men wu ku)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_1998B" ]
+    @"http://psi.iba-net.org/exp/hnt_1998b" ]
 {eT47n1998B, extent, [[I]]}
 {eT47n1998B, startpage, [[T47, p.943]]}
 [eT47n1999 : exp = "密菴和尚語録" / zh hobogirin
@@ -19783,13 +19783,13 @@ aut(eT47n1994B : text, aut-364 : resp)
 [eT48n2002A : exp = "如淨和尚語録" / zh hobogirin
         = "NYOJŌOSHŌ GOROKU" /ja-rom
         = "(Ru jing he shang yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2002A" ]
+    @"http://psi.iba-net.org/exp/hnt_2002a" ]
 {eT48n2002A, extent, [[II]]}
 {eT48n2002A, startpage, [[T48, p.121]]}
 [eT48n2002B : exp = "天童山景徳寺如淨禪師續語録" / zh hobogirin
         = "TENDŌSAN KEITOKUJI NYOJŌZENJI ZOKUGOROKU" /ja-rom
         = "(Tian tong shan jing de si ru jing chan shi xu yu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2002B" ]
+    @"http://psi.iba-net.org/exp/hnt_2002b" ]
 {eT48n2002B, extent, [[I]]}
 {eT48n2002B, startpage, [[T48, p.133]]}
 [eT48n2003 : exp = "佛果圜悟禪師碧巖録" / zh hobogirin
@@ -19853,13 +19853,13 @@ aut(eT48n2011 : text, aut-366 : resp)
 [eT48n2012A : exp = "黄檗山斷際禪師傳心法要" / zh hobogirin
         = "ŌBAKUSAN DANSAIZENJI DENSHIN HŌYŌ" /ja-rom
         = "(Huang bo shan duan ji chan shi chuan xin fa yao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2012A" ]
+    @"http://psi.iba-net.org/exp/hnt_2012a" ]
 {eT48n2012A, extent, [[I]]}
 {eT48n2012A, startpage, [[T48, p.379]]}
 [eT48n2012B : exp = "黄檗斷際禪師宛陵録" / zh hobogirin
         = "ŌBAKU DANSAIZENJI ONRYŌROKU" /ja-rom
         = "(Huang bo duan ji chan shi yuan ling lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2012B" ]
+    @"http://psi.iba-net.org/exp/hnt_2012b" ]
 {eT48n2012B, extent, [[I]]}
 {eT48n2012B, startpage, [[T48, p.384]]}
 [eT48n2013 : exp = "禪宗永嘉集" / zh hobogirin
@@ -19919,14 +19919,14 @@ aut(eT48n2018 : text, aut-368 : resp)
 [eT48n2019A : exp = "眞心直説" / zh hobogirin
         = "SHINJIN JIKISETSU" /ja-rom
         = "(Zhen xin zhi shuo)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2019A" ]
+    @"http://psi.iba-net.org/exp/hnt_2019a" ]
 {eT48n2019A, extent, [[I]]}
 {eT48n2019A, startpage, [[T48, p.999]]}
 aut(eT48n2019A : text, aut-369 : resp)
 [eT48n2019B : exp = "誡初心學人文" / zh hobogirin
         = "KAI SHOSHIN GAKUNIM MON" /ja-rom
         = "(Jie chu xin xue ren wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2019B" ]
+    @"http://psi.iba-net.org/exp/hnt_2019b" ]
 {eT48n2019B, extent, [[I]]}
 {eT48n2019B, startpage, [[T48, p.1004]]}
 aut(eT48n2019B : text, aut-369 : resp)
@@ -20754,14 +20754,14 @@ aut(eT54n2132 : text, aut-409 : resp)
 [eT54n2133A : exp = "梵語千字文" / zh hobogirin
         = "BONGO SENJIMON" /ja-rom
         = "(Fan yu qian zi wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2133A" ]
+    @"http://psi.iba-net.org/exp/hnt_2133a" ]
 {eT54n2133A, extent, [[I]]}
 {eT54n2133A, startpage, [[T54, p.1190]]}
 aut(eT54n2133A : text, aut-22 : resp)
 [eT54n2133B : exp = "梵語千字文" / zh hobogirin
         = "BONGO SENJIMON" /ja-rom
         = "(Fan yu qian zi wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2133B" ]
+    @"http://psi.iba-net.org/exp/hnt_2133b" ]
 {eT54n2133B, extent, [[I]]}
 {eT54n2133B, startpage, [[T54, p.1197]]}
 aut(eT54n2133B : text, aut-22 : resp)
@@ -20820,14 +20820,14 @@ aut(eT54n2138 : text, aut-414 : resp)
 [eT54n2141A : exp = "摩尼光佛教法儀略" / zh hobogirin
         = "MANIKŌBUTSUKYŌ　BŌGI　RYAKU" /ja-rom
         = "(Mo ni guang fo jiao fa yi lüe)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2141A" ]
+    @"http://psi.iba-net.org/exp/hnt_2141a" ]
 {eT54n2141A, extent, [[I]]}
 {eT54n2141A, startpage, [[T54, p.1279]]}
 aut(eT54n2141A : text, aut-415 : resp)
 [eT54n2141B : exp = "波斯教殘經" / zh hobogirin
         = "HASHIKYŌ ZAN GYŌ" /ja-rom
         = "(Po si jiao can jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2141B" ]
+    @"http://psi.iba-net.org/exp/hnt_2141b" ]
 {eT54n2141B, extent, [[I]]}
 {eT54n2141B, startpage, [[T54, p.1281]]}
 [eT54n2142 : exp = "序聽迷詩所經" / zh hobogirin
@@ -21028,14 +21028,14 @@ aut(eT55n2167 : text, aut-424 : resp)
 [eT55n2168A : exp = "惠運禪師請來教法目録" / zh hobogirin
         = "EUNZENJI SHŌRAI KYŌBŌ MOKUROKU" /ja-rom
         = "(Hui yun chan shi qing lai jiao fa mu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2168A" ]
+    @"http://psi.iba-net.org/exp/hnt_2168a" ]
 {eT55n2168A, extent, [[I]]}
 {eT55n2168A, startpage, [[T55, p.1087]]}
 aut(eT55n2168A : text, aut-425 : resp)
 [eT55n2168B : exp = "惠運律師書目録" / zh hobogirin
         = "EUNRISSHI SHO MOKUROKU" /ja-rom
         = "(Hui yun lü shi shu mu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2168B" ]
+    @"http://psi.iba-net.org/exp/hnt_2168b" ]
 {eT55n2168B, extent, [[I]]}
 {eT55n2168B, startpage, [[T55, p.1089]]}
 aut(eT55n2168B : text, aut-425 : resp)
@@ -21077,14 +21077,14 @@ aut(eT55n2173 : text, aut-426 : resp)
 [eT55n2174A : exp = "新書寫請來法門等目録" / zh hobogirin
         = "SHINSHOSHA SHŌRAI HŌMON TŌ MOKUROKU" /ja-rom
         = "(Xin shu xia qing lai fa men deng mu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2174A" ]
+    @"http://psi.iba-net.org/exp/hnt_2174a" ]
 {eT55n2174A, extent, [[I]]}
 {eT55n2174A, startpage, [[T55, p.1108]]}
 aut(eT55n2174A : text, aut-427 : resp)
 [eT55n2174B : exp = "禪林寺宗叡僧正目録" / zh hobogirin
         = "ZENRINJI SHŪEISŌJŌ MOKUROKU" /ja-rom
         = "(Chan lin si zong rui seng zheng mu lu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2174B" ]
+    @"http://psi.iba-net.org/exp/hnt_2174b" ]
 {eT55n2174B, extent, [[I]]}
 {eT55n2174B, startpage, [[T55, p.1111]]}
 [eT55n2175 : exp = "録外經等目録" / zh hobogirin
@@ -21195,7 +21195,7 @@ aut(eT56n2189 : text, aut-438 : resp)
 [eT56n2190A : exp = "法華經開題" / zh hobogirin
         = "HOKEKYŌ KAIDAI" /ja-rom
         = "(Fa hua jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190A" ]
+    @"http://psi.iba-net.org/exp/hnt_2190a" ]
 {eT56n2190A, extent, [[I]]}
 {eT56n2190A, startpage, [[T56, p.172]]}
 aut(eT56n2190A : text, aut-421 : resp)
@@ -21203,42 +21203,42 @@ aut(eT56n2190A : text, aut-421 : resp)
 [eT56n2190B : exp = "法華經開題" / zh hobogirin
         = "HOKEKYŌ KAIDAI" /ja-rom
         = "(Fa hua jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190B" ]
+    @"http://psi.iba-net.org/exp/hnt_2190b" ]
 {eT56n2190B, extent, [[I]]}
 {eT56n2190B, startpage, [[T56, p.175]]}
 aut(eT56n2190B : text, aut-421 : resp)
 [eT56n2190C : exp = "法華經釋" / zh hobogirin
         = "HOKEKYŌ SHAKU" /ja-rom
         = "(Fa hua jing shi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190C" ]
+    @"http://psi.iba-net.org/exp/hnt_2190c" ]
 {eT56n2190C, extent, [[I]]}
 {eT56n2190C, startpage, [[T56, p.177]]}
 aut(eT56n2190C : text, aut-421 : resp)
 [eT56n2190D : exp = "法華經開題" / zh hobogirin
         = "HOKEKYŌ KAIDAI" /ja-rom
         = "(Fa hua jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190D" ]
+    @"http://psi.iba-net.org/exp/hnt_2190d" ]
 {eT56n2190D, extent, [[I]]}
 {eT56n2190D, startpage, [[T56, p.179]]}
 aut(eT56n2190D : text, aut-421 : resp)
 [eT56n2190E : exp = "法華經密號" / zh hobogirin
         = "HOKEKYŌ MITSUGŌ" /ja-rom
         = "(Fa hua jing mi hao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190E" ]
+    @"http://psi.iba-net.org/exp/hnt_2190e" ]
 {eT56n2190E, extent, [[I]]}
 {eT56n2190E, startpage, [[T56, p.182]]}
 aut(eT56n2190E : text, aut-421 : resp)
 [eT56n2190F : exp = "法華略祕釋" / zh hobogirin
         = "HOKKE RYAKU HISHAKU" /ja-rom
         = "(Fa hua lüe mi shi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190F" ]
+    @"http://psi.iba-net.org/exp/hnt_2190f" ]
 {eT56n2190F, extent, [[I]]}
 {eT56n2190F, startpage, [[T56, p.183]]}
 aut(eT56n2190F : text, aut-421 : resp)
 [eT56n2190G : exp = "法華開題" / zh hobogirin
         = "HOKKE KAIDAI" /ja-rom
         = "(Fa hua kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2190G" ]
+    @"http://psi.iba-net.org/exp/hnt_2190g" ]
 {eT56n2190G, extent, [[I]]}
 {eT56n2190G, startpage, [[T56, p.183]]}
 aut(eT56n2190G : text, aut-421 : resp)
@@ -21308,7 +21308,7 @@ aut(eT56n2198 : text, aut-441 : resp)
 [eT56n2199A : exp = "最勝王經開題" / zh hobogirin
         = "SAISHŌŌKYŌ KAIDAI" /ja-rom
         = "(Zui sheng wang jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2199A" ]
+    @"http://psi.iba-net.org/exp/hnt_2199a" ]
 {eT56n2199A, extent, [[I]]}
 {eT56n2199A, startpage, [[T56, p.824]]}
 aut(eT56n2199A : text, aut-421 : resp)
@@ -21316,7 +21316,7 @@ aut(eT56n2199A : text, aut-421 : resp)
 [eT56n2199B : exp = "金勝王經祕密伽陀" / zh hobogirin
         = "KONSHŌŌKYŌ HIMITSU KADA" /ja-rom
         = "(Jing sheng wang king mi mi jia duo)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2199B" ]
+    @"http://psi.iba-net.org/exp/hnt_2199b" ]
 {eT56n2199B, extent, [[I]]}
 {eT56n2199B, startpage, [[T56, p.825]]}
 aut(eT56n2199B : text, aut-421 : resp)
@@ -21347,7 +21347,7 @@ aut(eT57n2202 : text, aut-409 : resp)
 [eT57n2203A : exp = "般若心經祕鍵" / zh hobogirin
         = "HANNYASHINGYŌ HIKEN" /ja-rom
         = "(Pan ruo xin jing mi jian)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2203A" ]
+    @"http://psi.iba-net.org/exp/hnt_2203a" ]
 {eT57n2203A, extent, [[I]]}
 {eT57n2203A, startpage, [[T57, p. 11]]}
 aut(eT57n2203A : text, aut-421 : resp)
@@ -21355,7 +21355,7 @@ aut(eT57n2203A : text, aut-421 : resp)
 [eT57n2203B : exp = "般若心經祕鍵略註" / zh hobogirin
         = "HANNYASHINGYŌ HIKEN RYAKUCHŪ" /ja-rom
         = "(Pan ruo xin jing mi jian lüe zhu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2203B" ]
+    @"http://psi.iba-net.org/exp/hnt_2203b" ]
 {eT57n2203B, extent, [[I]]}
 {eT57n2203B, startpage, [[T57, p. 13]]}
 aut(eT57n2203B : text, aut-439 : resp)
@@ -21378,7 +21378,7 @@ aut(eT57n2205 : text, aut-443 : resp)
 [eT57n2206A : exp = "新譯華嚴經音義" / zh hobogirin
         = "SHIṄYAKU KEGONGYŌ ONGI" /ja-rom
         = "(Xin yi (Hua yan jing yin yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2206A" ]
+    @"http://psi.iba-net.org/exp/hnt_2206a" ]
 {eT57n2206A, extent, [[I]]}
 {eT57n2206A, startpage, [[T57, p.367]]}
 aut(eT57n2206A : text, aut-444 : resp)
@@ -21386,7 +21386,7 @@ aut(eT57n2206A : text, aut-444 : resp)
 [eT57n2206B : exp = "貞元華嚴經音義" / zh hobogirin
         = "JŌGEN KEGONGYŌ ONGI" /ja-rom
         = "(Zhen yuan (Hua yan jing yin yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2206B" ]
+    @"http://psi.iba-net.org/exp/hnt_2206b" ]
 {eT57n2206B, extent, [[I]]}
 {eT57n2206B, startpage, [[T57, p.377]]}
 aut(eT57n2206B : text, aut-444 : resp)
@@ -21402,21 +21402,21 @@ aut(eT57n2207 : text, aut-445 : resp)
 [eT57n2208A : exp = "淨土疑端" / zh hobogirin
         = "JŌDO GITAN" /ja-rom
         = "(Jing tu yi duan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2208A" ]
+    @"http://psi.iba-net.org/exp/hnt_2208a" ]
 {eT57n2208A, extent, [[IV]]}
 {eT57n2208A, startpage, [[T57, p.439]]}
 {eT57n2208A, xptr, [[Cf. 1753]]}
 [eT57n2208B : exp = "觀經義賢問愚答鈔" / zh hobogirin
         = "KANGYŌ GI KEMMON GUTŌ SHŌ" /ja-rom
         = "(Guan jing yi xian wen yu da chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2208B" ]
+    @"http://psi.iba-net.org/exp/hnt_2208b" ]
 {eT57n2208B, extent, [[I]]}
 {eT57n2208B, startpage, [[T57, p.472]]}
 aut(eT57n2208B : text, aut-446 : resp)
 [eT57n2208C : exp = "觀經義拙疑巧答研覈鈔" / zh hobogirin
         = "KANGYŌ GI SETSUGI GYŌTŌ KENKAKU SHŌ" /ja-rom
         = "(Guan jing yi zhuo yi qiao da yan he chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2208C" ]
+    @"http://psi.iba-net.org/exp/hnt_2208c" ]
 {eT57n2208C, extent, [[I]]}
 {eT57n2208C, startpage, [[T57, p.483]]}
 [eT57n2209 : exp = "觀經疏傳通記" / zh hobogirin
@@ -21438,7 +21438,7 @@ aut(eT57n2210 : text, aut-448 : resp)
 [eT58n2211A : exp = "大日經開題" / zh hobogirin
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211A" ]
+    @"http://psi.iba-net.org/exp/hnt_2211a" ]
 {eT58n2211A, extent, [[I]]}
 {eT58n2211A, startpage, [[T58, p. 1]]}
 aut(eT58n2211A : text, aut-421 : resp)
@@ -21446,43 +21446,43 @@ aut(eT58n2211A : text, aut-421 : resp)
 [eT58n2211B : exp = "大日經開題." / zh hobogirin
         = "DAINICHIKYŌKAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211B" ]
+    @"http://psi.iba-net.org/exp/hnt_2211b" ]
 {eT58n2211B, extent, [[]]}
 {eT58n2211B, startpage, [[T58, p. 3]]}
 [eT58n2211C : exp = "大日經略開題" / zh hobogirin
         = "DAINICHIKYŌ RYAKU KAIDAI" /ja-rom
         = "(Da ri jing lüe kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211C" ]
+    @"http://psi.iba-net.org/exp/hnt_2211c" ]
 {eT58n2211C, extent, [[]]}
 {eT58n2211C, startpage, [[T58, p. 4]]}
 [eT58n2211D : exp = "大日經開題" / zh hobogirin
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211D" ]
+    @"http://psi.iba-net.org/exp/hnt_2211d" ]
 {eT58n2211D, extent, [[]]}
 {eT58n2211D, startpage, [[T58, p. 6]]}
 [eT58n2211E : exp = "" / zh hobogirin
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211E" ]
+    @"http://psi.iba-net.org/exp/hnt_2211e" ]
 {eT58n2211E, extent, [[大日經開題]]}
 {eT58n2211E, startpage, [[T58, p. 7]]}
 [eT58n2211F : exp = "" / zh hobogirin
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211F" ]
+    @"http://psi.iba-net.org/exp/hnt_2211f" ]
 {eT58n2211F, extent, [[大日經開題]]}
 {eT58n2211F, startpage, [[T58, p. 10]]}
 [eT58n2211G : exp = "" / zh hobogirin
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2211G" ]
+    @"http://psi.iba-net.org/exp/hnt_2211g" ]
 {eT58n2211G, extent, [[大日經開題]]}
 {eT58n2211G, startpage, [[T58, p. 11]]}
 [eT58n2212A : exp = "大毘盧遮那經指歸" / zh hobogirin
         = "DAIBIRUSHANAKYŌ SHIKI" /ja-rom
         = "(Da pi lu zhe na jing zhi gui)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2212A" ]
+    @"http://psi.iba-net.org/exp/hnt_2212a" ]
 {eT58n2212A, extent, [[I]]}
 {eT58n2212A, startpage, [[T58, p. 12]]}
 aut(eT58n2212A : text, aut-426 : resp)
@@ -21490,7 +21490,7 @@ aut(eT58n2212A : text, aut-426 : resp)
 [eT58n2212B : exp = "大毘盧遮那成道經心目" / zh hobogirin
         = "DAIBIRUSHANAJŌDŌKYŌ SHIMMOKU" /ja-rom
         = "(Da pi lu zhe na cheng dao jing xin mu)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2212B" ]
+    @"http://psi.iba-net.org/exp/hnt_2212b" ]
 {eT58n2212B, extent, [[I]]}
 {eT58n2212B, startpage, [[T58, p. 21]]}
 {eT58n2212B, xptr, [[Cf. 848]]}
@@ -21681,7 +21681,7 @@ aut(eT61n2235 : text, aut-458 : resp)
 [eT61n2236A : exp = "理趣經開題" / zh hobogirin
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2236A" ]
+    @"http://psi.iba-net.org/exp/hnt_2236a" ]
 {eT61n2236A, extent, [[I]]}
 {eT61n2236A, startpage, [[T61, p.611]]}
 aut(eT61n2236A : text, aut-421 : resp)
@@ -21689,13 +21689,13 @@ aut(eT61n2236A : text, aut-421 : resp)
 [eT61n2236B : exp = "理趣經開題" / zh hobogirin
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2236B" ]
+    @"http://psi.iba-net.org/exp/hnt_2236b" ]
 {eT61n2236B, extent, [[]]}
 {eT61n2236B, startpage, [[T61, p.611]]}
 [eT61n2236C : exp = "理趣經開題" / zh hobogirin
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2236C" ]
+    @"http://psi.iba-net.org/exp/hnt_2236c" ]
 {eT61n2236C, extent, [[]]}
 {eT61n2236C, startpage, [[T61, p.612]]}
 [eT61n2237 : exp = "眞實經文句" / zh hobogirin
@@ -22160,7 +22160,7 @@ aut(eT70n2294 : text, aut-468 : resp)
 [eT70n2295A : exp = "菩提心論異本" / zh hobogirin
         = "BODAISHIN ROṄ IHON" /ja-rom
         = "(Pu ti xin lun yi ben)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2295A" ]
+    @"http://psi.iba-net.org/exp/hnt_2295a" ]
 {eT70n2295A, extent, [[I]]}
 {eT70n2295A, startpage, [[T70, p.116]]}
 aut(eT70n2295A : text, aut-485 : resp)
@@ -22168,7 +22168,7 @@ aut(eT70n2295A : text, aut-485 : resp)
 [eT70n2295B : exp = "菩提心論愚疑" / zh hobogirin
         = "BODAISHIN RON GUGI" /ja-rom
         = "(Pu ti xin lun yu yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2295B" ]
+    @"http://psi.iba-net.org/exp/hnt_2295b" ]
 {eT70n2295B, extent, [[I]]}
 {eT70n2295B, startpage, [[T70, p.117]]}
 {eT70n2295B, xptr, [[Cf. 1665.]]}
@@ -22257,14 +22257,14 @@ aut(eT70n2306 : text, aut-479 : resp)
 [eT70n2307A : exp = "三論興縁" / zh hobogirin
         = "SANRON KŌEN" /ja-rom
         = "(San lun qu yuan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2307A" ]
+    @"http://psi.iba-net.org/exp/hnt_2307a" ]
 {eT70n2307A, extent, [[I]]}
 {eT70n2307A, startpage, [[T70, p.833]]}
 aut(eT70n2307A : text, aut-490 : resp)
 [eT70n2307B : exp = "三論宗濫觴" / zh hobogirin
         = "SANRONSHŪ RANSHŌ" /ja-rom
         = "(San lun zong lan shang)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2307B" ]
+    @"http://psi.iba-net.org/exp/hnt_2307b" ]
 {eT70n2307B, extent, [[I]]}
 {eT70n2307B, startpage, [[T70, p.838]]}
 [eT70n2308 : exp = "三論宗初心初學鈔" / zh hobogirin
@@ -22540,7 +22540,7 @@ aut(eT73n2344 : text, aut-506 : resp)
 [eT73n2345A : exp = "華嚴五教章衍祕鈔" / zh hobogirin
         = "KEGONGOKYŌSHŌ EMPI SHŌ" /ja-rom
         = "(Hua yan wu jiao zhang yan mi chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2345A" ]
+    @"http://psi.iba-net.org/exp/hnt_2345a" ]
 {eT73n2345A, extent, [[V]]}
 {eT73n2345A, startpage, [[T73, p.623]]}
 aut(eT73n2345A : text, aut-475 : resp)
@@ -22548,7 +22548,7 @@ aut(eT73n2345A : text, aut-475 : resp)
 [eT73n2345B : exp = "華嚴五教章科" / zh hobogirin
         = "KEGONGOKYŌSHŌ KA" /ja-rom
         = "(Hua yan wu jiao zhang ke)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2345B" ]
+    @"http://psi.iba-net.org/exp/hnt_2345b" ]
 {eT73n2345B, extent, [[I]]}
 {eT73n2345B, startpage, [[T73, p.712]]}
 {eT73n2345B, xptr, [[Cf. 1866.]]}
@@ -22641,14 +22641,14 @@ aut(eT74n2357 : text, aut-510 : resp)
 [eT74n2358A : exp = "菩薩戒問答洞義抄" / zh hobogirin
         = "BOSATSUKAI MONDŌ TŌGI SHŌ" /ja-rom
         = "(Pu sa jie wen da dong yi chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2358A" ]
+    @"http://psi.iba-net.org/exp/hnt_2358a" ]
 {eT74n2358A, extent, [[I]]}
 {eT74n2358A, startpage, [[T74, p. 87]]}
 aut(eT74n2358A : text, aut-511 : resp)
 [eT74n2358B : exp = "菩薩戒綱要鈔" / zh hobogirin
         = "BOSATSUKAI KŌYŌ SHŌ" /ja-rom
         = "(Pu sa jie gang yao chao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2358B" ]
+    @"http://psi.iba-net.org/exp/hnt_2358b" ]
 {eT74n2358B, extent, [[I]]}
 {eT74n2358B, startpage, [[T74, p.98]]}
 [eT74n2359 : exp = "律宗行事目心鈔" / zh hobogirin
@@ -22905,14 +22905,14 @@ aut(eT75n2394 : text, aut-428 : resp)
 [eT75n2395A : exp = "教時諍" / zh hobogirin
         = "KYŌJI JŌ" /ja-rom
         = "(Jiao shi zheng)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2395A" ]
+    @"http://psi.iba-net.org/exp/hnt_2395a" ]
 {eT75n2395A, extent, [[I]]}
 {eT75n2395A, startpage, [[T75, p.355]]}
 aut(eT75n2395A : text, aut-428 : resp)
 [eT75n2395B : exp = "教時諍論" / zh hobogirin
         = "KYŌJI JŌ RON" /ja-rom
         = "(Jiao shi zheng lun)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2395B" ]
+    @"http://psi.iba-net.org/exp/hnt_2395b" ]
 {eT75n2395B, extent, [[I]]}
 {eT75n2395B, startpage, [[T75, p.362]]}
 aut(eT75n2395B : text, aut-428 : resp)
@@ -22988,14 +22988,14 @@ aut(eT75n2404 : text, aut-524 : resp)
 [eT75n2406A : exp = "金剛界次第生起" / zh hobogirin
         = "KONGŌKAI SHIDAI SHŌKI" /ja-rom
         = "(Jin gang jie ci di sheng qi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2406A" ]
+    @"http://psi.iba-net.org/exp/hnt_2406a" ]
 {eT75n2406A, extent, [[I]]}
 {eT75n2406A, startpage, [[T75, p.809]]}
 aut(eT75n2406A : text, aut-525 : resp)
 [eT75n2406B : exp = "謹答金剛界疑問總來十條" / zh hobogirin
         = "KINTŌ KONGŌKAI GIMON SŌRAI JŪJŌ" /ja-rom
         = "(Jin da jin gang jie yi wen zong lai shi tiao)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2406B" ]
+    @"http://psi.iba-net.org/exp/hnt_2406b" ]
 {eT75n2406B, extent, [[I]]}
 {eT75n2406B, startpage, [[T75, p.811]]}
 [eT75n2407 : exp = "隨要記" / zh hobogirin
@@ -23144,44 +23144,44 @@ aut(eT77n2427 : text, aut-421 : resp)
 [eT77n2428A : exp = "即身成佛義" / zh hobogirin
         = "SOKUSHIN JŌBUTSU GI" /ja-rom
         = "(Ji shen cheng fo yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428A" ]
+    @"http://psi.iba-net.org/exp/hnt_2428a" ]
 {eT77n2428A, extent, [[I]]}
 {eT77n2428A, startpage, [[T77, p.381]]}
 aut(eT77n2428A : text, aut-421 : resp)
 [eT77n2428B : exp = "眞言宗即身成佛義問答" / zh hobogirin
         = "SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ" /ja-rom
         = "(Zhen yan zong ji shen cheng fo yi wen da)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428B" ]
+    @"http://psi.iba-net.org/exp/hnt_2428b" ]
 {eT77n2428B, extent, [[I]]}
 {eT77n2428B, startpage, [[T77, p.384]]}
 [eT77n2428C : exp = "即身成佛義" / zh hobogirin
         = "SOKUSHIN JŌBUTSU GI" /ja-rom
         = "(Ji shen cheng fo yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428C" ]
+    @"http://psi.iba-net.org/exp/hnt_2428c" ]
 {eT77n2428C, extent, [[I]]}
 {eT77n2428C, startpage, [[T77, p.385]]}
 [eT77n2428D : exp = "眞言宗即身成佛義" / zh hobogirin
         = "SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ" /ja-rom
         = "(Zhen yan zong ji shen cheng fo yi wen da)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428D" ]
+    @"http://psi.iba-net.org/exp/hnt_2428d" ]
 {eT77n2428D, extent, [[I]]}
 {eT77n2428D, startpage, [[T77, p.387]]}
 [eT77n2428E : exp = "即身成佛義" / zh hobogirin
         = "SOKUSHIN JŌBUTSU GI" /ja-rom
         = "(Ji shen cheng fo yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428E" ]
+    @"http://psi.iba-net.org/exp/hnt_2428e" ]
 {eT77n2428E, extent, [[I]]}
 {eT77n2428E, startpage, [[T77, p.391]]}
 [eT77n2428F : exp = "即身成佛義" / zh hobogirin
         = "SOKUSHIN JŌBUTSU GI" /ja-rom
         = "(Ji shen cheng fo yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428F" ]
+    @"http://psi.iba-net.org/exp/hnt_2428f" ]
 {eT77n2428F, extent, [[I]]}
 {eT77n2428F, startpage, [[T77, p.395]]}
 [eT77n2428G : exp = "眞言宗即身成佛義問答" / zh hobogirin
         = "SHINGONSHŪ SOKUSHIN JŌBUTSU GI MONDŌ" /ja-rom
         = "(Zhen yan zong ji shen cheng fo yi wen da)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2428G" ]
+    @"http://psi.iba-net.org/exp/hnt_2428g" ]
 {eT77n2428G, extent, [[I]]}
 {eT77n2428G, startpage, [[T77, p.399]]}
 [eT77n2429 : exp = "聲字實相義" / zh hobogirin
@@ -24667,53 +24667,53 @@ aut(eT83n2652 : text, aut-567 : resp)
 [eT83n2653A : exp = "皇太子聖徳奉讃" / zh hobogirin
         = "KŌTAISHI SHŌTOKU HŌSAN" /ja-rom
         = "(Huang tai zi sheng de feng zan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2653A" ]
+    @"http://psi.iba-net.org/exp/hnt_2653a" ]
 {eT83n2653A, extent, [[I]]}
 {eT83n2653A, startpage, [[T83, p.669]]}
 aut(eT83n2653A : text, aut-567 : resp)
 [eT83n2653B : exp = "皇太子聖徳奉讃" / zh hobogirin
         = "KŌTAISHI SHŌTOKU HŌSAN" /ja-rom
         = "(Huang tai zi sheng de feng zan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2653B" ]
+    @"http://psi.iba-net.org/exp/hnt_2653b" ]
 {eT83n2653B, extent, [[I]]}
 {eT83n2653B, startpage, [[T83, p.669]]}
 [eT83n2654A : exp = "淨土三經往生文類" / zh hobogirin
         = "JŌDO SANGYŌ ŌJŌ MONRUI" /ja-rom
         = "(Jing tu san jing wang sheng wen lei)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2654A" ]
+    @"http://psi.iba-net.org/exp/hnt_2654a" ]
 {eT83n2654A, extent, [[I]]}
 {eT83n2654A, startpage, [[T83, p.672]]}
 aut(eT83n2654A : text, aut-567 : resp)
 [eT83n2654B : exp = "淨土三經往生文類" / zh hobogirin
         = "JŌDO SANGYŌ ŌJŌ MONRUI" /ja-rom
         = "(Jing tu san jing wang sheng wen lei)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2654B" ]
+    @"http://psi.iba-net.org/exp/hnt_2654b" ]
 {eT83n2654B, extent, [[I]]}
 {eT83n2654B, startpage, [[T83, p.674]]}
 [eT83n2655A : exp = "如來二種廻向文" / zh hobogirin
         = "NYORAI NISHU EKŌ MON" /ja-rom
         = "(Ru lai er zhong hui xiang wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2655A" ]
+    @"http://psi.iba-net.org/exp/hnt_2655a" ]
 {eT83n2655A, extent, [[I]]}
 {eT83n2655A, startpage, [[T83, p.677]]}
 aut(eT83n2655A : text, aut-567 : resp)
 [eT83n2655B : exp = "往相廻向還相廻向文類" / zh hobogirin
         = "ŌSŌ EKŌ GENSŌ EKŌ MONRUI" /ja-rom
         = "(Wang xiang hui xiang huan xiang hui xiang wen lei)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2655B" ]
+    @"http://psi.iba-net.org/exp/hnt_2655b" ]
 {eT83n2655B, extent, [[I]]}
 {eT83n2655B, startpage, [[T83, p.677]]}
 [eT83n2656A : exp = "尊號眞像銘文" / zh hobogirin
         = "SONGŌ SHINZŌ MEIMON" /ja-rom
         = "(Zun hao zhen xiang ming wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2656A" ]
+    @"http://psi.iba-net.org/exp/hnt_2656a" ]
 {eT83n2656A, extent, [[II]]}
 {eT83n2656A, startpage, [[T83, p.679]]}
 aut(eT83n2656A : text, aut-567 : resp)
 [eT83n2656B : exp = "尊號眞像銘文" / zh hobogirin
         = "SONGŌ SHINZŌ MEIMON" /ja-rom
         = "(Zun hao zhen xiang ming wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2656B" ]
+    @"http://psi.iba-net.org/exp/hnt_2656b" ]
 {eT83n2656B, extent, [[I]]}
 {eT83n2656B, startpage, [[T83, p.688]]}
 [eT83n2657 : exp = "一念多念文意" / zh hobogirin
@@ -24727,7 +24727,7 @@ aut(eT83n2657 : text, aut-567 : resp)
 [eT83n2658A : exp = "唯信鈔文意" / zh hobogirin
         = "YUISHINSHŌ MOṄI" /ja-rom
         = "(Wei xin chao wen yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2658A" ]
+    @"http://psi.iba-net.org/exp/hnt_2658a" ]
 {eT83n2658A, extent, [[I]]}
 {eT83n2658A, startpage, [[T83, p.699]]}
 aut(eT83n2658A : text, aut-567 : resp)
@@ -24735,7 +24735,7 @@ aut(eT83n2658A : text, aut-567 : resp)
 [eT83n2658B : exp = "唯信鈔文意" / zh hobogirin
         = "YUISHINSHŌ MOṄI" /ja-rom
         = "(Wei xin chao wen yi)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2658B" ]
+    @"http://psi.iba-net.org/exp/hnt_2658b" ]
 {eT83n2658B, extent, [[I]]}
 {eT83n2658B, startpage, [[T83, p.705]]}
 [eT83n2659 : exp = "末燈鈔" / zh hobogirin
@@ -25469,14 +25469,14 @@ aut(eT85n2758 : text, aut-594 : resp)
 [eT85n2764A : exp = "涅槃經義記" / zh hobogirin
         = "NEHANGYŌ GIKI" /ja-rom
         = "(Nie pan jing yi ji)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2764A" ]
+    @"http://psi.iba-net.org/exp/hnt_2764a" ]
 {eT85n2764A, extent, [[I]]}
 {eT85n2764A, startpage, [[T85, p.280]]}
 {eT85n2764A, xptr, [[Cf. 375]]}
 [eT85n2764B : exp = "大涅槃經義記卷第四" / zh hobogirin
         = "DAINEHANGYŌ GIKI KANDAISHI" /ja-rom
         = "(Da nie pan jing yi ji juang di si)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2764B" ]
+    @"http://psi.iba-net.org/exp/hnt_2764b" ]
 {eT85n2764B, extent, [[I]]}
 {eT85n2764B, startpage, [[T85, p.294]]}
 aut(eT85n2764B : text, aut-595 : resp)
@@ -25946,13 +25946,13 @@ aut(eT85n2827 : text, aut-604 : resp)
 [eT85n2830A : exp = "道安法師念佛讃" / zh hobogirin
         = "DŌANHŌSHI NEMBUTSU SAN" /ja-rom
         = "(Dao an fa shi nian fo zan)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2830A" ]
+    @"http://psi.iba-net.org/exp/hnt_2830a" ]
 {eT85n2830A, extent, [[I]]}
 {eT85n2830A, startpage, [[T85, p.1268]]}
 [eT85n2830B : exp = "道安法師念佛讃文" / zh hobogirin
         = "DŌANHŌSHI NEMBETSU SAMMON" /ja-rom
         = "(Dao an fa shi nian fo zan wen)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2830B" ]
+    @"http://psi.iba-net.org/exp/hnt_2830b" ]
 {eT85n2830B, extent, [[I]]}
 {eT85n2830B, startpage, [[T85, p.1269]]}
 [eT85n2831 : exp = "無心論" / zh hobogirin
@@ -26501,13 +26501,13 @@ aut(eT85n2912 : text, aut-608 : resp)
 [eT85n2917A : exp = "新菩薩經" / zh hobogirin
         = "SHIM BOSATSU KYŌ" /ja-rom
         = "(Xin pu sa jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2917A" ]
+    @"http://psi.iba-net.org/exp/hnt_2917a" ]
 {eT85n2917A, extent, [[I]]}
 {eT85n2917A, startpage, [[T85, p.1462]]}
 [eT85n2917B : exp = "" / zh hobogirin
         = "SHIM BOSATSU KYŌ" /ja-rom
         = "(Xin pu sa jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_2917B" ]
+    @"http://psi.iba-net.org/exp/hnt_2917b" ]
 {eT85n2917B, extent, [[新菩薩經 I]]}
 {eT85n2917B, startpage, [[T85, p.1462]]}
 [eT85n2918 : exp = "釋家觀化還愚經" / zh hobogirin
