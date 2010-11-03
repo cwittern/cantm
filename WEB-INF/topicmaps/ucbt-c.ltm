@@ -19913,7 +19913,6 @@ aut(eT48n2018 : text, aut-368 : resp)
 [eT48n2018app : exp = "定慧相資歌" / zh 
         = "JŌE SŌSHI KA" /ja-rom
     @"http://psi.iba-net.org/exp/hnt_2018app" ]
-{eT48n2018app, extent, [[]]}
 {eT48n2018app, startpage, [[T48, p.996]]}
 [eT48n2019A : exp = "眞心直説" / zh 
         = "SHINJIN JIKISETSU" /ja-rom
@@ -20446,7 +20445,6 @@ aut(eT51n2088 : text, aut-328 : resp)
         = "YŪHŌKI SHŌ" /ja-rom
         = "(You fang ji chao)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2089" ]
-{eT51n2089, extent, [[]]}
 {eT51n2089, startpage, [[T51, p.975]]}
 [eT51n2090 : exp = "釋迦牟尼如來像法滅盡之記" / zh 
         = "SHAKAMUNINYORAI ZŌHŌ METSUJIN SHIKI" /ja-rom
@@ -21446,19 +21444,16 @@ aut(eT58n2211A : text, aut-421 : resp)
         = "DAINICHIKYŌKAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2211b" ]
-{eT58n2211B, extent, [[]]}
 {eT58n2211B, startpage, [[T58, p. 3]]}
 [eT58n2211C : exp = "大日經略開題" / zh 
         = "DAINICHIKYŌ RYAKU KAIDAI" /ja-rom
         = "(Da ri jing lüe kai ti)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2211c" ]
-{eT58n2211C, extent, [[]]}
 {eT58n2211C, startpage, [[T58, p. 4]]}
 [eT58n2211D : exp = "大日經開題" / zh 
         = "DAINICHIKYŌ KAIDAI" /ja-rom
         = "(Da ri jing kai ti)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2211d" ]
-{eT58n2211D, extent, [[]]}
 {eT58n2211D, startpage, [[T58, p. 6]]}
 [eT58n2211E : exp = "" / zh 
         = "DAINICHIKYŌ KAIDAI" /ja-rom
@@ -21689,13 +21684,11 @@ aut(eT61n2236A : text, aut-421 : resp)
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2236b" ]
-{eT61n2236B, extent, [[]]}
 {eT61n2236B, startpage, [[T61, p.611]]}
 [eT61n2236C : exp = "理趣經開題" / zh 
         = "RISHUKYŌ KAIDAI" /ja-rom
         = "(Li qu jing kai ti)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2236c" ]
-{eT61n2236C, extent, [[]]}
 {eT61n2236C, startpage, [[T61, p.612]]}
 [eT61n2237 : exp = "眞實經文句" / zh 
         = "SHINJITSUKYŌ MONGU" /ja-rom
@@ -25728,7 +25721,6 @@ aut(eT85n2797 : text, aut-594 : resp)
         = "JŪJIRON GISHO_KANDAIICHI_DAISAN" /ja-rom
         = "(Shi di lun yi shu juang di yi di san)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2799" ]
-{eT85n2799, extent, [[]]}
 {eT85n2799, startpage, [[T85, p.761]]}
 aut(eT85n2799 : text, aut-601 : resp)
 {eT85n2799, xptr, [[Cf. 1522]]}
@@ -25773,7 +25765,6 @@ aut(eT85n2803 : text, aut-594 : resp)
         = "SHŌDAIJŌRON SHO_KANDAIGO_DAISHICHI" /ja-rom
         = "(She da cheng lun shu juang di wu, di qi)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2805" ]
-{eT85n2805, extent, [[]]}
 {eT85n2805, startpage, [[T85, p.982]]}
 {eT85n2805, xptr, [[Cf. 1595]]}
 [eT85n2806 : exp = "攝大乘論抄" / zh 
@@ -25911,7 +25902,6 @@ aut(eT85n2824 : text, aut-594 : resp)
         = "SHINGOṄ YŌKETSU_KANDAIICHI_DAISAN" /ja-rom
         = "(Zhen yan yao jue juang di yi di san)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2825" ]
-{eT85n2825, extent, [[]]}
 {eT85n2825, startpage, [[T85, p.1225]]}
 aut(eT85n2825 : text, aut-601 : resp)
 [eT85n2826 : exp = "略諸經論念佛法門往生淨土集卷上" / zh 
@@ -26529,23 +26519,18 @@ aut(eT85n2912 : text, aut-608 : resp)
 {eT85n2920, startpage, [[T85, p.1463]]}
 [eF01n0001 : exp = "大正新脩大藏經總目録" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ SŌMOKUROKU" /ja-rom]
-{eF01n0001, extent, [[]]}
 {eF01n0001, startpage, [[F01, p. 1]]}
 [eF01n0002 : exp = "大正新脩大藏經一覧" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ ICHIRAN" /ja-rom]
-{eF01n0002, extent, [[]]}
 {eF01n0002, startpage, [[F01, p. 49]]}
 [eF01n0003 : exp = "大正新脩大藏經勘同目録" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ KANDŌ MOKUROKU" /ja-rom]
-{eF01n0003, extent, [[]]}
 {eF01n0003, startpage, [[F01, p.153]]}
 [eF01n0004 : exp = "大正新脩大藏經著譯目録" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ CHOYAKU MOKUROKU" /ja-rom]
-{eF01n0004, extent, [[]]}
 {eF01n0004, startpage, [[F01, p.657]]}
 [eF01n0005 : exp = "大正新脩大藏經索引目録" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ SAKUIN MOKUROKU" /ja-rom]
-{eF01n0005, extent, [[]]}
 {eF01n0005, startpage, [[F01, p.699]]}
 [eF01n0006 : exp = "宮内省圖書寮一切經目録" / zh 
         = "KUNAISHŌ TOSHORYŌ ISSAIKYŌ MOKUROKU" /ja-rom]
@@ -26705,23 +26690,18 @@ aut(eF02n0037 : text, aut-345 : resp)
 {eF02n0038, startpage, [[F02, p.773]]}
 [eF03n0039 : exp = "續大正新脩大藏經總目録" / zh 
         = "ZOKU TAISHŌ SHINSHŪ DAIZŌKYŌ SŌMOKUROKU" /ja-rom]
-{eF03n0039, extent, [[]]}
 {eF03n0039, startpage, [[F03, p.1]]}
 [eF03n0040 : exp = "大正新脩大藏經全覧" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ ZENRAN" /ja-rom]
-{eF03n0040, extent, [[]]}
 {eF03n0040, startpage, [[F03, p.80]]}
 [eF03n0041 : exp = "續大正新脩大藏經勘同目録" / zh 
         = "ZOKU TAISHŌ SHINSHŪ DAIZŌKYŌ KANDŌ MOKUROKU" /ja-rom]
-{eF03n0041, extent, [[]]}
 {eF03n0041, startpage, [[F03, p.87]]}
 [eF03n0042 : exp = "續大正新脩大藏經著譯目録" / zh 
         = "ZOKU TAISHŌ SHINSHŪ DAIZŌKYŌ CHOYAKU MOKUROKU" /ja-rom]
-{eF03n0042, extent, [[]]}
 {eF03n0042, startpage, [[F03, p.545]]}
 [eF03n0043 : exp = "大正新脩大藏經書目總索引" / zh 
         = "TAISHŌ SHINSHŪ DAIZŌKYŌ SHOMOKU SŌSAKUIN" /ja-rom]
-{eF03n0043, extent, [[]]}
 {eF03n0043, startpage, [[F03, p.561]]}
 [eF03n0044 : exp = "大日本佛教全書總目録" / zh 
         = "DAINIHON BUKKYŌ ZENSHO SŌMOKUROKU" /ja-rom]
