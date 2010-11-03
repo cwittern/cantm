@@ -3864,7 +3864,7 @@ aut(eT02n0147 : text, aut-5 : resp)
 [eT02n0150B : exp = "九横經" / zh 
         = "KU Ō KYŌ" /ja-rom
         = "(Jiu heng jing)" /zh-py
-    @"http://psi.iba-net.org/exp/hnt_0150a"             
+    @"http://psi.iba-net.org/exp/hnt_0150b"             
      ]
 {eT02n0150B, extent, [[I]]}
 {eT02n0150B, startpage, [[T02, p.883]]}
