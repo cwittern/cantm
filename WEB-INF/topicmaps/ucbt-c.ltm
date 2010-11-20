@@ -1,6 +1,6 @@
 @"utf-8"
 #INCLUDE "ontology.ltm"
-#INCLUDE "hnx-man.ltm"
+/*#INCLUDE "hnx-man.ltm" */
 /* authors */
 [aut-1  : resp ="Butsudayasha"/ja-rom
   ="佛陀耶舍"/ zh
