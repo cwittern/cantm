@@ -1,0 +1,2243 @@
+ndiv-31 ndiv-31 None
+source25 source25 None
+resp239 纂閱
+resp14 別行疏
+date45 date45 None
+resp25 錄
+naut-1171 naut-1171 None
+naut-383 naut-383 None
+resp230 設問
+naut-599 naut-599 None
+aut-633 覺源
+aut-416 景淨
+naut-363 naut-363 None
+naut-880 naut-880 None
+naut-33 naut-33 None
+aut-132 金剛智
+naut-1123 naut-1123 None
+resp46 纂註
+naut-902 naut-902 None
+aut-189 佛陀什
+resp80 再治
+naut-19 naut-19 None
+resp155 集梓
+naut-23 naut-23 None
+aut-30 聖堅
+naut-946 naut-946 None
+naut-1106 naut-1106 None
+aut-500 實弘
+naut-454 naut-454 None
+naut-3 naut-3 None
+source3 source3 None
+naut-615 naut-615 None
+aut-303 圓測
+naut-540 naut-540 None
+naut-690 naut-690 None
+resp172 緝
+date34 date34 None
+aut-485 尊通
+naut-795 naut-795 None
+naut-470 naut-470 None
+resp43 分會
+naut-181 naut-181 None
+naut-1078 naut-1078 None
+naut-945 naut-945 None
+resp90 定
+naut-138 naut-138 None
+aut-188 ±Vajrasūkṣmāpratihatadārañī
+resp61 譯經
+aut-603 慧日
+aut-476 基辧
+naut-866 naut-866 None
+aut-329 定賓
+resp107 集解
+naut-676 naut-676 None
+naut-516 naut-516 None
+naut-637 naut-637 None
+resp170 卷
+resp86 補
+naut-567 naut-567 None
+aut-218 三寶尊
+aut-151 不空
+naut-73 naut-73 None
+naut-1086 naut-1086 None
+date36 date36 None
+aut-52 月婆首那
+naut-940 naut-940 None
+naut-941 naut-941 None
+aut-147 沙e巴
+naut-210 naut-210 None
+source20 source20 None
+naut-120 naut-120 None
+aut-472 善珠
+aut-13 鳩摩羅什
+aut-284 優波底沙
+resp238 閱
+resp118 錄集
+resp37 纂述
+naut-29 naut-29 None
+resp222 參閱
+aut-90 般若流支
+aut-150 支謙
+naut-910 naut-910 None
+date22 date22 None
+resp190 集錄
+aut-379 覺岸
+naut-790 naut-790 None
+naut-763 naut-763 None
+naut-555 naut-555 None
+naut-541 naut-541 None
+naut-1178 naut-1178 None
+aut-384 彥悰
+naut-42 naut-42 None
+naut-1005 naut-1005 None
+aut-130 惟謹
+naut-683 naut-683 None
+aut-583 信範
+resp217 傳譯
+aut-613 明達
+aut-488 貞海
+naut-950 naut-950 None
+naut-644 naut-644 None
+naut-923 naut-923 None
+naut-561 naut-561 None
+resp197 箋記
+resp82 重訂
+naut-205 naut-205 None
+naut-342 naut-342 None
+naut-895 naut-895 None
+naut-412 naut-412 None
+resp247 等編修
+role-47 role-47 None
+naut-1062 naut-1062 None
+aut-531 澄豪
+naut-699 naut-699 None
+naut-467 naut-467 None
+naut-306 naut-306 None
+aut-438 中算
+naut-224 naut-224 None
+naut-152 naut-152 None
+naut-1081 naut-1081 None
+aut-95 慧嚴
+aut-439 覺鑁
+resp227 頌古
+aut-425 惠運
+naut-574 naut-574 None
+naut-546 naut-546 None
+naut-1140 naut-1140 None
+resp116 註序
+naut-439 naut-439 None
+aut-148 指空
+aut-178 阿謨伽
+naut-458 naut-458 None
+naut-74 naut-74 None
+aut-418 靖邁
+naut-744 naut-744 None
+resp202 輯集
+aut-570 顯智
+aut-73 實叉難陀
+ndiv-15 ndiv-15 None
+resp41 訂
+naut-165 naut-165 None
+naut-528 naut-528 None
+naut-156 naut-156 None
+naut-986 naut-986 None
+aut-398 非濁
+naut-115 naut-115 None
+aut-645 如瑩
+naut-1125 naut-1125 None
+naut-931 naut-931 None
+naut-31 naut-31 None
+nresp-252 nresp-252 None
+naut-1072 naut-1072 None
+naut-838 naut-838 None
+resp206 校正
+naut-778 naut-778 None
+resp29 排訂
+naut-1001 naut-1001 None
+naut-1054 naut-1054 None
+aut-84 月婆首那
+naut-328 naut-328 None
+aut-17 求那毗地
+naut-227 naut-227 None
+naut-474 naut-474 None
+resp180 略出
+naut-628 naut-628 None
+naut-745 naut-745 None
+naut-479 naut-479 None
+aut-12 法炬
+resp75 逗註
+aut-511 英心
+resp125 造鈔
+ndiv-52 ndiv-52 None
+naut-38 naut-38 None
+aut-605 淨覺
+naut-21 naut-21 None
+naut-65 naut-65 None
+naut-534 naut-534 None
+naut-89 naut-89 None
+aut-91 康僧鎧
+aut-246 那連提耶舍
+naut-416 naut-416 None
+source11 source11 None
+naut-1147 naut-1147 None
+aut-368 延壽
+aut-74 祇多蜜
+naut-600 naut-600 None
+naut-625 naut-625 None
+naut-704 naut-704 None
+naut-499 naut-499 None
+naut-334 naut-334 None
+naut-1160 naut-1160 None
+naut-147 naut-147 None
+naut-228 naut-228 None
+aut-547 眞譽
+naut-380 naut-380 None
+naut-1003 naut-1003 None
+naut-897 naut-897 None
+aut-450 杲寶
+naut-211 naut-211 None
+aut-373 德輝
+date11 date11 None
+naut-461 naut-461 None
+aut-392 士衡
+naut-1183 naut-1183 None
+aut-444 喜海
+naut-130 naut-130 None
+naut-1127 naut-1127 None
+aut-295 戒日王
+naut-1126 naut-1126 None
+resp182 錄出
+resp33 選述
+aut-338 智周
+naut-28 naut-28 None
+naut-517 naut-517 None
+date10 date10 None
+naut-530 naut-530 None
+naut-158 naut-158 None
+aut-304 良賁
+date30 date30 None
+ndiv-06 ndiv-06 None
+naut-886 naut-886 None
+source18 source18 None
+naut-1135 naut-1135 None
+naut-529 naut-529 None
+naut-544 naut-544 None
+naut-299 naut-299 None
+aut-71 曇無蜜多
+naut-805 naut-805 None
+naut-761 naut-761 None
+aut-18 求那跋陀羅
+naut-145 naut-145 None
+aut-88 瞿曇般若流支
+naut-575 naut-575 None
+ndiv-25 ndiv-25 None
+aut-457 南忠
+naut-27 naut-27 None
+naut-305 naut-305 None
+aut-283 婆藪跋摩
+aut-635 承澄
+naut-728 naut-728 None
+aut-201 弗陀多羅多
+naut-360 naut-360 None
+naut-1011 naut-1011 None
+naut-338 naut-338 None
+aut-179 大興善寺翻經院阿闍梨[不空]
+aut-361 ©宏
+naut-667 naut-667 None
+resp244 謹撰
+naut-1071 naut-1071 None
+aut-636 澄圓
+resp149 敕集
+ndiv-32 ndiv-32 None
+naut-208 naut-208 None
+aut-161 阿目j
+aut-312 靜居
+aut-449 宥範
+aut-460 高辧
+aut-608 St
+resp210 纂輯
+resp81 排科
+aut-404 玄嶷
+ndiv-08 ndiv-08 None
+aut-99 曇摩蜜多
+naut-286 naut-286 None
+resp240 依經錄
+naut-919 naut-919 None
+aut-606 St
+naut-841 naut-841 None
+resp9 述
+nresp-254 nresp-254 None
+aut-564 大玄
+naut-635 naut-635 None
+aut-487 澄禪
+resp236 下語寄言
+naut-742 naut-742 None
+aut-577 永觀
+aut-42 道略
+resp64 彙纂
+aut-258 提婆
+naut-261 naut-261 None
+naut-1099 naut-1099 None
+naut-1103 naut-1103 None
+date13 date13 None
+naut-1014 naut-1014 None
+naut-998 naut-998 None
+naut-758 naut-758 None
+naut-1174 naut-1174 None
+resp94 輯釋
+naut-934 naut-934 None
+naut-642 naut-642 None
+aut-390 覺訓
+naut-289 naut-289 None
+naut-633 naut-633 None
+naut-1036 naut-1036 None
+resp58 註解
+naut-1134 naut-1134 None
+naut-603 naut-603 None
+date2 date2 None
+resp156 表
+aut-507 豐安
+aut-207 婆素跋陀
+naut-1122 naut-1122 None
+naut-708 naut-708 None
+naut-554 naut-554 None
+naut-1094 naut-1094 None
+aut-499 景雅
+naut-651 naut-651 None
+aut-494 良遍
+naut-62 naut-62 None
+naut-736 naut-736 None
+naut-1133 naut-1133 None
+resp15 隨疏鈔
+resp137 會譯
+naut-665 naut-665 None
+aut-110 先公
+source12 source12 None
+naut-885 naut-885 None
+resp152 等編
+aut-448 源信
+ndiv-43 ndiv-43 None
+naut-257 naut-257 None
+naut-1097 naut-1097 None
+aut-301 子ṇ
+naut-759 naut-759 None
+naut-471 naut-471 None
+naut-1188 naut-1188 None
+naut-990 naut-990 None
+resp223 頌
+naut-848 naut-848 None
+resp8 記
+naut-868 naut-868 None
+ndiv-57 ndiv-57 None
+naut-17 naut-17 None
+naut-1124 naut-1124 None
+naut-1148 naut-1148 None
+aut-374 天友
+naut-971 naut-971 None
+resp130 補作
+aut-599 ch
+resp101 略註
+naut-556 naut-556 None
+aut-389 如惺
+naut-495 naut-495 None
+naut-400 naut-400 None
+naut-505 naut-505 None
+naut-740 naut-740 None
+naut-1084 naut-1084 None
+resp128 等敕集
+ndiv-30 ndiv-30 None
+naut-857 naut-857 None
+naut-719 naut-719 None
+aut-372 如Î
+naut-674 naut-674 None
+aut-363 法照
+naut-991 naut-991 None
+naut-737 naut-737 None
+naut-891 naut-891 None
+aut-410 全眞
+aut-598 法成]
+naut-451 naut-451 None
+naut-927 naut-927 None
+naut-217 naut-217 None
+aut-108 佛陀斯那
+ndiv-07 ndiv-07 None
+resp104 纂釋
+aut-185 世親
+naut-402 naut-402 None
+resp237 同集
+naut-1162 naut-1162 None
+naut-612 naut-612 None
+naut-1053 naut-1053 None
+aut-638 觀祐
+naut-592 naut-592 None
+aut-253 眾賢
+nresp-255 nresp-255 None
+role-46 role-46 None
+naut-330 naut-330 None
+naut-1058 naut-1058 None
+aut-339 大乘光
+aut-23 玄奘
+role-50 role-50 None
+source8 source8 None
+naut-639 naut-639 None
+aut-257 波羅頗蜜多羅
+resp117 錄疏注經
+naut-514 naut-514 None
+naut-221 naut-221 None
+naut-150 naut-150 None
+naut-1089 naut-1089 None
+aut-187 曇無蘭
+aut-587 長惠
+aut-32 地婆訶羅
+naut-48 naut-48 None
+aut-111 闍那耶舍
+aut-159 解脫師子
+aut-589 聖尊
+naut-520 naut-520 None
+aut-290 蓮華戒
+naut-850 naut-850 None
+aut-430 玄日
+aut-60 不空
+aut-220 大域龍
+aut-624 良慶
+resp85 補註
+resp189 證
+ndiv-12 ndiv-12 None
+naut-253 naut-253 None
+aut-639 尊圓]
+ndiv-27 ndiv-27 None
+aut-302 善月
+naut-641 naut-641 None
+resp6 集
+naut-1007 naut-1007 None
+naut-349 naut-349 None
+naut-1161 naut-1161 None
+aut-236 僧伽提婆
+aut-105 曇摩耶舍
+aut-442 濟暹
+naut-542 naut-542 None
+aut-98 波羅頗蜜多羅
+naut-396 naut-396 None
+naut-956 naut-956 None
+naut-295 naut-295 None
+naut-515 naut-515 None
+naut-274 naut-274 None
+resp192 奉詔解釋
+naut-894 naut-894 None
+naut-915 naut-915 None
+aut-274 商羯羅主
+aut-625 宗實
+naut-1166 naut-1166 None
+naut-262 naut-262 None
+naut-415 naut-415 None
+aut-315 善導
+aut-240 迦旃延子
+naut-1101 naut-1101 None
+naut-776 naut-776 None
+naut-751 naut-751 None
+source21 source21 None
+aut-479 珍海
+naut-854 naut-854 None
+naut-671 naut-671 None
+naut-1013 naut-1013 None
+resp106 俗詮
+naut-653 naut-653 None
+naut-117 naut-117 None
+naut-457 naut-457 None
+date41 date41 None
+naut-393 naut-393 None
+resp161 較定
+naut-53 naut-53 None
+aut-271 陳那
+naut-324 naut-324 None
+naut-884 naut-884 None
+naut-1048 naut-1048 None
+aut-133 惠果
+naut-975 naut-975 None
+aut-560 戒定
+naut-273 naut-273 None
+naut-215 naut-215 None
+naut-139 naut-139 None
+naut-344 naut-344 None
+aut-626 朗澄
+aut-208 鳩摩羅佛提
+naut-576 naut-576 None
+aut-346 慧思
+naut-852 naut-852 None
+naut-1155 naut-1155 None
+naut-1012 naut-1012 None
+aut-509 覺盛
+aut-36 僧伽跋澄
+naut-968 naut-968 None
+naut-443 naut-443 None
+naut-473 naut-473 None
+naut-59 naut-59 None
+aut-465 快道
+aut-21 眞諦
+aut-378 念常
+aut-414 慧月
+aut-41 吉迦夜
+naut-1030 naut-1030 None
+naut-149 naut-149 None
+resp119 敬錄
+resp171 答
+naut-957 naut-957 None
+naut-1008 naut-1008 None
+naut-887 naut-887 None
+aut-203 法海
+aut-480 尊辧
+resp36 釋
+naut-314 naut-314 None
+aut-76 地婆訶羅
+resp146 編集
+aut-153 智通
+naut-1056 naut-1056 None
+resp28 作
+aut-493 慚安
+naut-109 naut-109 None
+ndiv-38 ndiv-38 None
+naut-1049 naut-1049 None
+aut-464 湛慧
+naut-598 naut-598 None
+naut-247 naut-247 None
+aut-313 慧遠
+naut-1182 naut-1182 None
+aut-33 闍那崛多
+naut-1115 naut-1115 None
+aut-267 阿僧伽
+aut-123 若羅嚴
+aut-420 最澄
+naut-1120 naut-1120 None
+naut-237 naut-237 None
+naut-126 naut-126 None
+resp233 勘
+aut-616 *Jōdoinshō
+resp157 編纂
+aut-80 曼陀羅仙
+naut-281 naut-281 None
+resp60 會編
+resp22 解
+naut-806 naut-806 None
+aut-602 文軌
+naut-706 naut-706 None
+resp160 編述
+ndiv-13 ndiv-13 None
+aut-93 O良耶舍
+naut-916 naut-916 None
+naut-686 naut-686 None
+naut-845 naut-845 None
+resp84 會疏
+aut-317 慧淨
+aut-515 蓮剛
+resp97 合會
+naut-951 naut-951 None
+naut-341 naut-341 None
+aut-280 德慧
+naut-348 naut-348 None
+naut-547 naut-547 None
+naut-1015 naut-1015 None
+naut-711 naut-711 None
+aut-402 法琳
+naut-1085 naut-1085 None
+naut-1028 naut-1028 None
+naut-333 naut-333 None
+naut-828 naut-828 None
+naut-311 naut-311 None
+naut-392 naut-392 None
+aut-300 元曉
+naut-231 naut-231 None
+naut-207 naut-207 None
+naut-982 naut-982 None
+aut-529 光宗
+aut-184 曇曜
+aut-576 託何
+naut-480 naut-480 None
+naut-1045 naut-1045 None
+naut-962 naut-962 None
+date38 date38 None
+naut-417 naut-417 None
+aut-325 眞宗
+naut-121 naut-121 None
+naut-730 naut-730 None
+resp188 問
+ndiv-48 ndiv-48 None
+date23 date23 None
+naut-44 naut-44 None
+aut-68 求那跋陀羅
+naut-1102 naut-1102 None
+ndiv-24 ndiv-24 None
+naut-1136 naut-1136 None
+aut-242 曇摩崛多
+naut-55 naut-55 None
+naut-572 naut-572 None
+role-51 role-51 None
+naut-446 naut-446 None
+aut-57 笈多
+resp248 重校
+naut-964 naut-964 None
+aut-386 慧立
+naut-178 naut-178 None
+aut-219 大域龍
+naut-449 naut-449 None
+naut-855 naut-855 None
+naut-853 naut-853 None
+aut-37 迦留陀伽
+resp121 錄註
+aut-25 僧伽斯那
+naut-226 naut-226 None
+resp100 出
+naut-989 naut-989 None
+aut-536 實慧
+naut-876 naut-876 None
+resp4 合
+aut-172 瞿多
+naut-981 naut-981 None
+naut-552 naut-552 None
+naut-453 naut-453 None
+naut-510 naut-510 None
+aut-411 禮言
+naut-829 naut-829 None
+aut-192 覺賢
+naut-610 naut-610 None
+naut-358 naut-358 None
+naut-780 naut-780 None
+naut-525 naut-525 None
+aut-447 良忠
+naut-85 naut-85 None
+resp201 重輯
+aut-521 仁空
+naut-284 naut-284 None
+naut-332 naut-332 None
+aut-629 信Ω
+naut-749 naut-749 None
+naut-97 naut-97 None
+naut-232 naut-232 None
+aut-559 運敞
+aut-403 復禮
+aut-514 義眞
+naut-994 naut-994 None
+naut-172 naut-172 None
+naut-223 naut-223 None
+naut-403 naut-403 None
+naut-61 naut-61 None
+naut-1021 naut-1021 None
+naut-84 naut-84 None
+aut-382 僧祐
+naut-346 naut-346 None
+naut-8 naut-8 None
+naut-141 naut-141 None
+aut-473 良算
+aut-532 了惠
+naut-162 naut-162 None
+naut-34 naut-34 None
+aut-544 元杲
+aut-432 平祚
+aut-604 法照
+aut-458 明覺
+ndiv-28 ndiv-28 None
+naut-1034 naut-1034 None
+aut-196 羅什
+naut-1173 naut-1173 None
+aut-230 舍利子
+naut-973 naut-973 None
+date15 date15 None
+naut-1145 naut-1145 None
+naut-601 naut-601 None
+naut-801 naut-801 None
+naut-735 naut-735 None
+aut-643 dyn
+resp132 續編
+naut-1017 naut-1017 None
+ndiv-04 ndiv-04 None
+naut-824 naut-824 None
+aut-397 懷信
+naut-364 naut-364 None
+naut-716 naut-716 None
+naut-317 naut-317 None
+naut-717 naut-717 None
+naut-1128 naut-1128 None
+naut-1031 naut-1031 None
+aut-190 明徽
+naut-1076 naut-1076 None
+naut-190 naut-190 None
+resp16 撰述
+naut-935 naut-935 None
+naut-16 naut-16 None
+naut-1144 naut-1144 None
+naut-381 naut-381 None
+aut-567 親鸞
+naut-132 naut-132 None
+naut-578 naut-578 None
+naut-452 naut-452 None
+aut-181 金俱C
+naut-142 naut-142 None
+aut-538 重譽
+aut-630 心覺]
+naut-537 naut-537 None
+resp164 隨筆
+aut-405 祥邁
+naut-68 naut-68 None
+naut-756 naut-756 None
+aut-443 湛叡
+naut-76 naut-76 None
+ndiv-41 ndiv-41 None
+source6 source6 None
+aut-383 曇摩難提
+naut-134 naut-134 None
+naut-1158 naut-1158 None
+naut-140 naut-140 None
+aut-307 智g
+naut-779 naut-779 None
+naut-1026 naut-1026 None
+naut-1063 naut-1063 None
+naut-738 naut-738 None
+resp229 集竝著語
+naut-50 naut-50 None
+naut-1068 naut-1068 None
+naut-784 naut-784 None
+resp124 要解
+naut-840 naut-840 None
+aut-171 般若斫羯羅
+naut-1080 naut-1080 None
+aut-249 塞建陀羅
+naut-865 naut-865 None
+naut-810 naut-810 None
+aut-555 榮然
+aut-5 317-420
+naut-292 naut-292 None
+aut-512 忍仙
+aut-47 法炬
+naut-1186 naut-1186 None
+aut-456 眞興
+aut-45 法救
+naut-721 naut-721 None
+naut-809 naut-809 None
+naut-14 naut-14 None
+aut-282 訶梨跋摩
+naut-1090 naut-1090 None
+naut-579 naut-579 None
+resp224 續集
+naut-15 naut-15 None
+resp143 補譯
+naut-748 naut-748 None
+source17 source17 None
+naut-490 naut-490 None
+aut-513 宗覺
+naut-769 naut-769 None
+resp65 解釋
+naut-820 naut-820 None
+aut-289 自在
+resp209 同錄
+naut-669 naut-669 None
+naut-1047 naut-1047 None
+naut-116 naut-116 None
+naut-270 naut-270 None
+aut-618 嚴覺
+naut-772 naut-772 None
+aut-288 釋迦稱
+resp66 科會
+aut-141 般刺蜜帝
+naut-164 naut-164 None
+resp228 重續
+naut-359 naut-359 None
+naut-87 naut-87 None
+aut-492 護命
+aut-64 智慧輪
+naut-892 naut-892 None
+ndiv-18 ndiv-18 None
+naut-509 naut-509 None
+resp50 敕撰
+naut-562 naut-562 None
+naut-533 naut-533 None
+naut-650 naut-650 None
+naut-672 naut-672 None
+aut-588 宗快
+resp232 御選
+aut-69 毗尼多流支
+naut-634 naut-634 None
+resp165 重編
+naut-608 naut-608 None
+naut-345 naut-345 None
+naut-182 naut-182 None
+aut-592 曇曠
+resp51 會釋
+resp166 輯編
+naut-466 naut-466 None
+aut-640 兼胤
+aut-419 恆安
+naut-1151 naut-1151 None
+naut-347 naut-347 None
+naut-783 naut-783 None
+ndiv-49 ndiv-49 None
+aut-212 無著
+naut-1009 naut-1009 None
+naut-794 naut-794 None
+naut-1142 naut-1142 None
+naut-800 naut-800 None
+naut-293 naut-293 None
+aut-38 馬鳴
+naut-522 naut-522 None
+naut-684 naut-684 None
+resp212 說常攝集
+naut-1041 naut-1041 None
+aut-70 曇摩伽陀耶舍
+aut-135 一行
+naut-12 naut-12 None
+naut-705 naut-705 None
+aut-275 Rushi瞿曇流支
+aut-461 凝然
+naut-122 naut-122 None
+naut-566 naut-566 None
+aut-388 贊寧
+naut-191 naut-191 None
+aut-83 康僧鎧
+aut-467 英憲
+naut-337 naut-337 None
+naut-585 naut-585 None
+resp72 纂要
+naut-1039 naut-1039 None
+resp39 集記
+naut-371 naut-371 None
+aut-381 一然
+aut-482 信堅
+aut-186 智威
+naut-814 naut-814 None
+naut-469 naut-469 None
+resp242 始集
+date6 date6 None
+resp120 治定
+aut-469 快憲
+naut-932 naut-932 None
+resp42 論
+naut-151 naut-151 None
+naut-862 naut-862 None
+naut-1098 naut-1098 None
+naut-233 naut-233 None
+naut-978 naut-978 None
+date8 date8 None
+naut-595 naut-595 None
+aut-582 心覺
+naut-494 naut-494 None
+naut-907 naut-907 None
+naut-1170 naut-1170 None
+naut-353 naut-353 None
+resp185 疑問
+naut-220 naut-220 None
+naut-327 naut-327 None
+aut-278 覺吉祥智
+naut-155 naut-155 None
+aut-574 *Gosegatarikikigaki
+naut-799 naut-799 None
+source23 source23 None
+naut-365 naut-365 None
+naut-822 naut-822 None
+aut-615 亮憲
+naut-82 naut-82 None
+aut-131 義操
+naut-836 naut-836 None
+naut-88 naut-88 None
+naut-1083 naut-1083 None
+aut-571 定專
+naut-24 naut-24 None
+naut-570 naut-570 None
+aut-225 逹磨菩提
+aut-222 勒那摩提
+naut-5 naut-5 None
+naut-821 naut-821 None
+aut-387 慧皎
+naut-303 naut-303 None
+naut-222 naut-222 None
+naut-977 naut-977 None
+naut-890 naut-890 None
+naut-406 naut-406 None
+resp134 共譯
+naut-259 naut-259 None
+aut-540 興然
+naut-1168 naut-1168 None
+naut-239 naut-239 None
+naut-39 naut-39 None
+aut-14 曇無讖
+naut-1029 naut-1029 None
+naut-1000 naut-1000 None
+resp147 同述
+naut-963 naut-963 None
+aut-642 隋天
+aut-259 羅什
+naut-128 naut-128 None
+aut-103 沮渠京聲
+naut-873 naut-873 None
+aut-22 義淨
+resp154 拈別
+aut-607 惠辨
+aut-144 尸羅跋陀羅
+naut-752 naut-752 None
+aut-517 證眞
+naut-131 naut-131 None
+resp10 造論
+resp126 註釋
+aut-475 普寂
+naut-1113 naut-1113 None
+naut-354 naut-354 None
+naut-1149 naut-1149 None
+date26 date26 None
+naut-244 naut-244 None
+naut-389 naut-389 None
+naut-833 naut-833 None
+aut-215 世親
+naut-1 naut-1 None
+date37 date37 None
+date4 date4 None
+naut-335 naut-335 None
+naut-851 naut-851 None
+aut-29 智嚴
+source13 source13 None
+aut-167 海雲
+aut-169 阿質達霰
+aut-429 圓超
+naut-1079 naut-1079 None
+aut-354 潛眞]
+naut-781 naut-781 None
+role-59 role-59 None
+resp151 編輯
+aut-477 明詮
+naut-545 naut-545 None
+aut-158 耶舍崛多
+role-49 role-49 None
+resp108 證義
+aut-149 牟尼室利
+naut-123 naut-123 None
+date20 date20 None
+resp67 撰集
+aut-406 道世
+naut-249 naut-249 None
+aut-400 元開
+naut-680 naut-680 None
+naut-832 naut-832 None
+naut-57 naut-57 None
+aut-622 賢寶
+naut-1064 naut-1064 None
+aut-610 蓮惠
+naut-432 naut-432 None
+aut-322 僧肇
+naut-248 naut-248 None
+naut-698 naut-698 None
+ndiv-16 ndiv-16 None
+resp109 補遺
+naut-83 naut-83 None
+resp96 重定
+aut-229 天親
+resp235 校勘
+naut-409 naut-409 None
+resp214 存
+naut-148 naut-148 None
+resp138 謹敘
+naut-733 naut-733 None
+resp213 現
+naut-786 naut-786 None
+aut-8 施護
+naut-183 naut-183 None
+naut-309 naut-309 None
+naut-492 naut-492 None
+naut-41 naut-41 None
+aut-9 闍那崛多
+naut-937 naut-937 None
+naut-135 naut-135 None
+naut-236 naut-236 None
+naut-433 naut-433 None
+naut-1100 naut-1100 None
+resp63 次
+naut-1025 naut-1025 None
+source16 source16 None
+naut-26 naut-26 None
+naut-626 naut-626 None
+ndiv-33 ndiv-33 None
+naut-620 naut-620 None
+resp7 
+aut-199 勝友
+naut-969 naut-969 None
+aut-260 聖天
+naut-315 naut-315 None
+aut-631 亮尊]
+aut-314 ƒ興
+resp98 續釋
+aut-214 金剛仙
+naut-812 naut-812 None
+naut-842 naut-842 None
+aut-113 法天
+naut-213 naut-213 None
+naut-271 naut-271 None
+aut-437 明一
+aut-291 實叉難陀
+aut-506 鳳潭
+naut-960 naut-960 None
+aut-337 遁倫
+naut-1154 naut-1154 None
+aut-66 竺法護
+resp103 集撰
+resp162 彙編
+resp195 輯敘
+naut-958 naut-958 None
+naut-901 naut-901 None
+naut-568 naut-568 None
+aut-281 八思巴
+naut-713 naut-713 None
+aut-197 僧V
+aut-227 眞諦
+aut-424 圓仁
+naut-1022 naut-1022 None
+naut-52 naut-52 None
+resp52 排定
+naut-613 naut-613 None
+resp215 節鈔
+aut-415 拂多誕
+ndiv-54 ndiv-54 None
+naut-430 naut-430 None
+aut-61 不空
+aut-211 龍樹
+resp226 擊節
+naut-702 naut-702 None
+naut-491 naut-491 None
+naut-254 naut-254 None
+naut-636 naut-636 None
+resp87 入疏箋經加註釋疏
+aut-474 光胤
+naut-912 naut-912 None
+naut-256 naut-256 None
+resp55 科
+role-62 role-62 None
+aut-370 智徹
+aut-109 佛陀蜜多
+resp13 敕述
+nresp-253 nresp-253 None
+naut-377 naut-377 None
+naut-189 naut-189 None
+naut-269 naut-269 None
+naut-40 naut-40 None
+naut-105 naut-105 None
+naut-382 naut-382 None
+aut-318 智圓
+ndiv-51 ndiv-51 None
+aut-526 皇慶
+naut-720 naut-720 None
+naut-438 naut-438 None
+naut-596 naut-596 None
+aut-556 興雅
+aut-426 圓珍
+naut-436 naut-436 None
+aut-525 最圓
+naut-445 naut-445 None
+naut-1095 naut-1095 None
+naut-101 naut-101 None
+aut-445 信瑞
+resp31 疏
+aut-252 安慧
+aut-87 僧伽婆羅
+naut-715 naut-715 None
+aut-11 瞿曇僧伽堤婆
+naut-1088 naut-1088 None
+aut-407 道誠
+aut-345 惟白
+naut-154 naut-154 None
+resp181 補定
+aut-3 法天
+naut-1044 naut-1044 None
+naut-66 naut-66 None
+ndiv-46 ndiv-46 None
+aut-617 覺禪
+naut-616 naut-616 None
+resp133 譯重頌
+naut-497 naut-497 None
+aut-138 阿旺札什
+resp114 略解
+aut-7 法賢
+date12 date12 None
+aut-569 *Rennyoshōningoichidaimonsho
+naut-948 naut-948 None
+naut-437 naut-437 None
+naut-663 naut-663 None
+naut-51 naut-51 None
+naut-661 naut-661 None
+naut-694 naut-694 None
+aut-385 冥詳
+aut-394 道原
+naut-280 naut-280 None
+naut-401 naut-401 None
+aut-554 教舜
+aut-501 壽靈
+resp112 集釋
+naut-1187 naut-1187 None
+aut-198 aut-198 None
+resp173 共集
+naut-617 naut-617 None
+resp131 等校勘
+naut-882 naut-882 None
+aut-81 佛陀扇多
+resp183 詳解
+naut-170 naut-170 None
+naut-1002 naut-1002 None
+ndiv-09 ndiv-09 None
+aut-634 永範
+resp57 解註
+naut-1138 naut-1138 None
+aut-591 寶達
+aut-637 Coll
+naut-1180 naut-1180 None
+naut-102 naut-102 None
+naut-695 naut-695 None
+aut-224 毗目智仙
+naut-331 naut-331 None
+source5 source5 None
+aut-285 淨意
+naut-602 naut-602 None
+aut-228 親光
+naut-45 naut-45 None
+resp20 於大疏略出
+resp167 抄
+aut-254 青目
+naut-944 naut-944 None
+naut-550 naut-550 None
+aut-399 圓照
+resp219 說義
+naut-124 naut-124 None
+resp59 纂
+aut-393 戒珠
+naut-952 naut-952 None
+naut-188 naut-188 None
+aut-566 淨音
+aut-53 僧伽娑羅
+naut-624 naut-624 None
+naut-1046 naut-1046 None
+aut-546 寬助
+naut-768 naut-768 None
+date40 date40 None
+naut-1132 naut-1132 None
+aut-239 尸陀槃尼
+naut-696 naut-696 None
+naut-797 naut-797 None
+naut-313 naut-313 None
+naut-166 naut-166 None
+aut-428 安然
+source26 source26 None
+naut-322 naut-322 None
+naut-489 naut-489 None
+naut-646 naut-646 None
+aut-367 玄覺
+naut-995 naut-995 None
+resp24 著
+naut-1038 naut-1038 None
+aut-541 德一
+resp158 編修
+aut-590 道氤
+naut-792 naut-792 None
+naut-803 naut-803 None
+naut-36 naut-36 None
+aut-122 竺法蘭
+naut-992 naut-992 None
+resp73 造
+naut-241 naut-241 None
+aut-328 道宣
+aut-534 覺千
+naut-379 naut-379 None
+naut-913 naut-913 None
+naut-889 naut-889 None
+naut-72 naut-72 None
+date21 date21 None
+aut-584 了尊
+aut-59 金剛智
+naut-993 naut-993 None
+source2 source2 None
+naut-464 naut-464 None
+naut-197 naut-197 None
+aut-408 希麟
+naut-119 naut-119 None
+naut-1051 naut-1051 None
+resp47 書
+naut-584 naut-584 None
+resp44 演義
+naut-908 naut-908 None
+naut-442 naut-442 None
+aut-166 不空
+naut-911 naut-911 None
+naut-99 naut-99 None
+naut-129 naut-129 None
+resp77 構錄
+aut-44 求那毗地
+naut-460 naut-460 None
+naut-1074 naut-1074 None
+aut-102 那提
+aut-351 遵式
+naut-988 naut-988 None
+naut-455 naut-455 None
+naut-0 naut-0 None
+naut-609 naut-609 None
+naut-478 naut-478 None
+naut-750 naut-750 None
+aut-335 法寶
+naut-767 naut-767 None
+naut-678 naut-678 None
+aut-58 菩提流志
+aut-413 迦毗羅
+ndiv-47 ndiv-47 None
+ndiv-21 ndiv-21 None
+naut-788 naut-788 None
+naut-549 naut-549 None
+ndiv-17 ndiv-17 None
+naut-440 naut-440 None
+aut-235 迦旃延子
+naut-1184 naut-1184 None
+naut-551 naut-551 None
+aut-63 般若
+naut-586 naut-586 None
+naut-125 naut-125 None
+aut-155 慧智
+naut-1121 naut-1121 None
+naut-905 naut-905 None
+naut-265 naut-265 None
+aut-548 永嚴
+naut-1175 naut-1175 None
+role-52 role-52 None
+naut-560 naut-560 None
+aut-323 寶臣
+naut-369 naut-369 None
+naut-607 naut-607 None
+naut-264 naut-264 None
+naut-697 naut-697 None
+resp246 錄撰
+naut-426 naut-426 None
+ndiv-35 ndiv-35 None
+role-63 role-63 None
+date39 date39 None
+aut-191 愛同
+aut-125 佛陀多羅
+naut-966 naut-966 None
+resp122 疏鈔
+naut-450 naut-450 None
+naut-10 naut-10 None
+naut-234 naut-234 None
+ndiv-42 ndiv-42 None
+aut-119 嚴佛調
+naut-287 naut-287 None
+aut-595 Nakamura
+aut-272 堅慧
+naut-980 naut-980 None
+aut-104 法場
+aut-623 幸嚴
+naut-511 naut-511 None
+naut-175 naut-175 None
+aut-391 僧詳
+naut-949 naut-949 None
+naut-325 naut-325 None
+naut-630 naut-630 None
+naut-564 naut-564 None
+naut-310 naut-310 None
+aut-580 日向
+naut-920 naut-920 None
+naut-243 naut-243 None
+date31 date31 None
+naut-272 naut-272 None
+naut-843 naut-843 None
+aut-245 優波扇多
+naut-535 naut-535 None
+naut-532 naut-532 None
+naut-691 naut-691 None
+aut-441 平備
+naut-681 naut-681 None
+naut-985 naut-985 None
+resp200 彙箋
+aut-321 大賢
+naut-830 naut-830 None
+naut-1060 naut-1060 None
+aut-163 菩提仙
+aut-435 永超
+aut-168 空t
+aut-336 圓暉
+aut-270 勒那摩提
+naut-858 naut-858 None
+naut-429 naut-429 None
+naut-187 naut-187 None
+naut-869 naut-869 None
+naut-1163 naut-1163 None
+naut-456 naut-456 None
+ndiv-29 ndiv-29 None
+naut-930 naut-930 None
+aut-558 順繼
+aut-621 定眞
+ndiv-40 ndiv-40 None
+aut-497 普機
+resp193 拔出
+naut-955 naut-955 None
+resp196 撰錄
+naut-903 naut-903 None
+naut-1059 naut-1059 None
+naut-481 naut-481 None
+naut-1027 naut-1027 None
+aut-117 觀無畏
+naut-267 naut-267 None
+naut-212 naut-212 None
+aut-422 常曉
+aut-498 親圓
+resp218 重校編集
+naut-374 naut-374 None
+naut-818 naut-818 None
+naut-1118 naut-1118 None
+aut-297 道安
+aut-462 照遠
+aut-311 澄觀
+naut-571 naut-571 None
+resp88 發隱
+naut-652 naut-652 None
+aut-145 佛陀波利
+aut-97 若那跋陀羅
+naut-808 naut-808 None
+naut-513 naut-513 None
+role-57 role-57 None
+aut-380 幻輪
+naut-4 naut-4 None
+naut-355 naut-355 None
+naut-657 naut-657 None
+resp184 會
+naut-423 naut-423 None
+naut-1185 naut-1185 None
+naut-597 naut-597 None
+aut-478 觀理
+aut-502 審乘
+resp163 輯著
+naut-434 naut-434 None
+naut-350 naut-350 None
+naut-113 naut-113 None
+naut-785 naut-785 None
+aut-195 弗若多羅
+naut-741 naut-741 None
+naut-283 naut-283 None
+aut-524 覺超
+aut-177 神y
+naut-501 naut-501 None
+naut-1165 naut-1165 None
+aut-54 翔公
+naut-685 naut-685 None
+aut-539 經尋
+naut-710 naut-710 None
+aut-369 知訥
+aut-126 善無畏
+naut-979 naut-979 None
+resp35 鈔
+aut-565 證空
+naut-1181 naut-1181 None
+naut-13 naut-13 None
+aut-581 玄昭
+aut-294 寂友
+role-55 role-55 None
+aut-118 曇景
+naut-804 naut-804 None
+aut-277 堅意
+aut-221 婆藪槃豆
+naut-201 naut-201 None
+aut-562 源空
+resp231 仰答
+naut-1146 naut-1146 None
+naut-225 naut-225 None
+naut-282 naut-282 None
+naut-1179 naut-1179 None
+aut-152 彌陀山
+aut-326 不可思議
+naut-263 naut-263 None
+ndiv-11 ndiv-11 None
+resp54 解義
+naut-378 naut-378 None
+aut-563 聖覺
+aut-231 大目乾連
+aut-49 法救
+aut-327 法崇
+naut-770 naut-770 None
+aut-176 般若力
+aut-436 義天
+aut-470 藏海
+resp45 定本
+aut-350 懷則
+naut-251 naut-251 None
+ndiv-39 ndiv-39 None
+naut-424 naut-424 None
+naut-563 naut-563 None
+naut-250 naut-250 None
+naut-1152 naut-1152 None
+naut-548 naut-548 None
+aut-65 法成
+naut-539 naut-539 None
+role-61 role-61 None
+naut-987 naut-987 None
+naut-649 naut-649 None
+aut-310 知禮
+aut-522 惟賢
+aut-263 提婆羅
+naut-591 naut-591 None
+naut-1092 naut-1092 None
+aut-575 隆寬
+aut-115 僧伽跋摩
+aut-292 求那跋摩
+naut-425 naut-425 None
+naut-743 naut-743 None
+naut-662 naut-662 None
+naut-171 naut-171 None
+resp198 科釋
+aut-89 毗目智仙
+aut-481 道範
+naut-731 naut-731 None
+naut-782 naut-782 None
+naut-245 naut-245 None
+aut-366 弘忍
+aut-528 靜然
+naut-668 naut-668 None
+resp187 決答
+resp250 第編
+naut-703 naut-703 None
+aut-644 慶吉祥
+resp123 擷
+naut-107 naut-107 None
+naut-100 naut-100 None
+naut-627 naut-627 None
+naut-536 naut-536 None
+naut-682 naut-682 None
+naut-605 naut-605 None
+aut-412 怛多蘗多波羅
+naut-202 naut-202 None
+naut-659 naut-659 None
+naut-93 naut-93 None
+naut-136 naut-136 None
+ndiv-44 ndiv-44 None
+resp135 再譯
+naut-557 naut-557 None
+aut-332 義寂
+naut-238 naut-238 None
+naut-356 naut-356 None
+resp95 輯
+naut-485 naut-485 None
+aut-320 灌頂
+aut-162 菩提流志
+naut-521 naut-521 None
+date28 date28 None
+naut-775 naut-775 None
+naut-1139 naut-1139 None
+aut-557 恭畏
+aut-244 法勝
+date1 date1 None
+aut-471 增賀
+naut-77 naut-77 None
+aut-79 吉迦夜
+aut-491 實慶
+date5 date5 None
+aut-417 法經
+aut-121 迦葉摩騰
+naut-185 naut-185 None
+aut-19 瞿曇法智
+ndiv-55 ndiv-55 None
+naut-255 naut-255 None
+naut-63 naut-63 None
+ndiv-02 ndiv-02 None
+aut-347 諦觀
+naut-764 naut-764 None
+date9 date9 None
+naut-167 naut-167 None
+date25 date25 None
+naut-503 naut-503 None
+aut-348 繼忠
+naut-888 naut-888 None
+resp69 句
+aut-309 慧沼
+naut-677 naut-677 None
+aut-341 文才
+aut-409 智廣
+aut-375 世友
+ndiv-53 ndiv-53 None
+date14 date14 None
+naut-9 naut-9 None
+aut-26 般若
+naut-1153 naut-1153 None
+naut-1035 naut-1035 None
+aut-535 眞盛
+aut-504 靈波
+resp53 綱
+naut-336 naut-336 None
+naut-906 naut-906 None
+naut-288 naut-288 None
+aut-77 提雲般若
+naut-918 naut-918 None
+naut-961 naut-961 None
+naut-942 naut-942 None
+naut-1109 naut-1109 None
+resp141 略
+aut-264 清辯
+naut-2 naut-2 None
+naut-496 naut-496 None
+naut-538 naut-538 None
+resp23 注
+naut-926 naut-926 None
+naut-276 naut-276 None
+naut-621 naut-621 None
+naut-196 naut-196 None
+naut-1110 naut-1110 None
+naut-523 naut-523 None
+aut-28 瞿曇般若流支
+aut-129 法全
+naut-323 naut-323 None
+naut-727 naut-727 None
+naut-11 naut-11 None
+naut-629 naut-629 None
+naut-404 naut-404 None
+naut-917 naut-917 None
+naut-1006 naut-1006 None
+naut-275 naut-275 None
+naut-366 naut-366 None
+aut-489 聞證
+aut-248 瞿沙
+naut-98 naut-98 None
+naut-427 naut-427 None
+aut-160 慈賢
+aut-516 忠尋
+aut-223 天親
+naut-645 naut-645 None
+naut-762 naut-762 None
+naut-725 naut-725 None
+aut-484 榮西
+naut-1023 naut-1023 None
+naut-925 naut-925 None
+naut-297 naut-297 None
+date7 date7 None
+naut-90 naut-90 None
+aut-343 義湘
+aut-10 達摩笈多
+naut-996 naut-996 None
+naut-143 naut-143 None
+naut-319 naut-319 None
+naut-753 naut-753 None
+aut-268 無性
+naut-921 naut-921 None
+resp99 改錄
+resp27 會合
+naut-80 naut-80 None
+naut-701 naut-701 None
+naut-771 naut-771 None
+naut-199 naut-199 None
+naut-687 naut-687 None
+naut-967 naut-967 None
+naut-712 naut-712 None
+naut-796 naut-796 None
+source4 source4 None
+aut-279 善寂
+aut-523 敬光
+aut-4 白法祖
+naut-983 naut-983 None
+naut-56 naut-56 None
+aut-527 長宴
+naut-235 naut-235 None
+naut-594 naut-594 None
+naut-411 naut-411 None
+aut-251 婆藪槃豆
+naut-943 naut-943 None
+naut-47 naut-47 None
+naut-619 naut-619 None
+aut-451 賴瑜
+naut-588 naut-588 None
+aut-205 彌勒
+naut-746 naut-746 None
+naut-1143 naut-1143 None
+aut-553 深賢
+resp83 分科
+naut-218 naut-218 None
+naut-883 naut-883 None
+naut-558 naut-558 None
+naut-361 naut-361 None
+naut-104 naut-104 None
+naut-846 naut-846 None
+aut-543 淳祐
+aut-56 眞諦
+naut-1093 naut-1093 None
+naut-1129 naut-1129 None
+aut-423 圓行
+aut-401 延一
+naut-58 naut-58 None
+aut-78 曇摩流支
+resp17 疏義
+naut-1061 naut-1061 None
+naut-928 naut-928 None
+resp105 贅言
+naut-240 naut-240 None
+naut-410 naut-410 None
+naut-1055 naut-1055 None
+aut-377 志磐
+naut-847 naut-847 None
+resp252 選
+resp194 傳
+ndiv-50 ndiv-50 None
+naut-1141 naut-1141 None
+aut-2 竺佛念
+date32 date32 None
+aut-510 叡尊
+naut-670 naut-670 None
+resp38 宗通
+naut-618 naut-618 None
+naut-386 naut-386 None
+aut-505 實英
+naut-200 naut-200 None
+naut-1112 naut-1112 None
+aut-601 II
+naut-67 naut-67 None
+aut-241 曇摩耶舍
+source10 source10 None
+resp174 評唱
+naut-70 naut-70 None
+aut-164 釋智
+naut-7 naut-7 None
+naut-970 naut-970 None
+naut-192 naut-192 None
+resp78 編定
+resp199 訂閱
+naut-1164 naut-1164 None
+resp211 等集
+aut-609 隆譽
+naut-1010 naut-1010 None
+naut-863 naut-863 None
+naut-899 naut-899 None
+aut-75 尸羅逹摩
+naut-1167 naut-1167 None
+naut-193 naut-193 None
+naut-693 naut-693 None
+naut-689 naut-689 None
+aut-82 那連提耶舍
+naut-623 naut-623 None
+naut-92 naut-92 None
+naut-793 naut-793 None
+aut-183 帛尸梨蜜多羅
+resp139 敕譯
+aut-16 竺法護
+source24 source24 None
+naut-428 naut-428 None
+naut-1159 naut-1159 None
+resp32 說
+ndiv-45 ndiv-45 None
+source7 source7 None
+naut-106 naut-106 None
+resp40 筆記
+naut-472 naut-472 None
+resp92 會補
+naut-1075 naut-1075 None
+ndiv-36 ndiv-36 None
+naut-43 naut-43 None
+naut-373 naut-373 None
+aut-365 僧ı
+naut-160 naut-160 None
+aut-157 蘇m羅
+aut-6 法顯
+aut-466 法幢
+naut-722 naut-722 None
+naut-407 naut-407 None
+aut-306 師會
+naut-95 naut-95 None
+naut-583 naut-583 None
+naut-1018 naut-1018 None
+naut-316 naut-316 None
+aut-342 普泰
+naut-487 naut-487 None
+naut-111 naut-111 None
+naut-390 naut-390 None
+resp175 正
+naut-999 naut-999 None
+resp74 科註
+aut-182 跋馱木阿
+naut-118 naut-118 None
+aut-112 寶思惟
+aut-217 勝德赤衣
+aut-641 定智
+naut-811 naut-811 None
+naut-825 naut-825 None
+naut-947 naut-947 None
+resp177 編敘
+aut-137 工布査布
+naut-133 naut-133 None
+naut-1114 naut-1114 None
+naut-260 naut-260 None
+aut-96 謝靈運
+aut-454 賴尊
+naut-1073 naut-1073 None
+aut-619 雙珠
+aut-371 淨善
+aut-174 憬瑟
+naut-864 naut-864 None
+aut-202 僧伽跋陀羅
+naut-914 naut-914 None
+naut-465 naut-465 None
+date16 date16 None
+naut-49 naut-49 None
+naut-729 naut-729 None
+naut-1024 naut-1024 None
+naut-666 naut-666 None
+aut-573 親鸞]
+resp49 譯竝解述
+naut-368 naut-368 None
+naut-422 naut-422 None
+naut-577 naut-577 None
+naut-1176 naut-1176 None
+naut-819 naut-819 None
+naut-974 naut-974 None
+aut-357 迦才
+naut-352 naut-352 None
+naut-573 naut-573 None
+naut-46 naut-46 None
+aut-421 空海
+naut-859 naut-859 None
+aut-579 日興
+aut-597 道掖
+naut-419 naut-419 None
+role-58 role-58 None
+naut-1111 naut-1111 None
+naut-1156 naut-1156 None
+naut-924 naut-924 None
+naut-153 naut-153 None
+aut-627 圓心
+resp142 增修
+aut-561 慧印
+aut-256 分別明
+aut-94 曇無竭
+naut-176 naut-176 None
+aut-232 提婆設摩
+naut-302 naut-302 None
+date24 date24 None
+date42 date42 None
+aut-237 迦多衍尼子
+naut-477 naut-477 None
+resp76 排錄
+naut-1091 naut-1091 None
+resp159 撰輯
+resp148 敕編
+naut-826 naut-826 None
+naut-502 naut-502 None
+naut-340 naut-340 None
+naut-589 naut-589 None
+naut-559 naut-559 None
+naut-476 naut-476 None
+ndiv-14 ndiv-14 None
+naut-929 naut-929 None
+aut-206 慈氏
+aut-296 管主八
+naut-357 naut-357 None
+naut-787 naut-787 None
+aut-193 曇諦
+naut-462 naut-462 None
+aut-632 藏川
+resp243 重纂
+resp56 編
+naut-1050 naut-1050 None
+aut-542 房覺
+aut-324 宗密
+aut-116 馬鳴
+naut-933 naut-933 None
+resp216 隨錄
+naut-909 naut-909 None
+naut-922 naut-922 None
+resp110 約意
+aut-243 婆須蜜
+aut-247 僧伽跋摩
+naut-268 naut-268 None
+date19 date19 None
+naut-258 naut-258 None
+naut-483 naut-483 None
+resp62 譯偈
+aut-396 契嵩
+ndiv-56 ndiv-56 None
+resp169 語
+aut-427 宗叡
+aut-124 菩提燈
+aut-483 賴寶
+aut-142 f弘
+naut-1169 naut-1169 None
+naut-1172 naut-1172 None
+naut-938 naut-938 None
+naut-849 naut-849 None
+naut-760 naut-760 None
+naut-692 naut-692 None
+role-48 role-48 None
+naut-279 naut-279 None
+naut-766 naut-766 None
+naut-397 naut-397 None
+naut-431 naut-431 None
+naut-755 naut-755 None
+aut-568 從覺
+naut-163 naut-163 None
+naut-1032 naut-1032 None
+aut-216 功德施
+aut-276 龍樹
+ndiv-22 ndiv-22 None
+resp203 增訂
+aut-453 曇寂
+naut-543 naut-543 None
+resp30 會解
+resp207 
+naut-206 naut-206 None
+aut-226 天親
+aut-134 慧琳
+naut-173 naut-173 None
+naut-506 naut-506 None
+resp26 集註
+aut-362 智昇
+naut-660 naut-660 None
+naut-291 naut-291 None
+resp2 譯
+naut-459 naut-459 None
+resp129 編訂
+aut-234 菩提耶舍
+naut-194 naut-194 None
+naut-798 naut-798 None
+date43 date43 None
+aut-43 僧伽斯那
+role-56 role-56 None
+naut-508 naut-508 None
+naut-252 naut-252 None
+naut-954 naut-954 None
+naut-519 naut-519 None
+aut-136 善護
+source14 source14 None
+naut-1116 naut-1116 None
+naut-1137 naut-1137 None
+resp113 立
+aut-549 覺印
+naut-376 naut-376 None
+naut-69 naut-69 None
+aut-530 良祐
+aut-146 若那
+aut-316 元照
+naut-834 naut-834 None
+aut-360 傳燈
+aut-175 般若惹羯羅
+naut-1117 naut-1117 None
+naut-444 naut-444 None
+naut-362 naut-362 None
+aut-31 佛陀扇多
+aut-594 2330
+naut-707 naut-707 None
+resp48 排
+naut-816 naut-816 None
+naut-997 naut-997 None
+role-54 role-54 None
+naut-81 naut-81 None
+aut-486 玄叡
+resp145 述註
+naut-1157 naut-1157 None
+date29 date29 None
+naut-242 naut-242 None
+naut-1052 naut-1052 None
+resp12 要
+naut-726 naut-726 None
+naut-504 naut-504 None
+naut-648 naut-648 None
+naut-86 naut-86 None
+naut-569 naut-569 None
+resp208 較
+aut-600 P
+naut-339 naut-339 None
+resp241 訂正
+resp127 遺
+aut-139 喇嚇嘛卜楚薩木丹達爾吉
+naut-656 naut-656 None
+resp70 節
+aut-434 榮穩
+resp253 等重訂
+naut-421 naut-421 None
+aut-620 智海
+naut-611 naut-611 None
+naut-399 naut-399 None
+naut-580 naut-580 None
+aut-209 山賢
+naut-984 naut-984 None
+aut-356 道綽
+aut-287 龍猛
+date17 date17 None
+naut-246 naut-246 None
+resp205 著竝釋
+naut-839 naut-839 None
+aut-20 天息災
+naut-414 naut-414 None
+aut-67 智嚴
+naut-777 naut-777 None
+aut-233 世友
+resp91 輯錄
+resp5 校輯
+aut-128 輸波迦羅
+naut-900 naut-900 None
+aut-344 明˙
+aut-48 法立
+aut-250 世親
+ndiv-59 ndiv-59 None
+naut-1057 naut-1057 None
+resp93 繹
+naut-632 naut-632 None
+source15 source15 None
+aut-585 淨嚴
+aut-545 仁海
+naut-1069 naut-1069 None
+naut-791 naut-791 None
+naut-1043 naut-1043 None
+naut-318 naut-318 None
+naut-1130 naut-1130 None
+aut-200 毗舍j
+naut-1020 naut-1020 None
+naut-78 naut-78 None
+ndiv-26 ndiv-26 None
+aut-180 翻經院阿闍梨[不空]
+resp144 校
+aut-106 僧伽羅剎
+naut-655 naut-655 None
+naut-747 naut-747 None
+naut-802 naut-802 None
+ndiv-37 ndiv-37 None
+naut-146 naut-146 None
+naut-110 naut-110 None
+aut-628 良秀
+resp220 編次
+naut-35 naut-35 None
+aut-262 龍樹
+resp234 編校
+naut-590 naut-590 None
+naut-298 naut-298 None
+date33 date33 None
+naut-20 naut-20 None
+naut-1119 naut-1119 None
+naut-774 naut-774 None
+aut-611 行宴
+naut-103 naut-103 None
+role-45 role-45 None
+aut-340 神泰
+naut-447 naut-447 None
+aut-612 Ninnaji
+naut-688 naut-688 None
+resp11 釐經合論
+naut-300 naut-300 None
+naut-1189 naut-1189 None
+aut-614 澄舜
+aut-333 曇鸞
+resp102 抄撰
+naut-64 naut-64 None
+naut-614 naut-614 None
+naut-647 naut-647 None
+resp115 製
+naut-835 naut-835 None
+naut-321 naut-321 None
+naut-1096 naut-1096 None
+naut-1177 naut-1177 None
+naut-936 naut-936 None
+naut-486 naut-486 None
+naut-593 naut-593 None
+aut-446 證忍
+naut-896 naut-896 None
+aut-551 實運
+naut-643 naut-643 None
+aut-533 了翁
+naut-754 naut-754 None
+naut-198 naut-198 None
+naut-108 naut-108 None
+naut-606 naut-606 None
+naut-714 naut-714 None
+naut-817 naut-817 None
+aut-210 僧伽提婆
+resp204 述竝註
+source19 source19 None
+aut-204 笈多
+aut-308 湛然
+naut-1016 naut-1016 None
+aut-46 維祇難
+naut-527 naut-527 None
+naut-582 naut-582 None
+naut-96 naut-96 None
+naut-408 naut-408 None
+naut-732 naut-732 None
+naut-1087 naut-1087 None
+naut-312 naut-312 None
+resp21 註
+naut-488 naut-488 None
+naut-375 naut-375 None
+naut-463 naut-463 None
+naut-844 naut-844 None
+aut-154 難提
+ndiv-05 ndiv-05 None
+naut-398 naut-398 None
+naut-813 naut-813 None
+naut-507 naut-507 None
+resp178 略說
+naut-718 naut-718 None
+naut-734 naut-734 None
+naut-420 naut-420 None
+naut-879 naut-879 None
+resp191 刪合
+naut-203 naut-203 None
+aut-62 法月
+aut-255 無著
+aut-495 清範
+aut-503 聖詮
+naut-161 naut-161 None
+naut-1070 naut-1070 None
+aut-273 提雲般若
+naut-959 naut-959 None
+naut-320 naut-320 None
+naut-384 naut-384 None
+aut-213 天親
+source1 source1 None
+naut-638 naut-638 None
+aut-299 吉藏
+naut-581 naut-581 None
+aut-101 豆那掘多
+aut-50 無羅叉
+ndiv-10 ndiv-10 None
+naut-1104 naut-1104 None
+naut-266 naut-266 None
+resp245 重集
+naut-174 naut-174 None
+naut-640 naut-640 None
+naut-881 naut-881 None
+aut-353 仁嶽]
+aut-349 宗曉
+naut-861 naut-861 None
+aut-140 達喇嘛薩穆丹達爾吉
+naut-565 naut-565 None
+naut-867 naut-867 None
+naut-553 naut-553 None
+naut-789 naut-789 None
+aut-537 成尊
+naut-860 naut-860 None
+aut-352 仁嶽
+aut-431 安遠
+aut-319 智旭
+aut-39 鳩摩羅什
+naut-209 naut-209 None
+naut-965 naut-965 None
+resp19 撰
+naut-1019 naut-1019 None
+naut-22 naut-22 None
+aut-552 成賢
+naut-724 naut-724 None
+naut-709 naut-709 None
+naut-277 naut-277 None
+naut-773 naut-773 None
+date3 date3 None
+date27 date27 None
+aut-92 支謙
+naut-837 naut-837 None
+aut-331 明昿
+aut-459 定深
+naut-898 naut-898 None
+aut-520 光定
+naut-204 naut-204 None
+naut-1107 naut-1107 None
+naut-874 naut-874 None
+naut-823 naut-823 None
+aut-508 實範
+naut-195 naut-195 None
+resp140 同註
+naut-91 naut-91 None
+naut-37 naut-37 None
+aut-452 宥快
+naut-25 naut-25 None
+naut-500 naut-500 None
+naut-1042 naut-1042 None
+naut-1067 naut-1067 None
+naut-127 naut-127 None
+naut-815 naut-815 None
+aut-330 懷素
+date44 date44 None
+naut-94 naut-94 None
+naut-827 naut-827 None
+naut-493 naut-493 None
+aut-647 徹定
+aut-440 貞慶
+naut-329 naut-329 None
+naut-413 naut-413 None
+naut-484 naut-484 None
+ndiv-34 ndiv-34 None
+naut-112 naut-112 None
+resp221 編正
+aut-468 安澄
+aut-15 慧簡
+aut-107 達摩多羅
+naut-388 naut-388 None
+resp136 序
+naut-184 naut-184 None
+aut-86 道M
+resp79 集疏
+naut-278 naut-278 None
+naut-658 naut-658 None
+naut-976 naut-976 None
+naut-604 naut-604 None
+naut-301 naut-301 None
+aut-114 大勇
+aut-572 眞慧
+naut-30 naut-30 None
+naut-524 naut-524 None
+source9 source9 None
+naut-673 naut-673 None
+aut-293 摩咥里制C
+naut-831 naut-831 None
+ndiv-19 ndiv-19 None
+naut-739 naut-739 None
+naut-168 naut-168 None
+aut-72 佛馱跋陀羅
+resp89 硃
+naut-664 naut-664 None
+naut-351 naut-351 None
+naut-675 naut-675 None
+naut-875 naut-875 None
+naut-372 naut-372 None
+resp168 草
+aut-55 菩提流支
+naut-370 naut-370 None
+ndiv-20 ndiv-20 None
+source22 source22 None
+naut-391 naut-391 None
+naut-807 naut-807 None
+aut-127 菩提金剛
+naut-972 naut-972 None
+date18 date18 None
+naut-1033 naut-1033 None
+aut-34 馬鳴
+naut-18 naut-18 None
+naut-679 naut-679 None
+naut-475 naut-475 None
+resp68 添改
+aut-35 寶雲
+resp179 等錄
+naut-878 naut-878 None
+naut-448 naut-448 None
+naut-385 naut-385 None
+naut-1077 naut-1077 None
+ndiv-58 ndiv-58 None
+naut-765 naut-765 None
+ndiv-01 ndiv-01 None
+naut-1105 naut-1105 None
+resp18 提挈
+naut-512 naut-512 None
+resp111 修
+resp34 參訂
+naut-307 naut-307 None
+naut-435 naut-435 None
+naut-179 naut-179 None
+aut-550 寬信
+naut-1037 naut-1037 None
+resp153 彙集
+naut-157 naut-157 None
+naut-893 naut-893 None
+aut-265 最生子
+naut-405 naut-405 None
+naut-518 naut-518 None
+naut-308 naut-308 None
+naut-1004 naut-1004 None
+naut-877 naut-877 None
+resp176 讚
+aut-395 居頂
+naut-79 naut-79 None
+role-60 role-60 None
+aut-305 法藏
+naut-186 naut-186 None
+aut-238 浮陀跋摩
+naut-159 naut-159 None
+resp71 箋
+naut-114 naut-114 None
+naut-32 naut-32 None
+naut-1108 naut-1108 None
+aut-269 堅慧
+aut-455 眞寂
+aut-355 道¬
+naut-137 naut-137 None
+ndiv-23 ndiv-23 None
+naut-1065 naut-1065 None
+naut-229 naut-229 None
+date35 date35 None
+naut-872 naut-872 None
+aut-27 聖勇
+naut-468 naut-468 None
+aut-165 智慧
+naut-326 naut-326 None
+aut-100 逹摩笈多
+naut-71 naut-71 None
+aut-1 佛陀耶舍
+naut-757 naut-757 None
+aut-593 知恩
+aut-376 費長房
+naut-169 naut-169 None
+naut-1082 naut-1082 None
+aut-298 窺基
+ndiv-03 ndiv-03 None
+aut-266 護法
+resp225 拈古
+role-53 role-53 None
+naut-654 naut-654 None
+naut-290 naut-290 None
+naut-631 naut-631 None
+naut-214 naut-214 None
+naut-904 naut-904 None
+aut-496 宗禎
+naut-1131 naut-1131 None
+naut-1150 naut-1150 None
+aut-173 含光
+naut-304 naut-304 None
+aut-156 伽梵逹摩
+resp249 上進
+aut-463 宗性
+naut-54 naut-54 None
+aut-24 康僧會
+naut-1066 naut-1066 None
+aut-40 慧覺
+aut-519 貞舜
+naut-482 naut-482 None
+aut-120 勿提提犀魚
+aut-194 求那跋摩
+naut-1040 naut-1040 None
+naut-296 naut-296 None
+aut-586 *Gyosanrokukanchō
+naut-418 naut-418 None
+naut-395 naut-395 None
+naut-75 naut-75 None
+naut-387 naut-387 None
+aut-518 惠鎭
+naut-367 naut-367 None
+aut-433 藏俊
+naut-939 naut-939 None
+naut-219 naut-219 None
+naut-441 naut-441 None
+aut-286 鬱楞伽
+resp1 unknown
+naut-60 naut-60 None
+resp251 等編次
+naut-700 naut-700 None
+naut-587 naut-587 None
+naut-622 naut-622 None
+aut-578 日蓮
+aut-596 體請
+aut-364 方會
+aut-143 達磨栖那
+ndiv-00 ndiv-00 None
+naut-6 naut-6 None
+resp150 補輯
+aut-261 護法
+naut-177 naut-177 None
+naut-723 naut-723 None
+naut-531 naut-531 None
+naut-953 naut-953 None
+naut-230 naut-230 None
+aut-359 普度
+aut-490 聖守
+aut-334 普光
+resp3 等譯
+naut-394 naut-394 None
+naut-285 naut-285 None
+resp186 決義
+aut-85 竺難提
+naut-871 naut-871 None
+naut-526 naut-526 None
+naut-498 naut-498 None
+naut-294 naut-294 None
+aut-170 法護
+naut-856 naut-856 None
+naut-180 naut-180 None
+naut-144 naut-144 None
+naut-216 naut-216 None
+aut-358 飛錫
+aut-51 曇摩K
+naut-870 naut-870 None
+naut-343 naut-343 None
