@@ -4,6 +4,8 @@
 
 [hcl = "HCL Context"]
 [hobogirin = "Hobogirin"]
+[hnx = "卍續編" /zh]
+
 [zh : language = "Chinese"
           = "中文" /zh
 	  = "zh" / iso639-1
