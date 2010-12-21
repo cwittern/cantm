@@ -33351,7 +33351,7 @@ div(ehnx_0791 : exp, ndiv-26 : div)
 [resp124 : resp = "要解" /zh hnx]
 [resp176 : resp = "讚" /zh hnx]
 [resp206 : resp = "校正" /zh hnx]
-[resp207 : resp = "【佛說阿彌陀經要解 即淨土十要$p( fo2 shuo1 a1 mi2 tuo2 jing1 yao4 jie3 ji2 jing4 tu3 shi2 yao4" /zh hnx]
+/*[resp207 : resp = "【佛說阿彌陀經要解 即淨土十要$p( fo2 shuo1 a1 mi2 tuo2 jing1 yao4 jie3 ji2 jing4 tu3 shi2 yao4" /zh hnx] */
 [resp77 : resp = "構錄" /zh hnx]
 [resp106 : resp = "俗詮" /zh hnx]
 [resp20 : resp = "於大疏略出" /zh hnx]

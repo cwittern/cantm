@@ -2334,9 +2334,7 @@
   ="淨嚴"/ zh
   ="jing4 yan2 "/ zh-py
   ]
-[aut-586  : resp ="*Gyosankemmitsushōmyōshūryakuhon,"/ja-rom
-  ="*Gyosanrokukanchō"/ ja-rom
-  ]
+
 [aut-587  : resp ="Chōe"/ja-rom
   ="長惠"/ zh
   ="chang2 hui4 "/ zh-py
@@ -2403,9 +2401,7 @@
   ="淨覺"/ zh
   ="jing4 jue2 "/ zh-py
   ]
-[aut-606  : resp ="II:"/ja-rom
-  ="St"/ zh
-  ]
+
 [aut-607  : resp ="Eben"/ja-rom
   ="惠辨"/ zh
   ]
@@ -25075,7 +25071,7 @@ aut(eT84n2710 : text, aut-585 : resp)
     @"http://psi.iba-net.org/exp/hnt_2712" ]
 {eT84n2712, extent, [[I]]}
 {eT84n2712, startpage, [[T84, p.813]]}
-aut(eT84n2712 : text, aut-586 : resp)
+
 [eT84n2713 : exp = "魚山私鈔" / zh 
         = "GYOSAN SHISHŌ" /ja-rom
         = "(Yu shan si chao)" /zh-py
@@ -26240,7 +26236,7 @@ aut(eT85n2871 : text, aut-600 : resp)
     @"http://psi.iba-net.org/exp/hnt_2880" ]
 {eT85n2880, extent, [[III]]}
 {eT85n2880, startpage, [[T85, p.1368]]}
-aut(eT85n2880 : text, aut-606 : resp)
+
 [eT85n2881 : exp = "善惡因果經" / zh 
         = "ZENNAKU INGA KYŌ" /ja-rom
         = "(Shan e yin guo jing)" /zh-py
