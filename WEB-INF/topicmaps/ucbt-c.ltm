@@ -629,7 +629,7 @@
   ="zang4 na3 "/ zh-py
   ]
 [aut-147  : resp ="Sharapa"/ja-rom
-  ="沙e巴"/ zh
+  ="沙囉巴"/ zh
   ]
 [aut-148  : resp ="Shikū"/ja-rom
   ="指空"/ zh
@@ -670,7 +670,7 @@
   ="伽梵逹摩"/ zh
   ]
 [aut-157  : resp ="Sobara"/ja-rom
-  ="蘇m羅"/ zh
+  ="蘇嚩羅"/ zh
   ]
 [aut-158  : resp =" Yashakutta"/ja-rom
   ="耶舍崛多"/ zh
@@ -753,7 +753,7 @@
   ="(Prajñābala)"/ sk
   ]
 [aut-177  : resp ="Jingai"/ja-rom
-  ="神y"/ zh
+  ="神愷"/ zh
   ]
 [aut-178  : resp ="Amoga"/ja-rom
   ="阿謨伽"/ zh
@@ -791,8 +791,8 @@
   ="曇無蘭"/ zh
   ="tan2 wu2 lan2 "/ zh-py
   ]
-[aut-188  : resp ="*Vajravidārañī,"/ja-rom
-  ="±Vajrasūkṣmāpratihatadārañī"/ zh
+[aut-188  : resp ="Jiken" /ja-rom
+  ="慈賢"/ zh
   ]
 [aut-189  : resp ="Butsudajū"/ja-rom
   ="佛陀什"/ zh
@@ -835,7 +835,8 @@
 [aut-197  : resp ="Sōkyo"/ja-rom
   ="僧V"/ zh
   ]
-[aut-198  : resp ="Gijō 義淨"/ja-rom
+[aut-198  : resp ="Gijō"/ja-rom
+  ="義淨" /zh
   ]
 [aut-199  : resp =" Shōu"/ja-rom
   ="勝友"/ zh
@@ -1146,8 +1147,8 @@
 [aut-274  : resp ="Shōkarashu"/ja-rom
   ="商羯羅主"/ zh
   ]
-[aut-275  : resp ="Kudon"/ja-rom
-  ="Rushi瞿曇流支"/ zh
+[aut-275  : resp ="Rushi" /ja-rom
+  ="瞿曇流支"/ zh
   ]
 [aut-276  : resp ="Ryūju"/ja-rom
   ="龍樹"/ zh
@@ -1269,7 +1270,7 @@
   ="shi1 hui4 "/ zh-py
   ]
 [aut-307  : resp ="Chigi"/ja-rom
-  ="智g"/ zh
+  ="智顗"/ zh
   ]
 [aut-308  : resp ="Tannen"/ja-rom
   ="湛然"/ zh
@@ -2337,7 +2338,7 @@
   ="jing4 yan2 "/ zh-py
   ]
 [aut-586  : resp ="*Gyosankemmitsushōmyōshūryakuhon,"/ja-rom
-  ="*Gyosanrokukanchō"/ zh
+  ="*Gyosanrokukanchō"/ ja-rom
   ]
 [aut-587  : resp ="Chōe"/ja-rom
   ="長惠"/ zh
@@ -2426,9 +2427,6 @@
   ]
 [aut-611  : resp ="Gyōen"/ja-rom
   ="行宴"/ zh
-  ]
-[aut-612  : resp ="Imp."/ja-rom
-  ="Ninnaji"/ zh
   ]
 [aut-613  : resp ="Myōtatsu"/ja-rom
   ="明達"/ zh
@@ -2521,9 +2519,6 @@
   ]
 [aut-642  : resp ="Zuiten"/ja-rom
   ="隋天"/ zh
-  ]
-[aut-643  : resp ="Ed."/ja-rom
-  ="dyn"/ zh
   ]
 [aut-644  : resp ="Keikishō"/ja-rom
   ="慶吉祥"/ zh
@@ -26612,13 +26607,13 @@ aut(eF02n0021 : text, aut-642 : resp)
         = "(Tang ben yi qie jing mu lu)" /zh-py]
 {eF02n0023, extent, [[III]]}
 {eF02n0023, startpage, [[F02, p.119]]}
-aut(eF02n0023 : text, aut-643 : resp)
+/* aut(eF02n0023 : text, aut-643 : resp) */
 [eF02n0024 : exp = "三縁山輪藏目録" / zh 
         = "SAṄENZAN RINZŌ MOKUROKU" /ja-rom
         = "(San yuan shan lun zang mu lu)" /zh-py]
 {eF02n0024, extent, [[II]]}
 {eF02n0024, startpage, [[F02, p.150]]}
-aut(eF02n0024 : text, aut-643 : resp)
+/* aut(eF02n0024 : text, aut-643 : resp) */
 [eF02n0025 : exp = "至元法寶勘同總録" / zh 
         = "SHIGEN HŌBŌ KANDŌ SŌROKU" /ja-rom
         = "(Zhi yuan fa bao kan tong zhong lu)" /zh-py]
@@ -26636,7 +26631,7 @@ aut(eF02n0026 : text, aut-645 : resp)
         = "(Da ming san zang sheng jiao bei zang mu lu)" /zh-py]
 {eF02n0027, extent, [[IV]]}
 {eF02n0027, startpage, [[F02, p.271]]}
-aut(eF02n0027 : text, aut-643 : resp)
+/* aut(eF02n0027 : text, aut-643 : resp) */
 [eF02n0028 : exp = "藏版經直畫一目録" / zh 
         = "ZŌHANKYŌ CHOKUGAICHI MOKUROKU" /ja-rom
         = "(Zang ban jing zhi hua yi mu lu)" /zh-py]
