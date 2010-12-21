@@ -609,7 +609,7 @@
   ="(Pāramiti?)"/ sk
   ]
 [aut-142  : resp ="Bengu"/ja-rom
-  ="f弘"/ zh
+  ="𧦪弘"/ zh
   ]
 [aut-143  : resp ="Datsumaseina"/ja-rom
   ="達磨栖那"/ zh
@@ -685,7 +685,7 @@
   ="ci2 xian2 "/ zh-py
   ]
 [aut-161  : resp ="Amokkya"/ja-rom
-  ="阿目j"/ zh
+  ="阿目佉"/ zh
   ]
 [aut-162  : resp ="Bodairuchi"/ja-rom
   ="菩提流志"/ zh
@@ -715,7 +715,7 @@
   ="hai3 yun2 "/ zh-py
   ]
 [aut-168  : resp ="Kūgi"/ja-rom
-  ="空t"/ zh
+  ="空蜝"/ zh
   ]
 [aut-169  : resp ="Ashitsudassan"/ja-rom
   ="阿質達霰"/ zh
@@ -754,6 +754,7 @@
   ]
 [aut-177  : resp ="Jingai"/ja-rom
   ="神愷"/ zh
+  ="shen2 kai3" /zh-py
   ]
 [aut-178  : resp ="Amoga"/ja-rom
   ="阿謨伽"/ zh
@@ -842,7 +843,7 @@
   ="勝友"/ zh
   ]
 [aut-200  : resp =" Bishakya"/ja-rom
-  ="毘舍j"/ zh
+  ="毘舍佉"/ zh
   ]
 [aut-201  : resp ="Futsudatarata"/ja-rom
   ="弗陀多羅多"/ zh
@@ -2274,9 +2275,7 @@
   ="從覺"/ zh
   ="cong2 jue2 "/ zh-py
   ]
-[aut-569  : resp ="*Goichidaikikikigaki,"/ja-rom
-  ="*Rennyoshōningoichidaimonsho"/ zh
-  ]
+
 [aut-570  : resp ="Kenchi"/ja-rom
   ="顯智"/ zh
   ="xian3 zhi4 "/ zh-py
@@ -2291,9 +2290,7 @@
 [aut-573  : resp ="Shinran"/ja-rom
   ="親鸞]"/ zh
   ]
-[aut-574  : resp ="*Gosemonogatari,"/ja-rom
-  ="*Gosegatarikikigaki"/ zh
-  ]
+
 [aut-575  : resp ="Ryūkan"/ja-rom
   ="隆寛"/ zh
   ]
@@ -2371,9 +2368,7 @@
 [aut-594  : resp ="P."/ja-rom
   ="2330"/ zh
   ]
-[aut-595  : resp ="Coll."/ja-rom
-  ="Nakamura"/ zh
-  ]
+
 [aut-596  : resp ="Taishō"/ja-rom
   ="體請"/ zh
   ="ti3 qing3 "/ zh-py
@@ -2385,9 +2380,7 @@
 [aut-598  : resp ="Hōjō"/ja-rom
   ="法成]"/ zh
   ]
-[aut-599  : resp ="Impr."/ja-rom
-  ="ch"/ zh
-  ]
+
 [aut-600  : resp ="I:"/ja-rom
   ="P"/ zh
   ]
@@ -2416,9 +2409,6 @@
 [aut-607  : resp ="Eben"/ja-rom
   ="惠辨"/ zh
   ]
-[aut-608  : resp ="Anityatāsūtra."/ja-rom
-  ="St"/ zh
-  ]
 [aut-609  : resp ="Ryūyo"/ja-rom
   ="隆譽"/ zh
   ]
@@ -2436,9 +2426,6 @@
   ]
 [aut-615  : resp ="Ryōken"/ja-rom
   ="亮憲"/ zh
-  ]
-[aut-616  : resp ="*Hyakkanshō,"/ja-rom
-  ="*Jōdoinshō"/ zh
   ]
 [aut-617  : resp ="Kakuzen"/ja-rom
   ="覺禪"/ zh
@@ -2501,9 +2488,6 @@
   ]
 [aut-636  : resp ="Chōen"/ja-rom
   ="澄圓"/ zh
-  ]
-[aut-637  : resp ="A."/ja-rom
-  ="Coll"/ zh
   ]
 [aut-638  : resp ="Kaṇyū"/ja-rom
   ="觀祐"/ zh
@@ -13278,7 +13262,7 @@ aut(eT21n1220 : text, aut-132 : resp)
 {eT21n1221, extent, [[I]]}
 {eT21n1221, startpage, [[T21, p.99]]}
 aut(eT21n1221 : text, aut-168 : resp)
-[eT21n1222A : exp = "聖迦u忿怒金剛童子菩薩成就儀軌經" / zh 
+[eT21n1222A : exp = "聖迦柅忿怒金剛童子菩薩成就儀軌經" / zh 
         = "SHŌKANIFUNNU KONGŌDŌJIBOSATSU JŌJU GIKI KYŌ" /ja-rom
         = "(Sheng jia ni fen nu jin gang tong zi pu sa cheng jiu yi gui jing)" /zh-py
         = "Vajrakumāratantra?" /sk
@@ -24792,7 +24776,7 @@ aut(eT83n2659 : text, aut-568 : resp)
     @"http://psi.iba-net.org/exp/hnt_2669" ]
 {eT83n2669, extent, [[I]]}
 {eT83n2669, startpage, [[T83, p.809]]}
-aut(eT83n2669 : text, aut-569 : resp)
+
 [eT83n2670 : exp = "御俗姓御文" / zh 
         = "GOZOKUSHŌ OFUMI" /ja-rom
         = "(Yu su xing yu wen)" /zh-py
@@ -24841,7 +24825,7 @@ aut(eT83n2675 : text, aut-563 : resp)
     @"http://psi.iba-net.org/exp/hnt_2676" ]
 {eT83n2676, extent, [[I]]}
 {eT83n2676, startpage, [[T83, p.916]]}
-aut(eT83n2676 : text, aut-574 : resp)
+
 [eT83n2677 : exp = "一念多念分別事" / zh 
         = "ICHINEN TANEN FUMBETSU NO KOTO" /ja-rom
         = "(Yi nian duo nian fen bie shi)" /zh-py
@@ -25315,7 +25299,7 @@ aut(eT85n2743 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2744" ]
 {eT85n2744, extent, [[I]]}
 {eT85n2744, startpage, [[T85, p.160]]}
-aut(eT85n2744 : text, aut-595 : resp)
+
 {eT85n2744, xptr, [[Cf. 245]]}
 [eT85n2745 : exp = "仁王經疏" / zh 
         = "NINNŌGYŌ SHO" /ja-rom
@@ -25466,7 +25450,7 @@ aut(eT85n2758 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2764b" ]
 {eT85n2764B, extent, [[I]]}
 {eT85n2764B, startpage, [[T85, p.294]]}
-aut(eT85n2764B : text, aut-595 : resp)
+
 {eT85n2764B, xptr, [[Cf. 375, 2765]]}
 [eT85n2765 : exp = "涅槃經疏" / zh 
         = "NEHANGYŌ SHO" /ja-rom
@@ -25538,7 +25522,7 @@ aut(eT85n2773 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2774" ]
 {eT85n2774, extent, [[I]]}
 {eT85n2774, startpage, [[T85, p.433]]}
-aut(eT85n2774 : text, aut-595 : resp)
+
 {eT85n2774, xptr, [[Cf. 475]]}
 [eT85n2775 : exp = "維摩疏釋前小序抄" / zh 
         = "YUIMASHO SHAKU ZENSHŌJO SHŌ" /ja-rom
@@ -25630,7 +25614,7 @@ aut(eT85n2785 : text, aut-598 : resp)
     @"http://psi.iba-net.org/exp/hnt_2786" ]
 {eT85n2786, extent, [[I]]}
 {eT85n2786, startpage, [[T85, p.562]]}
-aut(eT85n2786 : text, aut-599 : resp)
+
 {eT85n2786, xptr, [[Cf. 592]]}
 [eT85n2787 : exp = "四分戒本疏 卷第一, 第二, 第三" / zh 
         = "SHIBUN KAIHON SHO KANDAIICHI DAINI DAISAN" /ja-rom
@@ -25646,7 +25630,7 @@ aut(eT85n2787 : text, aut-600 : resp)
     @"http://psi.iba-net.org/exp/hnt_2788" ]
 {eT85n2788, extent, [[I]]}
 {eT85n2788, startpage, [[T85, p.616]]}
-aut(eT85n2788 : text, aut-595 : resp)
+
 [eT85n2789 : exp = "律戒本疏" / zh 
         = "RITSU KAIHON SHO" /ja-rom
         = "(Lü jie ben shu)" /zh-py
@@ -25684,7 +25668,7 @@ aut(eT85n2790 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2794" ]
 {eT85n2794, extent, [[I]]}
 {eT85n2794, startpage, [[T85, p.683]]}
-aut(eT85n2794 : text, aut-595 : resp)
+
 [eT85n2795 : exp = "四部律并論要用抄" / zh 
         = "SHIBURITSU BYŌ ROṄ YŌYŌ SHŌ" /ja-rom
         = "(Si bu lü bing lun yao yong chao)" /zh-py
@@ -25786,7 +25770,7 @@ aut(eT85n2803 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2809" ]
 {eT85n2809, extent, [[I]]}
 {eT85n2809, startpage, [[T85, p.1036]]}
-aut(eT85n2809 : text, aut-595 : resp)
+
 [eT85n2810 : exp = "大乘百法明門論開宗義記" / zh 
         = "DAIJŌHYAPPŌMYŌMONRON KAI SHŪGI KI" /ja-rom
         = "(Da cheng bai fa ming men lun kai zong yi ji)" /zh-py
@@ -26086,14 +26070,14 @@ aut(eT85n2844 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2854" ]
 {eT85n2854, extent, [[I]]}
 {eT85n2854, startpage, [[T85, p.1303]]}
-aut(eT85n2854 : text, aut-595 : resp)
+
 [eT85n2855 : exp = "禮懺文" / zh 
         = "RAISAM MON" /ja-rom
         = "(Li chan wen)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2855" ]
 {eT85n2855, extent, [[I]]}
 {eT85n2855, startpage, [[T85, p.1304]]}
-aut(eT85n2855 : text, aut-595 : resp)
+
 [eT85n2856 : exp = "禮懺文" / zh 
         = "RAISAM MON" /ja-rom
         = "(Li chan wen)" /zh-py
@@ -26164,7 +26148,7 @@ aut(eT85n2865 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2866" ]
 {eT85n2866, extent, [[I]]}
 {eT85n2866, startpage, [[T85, p.1326]]}
-aut(eT85n2866 : text, aut-595 : resp)
+
 {eT85n2866, xptr, [[Cf. 2865]]}
 [eT85n2867 : exp = "慈仁問八十種好經" / zh 
         = "JINIM MON HACHIJŪSHUKŌ GYŌ" /ja-rom
@@ -26172,21 +26156,21 @@ aut(eT85n2866 : text, aut-595 : resp)
     @"http://psi.iba-net.org/exp/hnt_2867" ]
 {eT85n2867, extent, [[I]]}
 {eT85n2867, startpage, [[T85, p.1327]]}
-aut(eT85n2867 : text, aut-595 : resp)
+
 [eT85n2868 : exp = "決罪福經" / zh 
         = "KETSU ZAIFUKU GYŌ" /ja-rom
         = "(Jue zui fu jing)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2868" ]
 {eT85n2868, extent, [[II]]}
 {eT85n2868, startpage, [[T85, p.1328]]}
-aut(eT85n2868 : text, aut-595 : resp)
+
 [eT85n2869 : exp = "妙好寶車經" / zh 
         = "MYŌKŌ HŌSHA KYŌ" /ja-rom
         = "(Miao hao bao che jing)" /zh-py
     @"http://psi.iba-net.org/exp/hnt_2869" ]
 {eT85n2869, extent, [[I]]}
 {eT85n2869, startpage, [[T85, p.1333]]}
-aut(eT85n2869 : text, aut-595 : resp)
+
 [eT85n2870 : exp = "像法決疑經" / zh 
         = "ZŌBŌ KETSUGI KYŌ" /ja-rom
         = "(Xiang fa jue yi jing)" /zh-py
@@ -26456,7 +26440,6 @@ aut(eT85n2902 : text, aut-594 : resp)
     @"http://psi.iba-net.org/exp/hnt_2912" ]
 {eT85n2912, extent, [[I]]}
 {eT85n2912, startpage, [[T85, p.1458]]}
-aut(eT85n2912 : text, aut-608 : resp)
 {eT85n2912, xptr, [[Cf. 758, 801]]}
 [eT85n2913 : exp = "七女觀經" / zh 
         = "SHICHINYO KAN GYŌ" /ja-rom
