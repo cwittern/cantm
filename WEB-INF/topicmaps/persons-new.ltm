@@ -1,0 +1,3137 @@
+@"utf-8"
+
+[aut-1  : resp ="Butsudayasha"/ja-rom
+  ="佛陀耶舍"/ zh
+  ="fo2 tuo2 ye1 she4 "/ zh-py
+  ="(Buddhayaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-1"
+  ]
+[aut-2  : resp ="Jiku Butsunen"/ja-rom
+  ="竺佛念"/ zh
+  ="zhu2 fo2 nian4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-2"
+  ]
+[aut-3  : resp ="Hōten"/ja-rom
+  ="法天"/ zh
+  ="fa3 tian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-3"
+  ]
+[aut-4  : resp ="Haku Hosso"/ja-rom
+  ="白法祖"/ zh
+  ="bai2 fa3 zu3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-4"
+  ]
+[aut-5  : resp ="An."/ja-rom
+  ="失譯"/ zh
+@"http://psi.iba-net.org/person/aut-5"
+  ]
+[aut-6  : resp ="Hokken"/ja-rom
+  ="法顯"/ zh
+  ="fa3 xian3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-6"
+  ]
+[aut-7  : resp ="Hōken"/ja-rom
+  ="法賢"/ zh
+  ="fa3 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-7"
+  ]
+[aut-8  : resp ="Sego"/ja-rom
+  ="施護"/ zh
+  ="shi1 hu4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-8"
+  ]
+[aut-9  : resp ="Janakutta"/ja-rom
+  ="闍那崛多"/ zh
+  ="she2 na3 jue2 duo1 "/ zh-py
+  ="(Jñānagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-9"
+  ]
+[aut-10  : resp ="Datsumagyūta"/ja-rom
+  ="達摩笈多"/ zh
+  ="da2 mo2 ji2 duo1 "/ zh-py
+  ="(Dharmagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-10"
+  ]
+[aut-11  : resp =" Kudon Sōgyadaiba"/ja-rom
+  ="瞿曇僧伽堤婆"/ zh
+  =""/ zh-py
+  ="(Gautama Saṃghadeva)"/ sk
+@"http://psi.iba-net.org/person/aut-11"
+  ]
+[aut-12  : resp ="Hōko"/ja-rom
+  ="法炬"/ zh
+  ="fa3 ju4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-12"
+  ]
+[aut-13  : resp =" Kumarajū"/ja-rom
+  ="鳩摩羅什"/ zh
+  ="jiu1 mo2 luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-13"
+  ]
+[aut-14  : resp ="Dommusen"/ja-rom
+  ="曇無讖"/ zh
+  ="tan2 wu2 chen4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-14"
+  ]
+[aut-15  : resp ="Ekan"/ja-rom
+  ="慧簡"/ zh
+  ="hui4 jian3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-15"
+  ]
+[aut-16  : resp =" Jiku Hōgo"/ja-rom
+  ="竺法護"/ zh
+  ="zhu2 fa3 hu4 "/ zh-py
+  ="(Dharmarakṣa)"/ sk
+@"http://psi.iba-net.org/person/aut-16"
+  ]
+[aut-17  : resp =" Gunabiji"/ja-rom
+  ="求那毘地"/ zh
+  ="qiu2 na3 pi2 di4 "/ zh-py
+  ="(Guˆavṛddhi)"/ sk
+@"http://psi.iba-net.org/person/aut-17"
+  ]
+[aut-18  : resp =" Gunabatsudara"/ja-rom
+  ="求那跋陀羅"/ zh
+  ="qiu2 na3 ba2 tuo2 luo2 "/ zh-py
+  ="(Guˆabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-18"
+  ]
+[aut-19  : resp =" Kudon Hōchi"/ja-rom
+  ="瞿曇法智"/ zh
+  ="qu2 tan2 fa3 zhi4 "/ zh-py
+  ="(Gautama Dharmaprajña)"/ sk
+@"http://psi.iba-net.org/person/aut-19"
+  ]
+[aut-20  : resp ="Tensokusai"/ja-rom
+  ="天息災"/ zh
+  ="tian1 xi1 zai1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-20"
+  ]
+[aut-21  : resp =" Shindai"/ja-rom
+  ="眞諦"/ zh
+@"http://psi.iba-net.org/person/aut-21"
+  ]
+[aut-22  : resp ="Gijō"/ja-rom
+  ="義淨"/ zh
+  ="yi4 jing4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-22"
+  ]
+[aut-23  : resp ="Genjō"/ja-rom
+  ="玄奘"/ zh
+  ="xuan2 zang4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-23"
+  ]
+[aut-24  : resp ="Kō Sōe"/ja-rom
+  ="康僧會"/ zh
+@"http://psi.iba-net.org/person/aut-24"
+  ]
+[aut-25  : resp =" Sōgyashina"/ja-rom
+  ="僧伽斯那"/ zh
+  ="seng1 jia1 si1 na3 "/ zh-py
+  ="(Saṃghasena)"/ sk
+@"http://psi.iba-net.org/person/aut-25"
+  ]
+[aut-26  : resp =" Hannya"/ja-rom
+  ="般若"/ zh
+  ="bo1 ruo4 "/ zh-py
+  ="(Prājña)"/ sk
+@"http://psi.iba-net.org/person/aut-26"
+  ]
+[aut-27  : resp =" Shōyū"/ja-rom
+  ="聖勇"/ zh
+@"http://psi.iba-net.org/person/aut-27"
+  ]
+[aut-28  : resp =" Kudon Hannyarushi"/ja-rom
+  ="瞿曇般若流支"/ zh
+  ="qu2 tan2 ban1 zang4 liu2 zhi1 "/ zh-py
+  ="(Gautama Prajñāruchi)"/ sk
+@"http://psi.iba-net.org/person/aut-28"
+  ]
+[aut-29  : resp ="Chigon"/ja-rom
+  ="智嚴"/ zh
+  ="zhi4 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-29"
+  ]
+[aut-30  : resp ="Shōken"/ja-rom
+  ="聖堅"/ zh
+  ="sheng4 jian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-30"
+  ]
+[aut-31  : resp =" Butsudasenta"/ja-rom
+  ="佛陀扇多"/ zh
+  ="fo2 tuo2 shan4 duo1 "/ zh-py
+  ="(Buddhaśānta)"/ sk
+@"http://psi.iba-net.org/person/aut-31"
+  ]
+[aut-32  : resp =" Jibakara"/ja-rom
+  ="地婆訶羅"/ zh
+  ="di4 po2 he1 luo2 "/ zh-py
+  ="(Divākara)"/ sk
+@"http://psi.iba-net.org/person/aut-32"
+  ]
+[aut-33  : resp =" Janakutta"/ja-rom
+  ="闍那崛多"/ zh
+  ="she2 na3 jue2 duo1 "/ zh-py
+  ="(Jñānagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-33"
+  ]
+[aut-34  : resp =" Memyō"/ja-rom
+  ="馬鳴"/ zh
+@"http://psi.iba-net.org/person/aut-34"
+  ]
+[aut-35  : resp ="Hōun"/ja-rom
+  ="寶雲"/ zh
+  ="bao3 yun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-35"
+  ]
+[aut-36  : resp =" Sōgyabacchō"/ja-rom
+  ="僧伽跋澄"/ zh
+  ="seng1 jia1 ba2 cheng2 "/ zh-py
+  ="(Saṃghabhadra?)"/ sk
+@"http://psi.iba-net.org/person/aut-36"
+  ]
+[aut-37  : resp =" Karudaka"/ja-rom
+  ="迦留陀伽"/ zh
+@"http://psi.iba-net.org/person/aut-37"
+  ]
+[aut-38  : resp ="Memyō"/ja-rom
+  ="馬鳴"/ zh
+  ="jiu1 mo2 luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-38"
+  ]
+[aut-39  : resp ="Kumarajū"/ja-rom
+  ="鳩摩羅什"/ zh
+  ="jiu1 mo2 luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-39"
+  ]
+[aut-40  : resp ="Ekaku"/ja-rom
+  ="慧覺"/ zh
+@"http://psi.iba-net.org/person/aut-40"
+  ]
+[aut-41  : resp =" Kikkaya"/ja-rom
+  ="吉迦夜"/ zh
+  ="ji2 jia1 ye4 "/ zh-py
+  ="(Kiṃkārya?)"/ sk
+@"http://psi.iba-net.org/person/aut-41"
+  ]
+[aut-42  : resp ="Dōryaku"/ja-rom
+  ="道略"/ zh
+  ="dao4 lüe4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-42"
+  ]
+[aut-43  : resp ="Sōgyashina"/ja-rom
+  ="僧伽斯那"/ zh
+  ="seng1 jia1 si1 na3 "/ zh-py
+  ="(Saṃghasena)"/ sk
+@"http://psi.iba-net.org/person/aut-43"
+  ]
+[aut-44  : resp ="Gunabiji"/ja-rom
+  ="求那毘地"/ zh
+  ="qiu2 na3 pi2 di4 "/ zh-py
+  ="(Guñavṛddhi)"/ sk
+@"http://psi.iba-net.org/person/aut-44"
+  ]
+[aut-45  : resp ="Hokku"/ja-rom
+  ="法救"/ zh
+  ="fa3 jiu4 "/ zh-py
+  ="(Dharmatrāta)"/ sk
+@"http://psi.iba-net.org/person/aut-45"
+  ]
+[aut-46  : resp ="Yuiginan"/ja-rom
+  ="維祇難"/ zh
+  ="wei2 qi2 nan2 "/ zh-py
+  ="(Vighna)"/ sk
+@"http://psi.iba-net.org/person/aut-46"
+  ]
+[aut-47  : resp =" Hōko"/ja-rom
+  ="法炬"/ zh
+@"http://psi.iba-net.org/person/aut-47"
+  ]
+[aut-48  : resp ="Hōryū"/ja-rom
+  ="法立"/ zh
+@"http://psi.iba-net.org/person/aut-48"
+  ]
+[aut-49  : resp =" Hokku"/ja-rom
+  ="法救"/ zh
+  ="fa3 jiu4 "/ zh-py
+  ="(Dharmatrāta)"/ sk
+@"http://psi.iba-net.org/person/aut-49"
+  ]
+[aut-50  : resp ="Murasha"/ja-rom
+  ="無羅叉"/ zh
+@"http://psi.iba-net.org/person/aut-50"
+  ]
+[aut-51  : resp =" Dommabi"/ja-rom
+  ="曇摩蜱"/ zh
+@"http://psi.iba-net.org/person/aut-51"
+  ]
+[aut-52  : resp =" Gatsubashuna"/ja-rom
+  ="月婆首那"/ zh
+  ="yue4 po2 shou3 na3 "/ zh-py
+  ="(Ūrdhvaśūnya?)"/ sk
+@"http://psi.iba-net.org/person/aut-52"
+  ]
+[aut-53  : resp =" Sōgyabara"/ja-rom
+  ="僧伽娑羅"/ zh
+@"http://psi.iba-net.org/person/aut-53"
+  ]
+[aut-54  : resp ="Jōkō"/ja-rom
+  ="翔公"/ zh
+  ="xiang2 gong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-54"
+  ]
+[aut-55  : resp ="Bodairushi"/ja-rom
+  ="菩提流支"/ zh
+  ="pu2 ti2 liu2 zhi1 "/ zh-py
+  ="(Bodhiruci I)"/ sk
+@"http://psi.iba-net.org/person/aut-55"
+  ]
+[aut-56  : resp ="Shindai"/ja-rom
+  ="眞諦"/ zh
+@"http://psi.iba-net.org/person/aut-56"
+  ]
+[aut-57  : resp ="Gyūta"/ja-rom
+  ="笈多"/ zh
+  ="ji2 duo1 "/ zh-py
+  ="(Dharmagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-57"
+  ]
+[aut-58  : resp =" Bodairushi"/ja-rom
+  ="菩提流志"/ zh
+  ="pu2 ti2 liu2 zhi4 "/ zh-py
+  ="(Bodhiruci)"/ sk
+@"http://psi.iba-net.org/person/aut-58"
+  ]
+[aut-59  : resp =" Kongōchi"/ja-rom
+  ="金剛智"/ zh
+  ="jin1 gang1 zhi4 "/ zh-py
+  ="(Vajrabodhi)"/ sk
+@"http://psi.iba-net.org/person/aut-59"
+  ]
+[aut-60  : resp =" Fukū"/ja-rom
+  ="不空"/ zh
+  ="bu4 kong1 "/ zh-py
+  ="(Amoghavajra)"/ sk
+@"http://psi.iba-net.org/person/aut-60"
+  ]
+[aut-61  : resp ="Fukū"/ja-rom
+  ="不空"/ zh
+  ="bu4 kong1 "/ zh-py
+  ="(Amoghavajra)"/ sk
+@"http://psi.iba-net.org/person/aut-61"
+  ]
+[aut-62  : resp ="Hōgatsu"/ja-rom
+  ="法月"/ zh
+@"http://psi.iba-net.org/person/aut-62"
+  ]
+[aut-63  : resp ="Hannya"/ja-rom
+  ="般若"/ zh
+  ="bo1 ruo4 "/ zh-py
+  ="(Prājña)"/ sk
+@"http://psi.iba-net.org/person/aut-63"
+  ]
+[aut-64  : resp ="Chierin"/ja-rom
+  ="智慧輪"/ zh
+  ="zhi4 hui4 lun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-64"
+  ]
+[aut-65  : resp ="Hōsei"/ja-rom
+  ="法成"/ zh
+  ="fa3 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-65"
+  ]
+[aut-66  : resp ="Jiku Hōgo"/ja-rom
+  ="竺法護"/ zh
+  ="zhu2 fa3 hu4 "/ zh-py
+  ="(Dharmarakṣa)"/ sk
+@"http://psi.iba-net.org/person/aut-66"
+  ]
+[aut-67  : resp ="Chigen"/ja-rom
+  ="智嚴"/ zh
+  ="zhi4 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-67"
+  ]
+[aut-68  : resp ="Gunabatsudara"/ja-rom
+  ="求那跋陀羅"/ zh
+  ="qiu2 na3 ba2 tuo2 luo2 "/ zh-py
+  ="(Guˆabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-68"
+  ]
+[aut-69  : resp ="Binitarushi"/ja-rom
+  ="毘尼多流支"/ zh
+  ="pi2 ni2 duo1 liu2 zhi1 "/ zh-py
+  ="(Vinītaruci)"/ sk
+@"http://psi.iba-net.org/person/aut-69"
+  ]
+[aut-70  : resp ="Dommakadayasha"/ja-rom
+  ="曇摩伽陀耶舍"/ zh
+@"http://psi.iba-net.org/person/aut-70"
+  ]
+[aut-71  : resp ="Dommumitta"/ja-rom
+  ="曇無蜜多"/ zh
+  ="tan2 wu2 mi4 duo1 "/ zh-py
+  ="(Dharmamitra)"/ sk
+@"http://psi.iba-net.org/person/aut-71"
+  ]
+[aut-72  : resp ="Butsudabatsudara"/ja-rom
+  ="佛駄跋陀羅"/ zh
+@"http://psi.iba-net.org/person/aut-72"
+  ]
+[aut-73  : resp ="Jisshananda"/ja-rom
+  ="實叉難陀"/ zh
+  ="shi2 cha1 nan2 tuo2 "/ zh-py
+  ="(Śikṣānanda)"/ sk
+@"http://psi.iba-net.org/person/aut-73"
+  ]
+[aut-74  : resp ="Gitamitsu"/ja-rom
+  ="祇多蜜"/ zh
+  ="qi2 duo1 mi4 "/ zh-py
+  ="(Gītanutra)"/ sk
+@"http://psi.iba-net.org/person/aut-74"
+  ]
+[aut-75  : resp ="Shiradatsuma"/ja-rom
+  ="尸羅逹摩"/ zh
+@"http://psi.iba-net.org/person/aut-75"
+  ]
+[aut-76  : resp ="Jibakara"/ja-rom
+  ="地婆訶羅"/ zh
+  ="di4 po2 he1 luo2 "/ zh-py
+  ="(Divākara)"/ sk
+@"http://psi.iba-net.org/person/aut-76"
+  ]
+[aut-77  : resp ="Daiunhannya"/ja-rom
+  ="提雲般若"/ zh
+  ="ti2 yun2 ban1 zang4 "/ zh-py
+  ="(Devaprājña)"/ sk
+@"http://psi.iba-net.org/person/aut-77"
+  ]
+[aut-78  : resp ="Dommarushi"/ja-rom
+  ="曇摩流支"/ zh
+  ="tan2 mo2 liu2 zhi1 "/ zh-py
+  ="(Dharmaruci)"/ sk
+@"http://psi.iba-net.org/person/aut-78"
+  ]
+[aut-79  : resp ="Kikkaya"/ja-rom
+  ="吉迦夜"/ zh
+  ="ji2 jia1 ye4 "/ zh-py
+  ="(Kiṃkārya?)"/ sk
+@"http://psi.iba-net.org/person/aut-79"
+  ]
+[aut-80  : resp ="Mandarasen"/ja-rom
+  ="曼陀羅仙"/ zh
+  ="man4 tuo2 luo2 xian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-80"
+  ]
+[aut-81  : resp ="Butsudasenta"/ja-rom
+  ="佛陀扇多"/ zh
+  ="fo2 tuo2 shan4 duo1 "/ zh-py
+  ="(Buddhaśānta)"/ sk
+@"http://psi.iba-net.org/person/aut-81"
+  ]
+[aut-82  : resp ="Narendaiyasha"/ja-rom
+  ="那連提耶舍"/ zh
+  ="na3 lian2 ti2 ye1 she4 "/ zh-py
+  ="(Narendrayaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-82"
+  ]
+[aut-83  : resp =" Kō Sōgai"/ja-rom
+  ="康僧鎧"/ zh
+  ="kang1 seng1 kai3 "/ zh-py
+  ="(Saṃghavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-83"
+  ]
+[aut-84  : resp ="Gatsubashuna"/ja-rom
+  ="月婆首那"/ zh
+  ="yue4 po2 shou3 na3 "/ zh-py
+  ="(Ūrdhvaśūnya)"/ sk
+@"http://psi.iba-net.org/person/aut-84"
+  ]
+[aut-85  : resp ="Jiku Nandai"/ja-rom
+  ="竺難提"/ zh
+@"http://psi.iba-net.org/person/aut-85"
+  ]
+[aut-86  : resp ="Dōkyō"/ja-rom
+  ="道龔"/ zh
+@"http://psi.iba-net.org/person/aut-86"
+  ]
+[aut-87  : resp ="Sōgyabara"/ja-rom
+  ="僧伽婆羅"/ zh
+  ="seng1 jia1 po2 luo2 "/ zh-py
+  ="(Saṃghabhara?)"/ sk
+@"http://psi.iba-net.org/person/aut-87"
+  ]
+[aut-88  : resp ="Kudon Hannyarushi"/ja-rom
+  ="瞿曇般若流支"/ zh
+  ="qu2 tan2 ban1 zang4 liu2 zhi1 "/ zh-py
+  ="(Gautama Prajñāruci)"/ sk
+@"http://psi.iba-net.org/person/aut-88"
+  ]
+[aut-89  : resp ="Bimokuchisen"/ja-rom
+  ="毘目智仙"/ zh
+  ="pi2 mu4 zhi4 xian1 "/ zh-py
+  ="(Vimokṣaprajñarṣi?)"/ sk
+@"http://psi.iba-net.org/person/aut-89"
+  ]
+[aut-90  : resp ="Hannyarushi"/ja-rom
+  ="般若流支"/ zh
+  ="ban1 zang4 liu2 zhi1 "/ zh-py
+  ="(Prajñāruci)"/ sk
+@"http://psi.iba-net.org/person/aut-90"
+  ]
+[aut-91  : resp ="Kō Sōgai"/ja-rom
+  ="康僧鎧"/ zh
+  ="kang1 seng1 kai3 "/ zh-py
+  ="(Saṃghavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-91"
+  ]
+[aut-92  : resp ="Shi Ken"/ja-rom
+  ="支謙"/ zh
+  ="zhi1 qian1 "/ zh-py
+  ="(?)"/ sk
+@"http://psi.iba-net.org/person/aut-92"
+  ]
+[aut-93  : resp ="Kyōryōyasha"/ja-rom
+  ="畺良耶舍"/ zh
+@"http://psi.iba-net.org/person/aut-93"
+  ]
+[aut-94  : resp ="Dommukatsu"/ja-rom
+  ="曇無竭"/ zh
+  ="tan2 wu2 jie2 "/ zh-py
+  ="(Dharmodgata)"/ sk
+@"http://psi.iba-net.org/person/aut-94"
+  ]
+[aut-95  : resp ="Egon"/ja-rom
+  ="慧嚴"/ zh
+@"http://psi.iba-net.org/person/aut-95"
+  ]
+[aut-96  : resp ="Sha Reiun"/ja-rom
+  ="謝靈運"/ zh
+@"http://psi.iba-net.org/person/aut-96"
+  ]
+[aut-97  : resp ="Nyakunabatsudara"/ja-rom
+  ="若那跋陀羅"/ zh
+  ="zang4 na3 ba2 tuo2 luo2 "/ zh-py
+  ="(Jñānabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-97"
+  ]
+[aut-98  : resp ="Harahamittara"/ja-rom
+  ="波羅頗蜜多羅"/ zh
+  ="bo1 luo2 po3 mi4 duo1 luo2 "/ zh-py
+  ="(Prabhāmitra)"/ sk
+@"http://psi.iba-net.org/person/aut-98"
+  ]
+[aut-99  : resp ="Dommamitta"/ja-rom
+  ="曇摩蜜多"/ zh
+  ="tan2 mo2 mi4 duo1 "/ zh-py
+  ="(Dharmamitra)"/ sk
+@"http://psi.iba-net.org/person/aut-99"
+  ]
+[aut-100  : resp =" Datsumagyūta"/ja-rom
+  ="逹摩笈多"/ zh
+@"http://psi.iba-net.org/person/aut-100"
+  ]
+[aut-101  : resp ="Zunakutta"/ja-rom
+  ="豆那掘多"/ zh
+  ="dou4 na3 jue2 duo1 "/ zh-py
+  ="(Jñānagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-101"
+  ]
+[aut-102  : resp ="Nadai"/ja-rom
+  ="那提"/ zh
+  ="na3 ti2 "/ zh-py
+  ="(Nadi)"/ sk
+@"http://psi.iba-net.org/person/aut-102"
+  ]
+[aut-103  : resp ="Soko Kyōshō"/ja-rom
+  ="沮渠京聲"/ zh
+@"http://psi.iba-net.org/person/aut-103"
+  ]
+[aut-104  : resp ="Hōjō"/ja-rom
+  ="法場"/ zh
+  ="fa3 chang3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-104"
+  ]
+[aut-105  : resp ="Dammayasha"/ja-rom
+  ="曇摩耶舍"/ zh
+  ="tan2 mo2 ye1 she4 "/ zh-py
+  ="(Dharmayaśa)"/ sk
+@"http://psi.iba-net.org/person/aut-105"
+  ]
+[aut-106  : resp ="Sōgyarasetsu"/ja-rom
+  ="僧伽羅刹"/ zh
+  ="zhu2 fa3 hu4 "/ zh-py
+  ="(Dharmarakṣa)"/ sk
+@"http://psi.iba-net.org/person/aut-106"
+  ]
+[aut-107  : resp ="Datsumatara"/ja-rom
+  ="達摩多羅"/ zh
+  ="fo2 tuo2 ba2 tuo2 luo2 "/ zh-py
+  ="(Buddhabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-107"
+  ]
+[aut-108  : resp ="Butsudashina"/ja-rom
+  ="佛陀斯那"/ zh
+  ="fo2 tuo2 ba2 tuo2 luo2 "/ zh-py
+  ="(Buddhabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-108"
+  ]
+[aut-109  : resp ="Butsudamitta"/ja-rom
+  ="佛陀蜜多"/ zh
+  ="fo2 tuo2 mi4 duo1 "/ zh-py
+  ="(Buddhamitra)"/ sk
+@"http://psi.iba-net.org/person/aut-109"
+  ]
+[aut-110  : resp ="Senkō"/ja-rom
+  ="先公"/ zh
+  ="xian1 gong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-110"
+  ]
+[aut-111  : resp ="Janayasha"/ja-rom
+  ="闍那耶舍"/ zh
+  ="she2 na3 ye1 she4 "/ zh-py
+  ="(Jñānayaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-111"
+  ]
+[aut-112  : resp ="Hōshiyui"/ja-rom
+  ="寶思惟"/ zh
+  ="bao3 si1 wei2 "/ zh-py
+  ="(Ratnacinta)"/ sk
+@"http://psi.iba-net.org/person/aut-112"
+  ]
+[aut-113  : resp ="HōTEN"/ja-rom
+  ="法天"/ zh
+  ="fa3 tian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-113"
+  ]
+[aut-114  : resp ="Daiyū"/ja-rom
+  ="大勇"/ zh
+  ="seng1 jia1 ba2 mo2 "/ zh-py
+  ="(Saṃghavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-114"
+  ]
+[aut-115  : resp ="Sōgyabatsuma"/ja-rom
+  ="僧伽跋摩"/ zh
+  ="seng1 jia1 ba2 mo2 "/ zh-py
+  ="(Saṃghavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-115"
+  ]
+[aut-116  : resp ="); ±Ṣaḍgatikārikā. Memyō"/ja-rom
+  ="馬鳴"/ zh
+@"http://psi.iba-net.org/person/aut-116"
+  ]
+[aut-117  : resp ="Kammui"/ja-rom
+  ="觀無畏"/ zh
+@"http://psi.iba-net.org/person/aut-117"
+  ]
+[aut-118  : resp ="Donkei"/ja-rom
+  ="曇景"/ zh
+  ="tan2 jing3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-118"
+  ]
+[aut-119  : resp ="Gombucchō"/ja-rom
+  ="嚴佛調"/ zh
+  ="yan2 fo2 tiao2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-119"
+  ]
+[aut-120  : resp ="Motsudaidaisaigyo"/ja-rom
+  ="勿提提犀魚"/ zh
+  ="wu4 ti2 ti2 xi1 yu2 "/ zh-py
+  ="(Utpalavīrya?)"/ sk
+@"http://psi.iba-net.org/person/aut-120"
+  ]
+[aut-121  : resp ="Kashōmatō"/ja-rom
+  ="迦葉摩騰"/ zh
+  =""/ zh-py
+  ="(Kāśyapa Mātaṇga?)"/ sk
+@"http://psi.iba-net.org/person/aut-121"
+  ]
+[aut-122  : resp ="Jiku Hōran"/ja-rom
+  ="竺法蘭"/ zh
+@"http://psi.iba-net.org/person/aut-122"
+  ]
+[aut-123  : resp ="Nyakuragon"/ja-rom
+  ="若羅嚴"/ zh
+  ="zang4 luo2 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-123"
+  ]
+[aut-124  : resp ="Bodaitō"/ja-rom
+  ="菩提燈"/ zh
+  ="pu2 ti2 deng1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-124"
+  ]
+[aut-125  : resp ="Butsudatara"/ja-rom
+  ="佛陀多羅"/ zh
+  ="fo2 tuo2 duo1 luo2 "/ zh-py
+  ="(Buddhatrāta)"/ sk
+@"http://psi.iba-net.org/person/aut-125"
+  ]
+[aut-126  : resp ="Zemmui"/ja-rom
+  ="善無畏"/ zh
+  ="shan4 wu2 wei4 "/ zh-py
+  ="(Śubhakarasiṃha)"/ sk
+@"http://psi.iba-net.org/person/aut-126"
+  ]
+[aut-127  : resp ="Bodaikongō"/ja-rom
+  ="菩提金剛"/ zh
+  ="pu2 ti2 jin1 gang1 "/ zh-py
+  ="(Vajrabodhi)"/ sk
+@"http://psi.iba-net.org/person/aut-127"
+  ]
+[aut-128  : resp ="Yubakara"/ja-rom
+  ="輸波迦羅"/ zh
+@"http://psi.iba-net.org/person/aut-128"
+  ]
+[aut-129  : resp ="Hōzen"/ja-rom
+  ="法全"/ zh
+  ="fa3 quan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-129"
+  ]
+[aut-130  : resp ="Yuikin"/ja-rom
+  ="惟謹"/ zh
+  ="wei2 jin3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-130"
+  ]
+[aut-131  : resp ="Gisō"/ja-rom
+  ="義操"/ zh
+  ="yi4 cao1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-131"
+  ]
+[aut-132  : resp ="Kongōchi"/ja-rom
+  ="金剛智"/ zh
+  ="jin1 gang1 zhi4 "/ zh-py
+  ="(Vajrabodhi)"/ sk
+@"http://psi.iba-net.org/person/aut-132"
+  ]
+[aut-133  : resp ="Keika"/ja-rom
+  ="惠果"/ zh
+  ="hui4 guo3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-133"
+  ]
+[aut-134  : resp ="Erin"/ja-rom
+  ="慧琳"/ zh
+  ="hui4 lin2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-134"
+  ]
+[aut-135  : resp ="Ichigyō"/ja-rom
+  ="一行"/ zh
+  ="yi1 xing2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-135"
+  ]
+[aut-136  : resp ="Zengo"/ja-rom
+  ="善護"/ zh
+@"http://psi.iba-net.org/person/aut-136"
+  ]
+[aut-137  : resp ="Kufusafu"/ja-rom
+  ="工布査布"/ zh
+@"http://psi.iba-net.org/person/aut-137"
+  ]
+[aut-138  : resp ="Aōsatsujū"/ja-rom
+  ="阿旺札什"/ zh
+@"http://psi.iba-net.org/person/aut-138"
+  ]
+[aut-139  : resp ="Datsuramakatsubokusosatsumokutandatsunikichi"/ja-rom
+  ="喇嚇嘛卜楚薩木丹達爾吉"/ zh
+@"http://psi.iba-net.org/person/aut-139"
+  ]
+[aut-140  : resp ="Datsuramasatsumokutandatsunikichi"/ja-rom
+  ="達喇嘛薩穆丹達爾吉"/ zh
+  ="da2 la1 ma2 sa4 mu4 dan1 da2 er3 ji2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-140"
+  ]
+[aut-141  : resp ="Haramittei"/ja-rom
+  ="般刺蜜帝"/ zh
+  ="ban1 ci4 mi4 di4 "/ zh-py
+  ="(Pāramiti?)"/ sk
+@"http://psi.iba-net.org/person/aut-141"
+  ]
+[aut-142  : resp ="Bengu"/ja-rom
+  ="𧦪弘"/ zh
+@"http://psi.iba-net.org/person/aut-142"
+  ]
+[aut-143  : resp ="Datsumaseina"/ja-rom
+  ="達磨栖那"/ zh
+  ="da2 mo2 qi1 na3 "/ zh-py
+  ="(Dharmasena)"/ sk
+@"http://psi.iba-net.org/person/aut-143"
+  ]
+[aut-144  : resp ="Shirabatsudara"/ja-rom
+  ="尸羅跋陀羅"/ zh
+@"http://psi.iba-net.org/person/aut-144"
+  ]
+[aut-145  : resp ="Butsudahari"/ja-rom
+  ="佛陀波利"/ zh
+  ="fo2 tuo2 bo1 li4 "/ zh-py
+  ="(Buddhapāli)"/ sk
+@"http://psi.iba-net.org/person/aut-145"
+  ]
+[aut-146  : resp ="Nyakuna"/ja-rom
+  ="若那"/ zh
+  ="zang4 na3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-146"
+  ]
+[aut-147  : resp ="Sharapa"/ja-rom
+  ="沙囉巴"/ zh
+@"http://psi.iba-net.org/person/aut-147"
+  ]
+[aut-148  : resp ="Shikū"/ja-rom
+  ="指空"/ zh
+  ="zhi3 kong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-148"
+  ]
+[aut-149  : resp ="Munishiri"/ja-rom
+  ="牟尼室利"/ zh
+  ="mu4 ni2 shi4 li4 "/ zh-py
+  ="(Muniśrī)"/ sk
+@"http://psi.iba-net.org/person/aut-149"
+  ]
+[aut-150  : resp ="Shiken"/ja-rom
+  ="支謙"/ zh
+  ="zhi1 qian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-150"
+  ]
+[aut-151  : resp =" ut sup. Fukū"/ja-rom
+  ="不空"/ zh
+  ="bu4 kong1 "/ zh-py
+  ="(Amoghavajra)"/ sk
+@"http://psi.iba-net.org/person/aut-151"
+  ]
+[aut-152  : resp ="Midasen"/ja-rom
+  ="彌陀山"/ zh
+  ="mi2 tuo2 shan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-152"
+  ]
+[aut-153  : resp ="Chitsū"/ja-rom
+  ="智通"/ zh
+  ="zhi4 tong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-153"
+  ]
+[aut-154  : resp ="Nandai"/ja-rom
+  ="難提"/ zh
+  ="nan2 ti2 "/ zh-py
+  ="(Nandi)"/ sk
+@"http://psi.iba-net.org/person/aut-154"
+  ]
+[aut-155  : resp ="Echi"/ja-rom
+  ="慧智"/ zh
+  ="hui4 zhi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-155"
+  ]
+[aut-156  : resp ="Gabondatsuma"/ja-rom
+  ="伽梵逹摩"/ zh
+@"http://psi.iba-net.org/person/aut-156"
+  ]
+[aut-157  : resp ="Sobara"/ja-rom
+  ="蘇嚩羅"/ zh
+@"http://psi.iba-net.org/person/aut-157"
+  ]
+[aut-158  : resp =" Yashakutta"/ja-rom
+  ="耶舍崛多"/ zh
+  ="ye1 she4 jue2 duo1 "/ zh-py
+  ="(Yaśogupta)"/ sk
+@"http://psi.iba-net.org/person/aut-158"
+  ]
+[aut-159  : resp ="Gedatsushishi"/ja-rom
+  ="解脱師子"/ zh
+@"http://psi.iba-net.org/person/aut-159"
+  ]
+[aut-160  : resp ="Jiken"/ja-rom
+  ="慈賢"/ zh
+  ="ci2 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-160"
+  ]
+[aut-161  : resp ="Amokkya"/ja-rom
+  ="阿目佉"/ zh
+@"http://psi.iba-net.org/person/aut-161"
+  ]
+[aut-162  : resp ="Bodairuchi"/ja-rom
+  ="菩提流志"/ zh
+  ="pu2 ti2 liu2 zhi4 "/ zh-py
+  ="(Bodhiruci)"/ sk
+@"http://psi.iba-net.org/person/aut-162"
+  ]
+[aut-163  : resp ="Bodaisen"/ja-rom
+  ="菩提仙"/ zh
+  ="pu2 ti2 xian1 "/ zh-py
+  ="(Bodhirṣi)"/ sk
+@"http://psi.iba-net.org/person/aut-163"
+  ]
+[aut-164  : resp ="Shakuchi"/ja-rom
+  ="釋智"/ zh
+  ="shi4 zhi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-164"
+  ]
+[aut-165  : resp ="Chie"/ja-rom
+  ="智慧"/ zh
+  ="zhi4 hui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-165"
+  ]
+[aut-166  : resp ="Fukū"/ja-rom
+  ="不空"/ zh
+  ="bu4 kong1 "/ zh-py
+  ="(Amoghavajra)"/ sk
+@"http://psi.iba-net.org/person/aut-166"
+  ]
+[aut-167  : resp ="Kaiun"/ja-rom
+  ="海雲"/ zh
+  ="hai3 yun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-167"
+  ]
+[aut-168  : resp ="Kūgi"/ja-rom
+  ="空蜝"/ zh
+@"http://psi.iba-net.org/person/aut-168"
+  ]
+[aut-169  : resp ="Ashitsudassan"/ja-rom
+  ="阿質達霰"/ zh
+  ="a1 zhi4 da2 xian4 "/ zh-py
+  ="(Ajitasena)"/ sk
+@"http://psi.iba-net.org/person/aut-169"
+  ]
+[aut-170  : resp ="Hōgo"/ja-rom
+  ="法護"/ zh
+  ="fa3 hu4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-170"
+  ]
+[aut-171  : resp ="Hannyashakara"/ja-rom
+  ="般若斫羯羅"/ zh
+@"http://psi.iba-net.org/person/aut-171"
+  ]
+[aut-172  : resp ="Kuta"/ja-rom
+  ="瞿多"/ zh
+  ="qu2 duo1 "/ zh-py
+  ="(Gupta?)"/ sk
+@"http://psi.iba-net.org/person/aut-172"
+  ]
+[aut-173  : resp ="Gankō"/ja-rom
+  ="含光"/ zh
+  ="han2 guang1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-173"
+  ]
+[aut-174  : resp ="Keishitsu"/ja-rom
+  ="憬瑟"/ zh
+  ="jing3 se4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-174"
+  ]
+[aut-175  : resp ="Hannyajakara"/ja-rom
+  ="般若惹羯羅"/ zh
+  ="ban1 zang4 re3 jie2 luo2 "/ zh-py
+  ="(Prajñācakra)"/ sk
+@"http://psi.iba-net.org/person/aut-175"
+  ]
+[aut-176  : resp ="Hannnyariki"/ja-rom
+  ="般若力"/ zh
+  ="ban1 zang4 li4 "/ zh-py
+  ="(Prajñābala)"/ sk
+@"http://psi.iba-net.org/person/aut-176"
+  ]
+[aut-177  : resp ="Jingai"/ja-rom
+  ="神愷"/ zh
+  ="shen2 kai3" /zh-py
+@"http://psi.iba-net.org/person/aut-177"
+  ]
+[aut-178  : resp ="Amoga"/ja-rom
+  ="阿謨伽"/ zh
+  ="a1 mo2 jia1 "/ zh-py
+  ="(Amoghavajra)"/ sk
+@"http://psi.iba-net.org/person/aut-178"
+  ]
+[aut-179  : resp ="Daikōzenjihonkyōiṇajari[Fukū]"/ja-rom
+  ="大興善寺翻經院阿闍梨[不空]"/ zh
+@"http://psi.iba-net.org/person/aut-179"
+  ]
+[aut-180  : resp ="Honkyōiṇajari[Fukū]"/ja-rom
+  ="翻經院阿闍梨[不空]"/ zh
+@"http://psi.iba-net.org/person/aut-180"
+  ]
+[aut-181  : resp ="Konkuta"/ja-rom
+  ="金倶吒"/ zh
+@"http://psi.iba-net.org/person/aut-181"
+  ]
+[aut-182  : resp ="Batsudamokua"/ja-rom
+  ="跋駄木阿"/ zh
+@"http://psi.iba-net.org/person/aut-182"
+  ]
+[aut-183  : resp ="Haku Shirimittara"/ja-rom
+  ="帛尸梨蜜多羅"/ zh
+  =""/ zh-py
+  ="(Śrīmitra?)"/ sk
+@"http://psi.iba-net.org/person/aut-183"
+  ]
+[aut-184  : resp ="Doṇyō"/ja-rom
+  ="曇曜"/ zh
+  ="tan2 yao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-184"
+  ]
+[aut-185  : resp ="Seshin"/ja-rom
+  ="世親"/ zh
+@"http://psi.iba-net.org/person/aut-185"
+  ]
+[aut-186  : resp ="Chii"/ja-rom
+  ="智威"/ zh
+@"http://psi.iba-net.org/person/aut-186"
+  ]
+[aut-187  : resp ="Dommuran"/ja-rom
+  ="曇無蘭"/ zh
+  ="tan2 wu2 lan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-187"
+  ]
+[aut-188  : resp ="Jiken" /ja-rom
+  ="慈賢"/ zh
+@"http://psi.iba-net.org/person/aut-188"
+  ]
+[aut-189  : resp ="Butsudajū"/ja-rom
+  ="佛陀什"/ zh
+  ="fo2 tuo2 shi2 "/ zh-py
+  ="(Buddhajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-189"
+  ]
+[aut-190  : resp ="Myōki"/ja-rom
+  ="明徽"/ zh
+  ="ming2 hui1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-190"
+  ]
+[aut-191  : resp ="Aidō"/ja-rom
+  ="愛同"/ zh
+  ="ai4 tong2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-191"
+  ]
+[aut-192  : resp =" Kakken"/ja-rom
+  ="覺賢"/ zh
+  ="jue2 xian2 "/ zh-py
+  ="(Buddhabhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-192"
+  ]
+[aut-193  : resp ="Dontai"/ja-rom
+  ="曇諦"/ zh
+  ="tan2 di4 "/ zh-py
+  ="(Dharmasatya?)"/ sk
+@"http://psi.iba-net.org/person/aut-193"
+  ]
+[aut-194  : resp ="Gunabatsuma"/ja-rom
+  ="求那跋摩"/ zh
+  ="qiu2 na3 ba2 mo2 "/ zh-py
+  ="(Guñavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-194"
+  ]
+[aut-195  : resp ="Futsunyatara"/ja-rom
+  ="弗若多羅"/ zh
+  ="fu2 zang4 duo1 luo2 "/ zh-py
+  ="(Puñyatara)"/ sk
+@"http://psi.iba-net.org/person/aut-195"
+  ]
+[aut-196  : resp ="Rajū"/ja-rom
+  ="羅什"/ zh
+  ="luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-196"
+  ]
+[aut-197  : resp ="Sōkyo"/ja-rom
+  ="僧璩"/ zh
+@"http://psi.iba-net.org/person/aut-197"
+  ]
+[aut-198  : resp ="Gijō"/ja-rom
+  ="義淨" /zh
+@"http://psi.iba-net.org/person/aut-198"
+  ]
+[aut-199  : resp =" Shōu"/ja-rom
+  ="勝友"/ zh
+@"http://psi.iba-net.org/person/aut-199"
+  ]
+[aut-200  : resp =" Bishakya"/ja-rom
+  ="毘舍佉"/ zh
+@"http://psi.iba-net.org/person/aut-200"
+  ]
+[aut-201  : resp ="Futsudatarata"/ja-rom
+  ="弗陀多羅多"/ zh
+@"http://psi.iba-net.org/person/aut-201"
+  ]
+[aut-202  : resp =" Sōgyabatsudara"/ja-rom
+  ="僧伽跋陀羅"/ zh
+@"http://psi.iba-net.org/person/aut-202"
+  ]
+[aut-203  : resp ="Hōkai"/ja-rom
+  ="法海"/ zh
+  ="fa3 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-203"
+  ]
+[aut-204  : resp =" Gyūta"/ja-rom
+  ="笈多"/ zh
+  ="ji2 duo1 "/ zh-py
+  ="(Dharmagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-204"
+  ]
+[aut-205  : resp ="Miroku"/ja-rom
+  ="彌勒"/ zh
+@"http://psi.iba-net.org/person/aut-205"
+  ]
+[aut-206  : resp ="Jishi"/ja-rom
+  ="慈氏"/ zh
+@"http://psi.iba-net.org/person/aut-206"
+  ]
+[aut-207  : resp ="Basobatsuda"/ja-rom
+  ="婆素跋陀"/ zh
+  ="po2 su4 ba2 tuo2 "/ zh-py
+  ="(Vasubhadra)"/ sk
+@"http://psi.iba-net.org/person/aut-207"
+  ]
+[aut-208  : resp ="Kumarabutsudai"/ja-rom
+  ="鳩摩羅佛提"/ zh
+  ="jiu1 mo2 luo2 fo2 ti2 "/ zh-py
+  ="(Kumārabuddhi)"/ sk
+@"http://psi.iba-net.org/person/aut-208"
+  ]
+[aut-209  : resp ="Sanken"/ja-rom
+  ="山賢"/ zh
+  ="seng1 jia1 ti2 po2 "/ zh-py
+  ="(Gautama Saṃghadeva)"/ sk
+@"http://psi.iba-net.org/person/aut-209"
+  ]
+[aut-210  : resp ="Sōgyadaiba"/ja-rom
+  ="僧伽提婆"/ zh
+  ="seng1 jia1 ti2 po2 "/ zh-py
+  ="(Gautama Saṃghadeva)"/ sk
+@"http://psi.iba-net.org/person/aut-210"
+  ]
+[aut-211  : resp ="Ryūju"/ja-rom
+  ="龍樹"/ zh
+  ="long2 shu4 "/ zh-py
+  ="(Nāgārjuna)"/ sk
+@"http://psi.iba-net.org/person/aut-211"
+  ]
+[aut-212  : resp ="Mujaku"/ja-rom
+  ="無著"/ zh
+@"http://psi.iba-net.org/person/aut-212"
+  ]
+[aut-213  : resp =" Tenjin"/ja-rom
+  ="天親"/ zh
+  ="pu2 ti2 liu2 zhi1 "/ zh-py
+  ="(Bodhiruci I)"/ sk
+@"http://psi.iba-net.org/person/aut-213"
+  ]
+[aut-214  : resp ="Kongōsen"/ja-rom
+  ="金剛仙"/ zh
+  ="pu2 ti2 liu2 zhi1 "/ zh-py
+  ="(Bodhiruci I)"/ sk
+@"http://psi.iba-net.org/person/aut-214"
+  ]
+[aut-215  : resp =" Seshin"/ja-rom
+  ="世親"/ zh
+@"http://psi.iba-net.org/person/aut-215"
+  ]
+[aut-216  : resp ="Kudokuse"/ja-rom
+  ="功徳施"/ zh
+  ="di4 po2 he1 luo2 "/ zh-py
+  ="(Divākara)"/ sk
+@"http://psi.iba-net.org/person/aut-216"
+  ]
+[aut-217  : resp ="Shōtokushakue"/ja-rom
+  ="勝徳赤衣"/ zh
+@"http://psi.iba-net.org/person/aut-217"
+  ]
+[aut-218  : resp ="Sambōson"/ja-rom
+  ="三寶尊"/ zh
+@"http://psi.iba-net.org/person/aut-218"
+  ]
+[aut-219  : resp =" Daiikiryū"/ja-rom
+  ="大域龍"/ zh
+@"http://psi.iba-net.org/person/aut-219"
+  ]
+[aut-220  : resp ="Daiikiryū"/ja-rom
+  ="大域龍"/ zh
+@"http://psi.iba-net.org/person/aut-220"
+  ]
+[aut-221  : resp ="Basohanzu"/ja-rom
+  ="婆藪槃豆"/ zh
+  ="po2 sou3 pan2 dou4 "/ zh-py
+  ="(Vasubandhu)"/ sk
+@"http://psi.iba-net.org/person/aut-221"
+  ]
+[aut-222  : resp =" Rokunamadai"/ja-rom
+  ="勒那摩提"/ zh
+  ="le4 na3 mo2 ti2 "/ zh-py
+  ="(Ratnamati)"/ sk
+@"http://psi.iba-net.org/person/aut-222"
+  ]
+[aut-223  : resp ="Tenjin"/ja-rom
+  ="天親"/ zh
+  ="pu2 ti2 liu2 zhi1 "/ zh-py
+  ="(Bodhiruci I)"/ sk
+@"http://psi.iba-net.org/person/aut-223"
+  ]
+[aut-224  : resp =" Bimokuchisen"/ja-rom
+  ="毘目智仙"/ zh
+  ="pi2 mu4 zhi4 xian1 "/ zh-py
+  ="(Vimokṣaprajñarṣi?)"/ sk
+@"http://psi.iba-net.org/person/aut-224"
+  ]
+[aut-225  : resp =" Datsumabodai"/ja-rom
+  ="逹磨菩提"/ zh
+@"http://psi.iba-net.org/person/aut-225"
+  ]
+[aut-226  : resp ="attribué à) Tenjin"/ja-rom
+  ="天親"/ zh
+@"http://psi.iba-net.org/person/aut-226"
+  ]
+[aut-227  : resp =" (et à) Shindai"/ja-rom
+  ="眞諦"/ zh
+@"http://psi.iba-net.org/person/aut-227"
+  ]
+[aut-228  : resp ="Shinkō"/ja-rom
+  ="親光"/ zh
+@"http://psi.iba-net.org/person/aut-228"
+  ]
+[aut-229  : resp ="Tenjin"/ja-rom
+  ="天親"/ zh
+@"http://psi.iba-net.org/person/aut-229"
+  ]
+[aut-230  : resp ="Sharishi"/ja-rom
+  ="舍利子"/ zh
+@"http://psi.iba-net.org/person/aut-230"
+  ]
+[aut-231  : resp ="Daimokkenren"/ja-rom
+  ="大目乾連"/ zh
+@"http://psi.iba-net.org/person/aut-231"
+  ]
+[aut-232  : resp ="Daibasetsuma"/ja-rom
+  ="提婆設摩"/ zh
+@"http://psi.iba-net.org/person/aut-232"
+  ]
+[aut-233  : resp ="Shou"/ja-rom
+  ="世友"/ zh
+@"http://psi.iba-net.org/person/aut-233"
+  ]
+[aut-234  : resp =" Bodaiyasha"/ja-rom
+  ="菩提耶舍"/ zh
+  ="pu2 ti2 ye1 she4 "/ zh-py
+  ="(Bodhiyaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-234"
+  ]
+[aut-235  : resp ="Kasennenshi"/ja-rom
+  ="迦旃延子"/ zh
+  ="seng1 jia1 ti2 po2 "/ zh-py
+  ="(Gautama Saṃghadeva)"/ sk
+@"http://psi.iba-net.org/person/aut-235"
+  ]
+[aut-236  : resp =" Sōgyadaiba"/ja-rom
+  ="僧伽提婆"/ zh
+  ="seng1 jia1 ti2 po2 "/ zh-py
+  ="(Gautama Saṃghadeva)"/ sk
+@"http://psi.iba-net.org/person/aut-236"
+  ]
+[aut-237  : resp ="Kataennishi"/ja-rom
+  ="迦多衍尼子"/ zh
+  ="jia1 duo1 yan3 ni2 zi3 "/ zh-py
+  ="(Kātyāyanīputra)"/ sk
+@"http://psi.iba-net.org/person/aut-237"
+  ]
+[aut-238  : resp =" Fudabatsuma"/ja-rom
+  ="浮陀跋摩"/ zh
+  ="fu2 tuo2 ba2 mo2 "/ zh-py
+  ="(Buddhavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-238"
+  ]
+[aut-239  : resp ="Shidahanni"/ja-rom
+  ="尸陀槃尼"/ zh
+  ="shi1 tuo2 pan2 ni2 "/ zh-py
+  ="(Sitapāñi?)"/ sk
+@"http://psi.iba-net.org/person/aut-239"
+  ]
+[aut-240  : resp =" var. Kasennenshi"/ja-rom
+  ="迦旃延子"/ zh
+  ="seng1 jia1 ba2 cheng2 "/ zh-py
+  ="(Saṃghabhadra?)"/ sk
+@"http://psi.iba-net.org/person/aut-240"
+  ]
+[aut-241  : resp ="Dommayasha"/ja-rom
+  ="曇摩耶舍"/ zh
+  ="tan2 mo2 ye1 she4 "/ zh-py
+  ="(Dharmayaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-241"
+  ]
+[aut-242  : resp =" Dommakutta"/ja-rom
+  ="曇摩崛多"/ zh
+  ="tan2 mo2 jue2 duo1 "/ zh-py
+  ="(Dharmagupta)"/ sk
+@"http://psi.iba-net.org/person/aut-242"
+  ]
+[aut-243  : resp ="Basumitsu"/ja-rom
+  ="婆須蜜"/ zh
+  ="seng1 jia1 ba2 cheng2 "/ zh-py
+  ="(Saṃghabhadra?)"/ sk
+@"http://psi.iba-net.org/person/aut-243"
+  ]
+[aut-244  : resp ="Hōshō"/ja-rom
+  ="法勝"/ zh
+  ="fa3 sheng4 "/ zh-py
+  ="(Dharmaśrī?)"/ sk
+@"http://psi.iba-net.org/person/aut-244"
+  ]
+[aut-245  : resp ="Ubasenta"/ja-rom
+  ="優波扇多"/ zh
+  ="you1 bo1 shan4 duo1 "/ zh-py
+  ="(Upaśānta)"/ sk
+@"http://psi.iba-net.org/person/aut-245"
+  ]
+[aut-246  : resp =" Narendaiyasha"/ja-rom
+  ="那連提耶舍"/ zh
+  ="na3 lian2 ti2 ye1 she4 "/ zh-py
+  ="(Narendrayaśas)"/ sk
+@"http://psi.iba-net.org/person/aut-246"
+  ]
+[aut-247  : resp =" Sōgyabatsuma"/ja-rom
+  ="僧伽跋摩"/ zh
+  ="seng1 jia1 ba2 mo2 "/ zh-py
+  ="(Saṃghavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-247"
+  ]
+[aut-248  : resp ="Kusha"/ja-rom
+  ="瞿沙"/ zh
+@"http://psi.iba-net.org/person/aut-248"
+  ]
+[aut-249  : resp ="Sokkendara"/ja-rom
+  ="塞建陀羅"/ zh
+@"http://psi.iba-net.org/person/aut-249"
+  ]
+[aut-250  : resp =" Abhidharmakośaśāstra? Seshin"/ja-rom
+  ="世親"/ zh
+@"http://psi.iba-net.org/person/aut-250"
+  ]
+[aut-251  : resp ="Basobanzu"/ja-rom
+  ="婆藪槃豆"/ zh
+  ="po2 sou3 pan2 dou4 "/ zh-py
+  ="(Vasubandhu)"/ sk
+@"http://psi.iba-net.org/person/aut-251"
+  ]
+[aut-252  : resp ="Anne"/ja-rom
+  ="安慧"/ zh
+@"http://psi.iba-net.org/person/aut-252"
+  ]
+[aut-253  : resp ="Shugen"/ja-rom
+  ="衆賢"/ zh
+@"http://psi.iba-net.org/person/aut-253"
+  ]
+[aut-254  : resp ="Shōmoku"/ja-rom
+  ="青目"/ zh
+  ="jiu1 mo2 luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-254"
+  ]
+[aut-255  : resp =" Mujaku"/ja-rom
+  ="無著"/ zh
+  ="qu2 tan2 ban1 zang4 liu2 zhi1 "/ zh-py
+  ="(Gautama Prajñāruci)"/ sk
+@"http://psi.iba-net.org/person/aut-255"
+  ]
+[aut-256  : resp =" Fumbetsumyō"/ja-rom
+  ="分別明"/ zh
+  ="bo1 luo2 po3 mi4 duo1 luo2 "/ zh-py
+  ="(Prabhākaramitra)"/ sk
+@"http://psi.iba-net.org/person/aut-256"
+  ]
+[aut-257  : resp =" Harahamittara"/ja-rom
+  ="波羅頗蜜多羅"/ zh
+  ="bo1 luo2 po3 mi4 duo1 luo2 "/ zh-py
+  ="(Prabhākaramitra)"/ sk
+@"http://psi.iba-net.org/person/aut-257"
+  ]
+[aut-258  : resp ="Daiba"/ja-rom
+  ="提婆"/ zh
+  ="ti2 po2 "/ zh-py
+  ="([Ārya] Deva)"/ sk
+@"http://psi.iba-net.org/person/aut-258"
+  ]
+[aut-259  : resp =" Rajū"/ja-rom
+  ="羅什"/ zh
+  ="luo2 shi2 "/ zh-py
+  ="(Kumārajīva)"/ sk
+@"http://psi.iba-net.org/person/aut-259"
+  ]
+[aut-260  : resp ="Shōten"/ja-rom
+  ="聖天"/ zh
+@"http://psi.iba-net.org/person/aut-260"
+  ]
+[aut-261  : resp =" Gohō"/ja-rom
+  ="護法"/ zh
+@"http://psi.iba-net.org/person/aut-261"
+  ]
+[aut-262  : resp =" *Mahāyānaviṃśikā. Ryūju"/ja-rom
+  ="龍樹"/ zh
+  ="long2 shu4 "/ zh-py
+  ="(Nāgārjuna)"/ sk
+@"http://psi.iba-net.org/person/aut-262"
+  ]
+[aut-263  : resp ="Daibara"/ja-rom
+  ="提婆羅"/ zh
+@"http://psi.iba-net.org/person/aut-263"
+  ]
+[aut-264  : resp ="Shōben"/ja-rom
+  ="清辯"/ zh
+@"http://psi.iba-net.org/person/aut-264"
+  ]
+[aut-265  : resp ="Saishōshi"/ja-rom
+  ="最生子"/ zh
+@"http://psi.iba-net.org/person/aut-265"
+  ]
+[aut-266  : resp ="Gohō"/ja-rom
+  ="護法"/ zh
+@"http://psi.iba-net.org/person/aut-266"
+  ]
+[aut-267  : resp ="Asōgya"/ja-rom
+  ="阿僧伽"/ zh
+  ="a1 seng1 jia1 "/ zh-py
+  ="(Asaṇga)"/ sk
+@"http://psi.iba-net.org/person/aut-267"
+  ]
+[aut-268  : resp ="Mushō"/ja-rom
+  ="無性"/ zh
+@"http://psi.iba-net.org/person/aut-268"
+  ]
+[aut-269  : resp ="Kenne"/ja-rom
+  ="堅慧"/ zh
+  ="le4 na3 mo2 ti2 "/ zh-py
+  ="(Ratnamati)"/ sk
+@"http://psi.iba-net.org/person/aut-269"
+  ]
+[aut-270  : resp ="Rokunamadai"/ja-rom
+  ="勒那摩提"/ zh
+  ="le4 na3 mo2 ti2 "/ zh-py
+  ="(Ratnamati)"/ sk
+@"http://psi.iba-net.org/person/aut-270"
+  ]
+[aut-271  : resp ="Jinna"/ja-rom
+  ="陳那"/ zh
+@"http://psi.iba-net.org/person/aut-271"
+  ]
+[aut-272  : resp ="Kenne"/ja-rom
+  ="堅慧"/ zh
+  ="ti2 yun2 ban1 zang4 "/ zh-py
+  ="(Devaprājñā)"/ sk
+@"http://psi.iba-net.org/person/aut-272"
+  ]
+[aut-273  : resp =" Daiunhannya"/ja-rom
+  ="提雲般若"/ zh
+  ="ti2 yun2 ban1 zang4 "/ zh-py
+  ="(Devaprājñā)"/ sk
+@"http://psi.iba-net.org/person/aut-273"
+  ]
+[aut-274  : resp ="Shōkarashu"/ja-rom
+  ="商羯羅主"/ zh
+@"http://psi.iba-net.org/person/aut-274"
+  ]
+[aut-275  : resp ="Rushi" /ja-rom
+  ="瞿曇流支"/ zh
+@"http://psi.iba-net.org/person/aut-275"
+  ]
+[aut-276  : resp ="Ryūju"/ja-rom
+  ="龍樹"/ zh
+  ="long2 shu4 "/ zh-py
+  ="(Nāgārjuna)"/ sk
+@"http://psi.iba-net.org/person/aut-276"
+  ]
+[aut-277  : resp ="Kenni"/ja-rom
+  ="堅意"/ zh
+@"http://psi.iba-net.org/person/aut-277"
+  ]
+[aut-278  : resp ="Kakukichijōchi"/ja-rom
+  ="覺吉祥智"/ zh
+@"http://psi.iba-net.org/person/aut-278"
+  ]
+[aut-279  : resp ="Zenjaku"/ja-rom
+  ="善寂"/ zh
+@"http://psi.iba-net.org/person/aut-279"
+  ]
+[aut-280  : resp ="Tokue"/ja-rom
+  ="徳慧"/ zh
+@"http://psi.iba-net.org/person/aut-280"
+  ]
+[aut-281  : resp ="Pasupa"/ja-rom
+  ="八思巴"/ zh
+@"http://psi.iba-net.org/person/aut-281"
+  ]
+[aut-282  : resp ="Karibatsuma"/ja-rom
+  ="訶梨跋摩"/ zh
+  ="he1 li2 ba2 mo2 "/ zh-py
+  ="(Harivarman)"/ sk
+@"http://psi.iba-net.org/person/aut-282"
+  ]
+[aut-283  : resp ="Basobatsuma"/ja-rom
+  ="婆藪跋摩"/ zh
+  ="po2 sou3 ba2 mo2 "/ zh-py
+  ="(Vasuvarman)"/ sk
+@"http://psi.iba-net.org/person/aut-283"
+  ]
+[aut-284  : resp ="Upateisha"/ja-rom
+  ="優波底沙"/ zh
+  ="you1 bo1 di3 sha1 "/ zh-py
+  ="(Upatissa)"/ sk
+@"http://psi.iba-net.org/person/aut-284"
+  ]
+[aut-285  : resp ="Jōi"/ja-rom
+  ="淨意"/ zh
+  ="pu2 ti2 liu2 zhi1 "/ zh-py
+  ="(Bodhiruci I)"/ sk
+@"http://psi.iba-net.org/person/aut-285"
+  ]
+[aut-286  : resp ="Utsuryōga"/ja-rom
+  ="鬱楞伽"/ zh
+@"http://psi.iba-net.org/person/aut-286"
+  ]
+[aut-287  : resp ="Ryūmyō"/ja-rom
+  ="龍猛"/ zh
+@"http://psi.iba-net.org/person/aut-287"
+  ]
+[aut-288  : resp ="Shakashō"/ja-rom
+  ="釋迦稱"/ zh
+  ="shi4 jia1 cheng1 "/ zh-py
+  ="(Śākyakīrti?)"/ sk
+@"http://psi.iba-net.org/person/aut-288"
+  ]
+[aut-289  : resp =" Jizai"/ja-rom
+  ="自在"/ zh
+@"http://psi.iba-net.org/person/aut-289"
+  ]
+[aut-290  : resp ="Rengekai"/ja-rom
+  ="蓮華戒"/ zh
+@"http://psi.iba-net.org/person/aut-290"
+  ]
+[aut-291  : resp =" Jisshananda"/ja-rom
+  ="實叉難陀"/ zh
+  ="shi2 cha1 nan2 tuo2 "/ zh-py
+  ="(Śikṣānanda)"/ sk
+@"http://psi.iba-net.org/person/aut-291"
+  ]
+[aut-292  : resp ="Ryūju 龍樹 (Nāgārjuna)] Gunabatsuma"/ja-rom
+  ="求那跋摩"/ zh
+  ="qiu2 na3 ba2 mo2 "/ zh-py
+  ="(Guñavarman)"/ sk
+@"http://psi.iba-net.org/person/aut-292"
+  ]
+[aut-293  : resp ="Mashiriseita"/ja-rom
+  ="摩咥里制吒"/ zh
+@"http://psi.iba-net.org/person/aut-293"
+  ]
+[aut-294  : resp ="Jakuu"/ja-rom
+  ="寂友"/ zh
+@"http://psi.iba-net.org/person/aut-294"
+  ]
+[aut-295  : resp ="Kainichiō"/ja-rom
+  ="戒日王"/ zh
+@"http://psi.iba-net.org/person/aut-295"
+  ]
+[aut-296  : resp ="Kanshuhachi"/ja-rom
+  ="管主八"/ zh
+  ="guan3 zhu3 ba1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-296"
+  ]
+[aut-297  : resp ="Dōan"/ja-rom
+  ="道安"/ zh
+  ="dao4 an1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-297"
+  ]
+[aut-298  : resp ="Kiki"/ja-rom
+  ="窺基"/ zh
+  ="kui1 ji1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-298"
+  ]
+[aut-299  : resp ="Kichizō"/ja-rom
+  ="吉藏"/ zh
+  ="ji2 zang4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-299"
+  ]
+[aut-300  : resp ="Gangyō"/ja-rom
+  ="元曉"/ zh
+  ="yuan2 xiao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-300"
+  ]
+[aut-301  : resp ="Shisen"/ja-rom
+  ="子ṇ"/ zh
+@"http://psi.iba-net.org/person/aut-301"
+  ]
+[aut-302  : resp ="Zengatsu"/ja-rom
+  ="善月"/ zh
+  ="shan4 yue4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-302"
+  ]
+[aut-303  : resp ="Enjiki"/ja-rom
+  ="圓測"/ zh
+  ="yuan2 ce4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-303"
+  ]
+[aut-304  : resp ="Ryōbi"/ja-rom
+  ="良賁"/ zh
+  ="liang2 bi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-304"
+  ]
+[aut-305  : resp ="Hōzō"/ja-rom
+  ="法藏"/ zh
+  ="fa3 zang4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-305"
+  ]
+[aut-306  : resp ="Shie"/ja-rom
+  ="師會"/ zh
+  ="shi1 hui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-306"
+  ]
+[aut-307  : resp ="Chigi"/ja-rom
+  ="智顗"/ zh
+@"http://psi.iba-net.org/person/aut-307"
+  ]
+[aut-308  : resp ="Tannen"/ja-rom
+  ="湛然"/ zh
+  ="zhan4 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-308"
+  ]
+[aut-309  : resp ="Eshō"/ja-rom
+  ="慧沼"/ zh
+  ="hui4 zhao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-309"
+  ]
+[aut-310  : resp ="Chirei"/ja-rom
+  ="知禮"/ zh
+  ="zhi1 li3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-310"
+  ]
+[aut-311  : resp ="Chōkan"/ja-rom
+  ="澄觀"/ zh
+  ="cheng2 guan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-311"
+  ]
+[aut-312  : resp ="Jōgo"/ja-rom
+  ="靜居"/ zh
+  ="jing4 ju1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-312"
+  ]
+[aut-313  : resp ="Eon"/ja-rom
+  ="慧遠"/ zh
+  ="hui4 yuan3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-313"
+  ]
+[aut-314  : resp ="Kyōgō"/ja-rom
+  ="璟興"/ zh
+@"http://psi.iba-net.org/person/aut-314"
+  ]
+[aut-315  : resp ="Zendō"/ja-rom
+  ="善導"/ zh
+  ="shan4 dao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-315"
+  ]
+[aut-316  : resp ="Ganjō"/ja-rom
+  ="元照"/ zh
+  ="yuan2 zhao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-316"
+  ]
+[aut-317  : resp ="Ejō"/ja-rom
+  ="慧淨"/ zh
+  ="hui4 jing4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-317"
+  ]
+[aut-318  : resp ="Chien"/ja-rom
+  ="智圓"/ zh
+  ="zhi4 yuan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-318"
+  ]
+[aut-319  : resp ="Chikyoku"/ja-rom
+  ="智旭"/ zh
+  ="zhi4 xu4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-319"
+  ]
+[aut-320  : resp ="Kanjō"/ja-rom
+  ="灌頂"/ zh
+  ="guan4 ding3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-320"
+  ]
+[aut-321  : resp ="Daiken"/ja-rom
+  ="大賢"/ zh
+  ="da4 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-321"
+  ]
+[aut-322  : resp ="Sōjō"/ja-rom
+  ="僧肇"/ zh
+  ="seng1 zhao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-322"
+  ]
+[aut-323  : resp ="Hōshin"/ja-rom
+  ="寶臣"/ zh
+  ="bao3 chen2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-323"
+  ]
+[aut-324  : resp ="Shūmitsu"/ja-rom
+  ="宗密"/ zh
+  ="zong1 mi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-324"
+  ]
+[aut-325  : resp ="Shinsō"/ja-rom
+  ="眞宗"/ zh
+@"http://psi.iba-net.org/person/aut-325"
+  ]
+[aut-326  : resp ="Fukashigi"/ja-rom
+  ="不可思議"/ zh
+  ="bu4 ke3 si1 yi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-326"
+  ]
+[aut-327  : resp ="Hōjū"/ja-rom
+  ="法崇"/ zh
+  ="fa3 chong2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-327"
+  ]
+[aut-328  : resp ="Dōsen"/ja-rom
+  ="道宣"/ zh
+  ="dao4 xuan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-328"
+  ]
+[aut-329  : resp ="Jōhin"/ja-rom
+  ="定賓"/ zh
+  ="ding4 bin1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-329"
+  ]
+[aut-330  : resp ="Kaiso"/ja-rom
+  ="懷素"/ zh
+  ="huai2 su4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-330"
+  ]
+[aut-331  : resp ="Meikō"/ja-rom
+  ="明昿"/ zh
+@"http://psi.iba-net.org/person/aut-331"
+  ]
+[aut-332  : resp ="Gijaku"/ja-rom
+  ="義寂"/ zh
+  ="yi4 ji4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-332"
+  ]
+[aut-333  : resp ="Donran"/ja-rom
+  ="曇鸞"/ zh
+  ="tan2 luan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-333"
+  ]
+[aut-334  : resp ="Fukō"/ja-rom
+  ="普光"/ zh
+  ="pu3 guang1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-334"
+  ]
+[aut-335  : resp ="Hōbō"/ja-rom
+  ="法寶"/ zh
+  ="fa3 bao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-335"
+  ]
+[aut-336  : resp ="Enki"/ja-rom
+  ="圓暉"/ zh
+  ="yuan2 hui1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-336"
+  ]
+[aut-337  : resp ="Tonrin"/ja-rom
+  ="遁倫"/ zh
+  ="dun4 lun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-337"
+  ]
+[aut-338  : resp ="Chishū"/ja-rom
+  ="智周"/ zh
+  ="zhi4 zhou1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-338"
+  ]
+[aut-339  : resp ="Daijōkō"/ja-rom
+  ="大乘光"/ zh
+  ="da4 cheng2 guang1 "/ zh-py
+  ="(Fukō 普光)"/ sk
+@"http://psi.iba-net.org/person/aut-339"
+  ]
+[aut-340  : resp ="Jintai"/ja-rom
+  ="神泰"/ zh
+  ="shen2 tai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-340"
+  ]
+[aut-341  : resp ="Bunsai"/ja-rom
+  ="文才"/ zh
+  ="wen2 cai2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-341"
+  ]
+[aut-342  : resp ="Futai"/ja-rom
+  ="普泰"/ zh
+  ="pu3 tai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-342"
+  ]
+[aut-343  : resp ="Gishō"/ja-rom
+  ="義湘"/ zh
+  ="yi4 xiang1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-343"
+  ]
+[aut-344  : resp ="Myōgyō"/ja-rom
+  ="明˙"/ zh
+@"http://psi.iba-net.org/person/aut-344"
+  ]
+[aut-345  : resp ="Yuihaku"/ja-rom
+  ="惟白"/ zh
+  ="wei2 bai2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-345"
+  ]
+[aut-346  : resp ="Eshi"/ja-rom
+  ="慧思"/ zh
+  ="hui4 si1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-346"
+  ]
+[aut-347  : resp ="Taikan"/ja-rom
+  ="諦觀"/ zh
+  ="di4 guan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-347"
+  ]
+[aut-348  : resp ="Keichū"/ja-rom
+  ="繼忠"/ zh
+  ="ji4 zhong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-348"
+  ]
+[aut-349  : resp ="Shūgyō"/ja-rom
+  ="宗曉"/ zh
+  ="zong1 xiao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-349"
+  ]
+[aut-350  : resp ="Esoku"/ja-rom
+  ="懷則"/ zh
+  ="huai2 ze2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-350"
+  ]
+[aut-351  : resp ="Junshiki"/ja-rom
+  ="遵式"/ zh
+  ="zun1 shi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-351"
+  ]
+[aut-352  : resp ="Ningaku"/ja-rom
+  ="仁岳"/ zh
+  ="ren2 yue4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-352"
+  ]
+[aut-353  : resp ="Ningaku"/ja-rom
+  ="仁岳"/ zh
+@"http://psi.iba-net.org/person/aut-353"
+  ]
+[aut-354  : resp ="Senshin"/ja-rom
+  ="潛眞"/ zh
+@"http://psi.iba-net.org/person/aut-354"
+  ]
+[aut-355  : resp ="Dōshin"/ja-rom
+  ="道¬"/ zh
+@"http://psi.iba-net.org/person/aut-355"
+  ]
+[aut-356  : resp ="Dōshaku"/ja-rom
+  ="道綽"/ zh
+  ="dao4 chuo4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-356"
+  ]
+[aut-357  : resp ="Kasai"/ja-rom
+  ="迦才"/ zh
+  ="jia1 cai2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-357"
+  ]
+[aut-358  : resp ="Hishaku"/ja-rom
+  ="飛錫"/ zh
+  ="fei1 xi1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-358"
+  ]
+[aut-359  : resp ="Fudo"/ja-rom
+  ="普度"/ zh
+  ="pu3 du4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-359"
+  ]
+[aut-360  : resp ="Dentō"/ja-rom
+  ="傳燈"/ zh
+  ="chuan2 deng1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-360"
+  ]
+[aut-361  : resp ="Shukō"/ja-rom
+  ="袾宏"/ zh
+@"http://psi.iba-net.org/person/aut-361"
+  ]
+[aut-362  : resp ="Chishō"/ja-rom
+  ="智昇"/ zh
+  ="zhi4 sheng1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-362"
+  ]
+[aut-363  : resp ="Hōsshō"/ja-rom
+  ="法照"/ zh
+  ="fa3 zhao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-363"
+  ]
+[aut-364  : resp ="Hōe"/ja-rom
+  ="方會"/ zh
+@"http://psi.iba-net.org/person/aut-364"
+  ]
+[aut-365  : resp ="Sōsan"/ja-rom
+  ="僧ı"/ zh
+@"http://psi.iba-net.org/person/aut-365"
+  ]
+[aut-366  : resp ="Kōnin"/ja-rom
+  ="弘忍"/ zh
+  ="hong2 ren3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-366"
+  ]
+[aut-367  : resp ="Genkaku"/ja-rom
+  ="玄覺"/ zh
+  ="xuan2 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-367"
+  ]
+[aut-368  : resp ="Enju"/ja-rom
+  ="延壽"/ zh
+  ="yan2 shou4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-368"
+  ]
+[aut-369  : resp ="Chitotsu"/ja-rom
+  ="知訥"/ zh
+  ="zhi1 ne4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-369"
+  ]
+[aut-370  : resp ="Chitetsu"/ja-rom
+  ="智徹"/ zh
+  ="zhi4 che4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-370"
+  ]
+[aut-371  : resp ="Jōzen"/ja-rom
+  ="淨善"/ zh
+  ="jing4 shan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-371"
+  ]
+[aut-372  : resp ="Nyokon"/ja-rom
+  ="如Î"/ zh
+@"http://psi.iba-net.org/person/aut-372"
+  ]
+[aut-373  : resp ="Tokki"/ja-rom
+  ="徳輝"/ zh
+@"http://psi.iba-net.org/person/aut-373"
+  ]
+[aut-374  : resp ="Teṇu"/ja-rom
+  ="天友"/ zh
+@"http://psi.iba-net.org/person/aut-374"
+  ]
+[aut-375  : resp ="Shou"/ja-rom
+  ="世友"/ zh
+@"http://psi.iba-net.org/person/aut-375"
+  ]
+[aut-376  : resp ="Hi Chōbō"/ja-rom
+  ="費長房"/ zh
+  ="Fei Changfan"/ zh-py
+@"http://psi.iba-net.org/person/aut-376"
+  ]
+[aut-377  : resp ="Shiban"/ja-rom
+  ="志磐"/ zh
+  ="zhi4 pan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-377"
+  ]
+[aut-378  : resp ="Nenjō"/ja-rom
+  ="念常"/ zh
+  ="nian4 chang2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-378"
+  ]
+[aut-379  : resp ="Kakugan"/ja-rom
+  ="覺岸"/ zh
+  ="jue2 an4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-379"
+  ]
+[aut-380  : resp ="Genrin"/ja-rom
+  ="幻輪"/ zh
+  ="huan4 lun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-380"
+  ]
+[aut-381  : resp ="Ichinen"/ja-rom
+  ="一然"/ zh
+  ="yi1 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-381"
+  ]
+[aut-382  : resp ="Sōyū"/ja-rom
+  ="僧祐"/ zh
+  ="seng1 you4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-382"
+  ]
+[aut-383  : resp ="Dommanandai"/ja-rom
+  ="曇摩難提"/ zh
+  ="tan2 mo2 nan2 ti2 "/ zh-py
+  ="(Dharmanandi)"/ sk
+@"http://psi.iba-net.org/person/aut-383"
+  ]
+[aut-384  : resp ="Gensō"/ja-rom
+  ="彥悰"/ zh
+@"http://psi.iba-net.org/person/aut-384"
+  ]
+[aut-385  : resp ="Meishō"/ja-rom
+  ="冥詳"/ zh
+  ="ming2 xiang2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-385"
+  ]
+[aut-386  : resp ="Eryū"/ja-rom
+  ="慧立"/ zh
+@"http://psi.iba-net.org/person/aut-386"
+  ]
+[aut-387  : resp ="Ekō"/ja-rom
+  ="慧皎"/ zh
+  ="hui4 jiao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-387"
+  ]
+[aut-388  : resp ="Sannei"/ja-rom
+  ="賛寧"/ zh
+@"http://psi.iba-net.org/person/aut-388"
+  ]
+[aut-389  : resp ="Nyoshō"/ja-rom
+  ="如惺"/ zh
+  ="ru2 xing1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-389"
+  ]
+[aut-390  : resp ="Kakkun"/ja-rom
+  ="覺訓"/ zh
+  ="jue2 xun4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-390"
+  ]
+[aut-391  : resp ="Sōshō"/ja-rom
+  ="僧詳"/ zh
+  ="seng1 xiang2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-391"
+  ]
+[aut-392  : resp ="Shikō"/ja-rom
+  ="士衡"/ zh
+  ="shi4 heng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-392"
+  ]
+[aut-393  : resp ="Kaishu"/ja-rom
+  ="戒珠"/ zh
+  ="jie4 zhu1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-393"
+  ]
+[aut-394  : resp ="Dōgen"/ja-rom
+  ="道原"/ zh
+  ="dao4 yuan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-394"
+  ]
+[aut-395  : resp ="Kochō"/ja-rom
+  ="居頂"/ zh
+  =" ju1 ding3"/ zh-py
+@"http://psi.iba-net.org/person/aut-395"
+  ]
+[aut-396  : resp ="Kaisū"/ja-rom
+  ="契嵩"/ zh
+  ="xie4 song1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-396"
+  ]
+[aut-397  : resp ="Eshin"/ja-rom
+  ="懷信"/ zh
+  ="huai2 xin4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-397"
+  ]
+[aut-398  : resp ="Hijoku"/ja-rom
+  ="非濁"/ zh
+  ="fei1 zhuo2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-398"
+  ]
+[aut-399  : resp ="Enshō"/ja-rom
+  ="圓照"/ zh
+@"http://psi.iba-net.org/person/aut-399"
+  ]
+[aut-400  : resp ="Genkai"/ja-rom
+  ="元開"/ zh
+@"http://psi.iba-net.org/person/aut-400"
+  ]
+[aut-401  : resp ="Eṇichi"/ja-rom
+  ="延一"/ zh
+  ="yan2 yi1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-401"
+  ]
+[aut-402  : resp ="Hōrin"/ja-rom
+  ="法琳"/ zh
+  ="fa3 lin2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-402"
+  ]
+[aut-403  : resp ="Fukurai"/ja-rom
+  ="復禮"/ zh
+  ="fu4 li3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-403"
+  ]
+[aut-404  : resp ="Gengi"/ja-rom
+  ="玄嶷"/ zh
+  ="xuan2 yi2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-404"
+  ]
+[aut-405  : resp ="Shōmai"/ja-rom
+  ="祥邁"/ zh
+  ="xiang2 mai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-405"
+  ]
+[aut-406  : resp ="Dōse"/ja-rom
+  ="道世"/ zh
+  ="dao4 shi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-406"
+  ]
+[aut-407  : resp ="Dōjō"/ja-rom
+  ="道誠"/ zh
+  ="dao4 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-407"
+  ]
+[aut-408  : resp ="Kirin"/ja-rom
+  ="希麟"/ zh
+  ="xi1 lin2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-408"
+  ]
+[aut-409  : resp ="Chikō"/ja-rom
+  ="智廣"/ zh
+  ="zhi4 guang3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-409"
+  ]
+[aut-410  : resp ="Zenshin"/ja-rom
+  ="全眞"/ zh
+@"http://psi.iba-net.org/person/aut-410"
+  ]
+[aut-411  : resp ="Raigon"/ja-rom
+  ="禮言"/ zh
+  ="li3 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-411"
+  ]
+[aut-412  : resp ="Tatagyatahara"/ja-rom
+  ="怛多蘗多波羅"/ zh
+@"http://psi.iba-net.org/person/aut-412"
+  ]
+[aut-413  : resp ="Kabira"/ja-rom
+  ="迦毘羅"/ zh
+@"http://psi.iba-net.org/person/aut-413"
+  ]
+[aut-414  : resp ="Egetsu"/ja-rom
+  ="慧月"/ zh
+  ="hui4 yue4 "/ zh-py
+  ="(Maticandra?)"/ sk
+@"http://psi.iba-net.org/person/aut-414"
+  ]
+[aut-415  : resp ="Futtatan"/ja-rom
+  ="拂多誕"/ zh
+  ="fu2 duo1 dan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-415"
+  ]
+[aut-416  : resp ="Keijō"/ja-rom
+  ="景淨"/ zh
+  ="jing3 jing4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-416"
+  ]
+[aut-417  : resp ="Hōkyō"/ja-rom
+  ="法經"/ zh
+@"http://psi.iba-net.org/person/aut-417"
+  ]
+[aut-418  : resp ="Seimai"/ja-rom
+  ="靖邁"/ zh
+  ="jing4 mai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-418"
+  ]
+[aut-419  : resp ="Kōan"/ja-rom
+  ="恒安"/ zh
+@"http://psi.iba-net.org/person/aut-419"
+  ]
+[aut-420  : resp ="Saichō"/ja-rom
+  ="最澄"/ zh
+  ="zui4 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-420"
+  ]
+[aut-421  : resp ="Kūkai"/ja-rom
+  ="空海"/ zh
+  ="kong1 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-421"
+  ]
+[aut-422  : resp ="Jōgyō"/ja-rom
+  ="常曉"/ zh
+  ="chang2 xiao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-422"
+  ]
+[aut-423  : resp ="Engyō"/ja-rom
+  ="圓行"/ zh
+  ="yuan2 xing2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-423"
+  ]
+[aut-424  : resp ="Ennin"/ja-rom
+  ="圓仁"/ zh
+  ="yuan2 ren2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-424"
+  ]
+[aut-425  : resp ="Eun"/ja-rom
+  ="惠運"/ zh
+  ="hui4 yun4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-425"
+  ]
+[aut-426  : resp ="Enchin"/ja-rom
+  ="圓珍"/ zh
+  ="yuan2 zhen1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-426"
+  ]
+[aut-427  : resp ="Shūei"/ja-rom
+  ="宗叡"/ zh
+  ="zong1 rui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-427"
+  ]
+[aut-428  : resp ="Annen"/ja-rom
+  ="安然"/ zh
+  ="an1 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-428"
+  ]
+[aut-429  : resp ="Enchō"/ja-rom
+  ="圓超"/ zh
+  ="yuan2 chao1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-429"
+  ]
+[aut-430  : resp ="Gennichi"/ja-rom
+  ="玄日"/ zh
+  ="xuan2 ri4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-430"
+  ]
+[aut-431  : resp ="Annon"/ja-rom
+  ="安遠"/ zh
+  ="an1 yuan3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-431"
+  ]
+[aut-432  : resp ="Byōso"/ja-rom
+  ="平祚"/ zh
+  ="ping2 zuo4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-432"
+  ]
+[aut-433  : resp ="Zōshun"/ja-rom
+  ="藏俊"/ zh
+  ="zang4 jun4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-433"
+  ]
+[aut-434  : resp ="Eion"/ja-rom
+  ="榮穩"/ zh
+  ="rong2 wen3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-434"
+  ]
+[aut-435  : resp ="Eichō"/ja-rom
+  ="永超"/ zh
+  ="yong3 chao1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-435"
+  ]
+[aut-436  : resp ="Giten"/ja-rom
+  ="義天"/ zh
+  ="yi4 tian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-436"
+  ]
+[aut-437  : resp ="Myōichi"/ja-rom
+  ="明一"/ zh
+  ="ming2 yi1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-437"
+  ]
+[aut-438  : resp ="Chūzan"/ja-rom
+  ="中算"/ zh
+  ="zhong1 suan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-438"
+  ]
+[aut-439  : resp ="Kakuban"/ja-rom
+  ="覺鑁"/ zh
+@"http://psi.iba-net.org/person/aut-439"
+  ]
+[aut-440  : resp ="Jōkei"/ja-rom
+  ="貞慶"/ zh
+  ="zhen1 lao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-440"
+  ]
+[aut-441  : resp ="Hyōbi"/ja-rom
+  ="平備"/ zh
+  ="ping2 bei4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-441"
+  ]
+[aut-442  : resp ="Saisen"/ja-rom
+  ="濟暹"/ zh
+  ="ji4 xian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-442"
+  ]
+[aut-443  : resp ="Taṇei"/ja-rom
+  ="湛叡"/ zh
+  ="zhan4 rui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-443"
+  ]
+[aut-444  : resp ="Kikai"/ja-rom
+  ="喜海"/ zh
+  ="xi3 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-444"
+  ]
+[aut-445  : resp ="Shinzui"/ja-rom
+  ="信瑞"/ zh
+  ="xin4 rui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-445"
+  ]
+[aut-446  : resp ="Shōnin"/ja-rom
+  ="證忍"/ zh
+  ="zheng4 ren3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-446"
+  ]
+[aut-447  : resp ="Ryōchū"/ja-rom
+  ="良忠"/ zh
+  ="liang2 zhong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-447"
+  ]
+[aut-448  : resp ="Genshin"/ja-rom
+  ="源信"/ zh
+  ="yuan2 xin4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-448"
+  ]
+[aut-449  : resp ="Yūban"/ja-rom
+  ="宥範"/ zh
+  ="you4 fan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-449"
+  ]
+[aut-450  : resp ="Gōhō"/ja-rom
+  ="杲寶"/ zh
+  ="gao3 bao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-450"
+  ]
+[aut-451  : resp ="Raiyu"/ja-rom
+  ="頼瑜"/ zh
+@"http://psi.iba-net.org/person/aut-451"
+  ]
+[aut-452  : resp ="Yūkai"/ja-rom
+  ="宥快"/ zh
+  ="you4 kuai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-452"
+  ]
+[aut-453  : resp ="Donjaku"/ja-rom
+  ="曇寂"/ zh
+  ="tan2 ji4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-453"
+  ]
+[aut-454  : resp ="Raison"/ja-rom
+  ="頼尊"/ zh
+@"http://psi.iba-net.org/person/aut-454"
+  ]
+[aut-455  : resp ="Shinjaku"/ja-rom
+  ="眞寂"/ zh
+@"http://psi.iba-net.org/person/aut-455"
+  ]
+[aut-456  : resp ="Shingō"/ja-rom
+  ="眞興"/ zh
+@"http://psi.iba-net.org/person/aut-456"
+  ]
+[aut-457  : resp ="Nanchū"/ja-rom
+  ="南忠"/ zh
+  ="nan2 zhong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-457"
+  ]
+[aut-458  : resp ="Myōkaku"/ja-rom
+  ="明覺"/ zh
+  ="ming2 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-458"
+  ]
+[aut-459  : resp ="Jōjin"/ja-rom
+  ="定深"/ zh
+  ="ding4 shen1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-459"
+  ]
+[aut-460  : resp ="Kōben"/ja-rom
+  ="高辧"/ zh
+@"http://psi.iba-net.org/person/aut-460"
+  ]
+[aut-461  : resp ="Gyōnen"/ja-rom
+  ="凝然"/ zh
+  ="ning2 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-461"
+  ]
+[aut-462  : resp ="Shōon"/ja-rom
+  ="照遠"/ zh
+  ="zhao4 yuan3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-462"
+  ]
+[aut-463  : resp ="Shūshō"/ja-rom
+  ="宗性"/ zh
+  ="zong1 xing4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-463"
+  ]
+[aut-464  : resp ="Taṇe"/ja-rom
+  ="湛慧"/ zh
+  ="zhan4 hui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-464"
+  ]
+[aut-465  : resp ="Kaidō"/ja-rom
+  ="快道"/ zh
+  ="kuai4 dao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-465"
+  ]
+[aut-466  : resp ="Hōdō"/ja-rom
+  ="法幢"/ zh
+  ="fa3 chuang2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-466"
+  ]
+[aut-467  : resp ="Eiken"/ja-rom
+  ="英憲"/ zh
+  ="ying1 xian4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-467"
+  ]
+[aut-468  : resp ="Anchō"/ja-rom
+  ="安澄"/ zh
+  ="an1 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-468"
+  ]
+[aut-469  : resp ="Kaiken"/ja-rom
+  ="快憲"/ zh
+  ="kuai4 xian4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-469"
+  ]
+[aut-470  : resp ="Zōkai"/ja-rom
+  ="藏海"/ zh
+  ="zang4 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-470"
+  ]
+[aut-471  : resp ="Zōga"/ja-rom
+  ="増賀"/ zh
+@"http://psi.iba-net.org/person/aut-471"
+  ]
+[aut-472  : resp ="Zenju"/ja-rom
+  ="善珠"/ zh
+  ="shan4 zhu1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-472"
+  ]
+[aut-473  : resp ="Ryōzan"/ja-rom
+  ="良算"/ zh
+  ="liang2 suan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-473"
+  ]
+[aut-474  : resp ="Kōin"/ja-rom
+  ="光胤"/ zh
+  ="guang1 yin4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-474"
+  ]
+[aut-475  : resp ="Fujaku"/ja-rom
+  ="普寂"/ zh
+  ="pu3 ji4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-475"
+  ]
+[aut-476  : resp ="Kiben"/ja-rom
+  ="基辧"/ zh
+@"http://psi.iba-net.org/person/aut-476"
+  ]
+[aut-477  : resp ="Myōsen"/ja-rom
+  ="明詮"/ zh
+  ="ming2 quan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-477"
+  ]
+[aut-478  : resp ="Kanri"/ja-rom
+  ="觀理"/ zh
+  ="guan1 li3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-478"
+  ]
+[aut-479  : resp ="Chinkai"/ja-rom
+  ="珍海"/ zh
+  ="zhen1 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-479"
+  ]
+[aut-480  : resp ="Somben"/ja-rom
+  ="尊辧"/ zh
+@"http://psi.iba-net.org/person/aut-480"
+  ]
+[aut-481  : resp ="Dōhan"/ja-rom
+  ="道範"/ zh
+  ="dao4 fan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-481"
+  ]
+[aut-482  : resp ="Shinken"/ja-rom
+  ="信堅"/ zh
+  ="xin4 jian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-482"
+  ]
+[aut-483  : resp ="Raihō"/ja-rom
+  ="頼寶"/ zh
+@"http://psi.iba-net.org/person/aut-483"
+  ]
+[aut-484  : resp ="Eisai"/ja-rom
+  ="榮西"/ zh
+  ="rong2 xi1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-484"
+  ]
+[aut-485  : resp ="Sontsū"/ja-rom
+  ="尊通"/ zh
+  ="zun1 tong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-485"
+  ]
+[aut-486  : resp ="Geṇei"/ja-rom
+  ="玄叡"/ zh
+  ="xuan2 rui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-486"
+  ]
+[aut-487  : resp ="Chōzen"/ja-rom
+  ="澄禪"/ zh
+@"http://psi.iba-net.org/person/aut-487"
+  ]
+[aut-488  : resp ="Jōkai"/ja-rom
+  ="貞海"/ zh
+  ="zhen1 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-488"
+  ]
+[aut-489  : resp ="Monshō"/ja-rom
+  ="聞證"/ zh
+  ="wen2 zheng4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-489"
+  ]
+[aut-490  : resp ="Shōshu"/ja-rom
+  ="聖守"/ zh
+  ="sheng4 shou3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-490"
+  ]
+[aut-491  : resp ="Jikkei"/ja-rom
+  ="實慶"/ zh
+  ="shi2 lao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-491"
+  ]
+[aut-492  : resp ="Gomyō"/ja-rom
+  ="護命"/ zh
+  ="hu4 ming4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-492"
+  ]
+[aut-493  : resp ="Zaṇan"/ja-rom
+  ="慚安"/ zh
+  ="can2 an1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-493"
+  ]
+[aut-494  : resp ="Ryōhen"/ja-rom
+  ="良遍"/ zh
+  ="liang2 bian4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-494"
+  ]
+[aut-495  : resp ="Seihan"/ja-rom
+  ="清範"/ zh
+  ="qing1 fan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-495"
+  ]
+[aut-496  : resp ="Shūtei"/ja-rom
+  ="宗禎"/ zh
+  ="zong1 zhen1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-496"
+  ]
+[aut-497  : resp ="Fuki"/ja-rom
+  ="普機"/ zh
+  ="pu3 ji1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-497"
+  ]
+[aut-498  : resp ="Shiṇen"/ja-rom
+  ="親圓"/ zh
+  ="qin1 yuan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-498"
+  ]
+[aut-499  : resp ="Keiga"/ja-rom
+  ="景雅"/ zh
+  ="jing3 ya3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-499"
+  ]
+[aut-500  : resp ="Jikkō"/ja-rom
+  ="實弘"/ zh
+  ="shi2 hong2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-500"
+  ]
+[aut-501  : resp ="Juryō"/ja-rom
+  ="壽靈"/ zh
+  ="shou4 ling2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-501"
+  ]
+[aut-502  : resp ="Shinjō"/ja-rom
+  ="審乘"/ zh
+  ="shen3 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-502"
+  ]
+[aut-503  : resp ="Shōsen"/ja-rom
+  ="聖詮"/ zh
+  ="sheng4 quan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-503"
+  ]
+[aut-504  : resp ="Ryōha"/ja-rom
+  ="靈波"/ zh
+  ="ling2 bo1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-504"
+  ]
+[aut-505  : resp ="Jitsuei"/ja-rom
+  ="實英"/ zh
+  ="shi2 ying1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-505"
+  ]
+[aut-506  : resp ="Hōtan"/ja-rom
+  ="鳳潭"/ zh
+  ="feng4 tan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-506"
+  ]
+[aut-507  : resp ="Buan"/ja-rom
+  ="豐安"/ zh
+  ="feng1 an1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-507"
+  ]
+[aut-508  : resp ="Jippan"/ja-rom
+  ="實範"/ zh
+  ="shi2 fan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-508"
+  ]
+[aut-509  : resp ="Kakujō"/ja-rom
+  ="覺盛"/ zh
+  ="jue2 cheng2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-509"
+  ]
+[aut-510  : resp ="Eizon"/ja-rom
+  ="叡尊"/ zh
+  ="rui4 zun1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-510"
+  ]
+[aut-511  : resp ="Eishin"/ja-rom
+  ="英心"/ zh
+  ="ying1 xin1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-511"
+  ]
+[aut-512  : resp ="Ninsen"/ja-rom
+  ="忍仙"/ zh
+  ="ren3 xian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-512"
+  ]
+[aut-513  : resp ="Sōkaku"/ja-rom
+  ="宗覺"/ zh
+  ="zong1 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-513"
+  ]
+[aut-514  : resp ="Gishin"/ja-rom
+  ="義眞"/ zh
+@"http://psi.iba-net.org/person/aut-514"
+  ]
+[aut-515  : resp ="Rengō"/ja-rom
+  ="蓮剛"/ zh
+  ="lian2 gang1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-515"
+  ]
+[aut-516  : resp ="Chūjin"/ja-rom
+  ="忠尋"/ zh
+  ="zhong1 xun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-516"
+  ]
+[aut-517  : resp ="Shōshin"/ja-rom
+  ="證眞"/ zh
+@"http://psi.iba-net.org/person/aut-517"
+  ]
+[aut-518  : resp ="Echin"/ja-rom
+  ="惠鎭"/ zh
+@"http://psi.iba-net.org/person/aut-518"
+  ]
+[aut-519  : resp ="Teishun"/ja-rom
+  ="貞舜"/ zh
+@"http://psi.iba-net.org/person/aut-519"
+  ]
+[aut-520  : resp ="Kōjō"/ja-rom
+  ="光定"/ zh
+  ="guang1 ding4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-520"
+  ]
+[aut-521  : resp ="Ninkū"/ja-rom
+  ="仁空"/ zh
+  ="ren2 kong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-521"
+  ]
+[aut-522  : resp ="Yuiken"/ja-rom
+  ="惟賢"/ zh
+  ="wei2 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-522"
+  ]
+[aut-523  : resp ="Kyōkō"/ja-rom
+  ="敬光"/ zh
+  ="jing4 guang1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-523"
+  ]
+[aut-524  : resp ="Kakuchō"/ja-rom
+  ="覺超"/ zh
+  ="jue2 chao1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-524"
+  ]
+[aut-525  : resp ="Saien"/ja-rom
+  ="最圓"/ zh
+  ="zui4 yuan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-525"
+  ]
+[aut-526  : resp ="Kōgei"/ja-rom
+  ="皇慶"/ zh
+  ="huang2 lao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-526"
+  ]
+[aut-527  : resp ="Jōen"/ja-rom
+  ="長宴"/ zh
+  ="chang2 yan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-527"
+  ]
+[aut-528  : resp ="Jōnen"/ja-rom
+  ="靜然"/ zh
+  ="jing4 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-528"
+  ]
+[aut-529  : resp ="Kōshū"/ja-rom
+  ="光宗"/ zh
+  ="guang1 zong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-529"
+  ]
+[aut-530  : resp ="Ryōyū"/ja-rom
+  ="良祐"/ zh
+  ="liang2 you4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-530"
+  ]
+[aut-531  : resp ="Chōgō"/ja-rom
+  ="澄豪"/ zh
+  ="cheng2 hao2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-531"
+  ]
+[aut-532  : resp ="Ryōe"/ja-rom
+  ="了惠"/ zh
+@"http://psi.iba-net.org/person/aut-532"
+  ]
+[aut-533  : resp ="Ryōō"/ja-rom
+  ="了翁"/ zh
+  ="liao3 weng1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-533"
+  ]
+[aut-534  : resp ="Kakusen"/ja-rom
+  ="覺千"/ zh
+  ="jue2 qian1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-534"
+  ]
+[aut-535  : resp ="Shinzei"/ja-rom
+  ="眞盛"/ zh
+@"http://psi.iba-net.org/person/aut-535"
+  ]
+[aut-536  : resp ="Jichie"/ja-rom
+  ="實慧"/ zh
+  ="shi2 hui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-536"
+  ]
+[aut-537  : resp ="Seison"/ja-rom
+  ="成尊"/ zh
+  ="cheng2 zun1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-537"
+  ]
+[aut-538  : resp ="Chōyo"/ja-rom
+  ="重譽"/ zh
+  ="zhong4 yu4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-538"
+  ]
+[aut-539  : resp ="Kyōjin"/ja-rom
+  ="經尋"/ zh
+  ="jing1 xun2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-539"
+  ]
+[aut-540  : resp ="Kōzen"/ja-rom
+  ="興然"/ zh
+  ="xing1 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-540"
+  ]
+[aut-541  : resp ="Tokuichi"/ja-rom
+  ="徳一"/ zh
+@"http://psi.iba-net.org/person/aut-541"
+  ]
+[aut-542  : resp ="Bōkaku"/ja-rom
+  ="房覺"/ zh
+  ="fang2 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-542"
+  ]
+[aut-543  : resp ="Junnyū"/ja-rom
+  ="淳祐"/ zh
+  ="chun2 you4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-543"
+  ]
+[aut-544  : resp ="Gengō"/ja-rom
+  ="元杲"/ zh
+  ="yuan2 gao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-544"
+  ]
+[aut-545  : resp ="Ninkai"/ja-rom
+  ="仁海"/ zh
+  ="ren2 hai3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-545"
+  ]
+[aut-546  : resp ="Kanjo"/ja-rom
+  ="寛助"/ zh
+@"http://psi.iba-net.org/person/aut-546"
+  ]
+[aut-547  : resp ="Shiṇyo"/ja-rom
+  ="眞譽"/ zh
+@"http://psi.iba-net.org/person/aut-547"
+  ]
+[aut-548  : resp ="Yōgen"/ja-rom
+  ="永嚴"/ zh
+  ="yong3 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-548"
+  ]
+[aut-549  : resp ="Kakuin"/ja-rom
+  ="覺印"/ zh
+  ="jue2 yin4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-549"
+  ]
+[aut-550  : resp ="Kanjin"/ja-rom
+  ="寛信"/ zh
+@"http://psi.iba-net.org/person/aut-550"
+  ]
+[aut-551  : resp ="Jichiun"/ja-rom
+  ="實運"/ zh
+  ="shi2 yun4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-551"
+  ]
+[aut-552  : resp ="Seigen"/ja-rom
+  ="成賢"/ zh
+  ="cheng2 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-552"
+  ]
+[aut-553  : resp ="Jinken"/ja-rom
+  ="深賢"/ zh
+  ="shen1 xian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-553"
+  ]
+[aut-554  : resp ="Kyōshun"/ja-rom
+  ="教舜"/ zh
+  ="jiao4 shun4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-554"
+  ]
+[aut-555  : resp ="Yōzen"/ja-rom
+  ="榮然"/ zh
+  ="rong2 ran2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-555"
+  ]
+[aut-556  : resp ="Kōga"/ja-rom
+  ="興雅"/ zh
+  ="xing1 ya3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-556"
+  ]
+[aut-557  : resp ="Kyōi"/ja-rom
+  ="恭畏"/ zh
+  ="gong1 wei4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-557"
+  ]
+[aut-558  : resp ="Junkei"/ja-rom
+  ="順繼"/ zh
+  ="shun4 ji4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-558"
+  ]
+[aut-559  : resp ="Unshō"/ja-rom
+  ="運敞"/ zh
+  ="yun4 chang3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-559"
+  ]
+[aut-560  : resp ="Kaijō"/ja-rom
+  ="戒定"/ zh
+  ="jie4 ding4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-560"
+  ]
+[aut-561  : resp ="Ein"/ja-rom
+  ="慧印"/ zh
+  ="hui4 yin4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-561"
+  ]
+[aut-562  : resp ="Genkū"/ja-rom
+  ="源空"/ zh
+  ="yuan2 kong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-562"
+  ]
+[aut-563  : resp ="Shōkaku"/ja-rom
+  ="聖覺"/ zh
+  ="sheng4 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-563"
+  ]
+[aut-564  : resp ="Daigen"/ja-rom
+  ="大玄"/ zh
+  ="da4 xuan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-564"
+  ]
+[aut-565  : resp ="Shōkū"/ja-rom
+  ="證空"/ zh
+  ="zheng4 kong1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-565"
+  ]
+[aut-566  : resp ="Jōon"/ja-rom
+  ="淨音"/ zh
+  ="jing4 yin1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-566"
+  ]
+[aut-567  : resp ="Shinran"/ja-rom
+  ="親鸞"/ zh
+  ="qin1 luan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-567"
+  ]
+[aut-568  : resp ="Jūkaku"/ja-rom
+  ="從覺"/ zh
+  ="cong2 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-568"
+  ]
+
+[aut-570  : resp ="Kenchi"/ja-rom
+  ="顯智"/ zh
+  ="xian3 zhi4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-570"
+  ]
+[aut-571  : resp ="Jōsen"/ja-rom
+  ="定專"/ zh
+  ="ding4 zhuan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-571"
+  ]
+[aut-572  : resp ="Shiṇe"/ja-rom
+  ="眞慧"/ zh
+@"http://psi.iba-net.org/person/aut-572"
+  ]
+[aut-573  : resp ="Shinran"/ja-rom
+  ="親鸞"/ zh
+@"http://psi.iba-net.org/person/aut-573"
+  ]
+
+[aut-575  : resp ="Ryūkan"/ja-rom
+  ="隆寛"/ zh
+@"http://psi.iba-net.org/person/aut-575"
+  ]
+[aut-576  : resp ="Takuga"/ja-rom
+  ="託何"/ zh
+  ="tuo1 he2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-576"
+  ]
+[aut-577  : resp ="Eikan"/ja-rom
+  ="永觀"/ zh
+  ="yong3 guan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-577"
+  ]
+[aut-578  : resp ="Nichiren"/ja-rom
+  ="日蓮"/ zh
+  ="ri4 lian2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-578"
+  ]
+[aut-579  : resp ="Nichikō"/ja-rom
+  ="日興"/ zh
+  ="ri4 xing1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-579"
+  ]
+[aut-580  : resp ="Nikō"/ja-rom
+  ="日向"/ zh
+  ="ri4 xiang4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-580"
+  ]
+[aut-581  : resp ="Genshō"/ja-rom
+  ="玄昭"/ zh
+  ="xuan2 zhao1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-581"
+  ]
+[aut-582  : resp ="Shinkaku"/ja-rom
+  ="心覺"/ zh
+  ="xin1 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-582"
+  ]
+[aut-583  : resp ="Shinhan"/ja-rom
+  ="信範"/ zh
+  ="xin4 fan4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-583"
+  ]
+[aut-584  : resp ="Ryōson"/ja-rom
+  ="了尊"/ zh
+  ="liao3 zun1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-584"
+  ]
+[aut-585  : resp ="Jōgon"/ja-rom
+  ="淨嚴"/ zh
+  ="jing4 yan2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-585"
+  ]
+
+[aut-587  : resp ="Chōe"/ja-rom
+  ="長惠"/ zh
+  ="chang2 hui4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-587"
+  ]
+[aut-588  : resp ="Shūkai"/ja-rom
+  ="宗快"/ zh
+  ="zong1 kuai4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-588"
+  ]
+[aut-589  : resp ="Shōson"/ja-rom
+  ="聖尊"/ zh
+  ="sheng4 zun1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-589"
+  ]
+[aut-590  : resp ="Dōin"/ja-rom
+  ="道氤"/ zh
+  ="dao4 yin1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-590"
+  ]
+[aut-591  : resp ="Hōdatsu"/ja-rom
+  ="寶達"/ zh
+  ="bao3 da2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-591"
+  ]
+[aut-592  : resp ="Donkō"/ja-rom
+  ="曇曠"/ zh
+  ="tan2 kuang4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-592"
+  ]
+[aut-593  : resp ="Chion"/ja-rom
+  ="知恩"/ zh
+  ="zhi1 en1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-593"
+  ]
+
+[aut-596  : resp ="Taishō"/ja-rom
+  ="體請"/ zh
+  ="ti3 qing3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-596"
+  ]
+[aut-597  : resp ="Dōeki"/ja-rom
+  ="道掖"/ zh
+  ="dao4 ye1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-597"
+  ]
+[aut-598  : resp ="Hōjō"/ja-rom
+  ="法成"/ zh
+@"http://psi.iba-net.org/person/aut-598"
+  ]
+
+
+[aut-601  : resp ="Hōjō"/ja-rom
+  ="法上"/ zh
+@"http://psi.iba-net.org/person/aut-601"
+  ]
+[aut-602  : resp ="Bunki"/ja-rom
+  ="文軌"/ zh
+  ="wen2 gui3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-602"
+  ]
+[aut-603  : resp ="Enichi"/ja-rom
+  ="慧日"/ zh
+  ="hui4 ri4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-603"
+  ]
+[aut-604  : resp ="Hosshō"/ja-rom
+  ="法照"/ zh
+  ="fa3 zhao4 "/ zh-py
+@"http://psi.iba-net.org/person/aut-604"
+  ]
+[aut-605  : resp ="Jōkaku"/ja-rom
+  ="淨覺"/ zh
+  ="jing4 jue2 "/ zh-py
+@"http://psi.iba-net.org/person/aut-605"
+  ]
+
+[aut-607  : resp ="Eben"/ja-rom
+  ="惠辨"/ zh
+@"http://psi.iba-net.org/person/aut-607"
+  ]
+[aut-609  : resp ="Ryūyo"/ja-rom
+  ="隆譽"/ zh
+@"http://psi.iba-net.org/person/aut-609"
+  ]
+[aut-610  : resp ="Reṇe"/ja-rom
+  ="蓮惠"/ zh
+@"http://psi.iba-net.org/person/aut-610"
+  ]
+[aut-611  : resp ="Gyōen"/ja-rom
+  ="行宴"/ zh
+@"http://psi.iba-net.org/person/aut-611"
+  ]
+[aut-613  : resp ="Myōtatsu"/ja-rom
+  ="明達"/ zh
+@"http://psi.iba-net.org/person/aut-613"
+  ]
+[aut-614  : resp ="Chōshun"/ja-rom
+  ="澄舜"/ zh
+@"http://psi.iba-net.org/person/aut-614"
+  ]
+[aut-615  : resp ="Ryōken"/ja-rom
+  ="亮憲"/ zh
+@"http://psi.iba-net.org/person/aut-615"
+  ]
+[aut-617  : resp ="Kakuzen"/ja-rom
+  ="覺禪"/ zh
+@"http://psi.iba-net.org/person/aut-617"
+  ]
+[aut-618  : resp ="Gonkaku"/ja-rom
+  ="嚴覺"/ zh
+@"http://psi.iba-net.org/person/aut-618"
+  ]
+[aut-619  : resp ="Sōju"/ja-rom
+  ="雙珠"/ zh
+@"http://psi.iba-net.org/person/aut-619"
+  ]
+[aut-620  : resp ="Chikai"/ja-rom
+  ="智海"/ zh
+@"http://psi.iba-net.org/person/aut-620"
+  ]
+[aut-621  : resp ="Jōshin"/ja-rom
+  ="定眞"/ zh
+@"http://psi.iba-net.org/person/aut-621"
+  ]
+[aut-622  : resp ="Gempō"/ja-rom
+  ="賢寶"/ zh
+  ="xian2 bao3 "/ zh-py
+@"http://psi.iba-net.org/person/aut-622"
+  ]
+[aut-623  : resp ="Kōgon"/ja-rom
+  ="幸嚴"/ zh
+@"http://psi.iba-net.org/person/aut-623"
+  ]
+[aut-624  : resp ="Ryōkyō"/ja-rom
+  ="良慶"/ zh
+@"http://psi.iba-net.org/person/aut-624"
+  ]
+[aut-625  : resp ="Shūjitsu"/ja-rom
+  ="宗實"/ zh
+@"http://psi.iba-net.org/person/aut-625"
+  ]
+[aut-626  : resp ="Rōchō"/ja-rom
+  ="朗澄"/ zh
+@"http://psi.iba-net.org/person/aut-626"
+  ]
+[aut-627  : resp ="Enshin"/ja-rom
+  ="圓心"/ zh
+@"http://psi.iba-net.org/person/aut-627"
+  ]
+[aut-628  : resp ="Ryōshū"/ja-rom
+  ="良秀"/ zh
+@"http://psi.iba-net.org/person/aut-628"
+  ]
+[aut-629  : resp ="Shinkai"/ja-rom
+  ="信[每/⽔]"/ zh
+@"http://psi.iba-net.org/person/aut-629"
+  ]
+[aut-630  : resp ="Shinkaku"/ja-rom
+  ="心覺"/ zh
+@"http://psi.iba-net.org/person/aut-630"
+  ]
+[aut-631  : resp ="Ryōson"/ja-rom
+  ="亮尊"/ zh
+@"http://psi.iba-net.org/person/aut-631"
+  ]
+[aut-632  : resp ="Zōsen"/ja-rom
+  ="藏川"/ zh
+  ="zang4 chuan1 "/ zh-py
+@"http://psi.iba-net.org/person/aut-632"
+  ]
+[aut-633  : resp ="Kakugen"/ja-rom
+  ="覺源"/ zh
+@"http://psi.iba-net.org/person/aut-633"
+  ]
+[aut-634  : resp ="Eihan"/ja-rom
+  ="永範"/ zh
+@"http://psi.iba-net.org/person/aut-634"
+  ]
+[aut-635  : resp ="Shōchō"/ja-rom
+  ="承澄"/ zh
+@"http://psi.iba-net.org/person/aut-635"
+  ]
+[aut-636  : resp ="Chōen"/ja-rom
+  ="澄圓"/ zh
+@"http://psi.iba-net.org/person/aut-636"
+  ]
+[aut-638  : resp ="Kaṇyū"/ja-rom
+  ="觀祐"/ zh
+@"http://psi.iba-net.org/person/aut-638"
+  ]
+[aut-639  : resp ="Soṇen"/ja-rom
+  ="尊圓"/ zh
+@"http://psi.iba-net.org/person/aut-639"
+  ]
+[aut-640  : resp ="Keṇin"/ja-rom
+  ="兼胤"/ zh
+@"http://psi.iba-net.org/person/aut-640"
+  ]
+[aut-641  : resp ="Jōchi"/ja-rom
+  ="定智"/ zh
+@"http://psi.iba-net.org/person/aut-641"
+  ]
+[aut-642  : resp ="Zuiten"/ja-rom
+  ="隋天"/ zh
+@"http://psi.iba-net.org/person/aut-642"
+  ]
+[aut-644  : resp ="Keikishō"/ja-rom
+  ="慶吉祥"/ zh
+@"http://psi.iba-net.org/person/aut-644"
+  ]
+[aut-645  : resp ="Nyokei"/ja-rom
+  ="如瑩"/ zh
+@"http://psi.iba-net.org/person/aut-645"
+  ]
+[aut-647  : resp ="Tetsujō"/ja-rom
+  ="徹定"/ zh
+@"http://psi.iba-net.org/person/aut-647"
+  ]
