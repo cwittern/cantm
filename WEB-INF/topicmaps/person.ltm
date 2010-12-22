@@ -1,5 +1,3 @@
-@"utf-8"
-
 [naut-611 : person = "[虎-儿+丘]一" /zh
 @"http://psi.iba-net.org/person/naut-611"
 ]
@@ -24,6 +22,14 @@
 [naut-298 : person = "一松講" /zh
 @"http://psi.iba-net.org/person/naut-298"
 ]
+[aut-381 : person = "一然" /zh
+@"http://psi.iba-net.org/person/aut-381"
+@"http://psi.iba-net.org/person/naut-1188"
+]
+[aut-135 : person = "一行" /zh
+@"http://psi.iba-net.org/person/aut-135"
+@"http://psi.iba-net.org/person/naut-31"
+]
 [naut-483 : person = "一行修" /zh
 @"http://psi.iba-net.org/person/naut-483"
 ]
@@ -45,8 +51,22 @@
 [naut-1056 : person = "丁元公．祁駿隹" /zh
 @"http://psi.iba-net.org/person/naut-1056"
 ]
+[aut-218 : person = "三寶尊" /zh
+@"http://psi.iba-net.org/person/aut-218"
+]
 [naut-46 : person = "三昧蘇[口*縛]羅" /zh
 @"http://psi.iba-net.org/person/naut-46"
+]
+[aut-326 : person = "不可思議" /zh
+@"http://psi.iba-net.org/person/aut-326"
+@"http://psi.iba-net.org/person/naut-205"
+]
+[aut-60 : person = "不空" /zh
+@"http://psi.iba-net.org/person/aut-60"
+@"http://psi.iba-net.org/person/aut-166"
+@"http://psi.iba-net.org/person/aut-151"
+@"http://psi.iba-net.org/person/naut-32"
+@"http://psi.iba-net.org/person/aut-61"
 ]
 [naut-485 : person = "不空奉詔" /zh
 @"http://psi.iba-net.org/person/naut-485"
@@ -54,14 +74,26 @@
 [naut-54 : person = "不空譯抄之" /zh
 @"http://psi.iba-net.org/person/naut-54"
 ]
+[aut-233 : person = "世友" /zh
+@"http://psi.iba-net.org/person/aut-233"
+@"http://psi.iba-net.org/person/aut-375"
+]
 [naut-631 : person = "世宗皇帝" /zh
 @"http://psi.iba-net.org/person/naut-631"
+]
+[aut-215 : person = "世親" /zh
+@"http://psi.iba-net.org/person/aut-215"
+@"http://psi.iba-net.org/person/aut-250"
+@"http://psi.iba-net.org/person/aut-185"
 ]
 [naut-726 : person = "中孚" /zh
 @"http://psi.iba-net.org/person/naut-726"
 ]
 [naut-993 : person = "中端" /zh
 @"http://psi.iba-net.org/person/naut-993"
+]
+[aut-438 : person = "中算" /zh
+@"http://psi.iba-net.org/person/aut-438"
 ]
 [naut-1022 : person = "中翼" /zh
 @"http://psi.iba-net.org/person/naut-1022"
@@ -90,11 +122,17 @@
 [naut-833 : person = "了垠" /zh
 @"http://psi.iba-net.org/person/naut-833"
 ]
+[aut-584 : person = "了尊" /zh
+@"http://psi.iba-net.org/person/aut-584"
+]
 [naut-702 : person = "了心" /zh
 @"http://psi.iba-net.org/person/naut-702"
 ]
 [naut-772 : person = "了悟" /zh
 @"http://psi.iba-net.org/person/naut-772"
+]
+[aut-532 : person = "了惠" /zh
+@"http://psi.iba-net.org/person/aut-532"
 ]
 [naut-200 : person = "了根" /zh
 @"http://psi.iba-net.org/person/naut-200"
@@ -107,6 +145,9 @@
 ]
 [naut-317 : person = "了童" /zh
 @"http://psi.iba-net.org/person/naut-317"
+]
+[aut-533 : person = "了翁" /zh
+@"http://psi.iba-net.org/person/aut-533"
 ]
 [naut-786 : person = "了能" /zh
 @"http://psi.iba-net.org/person/naut-786"
@@ -126,14 +167,31 @@
 [naut-676 : person = "于[由*頁]" /zh
 @"http://psi.iba-net.org/person/naut-676"
 ]
+[aut-631 : person = "亮尊" /zh
+@"http://psi.iba-net.org/person/aut-631"
+]
+[aut-615 : person = "亮憲" /zh
+@"http://psi.iba-net.org/person/aut-615"
+]
 [naut-309 : person = "亮潤" /zh
 @"http://psi.iba-net.org/person/naut-309"
 ]
 [naut-897 : person = "仁安" /zh
 @"http://psi.iba-net.org/person/naut-897"
 ]
+[aut-352 : person = "仁嶽" /zh
+@"http://psi.iba-net.org/person/aut-352"
+@"http://psi.iba-net.org/person/naut-105"
+@"http://psi.iba-net.org/person/aut-353"
+]
+[aut-545 : person = "仁海" /zh
+@"http://psi.iba-net.org/person/aut-545"
+]
 [naut-454 : person = "仁潮" /zh
 @"http://psi.iba-net.org/person/naut-454"
+]
+[aut-521 : person = "仁空" /zh
+@"http://psi.iba-net.org/person/aut-521"
 ]
 [naut-329 : person = "今釋" /zh
 @"http://psi.iba-net.org/person/naut-329"
@@ -159,6 +217,9 @@
 [naut-804 : person = "似藻" /zh
 @"http://psi.iba-net.org/person/naut-804"
 ]
+[aut-156 : person = "伽梵逹摩" /zh
+@"http://psi.iba-net.org/person/aut-156"
+]
 [naut-44 : person = "伽梵達摩" /zh
 @"http://psi.iba-net.org/person/naut-44"
 ]
@@ -180,9 +241,31 @@
 [naut-300 : person = "佛閑立科、智一拾" /zh
 @"http://psi.iba-net.org/person/naut-300"
 ]
+[aut-189 : person = "佛陀什" /zh
+@"http://psi.iba-net.org/person/aut-189"
+]
+[aut-125 : person = "佛陀多羅" /zh
+@"http://psi.iba-net.org/person/aut-125"
+]
+[aut-81 : person = "佛陀扇多" /zh
+@"http://psi.iba-net.org/person/aut-81"
+@"http://psi.iba-net.org/person/aut-31"
+]
+[aut-108 : person = "佛陀斯那" /zh
+@"http://psi.iba-net.org/person/aut-108"
+]
 [naut-10 : person = "佛陀波利" /zh
 @"http://psi.iba-net.org/person/naut-10"
 @"http://psi.iba-net.org/person/aut-145"
+]
+[aut-1 : person = "佛陀耶舍" /zh
+@"http://psi.iba-net.org/person/aut-1"
+]
+[aut-109 : person = "佛陀蜜多" /zh
+@"http://psi.iba-net.org/person/aut-109"
+]
+[aut-72 : person = "佛馱跋陀羅" /zh
+@"http://psi.iba-net.org/person/aut-72"
 ]
 [naut-162 : person = "來舟" /zh
 @"http://psi.iba-net.org/person/naut-162"
@@ -196,8 +279,20 @@
 [naut-551 : person = "俞行敏" /zh
 @"http://psi.iba-net.org/person/naut-551"
 ]
+[aut-629 : person = "信[每/⽔]" /zh
+@"http://psi.iba-net.org/person/aut-629"
+]
+[aut-482 : person = "信堅" /zh
+@"http://psi.iba-net.org/person/aut-482"
+]
 [naut-1018 : person = "信悟" /zh
 @"http://psi.iba-net.org/person/naut-1018"
+]
+[aut-445 : person = "信瑞" /zh
+@"http://psi.iba-net.org/person/aut-445"
+]
+[aut-583 : person = "信範" /zh
+@"http://psi.iba-net.org/person/aut-583"
 ]
 [naut-571 : person = "信菴" /zh
 @"http://psi.iba-net.org/person/naut-571"
@@ -214,6 +309,10 @@
 [naut-124 : person = "傳如" /zh
 @"http://psi.iba-net.org/person/naut-124"
 ]
+[aut-360 : person = "傳燈" /zh
+@"http://psi.iba-net.org/person/aut-360"
+@"http://psi.iba-net.org/person/naut-113"
+]
 [naut-421 : person = "傳燈說、靈耀" /zh
 @"http://psi.iba-net.org/person/naut-421"
 ]
@@ -223,11 +322,60 @@
 [naut-191 : person = "傳燈鈔" /zh
 @"http://psi.iba-net.org/person/naut-191"
 ]
+[aut-365 : person = "僧ı" /zh
+@"http://psi.iba-net.org/person/aut-365"
+]
+[aut-53 : person = "僧伽娑羅" /zh
+@"http://psi.iba-net.org/person/aut-53"
+]
+[aut-87 : person = "僧伽婆羅" /zh
+@"http://psi.iba-net.org/person/aut-87"
+]
 [naut-53 : person = "僧伽婆羅譯抄之" /zh
 @"http://psi.iba-net.org/person/naut-53"
 ]
+[aut-210 : person = "僧伽提婆" /zh
+@"http://psi.iba-net.org/person/aut-210"
+@"http://psi.iba-net.org/person/aut-236"
+]
+[aut-43 : person = "僧伽斯那" /zh
+@"http://psi.iba-net.org/person/aut-43"
+@"http://psi.iba-net.org/person/aut-25"
+]
+[aut-106 : person = "僧伽羅剎" /zh
+@"http://psi.iba-net.org/person/aut-106"
+]
+[aut-115 : person = "僧伽跋摩" /zh
+@"http://psi.iba-net.org/person/aut-115"
+@"http://psi.iba-net.org/person/aut-247"
+]
+[aut-36 : person = "僧伽跋澄" /zh
+@"http://psi.iba-net.org/person/aut-36"
+]
+[aut-202 : person = "僧伽跋陀羅" /zh
+@"http://psi.iba-net.org/person/aut-202"
+]
+[aut-197 : person = "僧璩" /zh
+@"http://psi.iba-net.org/person/aut-197"
+]
+[aut-382 : person = "僧祐" /zh
+@"http://psi.iba-net.org/person/aut-382"
+]
+[aut-322 : person = "僧肇" /zh
+@"http://psi.iba-net.org/person/aut-322"
+@"http://psi.iba-net.org/person/naut-144"
+]
+[aut-391 : person = "僧詳" /zh
+@"http://psi.iba-net.org/person/aut-391"
+]
 [naut-523 : person = "儀潤" /zh
 @"http://psi.iba-net.org/person/naut-523"
+]
+[aut-284 : person = "優波底沙" /zh
+@"http://psi.iba-net.org/person/aut-284"
+]
+[aut-245 : person = "優波扇多" /zh
+@"http://psi.iba-net.org/person/aut-245"
 ]
 [naut-341 : person = "允堪" /zh
 @"http://psi.iba-net.org/person/naut-341"
@@ -266,6 +414,9 @@
 [naut-365 : person = "元曉(疏竝別記)" /zh
 @"http://psi.iba-net.org/person/naut-365"
 ]
+[aut-544 : person = "元杲" /zh
+@"http://psi.iba-net.org/person/aut-544"
+]
 [naut-781 : person = "元樞" /zh
 @"http://psi.iba-net.org/person/naut-781"
 ]
@@ -274,6 +425,10 @@
 ]
 [naut-728 : person = "元清" /zh
 @"http://psi.iba-net.org/person/naut-728"
+]
+[aut-316 : person = "元照" /zh
+@"http://psi.iba-net.org/person/aut-316"
+@"http://psi.iba-net.org/person/naut-164"
 ]
 [naut-399 : person = "元瑜" /zh
 @"http://psi.iba-net.org/person/naut-399"
@@ -293,11 +448,20 @@
 [naut-128 : person = "元賢" /zh
 @"http://psi.iba-net.org/person/naut-128"
 ]
+[aut-400 : person = "元開" /zh
+@"http://psi.iba-net.org/person/aut-400"
+]
 [naut-791 : person = "元靖" /zh
 @"http://psi.iba-net.org/person/naut-791"
 ]
 [naut-874 : person = "先[者*見]" /zh
 @"http://psi.iba-net.org/person/naut-874"
+]
+[aut-110 : person = "先公" /zh
+@"http://psi.iba-net.org/person/aut-110"
+]
+[aut-529 : person = "光宗" /zh
+@"http://psi.iba-net.org/person/aut-529"
 ]
 [naut-435 : person = "光定" /zh
 @"http://psi.iba-net.org/person/naut-435"
@@ -315,6 +479,9 @@
 [naut-707 : person = "光祖" /zh
 @"http://psi.iba-net.org/person/naut-707"
 ]
+[aut-474 : person = "光胤" /zh
+@"http://psi.iba-net.org/person/aut-474"
+]
 [naut-453 : person = "克勤" /zh
 @"http://psi.iba-net.org/person/naut-453"
 ]
@@ -327,14 +494,32 @@
 [naut-937 : person = "克明" /zh
 @"http://psi.iba-net.org/person/naut-937"
 ]
+[aut-410 : person = "全眞" /zh
+@"http://psi.iba-net.org/person/aut-410"
+]
+[aut-281 : person = "八思巴" /zh
+@"http://psi.iba-net.org/person/aut-281"
+]
 [naut-908 : person = "具德" /zh
 @"http://psi.iba-net.org/person/naut-908"
+]
+[aut-640 : person = "兼胤" /zh
+@"http://psi.iba-net.org/person/aut-640"
+]
+[aut-385 : person = "冥詳" /zh
+@"http://psi.iba-net.org/person/aut-385"
 ]
 [naut-119 : person = "凌弘憲點" /zh
 @"http://psi.iba-net.org/person/naut-119"
 ]
+[aut-461 : person = "凝然" /zh
+@"http://psi.iba-net.org/person/aut-461"
+]
 [naut-120 : person = "函[曰/正]" /zh
 @"http://psi.iba-net.org/person/naut-120"
+]
+[aut-256 : person = "分別明" /zh
+@"http://psi.iba-net.org/person/aut-256"
 ]
 [naut-6 : person = "利言" /zh
 @"http://psi.iba-net.org/person/naut-6"
@@ -345,14 +530,34 @@
 [naut-129 : person = "劉道開" /zh
 @"http://psi.iba-net.org/person/naut-129"
 ]
+[aut-216 : person = "功德施" /zh
+@"http://psi.iba-net.org/person/aut-216"
+]
+[aut-222 : person = "勒那摩提" /zh
+@"http://psi.iba-net.org/person/aut-222"
+@"http://psi.iba-net.org/person/aut-270"
+]
+[aut-199 : person = "勝友" /zh
+@"http://psi.iba-net.org/person/aut-199"
+]
+[aut-217 : person = "勝德赤衣" /zh
+@"http://psi.iba-net.org/person/aut-217"
+]
 [naut-324 : person = "勝莊" /zh
 @"http://psi.iba-net.org/person/naut-324"
+]
+[aut-120 : person = "勿提提犀魚" /zh
+@"http://psi.iba-net.org/person/aut-120"
+@"http://psi.iba-net.org/person/naut-37"
 ]
 [naut-587 : person = "北天竺" /zh
 @"http://psi.iba-net.org/person/naut-587"
 ]
 [naut-567 : person = "卍蓮" /zh
 @"http://psi.iba-net.org/person/naut-567"
+]
+[aut-457 : person = "南忠" /zh
+@"http://psi.iba-net.org/person/aut-457"
 ]
 [naut-342 : person = "即靜" /zh
 @"http://psi.iba-net.org/person/naut-342"
@@ -368,6 +573,9 @@
 ]
 [naut-1085 : person = "受登" /zh
 @"http://psi.iba-net.org/person/naut-1085"
+]
+[aut-510 : person = "叡尊" /zh
+@"http://psi.iba-net.org/person/aut-510"
 ]
 [naut-558 : person = "古崑" /zh
 @"http://psi.iba-net.org/person/naut-558"
@@ -402,8 +610,16 @@
 [naut-445 : person = "可觀述智增" /zh
 @"http://psi.iba-net.org/person/naut-445"
 ]
+[aut-299 : person = "吉藏" /zh
+@"http://psi.iba-net.org/person/aut-299"
+@"http://psi.iba-net.org/person/naut-63"
+]
 [naut-173 : person = "吉藏撰" /zh
 @"http://psi.iba-net.org/person/naut-173"
+]
+[aut-79 : person = "吉迦夜" /zh
+@"http://psi.iba-net.org/person/aut-79"
+@"http://psi.iba-net.org/person/aut-41"
 ]
 [naut-52 : person = "同譯" /zh
 @"http://psi.iba-net.org/person/naut-52"
@@ -449,6 +665,9 @@
 [naut-790 : person = "唯道" /zh
 @"http://psi.iba-net.org/person/naut-790"
 ]
+[aut-274 : person = "商羯羅主" /zh
+@"http://psi.iba-net.org/person/aut-274"
+]
 [naut-743 : person = "善之" /zh
 @"http://psi.iba-net.org/person/naut-743"
 ]
@@ -457,6 +676,13 @@
 ]
 [naut-479 : person = "善堅" /zh
 @"http://psi.iba-net.org/person/naut-479"
+]
+[aut-279 : person = "善寂" /zh
+@"http://psi.iba-net.org/person/aut-279"
+]
+[aut-315 : person = "善導" /zh
+@"http://psi.iba-net.org/person/aut-315"
+@"http://psi.iba-net.org/person/naut-181"
 ]
 [naut-992 : person = "善成" /zh
 @"http://psi.iba-net.org/person/naut-992"
@@ -474,6 +700,10 @@
 [naut-414 : person = "善漳等錄" /zh
 @"http://psi.iba-net.org/person/naut-414"
 ]
+[aut-126 : person = "善無畏" /zh
+@"http://psi.iba-net.org/person/aut-126"
+@"http://psi.iba-net.org/person/naut-30"
+]
 [naut-476 : person = "善熹" /zh
 @"http://psi.iba-net.org/person/naut-476"
 ]
@@ -485,6 +715,12 @@
 ]
 [naut-841 : person = "善珙" /zh
 @"http://psi.iba-net.org/person/naut-841"
+]
+[aut-472 : person = "善珠" /zh
+@"http://psi.iba-net.org/person/aut-472"
+]
+[aut-136 : person = "善護" /zh
+@"http://psi.iba-net.org/person/aut-136"
 ]
 [naut-49 : person = "善護尊者造" /zh
 @"http://psi.iba-net.org/person/naut-49"
@@ -504,17 +740,35 @@
 [naut-873 : person = "善靖" /zh
 @"http://psi.iba-net.org/person/naut-873"
 ]
+[aut-139 : person = "喇嚇嘛卜楚薩木丹達爾吉" /zh
+@"http://psi.iba-net.org/person/aut-139"
+]
+[aut-444 : person = "喜海" /zh
+@"http://psi.iba-net.org/person/aut-444"
+]
 [naut-710 : person = "嗣端" /zh
 @"http://psi.iba-net.org/person/naut-710"
 ]
 [naut-519 : person = "嗣良參訂" /zh
 @"http://psi.iba-net.org/person/naut-519"
 ]
+[aut-119 : person = "嚴佛調" /zh
+@"http://psi.iba-net.org/person/aut-119"
+]
 [naut-547 : person = "嚴培西" /zh
 @"http://psi.iba-net.org/person/naut-547"
 ]
+[aut-618 : person = "嚴覺" /zh
+@"http://psi.iba-net.org/person/aut-618"
+]
+[aut-424 : person = "圓仁" /zh
+@"http://psi.iba-net.org/person/aut-424"
+]
 [naut-671 : person = "圓信" /zh
 @"http://psi.iba-net.org/person/naut-671"
+]
+[aut-627 : person = "圓心" /zh
+@"http://psi.iba-net.org/person/aut-627"
 ]
 [naut-629 : person = "圓悟" /zh
 @"http://psi.iba-net.org/person/naut-629"
@@ -539,14 +793,47 @@
 [naut-292 : person = "圓澄說、明海" /zh
 @"http://psi.iba-net.org/person/naut-292"
 ]
+[aut-399 : person = "圓照" /zh
+@"http://psi.iba-net.org/person/aut-399"
+@"http://psi.iba-net.org/person/naut-487"
+]
+[aut-426 : person = "圓珍" /zh
+@"http://psi.iba-net.org/person/aut-426"
+]
+[aut-423 : person = "圓行" /zh
+@"http://psi.iba-net.org/person/aut-423"
+]
 [naut-480 : person = "圓覺" /zh
 @"http://psi.iba-net.org/person/naut-480"
+]
+[aut-429 : person = "圓超" /zh
+@"http://psi.iba-net.org/person/aut-429"
 ]
 [naut-665 : person = "圓通" /zh
 @"http://psi.iba-net.org/person/naut-665"
 ]
+[aut-76 : person = "地婆訶羅" /zh
+@"http://psi.iba-net.org/person/aut-76"
+@"http://psi.iba-net.org/person/aut-32"
+]
 [naut-378 : person = "均正" /zh
 @"http://psi.iba-net.org/person/naut-378"
+]
+[aut-476 : person = "基辧" /zh
+@"http://psi.iba-net.org/person/aut-476"
+]
+[aut-277 : person = "堅意" /zh
+@"http://psi.iba-net.org/person/aut-277"
+]
+[aut-272 : person = "堅慧" /zh
+@"http://psi.iba-net.org/person/aut-272"
+@"http://psi.iba-net.org/person/aut-269"
+]
+[aut-249 : person = "塞建陀羅" /zh
+@"http://psi.iba-net.org/person/aut-249"
+]
+[aut-471 : person = "增賀" /zh
+@"http://psi.iba-net.org/person/aut-471"
 ]
 [naut-1040 : person = "士慘" /zh
 @"http://psi.iba-net.org/person/naut-1040"
@@ -554,8 +841,15 @@
 [naut-773 : person = "士洵" /zh
 @"http://psi.iba-net.org/person/naut-773"
 ]
+[aut-392 : person = "士衡" /zh
+@"http://psi.iba-net.org/person/aut-392"
+@"http://psi.iba-net.org/person/naut-1112"
+]
 [naut-912 : person = "壽椿" /zh
 @"http://psi.iba-net.org/person/naut-912"
+]
+[aut-501 : person = "壽靈" /zh
+@"http://psi.iba-net.org/person/aut-501"
 ]
 [naut-1177 : person = "夏樹芳" /zh
 @"http://psi.iba-net.org/person/naut-1177"
@@ -563,14 +857,24 @@
 [naut-1086 : person = "夏道人" /zh
 @"http://psi.iba-net.org/person/naut-1086"
 ]
+[aut-339 : person = "大乘光" /zh
+@"http://psi.iba-net.org/person/aut-339"
+]
 [naut-147 : person = "大乘基" /zh
 @"http://psi.iba-net.org/person/naut-147"
 ]
 [naut-190 : person = "大佑" /zh
 @"http://psi.iba-net.org/person/naut-190"
 ]
+[aut-114 : person = "大勇" /zh
+@"http://psi.iba-net.org/person/aut-114"
+]
 [naut-945 : person = "大圓" /zh
 @"http://psi.iba-net.org/person/naut-945"
+]
+[aut-220 : person = "大域龍" /zh
+@"http://psi.iba-net.org/person/aut-220"
+@"http://psi.iba-net.org/person/aut-219"
 ]
 [naut-1149 : person = "大壑" /zh
 @"http://psi.iba-net.org/person/naut-1149"
@@ -590,11 +894,20 @@
 [naut-905 : person = "大機" /zh
 @"http://psi.iba-net.org/person/naut-905"
 ]
+[aut-564 : person = "大玄" /zh
+@"http://psi.iba-net.org/person/aut-564"
+]
 [naut-236 : person = "大璸" /zh
 @"http://psi.iba-net.org/person/naut-236"
 ]
+[aut-231 : person = "大目乾連" /zh
+@"http://psi.iba-net.org/person/aut-231"
+]
 [naut-294 : person = "大義" /zh
 @"http://psi.iba-net.org/person/naut-294"
+]
+[aut-179 : person = "大興善寺翻經院阿闍梨[不空]" /zh
+@"http://psi.iba-net.org/person/aut-179"
 ]
 [naut-352 : person = "大覺" /zh
 @"http://psi.iba-net.org/person/naut-352"
@@ -624,6 +937,18 @@
 [naut-626 : person = "天[正*頁]" /zh
 @"http://psi.iba-net.org/person/naut-626"
 ]
+[aut-374 : person = "天友" /zh
+@"http://psi.iba-net.org/person/aut-374"
+]
+[aut-20 : person = "天息災" /zh
+@"http://psi.iba-net.org/person/aut-20"
+]
+[aut-213 : person = "天親" /zh
+@"http://psi.iba-net.org/person/aut-213"
+@"http://psi.iba-net.org/person/aut-226"
+@"http://psi.iba-net.org/person/aut-223"
+@"http://psi.iba-net.org/person/aut-229"
+]
 [naut-1046 : person = "太泉" /zh
 @"http://psi.iba-net.org/person/naut-1046"
 ]
@@ -643,6 +968,12 @@
 @"http://psi.iba-net.org/person/naut-8"
 @"http://psi.iba-net.org/person/aut-5"
 ]
+[aut-396 : person = "契嵩" /zh
+@"http://psi.iba-net.org/person/aut-396"
+]
+[aut-372 : person = "如Î" /zh
+@"http://psi.iba-net.org/person/aut-372"
+]
 [naut-441 : person = "如吉" /zh
 @"http://psi.iba-net.org/person/naut-441"
 ]
@@ -651,6 +982,10 @@
 ]
 [naut-1144 : person = "如巹" /zh
 @"http://psi.iba-net.org/person/naut-1144"
+]
+[aut-389 : person = "如惺" /zh
+@"http://psi.iba-net.org/person/aut-389"
+@"http://psi.iba-net.org/person/naut-1087"
 ]
 [naut-290 : person = "如愚" /zh
 @"http://psi.iba-net.org/person/naut-290"
@@ -672,6 +1007,9 @@
 ]
 [naut-627 : person = "如瑛" /zh
 @"http://psi.iba-net.org/person/naut-627"
+]
+[aut-645 : person = "如瑩" /zh
+@"http://psi.iba-net.org/person/aut-645"
 ]
 [naut-646 : person = "如祐錄" /zh
 @"http://psi.iba-net.org/person/naut-646"
@@ -736,8 +1074,24 @@
 [naut-735 : person = "妙高" /zh
 @"http://psi.iba-net.org/person/naut-735"
 ]
+[aut-207 : person = "婆素跋陀" /zh
+@"http://psi.iba-net.org/person/aut-207"
+]
 [naut-47 : person = "婆羅門僧" /zh
 @"http://psi.iba-net.org/person/naut-47"
+]
+[aut-221 : person = "婆藪槃豆" /zh
+@"http://psi.iba-net.org/person/aut-221"
+@"http://psi.iba-net.org/person/aut-251"
+]
+[aut-283 : person = "婆藪跋摩" /zh
+@"http://psi.iba-net.org/person/aut-283"
+]
+[aut-243 : person = "婆須蜜" /zh
+@"http://psi.iba-net.org/person/aut-243"
+]
+[aut-301 : person = "子ṇ" /zh
+@"http://psi.iba-net.org/person/aut-301"
 ]
 [naut-681 : person = "子和" /zh
 @"http://psi.iba-net.org/person/naut-681"
@@ -799,6 +1153,18 @@
 [naut-837 : person = "守靜" /zh
 @"http://psi.iba-net.org/person/naut-837"
 ]
+[aut-252 : person = "安慧" /zh
+@"http://psi.iba-net.org/person/aut-252"
+]
+[aut-468 : person = "安澄" /zh
+@"http://psi.iba-net.org/person/aut-468"
+]
+[aut-428 : person = "安然" /zh
+@"http://psi.iba-net.org/person/aut-428"
+]
+[aut-431 : person = "安遠" /zh
+@"http://psi.iba-net.org/person/aut-431"
+]
 [naut-263 : person = "宋濂文" /zh
 @"http://psi.iba-net.org/person/naut-263"
 ]
@@ -819,6 +1185,9 @@
 ]
 [naut-449 : person = "宗印" /zh
 @"http://psi.iba-net.org/person/naut-449"
+]
+[aut-427 : person = "宗叡" /zh
+@"http://psi.iba-net.org/person/aut-427"
 ]
 [naut-759 : person = "宗和" /zh
 @"http://psi.iba-net.org/person/naut-759"
@@ -842,6 +1211,15 @@
 [naut-591 : person = "宗密答" /zh
 @"http://psi.iba-net.org/person/naut-591"
 ]
+[aut-625 : person = "宗實" /zh
+@"http://psi.iba-net.org/person/aut-625"
+]
+[aut-588 : person = "宗快" /zh
+@"http://psi.iba-net.org/person/aut-588"
+]
+[aut-463 : person = "宗性" /zh
+@"http://psi.iba-net.org/person/aut-463"
+]
 [naut-861 : person = "宗應" /zh
 @"http://psi.iba-net.org/person/naut-861"
 ]
@@ -853,6 +1231,10 @@
 ]
 [naut-738 : person = "宗文" /zh
 @"http://psi.iba-net.org/person/naut-738"
+]
+[aut-349 : person = "宗曉" /zh
+@"http://psi.iba-net.org/person/aut-349"
+@"http://psi.iba-net.org/person/naut-159"
 ]
 [naut-819 : person = "宗會" /zh
 @"http://psi.iba-net.org/person/naut-819"
@@ -881,6 +1263,9 @@
 [naut-893 : person = "宗煥" /zh
 @"http://psi.iba-net.org/person/naut-893"
 ]
+[aut-496 : person = "宗禎" /zh
+@"http://psi.iba-net.org/person/aut-496"
+]
 [naut-958 : person = "宗義" /zh
 @"http://psi.iba-net.org/person/naut-958"
 ]
@@ -892,6 +1277,9 @@
 ]
 [naut-895 : person = "宗茙" /zh
 @"http://psi.iba-net.org/person/naut-895"
+]
+[aut-513 : person = "宗覺" /zh
+@"http://psi.iba-net.org/person/aut-513"
 ]
 [naut-1005 : person = "宗謐" /zh
 @"http://psi.iba-net.org/person/naut-1005"
@@ -914,12 +1302,33 @@
 [naut-950 : person = "宗黼" /zh
 @"http://psi.iba-net.org/person/naut-950"
 ]
+[aut-571 : person = "定專" /zh
+@"http://psi.iba-net.org/person/aut-571"
+]
+[aut-641 : person = "定智" /zh
+@"http://psi.iba-net.org/person/aut-641"
+]
+[aut-459 : person = "定深" /zh
+@"http://psi.iba-net.org/person/aut-459"
+]
+[aut-621 : person = "定眞" /zh
+@"http://psi.iba-net.org/person/aut-621"
+]
 [naut-339 : person = "定賓" /zh
 @"http://psi.iba-net.org/person/naut-339"
 @"http://psi.iba-net.org/person/aut-329"
 ]
+[aut-452 : person = "宥快" /zh
+@"http://psi.iba-net.org/person/aut-452"
+]
+[aut-449 : person = "宥範" /zh
+@"http://psi.iba-net.org/person/aut-449"
+]
 [naut-331 : person = "寂光直" /zh
 @"http://psi.iba-net.org/person/naut-331"
+]
+[aut-294 : person = "寂友" /zh
+@"http://psi.iba-net.org/person/aut-294"
 ]
 [naut-504 : person = "寂暹" /zh
 @"http://psi.iba-net.org/person/naut-504"
@@ -941,11 +1350,38 @@
 @"http://psi.iba-net.org/person/aut-291"
 @"http://psi.iba-net.org/person/aut-73"
 ]
+[aut-500 : person = "實弘" /zh
+@"http://psi.iba-net.org/person/aut-500"
+]
+[aut-536 : person = "實慧" /zh
+@"http://psi.iba-net.org/person/aut-536"
+]
+[aut-491 : person = "實慶" /zh
+@"http://psi.iba-net.org/person/aut-491"
+]
+[aut-508 : person = "實範" /zh
+@"http://psi.iba-net.org/person/aut-508"
+]
+[aut-505 : person = "實英" /zh
+@"http://psi.iba-net.org/person/aut-505"
+]
 [naut-184 : person = "實觀" /zh
 @"http://psi.iba-net.org/person/naut-184"
 ]
 [naut-539 : person = "實賢" /zh
 @"http://psi.iba-net.org/person/naut-539"
+]
+[aut-551 : person = "實運" /zh
+@"http://psi.iba-net.org/person/aut-551"
+]
+[aut-502 : person = "審乘" /zh
+@"http://psi.iba-net.org/person/aut-502"
+]
+[aut-550 : person = "寬信" /zh
+@"http://psi.iba-net.org/person/aut-550"
+]
+[aut-546 : person = "寬助" /zh
+@"http://psi.iba-net.org/person/aut-546"
 ]
 [naut-584 : person = "寬量" /zh
 @"http://psi.iba-net.org/person/naut-584"
@@ -955,6 +1391,9 @@
 ]
 [naut-1104 : person = "寶唱" /zh
 @"http://psi.iba-net.org/person/naut-1104"
+]
+[aut-112 : person = "寶思惟" /zh
+@"http://psi.iba-net.org/person/aut-112"
 ]
 [naut-1096 : person = "寶成" /zh
 @"http://psi.iba-net.org/person/naut-1096"
@@ -971,11 +1410,39 @@
 [naut-1000 : person = "寶盈" /zh
 @"http://psi.iba-net.org/person/naut-1000"
 ]
+[aut-323 : person = "寶臣" /zh
+@"http://psi.iba-net.org/person/aut-323"
+@"http://psi.iba-net.org/person/naut-138"
+]
+[aut-591 : person = "寶達" /zh
+@"http://psi.iba-net.org/person/aut-591"
+]
+[aut-35 : person = "寶雲" /zh
+@"http://psi.iba-net.org/person/aut-35"
+]
+[aut-639 : person = "尊圓" /zh
+@"http://psi.iba-net.org/person/aut-639"
+]
+[aut-480 : person = "尊辧" /zh
+@"http://psi.iba-net.org/person/aut-480"
+]
+[aut-485 : person = "尊通" /zh
+@"http://psi.iba-net.org/person/aut-485"
+]
 [naut-817 : person = "尚賢" /zh
 @"http://psi.iba-net.org/person/naut-817"
 ]
+[aut-144 : person = "尸羅跋陀羅" /zh
+@"http://psi.iba-net.org/person/aut-144"
+]
+[aut-75 : person = "尸羅逹摩" /zh
+@"http://psi.iba-net.org/person/aut-75"
+]
 [naut-33 : person = "尸羅達摩" /zh
 @"http://psi.iba-net.org/person/naut-33"
+]
+[aut-239 : person = "尸陀槃尼" /zh
+@"http://psi.iba-net.org/person/aut-239"
 ]
 [naut-577 : person = "尼量海" /zh
 @"http://psi.iba-net.org/person/naut-577"
@@ -983,8 +1450,15 @@
 [naut-903 : person = "居簡" /zh
 @"http://psi.iba-net.org/person/naut-903"
 ]
+[aut-395 : person = "居頂" /zh
+@"http://psi.iba-net.org/person/aut-395"
+@"http://psi.iba-net.org/person/naut-953"
+]
 [naut-219 : person = "屠根" /zh
 @"http://psi.iba-net.org/person/naut-219"
+]
+[aut-209 : person = "山賢" /zh
+@"http://psi.iba-net.org/person/aut-209"
 ]
 [naut-303 : person = "崇俊" /zh
 @"http://psi.iba-net.org/person/naut-303"
@@ -1007,6 +1481,9 @@
 [naut-202 : person = "工布查布譯竝解" /zh
 @"http://psi.iba-net.org/person/naut-202"
 ]
+[aut-137 : person = "工布査布" /zh
+@"http://psi.iba-net.org/person/aut-137"
+]
 [naut-464 : person = "希[廷-壬+由]" /zh
 @"http://psi.iba-net.org/person/naut-464"
 ]
@@ -1024,6 +1501,12 @@
 ]
 [naut-998 : person = "希顏" /zh
 @"http://psi.iba-net.org/person/naut-998"
+]
+[aut-408 : person = "希麟" /zh
+@"http://psi.iba-net.org/person/aut-408"
+]
+[aut-183 : person = "帛尸梨蜜多羅" /zh
+@"http://psi.iba-net.org/person/aut-183"
 ]
 [naut-1028 : person = "師儼" /zh
 @"http://psi.iba-net.org/person/naut-1028"
@@ -1059,8 +1542,20 @@
 [naut-562 : person = "常攝" /zh
 @"http://psi.iba-net.org/person/naut-562"
 ]
+[aut-422 : person = "常曉" /zh
+@"http://psi.iba-net.org/person/aut-422"
+]
 [naut-1172 : person = "常謹" /zh
 @"http://psi.iba-net.org/person/naut-1172"
+]
+[aut-441 : person = "平備" /zh
+@"http://psi.iba-net.org/person/aut-441"
+]
+[aut-432 : person = "平祚" /zh
+@"http://psi.iba-net.org/person/aut-432"
+]
+[aut-623 : person = "幸嚴" /zh
+@"http://psi.iba-net.org/person/aut-623"
 ]
 [naut-1103 : person = "幻輪" /zh
 @"http://psi.iba-net.org/person/naut-1103"
@@ -1068,6 +1563,13 @@
 ]
 [naut-1109 : person = "幽貞刊纂" /zh
 @"http://psi.iba-net.org/person/naut-1109"
+]
+[aut-24 : person = "康僧會" /zh
+@"http://psi.iba-net.org/person/aut-24"
+]
+[aut-91 : person = "康僧鎧" /zh
+@"http://psi.iba-net.org/person/aut-91"
+@"http://psi.iba-net.org/person/aut-83"
 ]
 [naut-221 : person = "廣伸" /zh
 @"http://psi.iba-net.org/person/naut-221"
@@ -1122,6 +1624,12 @@
 [naut-607 : person = "弋咸" /zh
 @"http://psi.iba-net.org/person/naut-607"
 ]
+[aut-195 : person = "弗若多羅" /zh
+@"http://psi.iba-net.org/person/aut-195"
+]
+[aut-201 : person = "弗陀多羅多" /zh
+@"http://psi.iba-net.org/person/aut-201"
+]
 [naut-1147 : person = "弘儲" /zh
 @"http://psi.iba-net.org/person/naut-1147"
 ]
@@ -1162,11 +1670,20 @@
 [naut-566 : person = "張淵" /zh
 @"http://psi.iba-net.org/person/naut-566"
 ]
+[aut-205 : person = "彌勒" /zh
+@"http://psi.iba-net.org/person/aut-205"
+]
 [naut-865 : person = "彌安" /zh
 @"http://psi.iba-net.org/person/naut-865"
 ]
 [naut-853 : person = "彌紹" /zh
 @"http://psi.iba-net.org/person/naut-853"
+]
+[aut-152 : person = "彌陀山" /zh
+@"http://psi.iba-net.org/person/aut-152"
+]
+[aut-384 : person = "彥悰" /zh
+@"http://psi.iba-net.org/person/aut-384"
 ]
 [naut-600 : person = "彥琪" /zh
 @"http://psi.iba-net.org/person/naut-600"
@@ -1225,11 +1742,20 @@
 [naut-380 : person = "從芳" /zh
 @"http://psi.iba-net.org/person/naut-380"
 ]
+[aut-568 : person = "從覺" /zh
+@"http://psi.iba-net.org/person/aut-568"
+]
 [naut-70 : person = "復[共/(電-雨)]" /zh
 @"http://psi.iba-net.org/person/naut-70"
 ]
 [naut-1007 : person = "復初" /zh
 @"http://psi.iba-net.org/person/naut-1007"
+]
+[aut-403 : person = "復禮" /zh
+@"http://psi.iba-net.org/person/aut-403"
+]
+[aut-541 : person = "德一" /zh
+@"http://psi.iba-net.org/person/aut-541"
 ]
 [naut-842 : person = "德修" /zh
 @"http://psi.iba-net.org/person/naut-842"
@@ -1248,6 +1774,9 @@
 ]
 [naut-801 : person = "德惟" /zh
 @"http://psi.iba-net.org/person/naut-801"
+]
+[aut-280 : person = "德慧" /zh
+@"http://psi.iba-net.org/person/aut-280"
 ]
 [naut-107 : person = "德洪" /zh
 @"http://psi.iba-net.org/person/naut-107"
@@ -1294,11 +1823,17 @@
 [naut-1160 : person = "德諫" /zh
 @"http://psi.iba-net.org/person/naut-1160"
 ]
+[aut-373 : person = "德輝" /zh
+@"http://psi.iba-net.org/person/aut-373"
+]
 [naut-1037 : person = "德霑" /zh
 @"http://psi.iba-net.org/person/naut-1037"
 ]
 [naut-774 : person = "德高" /zh
 @"http://psi.iba-net.org/person/naut-774"
+]
+[aut-647 : person = "徹定" /zh
+@"http://psi.iba-net.org/person/aut-647"
 ]
 [naut-1048 : person = "心亮" /zh
 @"http://psi.iba-net.org/person/naut-1048"
@@ -1311,6 +1846,13 @@
 ]
 [naut-1167 : person = "心泰" /zh
 @"http://psi.iba-net.org/person/naut-1167"
+]
+[aut-630 : person = "心覺" /zh
+@"http://psi.iba-net.org/person/aut-630"
+@"http://psi.iba-net.org/person/aut-582"
+]
+[aut-512 : person = "忍仙" /zh
+@"http://psi.iba-net.org/person/aut-512"
 ]
 [naut-73 : person = "志寧釐經合論" /zh
 @"http://psi.iba-net.org/person/naut-73"
@@ -1340,8 +1882,24 @@
 [naut-478 : person = "忠" /zh
 @"http://psi.iba-net.org/person/naut-478"
 ]
+[aut-516 : person = "忠尋" /zh
+@"http://psi.iba-net.org/person/aut-516"
+]
+[aut-469 : person = "快憲" /zh
+@"http://psi.iba-net.org/person/aut-469"
+]
+[aut-465 : person = "快道" /zh
+@"http://psi.iba-net.org/person/aut-465"
+]
+[aut-378 : person = "念常" /zh
+@"http://psi.iba-net.org/person/aut-378"
+@"http://psi.iba-net.org/person/naut-1101"
+]
 [naut-999 : person = "忻悟" /zh
 @"http://psi.iba-net.org/person/naut-999"
+]
+[aut-412 : person = "怛多蘗多波羅" /zh
+@"http://psi.iba-net.org/person/aut-412"
 ]
 [naut-104 : person = "思坦" /zh
 @"http://psi.iba-net.org/person/naut-104"
@@ -1397,6 +1955,12 @@
 [naut-628 : person = "性音" /zh
 @"http://psi.iba-net.org/person/naut-628"
 ]
+[aut-419 : person = "恆安" /zh
+@"http://psi.iba-net.org/person/aut-419"
+]
+[aut-557 : person = "恭畏" /zh
+@"http://psi.iba-net.org/person/aut-557"
+]
 [naut-1121 : person = "悟明" /zh
 @"http://psi.iba-net.org/person/naut-1121"
 ]
@@ -1439,6 +2003,10 @@
 [naut-696 : person = "惟珪" /zh
 @"http://psi.iba-net.org/person/naut-696"
 ]
+[aut-345 : person = "惟白" /zh
+@"http://psi.iba-net.org/person/aut-345"
+@"http://psi.iba-net.org/person/naut-477"
+]
 [naut-1069 : person = "惟能" /zh
 @"http://psi.iba-net.org/person/naut-1069"
 ]
@@ -1449,6 +2017,9 @@
 @"http://psi.iba-net.org/person/naut-495"
 @"http://psi.iba-net.org/person/aut-130"
 ]
+[aut-522 : person = "惟賢" /zh
+@"http://psi.iba-net.org/person/aut-522"
+]
 [naut-511 : person = "惟顯" /zh
 @"http://psi.iba-net.org/person/naut-511"
 ]
@@ -1458,14 +2029,32 @@
 [naut-818 : person = "惠明" /zh
 @"http://psi.iba-net.org/person/naut-818"
 ]
+[aut-133 : person = "惠果" /zh
+@"http://psi.iba-net.org/person/aut-133"
+]
 [naut-851 : person = "惠洇" /zh
 @"http://psi.iba-net.org/person/naut-851"
 ]
 [naut-1122 : person = "惠洪" /zh
 @"http://psi.iba-net.org/person/naut-1122"
 ]
+[aut-607 : person = "惠辨" /zh
+@"http://psi.iba-net.org/person/aut-607"
+]
+[aut-425 : person = "惠運" /zh
+@"http://psi.iba-net.org/person/aut-425"
+]
 [naut-404 : person = "惠達" /zh
 @"http://psi.iba-net.org/person/naut-404"
+]
+[aut-518 : person = "惠鎭" /zh
+@"http://psi.iba-net.org/person/aut-518"
+]
+[aut-191 : person = "愛同" /zh
+@"http://psi.iba-net.org/person/aut-191"
+]
+[aut-206 : person = "慈氏" /zh
+@"http://psi.iba-net.org/person/aut-206"
 ]
 [naut-193 : person = "慈航智願定本" /zh
 @"http://psi.iba-net.org/person/naut-193"
@@ -1473,17 +2062,30 @@
 [naut-838 : person = "慈證" /zh
 @"http://psi.iba-net.org/person/naut-838"
 ]
+[aut-160 : person = "慈賢" /zh
+@"http://psi.iba-net.org/person/aut-160"
+@"http://psi.iba-net.org/person/aut-188"
+]
+[aut-493 : person = "慚安" /zh
+@"http://psi.iba-net.org/person/aut-493"
+]
 [naut-507 : person = "慧光" /zh
 @"http://psi.iba-net.org/person/naut-507"
 ]
 [naut-678 : person = "慧南" /zh
 @"http://psi.iba-net.org/person/naut-678"
 ]
+[aut-561 : person = "慧印" /zh
+@"http://psi.iba-net.org/person/aut-561"
+]
 [naut-673 : person = "慧印校" /zh
 @"http://psi.iba-net.org/person/naut-673"
 ]
 [naut-972 : person = "慧啟" /zh
 @"http://psi.iba-net.org/person/naut-972"
+]
+[aut-95 : person = "慧嚴" /zh
+@"http://psi.iba-net.org/person/aut-95"
 ]
 [naut-328 : person = "慧因" /zh
 @"http://psi.iba-net.org/person/naut-328"
@@ -1500,8 +2102,18 @@
 [naut-260 : person = "慧忠" /zh
 @"http://psi.iba-net.org/person/naut-260"
 ]
+[aut-346 : person = "慧思" /zh
+@"http://psi.iba-net.org/person/aut-346"
+@"http://psi.iba-net.org/person/naut-415"
+]
 [naut-846 : person = "慧恭" /zh
 @"http://psi.iba-net.org/person/naut-846"
+]
+[aut-603 : person = "慧日" /zh
+@"http://psi.iba-net.org/person/aut-603"
+]
+[aut-155 : person = "慧智" /zh
+@"http://psi.iba-net.org/person/aut-155"
 ]
 [naut-395 : person = "慧暉" /zh
 @"http://psi.iba-net.org/person/naut-395"
@@ -1509,8 +2121,15 @@
 [naut-725 : person = "慧曇" /zh
 @"http://psi.iba-net.org/person/naut-725"
 ]
+[aut-414 : person = "慧月" /zh
+@"http://psi.iba-net.org/person/aut-414"
+]
 [naut-943 : person = "慧朗" /zh
 @"http://psi.iba-net.org/person/naut-943"
+]
+[aut-309 : person = "慧沼" /zh
+@"http://psi.iba-net.org/person/aut-309"
+@"http://psi.iba-net.org/person/naut-161"
 ]
 [naut-284 : person = "慧洪" /zh
 @"http://psi.iba-net.org/person/naut-284"
@@ -1532,8 +2151,17 @@
 @"http://psi.iba-net.org/person/naut-489"
 @"http://psi.iba-net.org/person/aut-134"
 ]
+[aut-387 : person = "慧皎" /zh
+@"http://psi.iba-net.org/person/aut-387"
+]
 [naut-1184 : person = "慧祥" /zh
 @"http://psi.iba-net.org/person/naut-1184"
+]
+[aut-386 : person = "慧立" /zh
+@"http://psi.iba-net.org/person/aut-386"
+]
+[aut-15 : person = "慧簡" /zh
+@"http://psi.iba-net.org/person/aut-15"
 ]
 [naut-210 : person = "慧能" /zh
 @"http://psi.iba-net.org/person/naut-210"
@@ -1543,6 +2171,9 @@
 ]
 [naut-750 : person = "慧行" /zh
 @"http://psi.iba-net.org/person/naut-750"
+]
+[aut-40 : person = "慧覺" /zh
+@"http://psi.iba-net.org/person/aut-40"
 ]
 [naut-911 : person = "慧觀" /zh
 @"http://psi.iba-net.org/person/naut-911"
@@ -1555,6 +2186,10 @@
 ]
 [naut-1062 : person = "慧辯" /zh
 @"http://psi.iba-net.org/person/naut-1062"
+]
+[aut-313 : person = "慧遠" /zh
+@"http://psi.iba-net.org/person/aut-313"
+@"http://psi.iba-net.org/person/naut-145"
 ]
 [naut-1002 : person = "慧鏡" /zh
 @"http://psi.iba-net.org/person/naut-1002"
@@ -1576,6 +2211,9 @@
 ]
 [naut-356 : person = "慧顯" /zh
 @"http://psi.iba-net.org/person/naut-356"
+]
+[aut-644 : person = "慶吉祥" /zh
+@"http://psi.iba-net.org/person/aut-644"
 ]
 [naut-693 : person = "慶會" /zh
 @"http://psi.iba-net.org/person/naut-693"
@@ -1603,14 +2241,24 @@
 @"http://psi.iba-net.org/person/naut-1171"
 @"http://psi.iba-net.org/person/aut-397"
 ]
+[aut-350 : person = "懷則" /zh
+@"http://psi.iba-net.org/person/aut-350"
+]
 [naut-531 : person = "懷感" /zh
 @"http://psi.iba-net.org/person/naut-531"
 ]
 [naut-775 : person = "懷珠" /zh
 @"http://psi.iba-net.org/person/naut-775"
 ]
+[aut-330 : person = "懷素" /zh
+@"http://psi.iba-net.org/person/aut-330"
+@"http://psi.iba-net.org/person/naut-351"
+]
 [naut-103 : person = "懷遠" /zh
 @"http://psi.iba-net.org/person/naut-103"
+]
+[aut-537 : person = "成尊" /zh
+@"http://psi.iba-net.org/person/aut-537"
 ]
 [naut-542 : person = "成時(評點節要)" /zh
 @"http://psi.iba-net.org/person/naut-542"
@@ -1621,6 +2269,12 @@
 [naut-252 : person = "成蓮" /zh
 @"http://psi.iba-net.org/person/naut-252"
 ]
+[aut-552 : person = "成賢" /zh
+@"http://psi.iba-net.org/person/aut-552"
+]
+[aut-560 : person = "戒定" /zh
+@"http://psi.iba-net.org/person/aut-560"
+]
 [naut-185 : person = "戒度" /zh
 @"http://psi.iba-net.org/person/naut-185"
 ]
@@ -1630,8 +2284,15 @@
 [naut-188 : person = "戒度記" /zh
 @"http://psi.iba-net.org/person/naut-188"
 ]
+[aut-295 : person = "戒日王" /zh
+@"http://psi.iba-net.org/person/aut-295"
+]
 [naut-357 : person = "戒月" /zh
 @"http://psi.iba-net.org/person/naut-357"
+]
+[aut-393 : person = "戒珠" /zh
+@"http://psi.iba-net.org/person/aut-393"
+@"http://psi.iba-net.org/person/naut-442"
 ]
 [naut-83 : person = "戒環" /zh
 @"http://psi.iba-net.org/person/naut-83"
@@ -1642,8 +2303,17 @@
 [naut-565 : person = "戒香" /zh
 @"http://psi.iba-net.org/person/naut-565"
 ]
+[aut-542 : person = "房覺" /zh
+@"http://psi.iba-net.org/person/aut-542"
+]
+[aut-635 : person = "承澄" /zh
+@"http://psi.iba-net.org/person/aut-635"
+]
 [naut-460 : person = "承遷" /zh
 @"http://psi.iba-net.org/person/naut-460"
+]
+[aut-415 : person = "拂多誕" /zh
+@"http://psi.iba-net.org/person/aut-415"
 ]
 [naut-756 : person = "持志" /zh
 @"http://psi.iba-net.org/person/naut-756"
@@ -1651,8 +2321,39 @@
 [naut-884 : person = "持正" /zh
 @"http://psi.iba-net.org/person/naut-884"
 ]
+[aut-148 : person = "指空" /zh
+@"http://psi.iba-net.org/person/aut-148"
+]
+[aut-258 : person = "提婆" /zh
+@"http://psi.iba-net.org/person/aut-258"
+@"http://psi.iba-net.org/person/naut-257"
+]
+[aut-263 : person = "提婆羅" /zh
+@"http://psi.iba-net.org/person/aut-263"
+]
+[aut-232 : person = "提婆設摩" /zh
+@"http://psi.iba-net.org/person/aut-232"
+]
+[aut-273 : person = "提雲般若" /zh
+@"http://psi.iba-net.org/person/aut-273"
+@"http://psi.iba-net.org/person/aut-77"
+@"http://psi.iba-net.org/person/naut-58"
+]
 [naut-481 : person = "揚嘉祚" /zh
 @"http://psi.iba-net.org/person/naut-481"
+]
+[aut-293 : person = "摩咥里制吒" /zh
+@"http://psi.iba-net.org/person/aut-293"
+]
+[aut-150 : person = "支謙" /zh
+@"http://psi.iba-net.org/person/aut-150"
+@"http://psi.iba-net.org/person/aut-92"
+]
+[aut-554 : person = "教舜" /zh
+@"http://psi.iba-net.org/person/aut-554"
+]
+[aut-523 : person = "敬光" /zh
+@"http://psi.iba-net.org/person/aut-523"
 ]
 [naut-272 : person = "敬止" /zh
 @"http://psi.iba-net.org/person/naut-272"
@@ -1722,17 +2423,39 @@
 [naut-919 : person = "文闡" /zh
 @"http://psi.iba-net.org/person/naut-919"
 ]
+[aut-364 : person = "方會" /zh
+@"http://psi.iba-net.org/person/aut-364"
+]
 [naut-75 : person = "方澤" /zh
 @"http://psi.iba-net.org/person/naut-75"
 ]
 [naut-503 : person = "施堯挺" /zh
 @"http://psi.iba-net.org/person/naut-503"
 ]
+[aut-8 : person = "施護" /zh
+@"http://psi.iba-net.org/person/aut-8"
+@"http://psi.iba-net.org/person/naut-19"
+]
+[aut-580 : person = "日向" /zh
+@"http://psi.iba-net.org/person/aut-580"
+]
 [naut-167 : person = "日新" /zh
 @"http://psi.iba-net.org/person/naut-167"
 ]
 [naut-1 : person = "日稱" /zh
 @"http://psi.iba-net.org/person/naut-1"
+]
+[aut-579 : person = "日興" /zh
+@"http://psi.iba-net.org/person/aut-579"
+]
+[aut-578 : person = "日蓮" /zh
+@"http://psi.iba-net.org/person/aut-578"
+]
+[aut-344 : person = "明˙" /zh
+@"http://psi.iba-net.org/person/aut-344"
+]
+[aut-437 : person = "明一" /zh
+@"http://psi.iba-net.org/person/aut-437"
 ]
 [naut-1055 : person = "明凡" /zh
 @"http://psi.iba-net.org/person/naut-1055"
@@ -1742,6 +2465,9 @@
 ]
 [naut-155 : person = "明得" /zh
 @"http://psi.iba-net.org/person/naut-155"
+]
+[aut-190 : person = "明徽" /zh
+@"http://psi.iba-net.org/person/aut-190"
 ]
 [naut-589 : person = "明恂隨錄、慧智" /zh
 @"http://psi.iba-net.org/person/naut-589"
@@ -1754,6 +2480,9 @@
 ]
 [naut-391 : person = "明昱錄" /zh
 @"http://psi.iba-net.org/person/naut-391"
+]
+[aut-331 : person = "明昿" /zh
+@"http://psi.iba-net.org/person/aut-331"
 ]
 [naut-258 : person = "明曠" /zh
 @"http://psi.iba-net.org/person/naut-258"
@@ -1776,6 +2505,15 @@
 [naut-1029 : person = "明總" /zh
 @"http://psi.iba-net.org/person/naut-1029"
 ]
+[aut-458 : person = "明覺" /zh
+@"http://psi.iba-net.org/person/aut-458"
+]
+[aut-477 : person = "明詮" /zh
+@"http://psi.iba-net.org/person/aut-477"
+]
+[aut-613 : person = "明達" /zh
+@"http://psi.iba-net.org/person/aut-613"
+]
 [naut-988 : person = "明遠" /zh
 @"http://psi.iba-net.org/person/naut-988"
 ]
@@ -1785,17 +2523,28 @@
 [naut-429 : person = "時舉" /zh
 @"http://psi.iba-net.org/person/naut-429"
 ]
+[aut-334 : person = "普光" /zh
+@"http://psi.iba-net.org/person/aut-334"
+@"http://psi.iba-net.org/person/naut-381"
+]
 [naut-850 : person = "普和" /zh
 @"http://psi.iba-net.org/person/naut-850"
 ]
 [naut-451 : person = "普容" /zh
 @"http://psi.iba-net.org/person/naut-451"
 ]
+[aut-475 : person = "普寂" /zh
+@"http://psi.iba-net.org/person/aut-475"
+]
 [naut-1020 : person = "普崇" /zh
 @"http://psi.iba-net.org/person/naut-1020"
 ]
 [naut-705 : person = "普巖" /zh
 @"http://psi.iba-net.org/person/naut-705"
+]
+[aut-359 : person = "普度" /zh
+@"http://psi.iba-net.org/person/aut-359"
+@"http://psi.iba-net.org/person/naut-536"
 ]
 [naut-700 : person = "普敬" /zh
 @"http://psi.iba-net.org/person/naut-700"
@@ -1808,6 +2557,9 @@
 ]
 [naut-642 : person = "普會" /zh
 @"http://psi.iba-net.org/person/naut-642"
+]
+[aut-497 : person = "普機" /zh
+@"http://psi.iba-net.org/person/aut-497"
 ]
 [naut-382 : person = "普泰" /zh
 @"http://psi.iba-net.org/person/naut-382"
@@ -1849,6 +2601,9 @@
 [naut-944 : person = "景毅" /zh
 @"http://psi.iba-net.org/person/naut-944"
 ]
+[aut-416 : person = "景淨" /zh
+@"http://psi.iba-net.org/person/aut-416"
+]
 [naut-985 : person = "景瓛" /zh
 @"http://psi.iba-net.org/person/naut-985"
 ]
@@ -1857,6 +2612,9 @@
 ]
 [naut-916 : person = "景行" /zh
 @"http://psi.iba-net.org/person/naut-916"
+]
+[aut-499 : person = "景雅" /zh
+@"http://psi.iba-net.org/person/aut-499"
 ]
 [naut-354 : person = "景霄纂" /zh
 @"http://psi.iba-net.org/person/naut-354"
@@ -1871,8 +2629,23 @@
 @"http://psi.iba-net.org/person/naut-302"
 @"http://psi.iba-net.org/person/aut-338"
 ]
+[aut-67 : person = "智嚴" /zh
+@"http://psi.iba-net.org/person/aut-67"
+@"http://psi.iba-net.org/person/aut-29"
+@"http://psi.iba-net.org/person/naut-139"
+]
+[aut-318 : person = "智圓" /zh
+@"http://psi.iba-net.org/person/aut-318"
+@"http://psi.iba-net.org/person/naut-149"
+]
+[aut-186 : person = "智威" /zh
+@"http://psi.iba-net.org/person/aut-186"
+]
 [naut-281 : person = "智度" /zh
 @"http://psi.iba-net.org/person/naut-281"
+]
+[aut-409 : person = "智廣" /zh
+@"http://psi.iba-net.org/person/aut-409"
 ]
 [naut-625 : person = "智徹" /zh
 @"http://psi.iba-net.org/person/naut-625"
@@ -1880,6 +2653,13 @@
 ]
 [naut-363 : person = "智愷" /zh
 @"http://psi.iba-net.org/person/naut-363"
+]
+[aut-165 : person = "智慧" /zh
+@"http://psi.iba-net.org/person/aut-165"
+]
+[aut-64 : person = "智慧輪" /zh
+@"http://psi.iba-net.org/person/aut-64"
+@"http://psi.iba-net.org/person/naut-15"
 ]
 [naut-820 : person = "智折" /zh
 @"http://psi.iba-net.org/person/naut-820"
@@ -1897,6 +2677,9 @@
 [naut-455 : person = "智旭重" /zh
 @"http://psi.iba-net.org/person/naut-455"
 ]
+[aut-362 : person = "智昇" /zh
+@"http://psi.iba-net.org/person/aut-362"
+]
 [naut-620 : person = "智昭" /zh
 @"http://psi.iba-net.org/person/naut-620"
 ]
@@ -1905,6 +2688,9 @@
 ]
 [naut-777 : person = "智沂" /zh
 @"http://psi.iba-net.org/person/naut-777"
+]
+[aut-620 : person = "智海" /zh
+@"http://psi.iba-net.org/person/aut-620"
 ]
 [naut-1034 : person = "智湖" /zh
 @"http://psi.iba-net.org/person/naut-1034"
@@ -1945,11 +2731,18 @@
 [naut-948 : person = "智辯" /zh
 @"http://psi.iba-net.org/person/naut-948"
 ]
+[aut-153 : person = "智通" /zh
+@"http://psi.iba-net.org/person/aut-153"
+]
 [naut-279 : person = "智銓" /zh
 @"http://psi.iba-net.org/person/naut-279"
 ]
 [naut-282 : person = "智雲" /zh
 @"http://psi.iba-net.org/person/naut-282"
+]
+[aut-307 : person = "智顗" /zh
+@"http://psi.iba-net.org/person/aut-307"
+@"http://psi.iba-net.org/person/naut-146"
 ]
 [naut-417 : person = "智顗(略出)" /zh
 @"http://psi.iba-net.org/person/naut-417"
@@ -1969,11 +2762,57 @@
 [naut-1148 : person = "曇噩撰" /zh
 @"http://psi.iba-net.org/person/naut-1148"
 ]
+[aut-453 : person = "曇寂" /zh
+@"http://psi.iba-net.org/person/aut-453"
+]
 [naut-364 : person = "曇延" /zh
 @"http://psi.iba-net.org/person/naut-364"
 ]
 [naut-212 : person = "曇應" /zh
 @"http://psi.iba-net.org/person/naut-212"
+]
+[aut-70 : person = "曇摩伽陀耶舍" /zh
+@"http://psi.iba-net.org/person/aut-70"
+]
+[aut-242 : person = "曇摩崛多" /zh
+@"http://psi.iba-net.org/person/aut-242"
+]
+[aut-78 : person = "曇摩流支" /zh
+@"http://psi.iba-net.org/person/aut-78"
+]
+[aut-241 : person = "曇摩耶舍" /zh
+@"http://psi.iba-net.org/person/aut-241"
+@"http://psi.iba-net.org/person/aut-105"
+]
+[aut-99 : person = "曇摩蜜多" /zh
+@"http://psi.iba-net.org/person/aut-99"
+]
+[aut-51 : person = "曇摩蜱" /zh
+@"http://psi.iba-net.org/person/aut-51"
+]
+[aut-383 : person = "曇摩難提" /zh
+@"http://psi.iba-net.org/person/aut-383"
+]
+[aut-118 : person = "曇景" /zh
+@"http://psi.iba-net.org/person/aut-118"
+]
+[aut-184 : person = "曇曜" /zh
+@"http://psi.iba-net.org/person/aut-184"
+]
+[aut-592 : person = "曇曠" /zh
+@"http://psi.iba-net.org/person/aut-592"
+]
+[aut-94 : person = "曇無竭" /zh
+@"http://psi.iba-net.org/person/aut-94"
+]
+[aut-187 : person = "曇無蘭" /zh
+@"http://psi.iba-net.org/person/aut-187"
+]
+[aut-71 : person = "曇無蜜多" /zh
+@"http://psi.iba-net.org/person/aut-71"
+]
+[aut-14 : person = "曇無讖" /zh
+@"http://psi.iba-net.org/person/aut-14"
 ]
 [naut-1111 : person = "曇照" /zh
 @"http://psi.iba-net.org/person/naut-1111"
@@ -1983,6 +2822,9 @@
 ]
 [naut-984 : person = "曇紹" /zh
 @"http://psi.iba-net.org/person/naut-984"
+]
+[aut-193 : person = "曇諦" /zh
+@"http://psi.iba-net.org/person/aut-193"
 ]
 [naut-976 : person = "曇頓" /zh
 @"http://psi.iba-net.org/person/naut-976"
@@ -2000,12 +2842,25 @@
 [naut-333 : person = "書玉" /zh
 @"http://psi.iba-net.org/person/naut-333"
 ]
+[aut-80 : person = "曼陀羅仙" /zh
+@"http://psi.iba-net.org/person/aut-80"
+]
 [naut-137 : person = "曾鳳儀" /zh
 @"http://psi.iba-net.org/person/naut-137"
+]
+[aut-525 : person = "最圓" /zh
+@"http://psi.iba-net.org/person/aut-525"
 ]
 [naut-431 : person = "最澄" /zh
 @"http://psi.iba-net.org/person/naut-431"
 @"http://psi.iba-net.org/person/aut-420"
+]
+[aut-265 : person = "最生子" /zh
+@"http://psi.iba-net.org/person/aut-265"
+]
+[aut-84 : person = "月婆首那" /zh
+@"http://psi.iba-net.org/person/aut-84"
+@"http://psi.iba-net.org/person/aut-52"
 ]
 [naut-278 : person = "有嚴" /zh
 @"http://psi.iba-net.org/person/naut-278"
@@ -2018,6 +2873,9 @@
 ]
 [naut-959 : person = "有端" /zh
 @"http://psi.iba-net.org/person/naut-959"
+]
+[aut-626 : person = "朗澄" /zh
+@"http://psi.iba-net.org/person/aut-626"
 ]
 [naut-1081 : person = "木增" /zh
 @"http://psi.iba-net.org/person/naut-1081"
@@ -2076,6 +2934,9 @@
 [naut-458 : person = "杜順" /zh
 @"http://psi.iba-net.org/person/naut-458"
 ]
+[aut-450 : person = "杲寶" /zh
+@"http://psi.iba-net.org/person/aut-450"
+]
 [naut-0 : person = "松本文三郎" /zh
 @"http://psi.iba-net.org/person/naut-0"
 ]
@@ -2120,6 +2981,15 @@
 ]
 [naut-677 : person = "楚圓" /zh
 @"http://psi.iba-net.org/person/naut-677"
+]
+[aut-555 : person = "榮然" /zh
+@"http://psi.iba-net.org/person/aut-555"
+]
+[aut-434 : person = "榮穩" /zh
+@"http://psi.iba-net.org/person/aut-434"
+]
+[aut-484 : person = "榮西" /zh
+@"http://psi.iba-net.org/person/aut-484"
 ]
 [naut-675 : person = "樓[(匕/示)*頁]" /zh
 @"http://psi.iba-net.org/person/naut-675"
@@ -2187,8 +3057,21 @@
 [naut-1169 : person = "段成式" /zh
 @"http://psi.iba-net.org/person/naut-1169"
 ]
+[aut-69 : person = "毗尼多流支" /zh
+@"http://psi.iba-net.org/person/aut-69"
+]
+[aut-89 : person = "毗目智仙" /zh
+@"http://psi.iba-net.org/person/aut-89"
+@"http://psi.iba-net.org/person/aut-224"
+]
+[aut-200 : person = "毗舍佉" /zh
+@"http://psi.iba-net.org/person/aut-200"
+]
 [naut-86 : person = "永光" /zh
 @"http://psi.iba-net.org/person/naut-86"
+]
+[aut-548 : person = "永嚴" /zh
+@"http://psi.iba-net.org/person/aut-548"
 ]
 [naut-361 : person = "永海" /zh
 @"http://psi.iba-net.org/person/naut-361"
@@ -2198,6 +3081,27 @@
 ]
 [naut-638 : person = "永盛" /zh
 @"http://psi.iba-net.org/person/naut-638"
+]
+[aut-634 : person = "永範" /zh
+@"http://psi.iba-net.org/person/aut-634"
+]
+[aut-577 : person = "永觀" /zh
+@"http://psi.iba-net.org/person/aut-577"
+]
+[aut-435 : person = "永超" /zh
+@"http://psi.iba-net.org/person/aut-435"
+]
+[aut-17 : person = "求那毗地" /zh
+@"http://psi.iba-net.org/person/aut-17"
+@"http://psi.iba-net.org/person/aut-44"
+]
+[aut-194 : person = "求那跋摩" /zh
+@"http://psi.iba-net.org/person/aut-194"
+@"http://psi.iba-net.org/person/aut-292"
+]
+[aut-18 : person = "求那跋陀羅" /zh
+@"http://psi.iba-net.org/person/aut-18"
+@"http://psi.iba-net.org/person/aut-68"
 ]
 [naut-869 : person = "汝均" /zh
 @"http://psi.iba-net.org/person/naut-869"
@@ -2215,11 +3119,17 @@
 @"http://psi.iba-net.org/person/naut-48"
 @"http://psi.iba-net.org/person/aut-147"
 ]
+[aut-103 : person = "沮渠京聲" /zh
+@"http://psi.iba-net.org/person/aut-103"
+]
 [naut-563 : person = "治兆" /zh
 @"http://psi.iba-net.org/person/naut-563"
 ]
 [naut-692 : person = "法[王*壽]" /zh
 @"http://psi.iba-net.org/person/naut-692"
+]
+[aut-601 : person = "法上" /zh
+@"http://psi.iba-net.org/person/aut-601"
 ]
 [naut-811 : person = "法光" /zh
 @"http://psi.iba-net.org/person/naut-811"
@@ -2227,6 +3137,17 @@
 [naut-494 : person = "法全" /zh
 @"http://psi.iba-net.org/person/naut-494"
 @"http://psi.iba-net.org/person/aut-129"
+]
+[aut-244 : person = "法勝" /zh
+@"http://psi.iba-net.org/person/aut-244"
+]
+[aut-104 : person = "法場" /zh
+@"http://psi.iba-net.org/person/aut-104"
+]
+[aut-3 : person = "法天" /zh
+@"http://psi.iba-net.org/person/aut-3"
+@"http://psi.iba-net.org/person/aut-113"
+@"http://psi.iba-net.org/person/naut-50"
 ]
 [naut-739 : person = "法奇" /zh
 @"http://psi.iba-net.org/person/naut-739"
@@ -2240,6 +3161,13 @@
 [naut-392 : person = "法寶" /zh
 @"http://psi.iba-net.org/person/naut-392"
 @"http://psi.iba-net.org/person/aut-335"
+]
+[aut-327 : person = "法崇" /zh
+@"http://psi.iba-net.org/person/aut-327"
+@"http://psi.iba-net.org/person/naut-206"
+]
+[aut-466 : person = "法幢" /zh
+@"http://psi.iba-net.org/person/aut-466"
 ]
 [naut-745 : person = "法從" /zh
 @"http://psi.iba-net.org/person/naut-745"
@@ -2259,8 +3187,19 @@
 [naut-641 : person = "法應" /zh
 @"http://psi.iba-net.org/person/naut-641"
 ]
+[aut-65 : person = "法成" /zh
+@"http://psi.iba-net.org/person/aut-65"
+@"http://psi.iba-net.org/person/aut-598"
+]
 [naut-372 : person = "法敏" /zh
 @"http://psi.iba-net.org/person/naut-372"
+]
+[aut-49 : person = "法救" /zh
+@"http://psi.iba-net.org/person/aut-49"
+@"http://psi.iba-net.org/person/aut-45"
+]
+[aut-62 : person = "法月" /zh
+@"http://psi.iba-net.org/person/aut-62"
 ]
 [naut-13 : person = "法月重" /zh
 @"http://psi.iba-net.org/person/naut-13"
@@ -2273,6 +3212,9 @@
 ]
 [naut-789 : person = "法洪" /zh
 @"http://psi.iba-net.org/person/naut-789"
+]
+[aut-203 : person = "法海" /zh
+@"http://psi.iba-net.org/person/aut-203"
 ]
 [naut-694 : person = "法清" /zh
 @"http://psi.iba-net.org/person/naut-694"
@@ -2292,6 +3234,10 @@
 [naut-288 : person = "法濟" /zh
 @"http://psi.iba-net.org/person/naut-288"
 ]
+[aut-12 : person = "法炬" /zh
+@"http://psi.iba-net.org/person/aut-12"
+@"http://psi.iba-net.org/person/aut-47"
+]
 [naut-277 : person = "法照" /zh
 @"http://psi.iba-net.org/person/naut-277"
 @"http://psi.iba-net.org/person/aut-363"
@@ -2299,6 +3245,9 @@
 ]
 [naut-1021 : person = "法爲" /zh
 @"http://psi.iba-net.org/person/naut-1021"
+]
+[aut-402 : person = "法琳" /zh
+@"http://psi.iba-net.org/person/aut-402"
 ]
 [naut-447 : person = "法登" /zh
 @"http://psi.iba-net.org/person/naut-447"
@@ -2308,6 +3257,12 @@
 ]
 [naut-348 : person = "法礪" /zh
 @"http://psi.iba-net.org/person/naut-348"
+]
+[aut-48 : person = "法立" /zh
+@"http://psi.iba-net.org/person/aut-48"
+]
+[aut-417 : person = "法經" /zh
+@"http://psi.iba-net.org/person/aut-417"
 ]
 [naut-182 : person = "法聰" /zh
 @"http://psi.iba-net.org/person/naut-182"
@@ -2322,6 +3277,9 @@
 [naut-1107 : person = "法藏集" /zh
 @"http://psi.iba-net.org/person/naut-1107"
 ]
+[aut-170 : person = "法護" /zh
+@"http://psi.iba-net.org/person/aut-170"
+]
 [naut-18 : person = "法賢" /zh
 @"http://psi.iba-net.org/person/naut-18"
 @"http://psi.iba-net.org/person/aut-7"
@@ -2332,6 +3290,13 @@
 [naut-276 : person = "法雲" /zh
 @"http://psi.iba-net.org/person/naut-276"
 ]
+[aut-6 : person = "法顯" /zh
+@"http://psi.iba-net.org/person/aut-6"
+]
+[aut-257 : person = "波羅頗蜜多羅" /zh
+@"http://psi.iba-net.org/person/aut-257"
+@"http://psi.iba-net.org/person/aut-98"
+]
 [naut-885 : person = "洪喬祖" /zh
 @"http://psi.iba-net.org/person/naut-885"
 ]
@@ -2340,6 +3305,9 @@
 ]
 [naut-216 : person = "洪蓮" /zh
 @"http://psi.iba-net.org/person/naut-216"
+]
+[aut-238 : person = "浮陀跋摩" /zh
+@"http://psi.iba-net.org/person/aut-238"
 ]
 [naut-928 : person = "海壽" /zh
 @"http://psi.iba-net.org/person/naut-928"
@@ -2357,11 +3325,20 @@
 [naut-901 : person = "淨伏、(門人)" /zh
 @"http://psi.iba-net.org/person/naut-901"
 ]
+[aut-371 : person = "淨善" /zh
+@"http://psi.iba-net.org/person/aut-371"
+]
 [naut-816 : person = "淨嘉" /zh
 @"http://psi.iba-net.org/person/naut-816"
 ]
+[aut-585 : person = "淨嚴" /zh
+@"http://psi.iba-net.org/person/aut-585"
+]
 [naut-729 : person = "淨志" /zh
 @"http://psi.iba-net.org/person/naut-729"
+]
+[aut-285 : person = "淨意" /zh
+@"http://psi.iba-net.org/person/aut-285"
 ]
 [naut-1170 : person = "淨慧" /zh
 @"http://psi.iba-net.org/person/naut-1170"
@@ -2406,8 +3383,17 @@
 [naut-744 : person = "淨證" /zh
 @"http://psi.iba-net.org/person/naut-744"
 ]
+[aut-566 : person = "淨音" /zh
+@"http://psi.iba-net.org/person/aut-566"
+]
 [naut-887 : person = "淨韻" /zh
 @"http://psi.iba-net.org/person/naut-887"
+]
+[aut-553 : person = "深賢" /zh
+@"http://psi.iba-net.org/person/aut-553"
+]
+[aut-543 : person = "淳祐" /zh
+@"http://psi.iba-net.org/person/aut-543"
 ]
 [naut-926 : person = "清欲" /zh
 @"http://psi.iba-net.org/person/naut-926"
@@ -2418,6 +3404,9 @@
 [naut-888 : person = "清澤" /zh
 @"http://psi.iba-net.org/person/naut-888"
 ]
+[aut-495 : person = "清範" /zh
+@"http://psi.iba-net.org/person/aut-495"
+]
 [naut-1038 : person = "清茂" /zh
 @"http://psi.iba-net.org/person/naut-1038"
 ]
@@ -2427,18 +3416,33 @@
 [naut-608 : person = "清覺" /zh
 @"http://psi.iba-net.org/person/naut-608"
 ]
+[aut-264 : person = "清辯" /zh
+@"http://psi.iba-net.org/person/aut-264"
+]
 [naut-947 : person = "清逸" /zh
 @"http://psi.iba-net.org/person/naut-947"
 ]
 [naut-89 : person = "清遠" /zh
 @"http://psi.iba-net.org/person/naut-89"
 ]
+[aut-443 : person = "湛叡" /zh
+@"http://psi.iba-net.org/person/aut-443"
+]
+[aut-464 : person = "湛慧" /zh
+@"http://psi.iba-net.org/person/aut-464"
+]
 [naut-68 : person = "湛然" /zh
 @"http://psi.iba-net.org/person/naut-68"
 @"http://psi.iba-net.org/person/aut-308"
 ]
+[aut-448 : person = "源信" /zh
+@"http://psi.iba-net.org/person/aut-448"
+]
 [naut-423 : person = "源清" /zh
 @"http://psi.iba-net.org/person/naut-423"
+]
+[aut-562 : person = "源空" /zh
+@"http://psi.iba-net.org/person/aut-562"
 ]
 [naut-237 : person = "溥仁乩" /zh
 @"http://psi.iba-net.org/person/naut-237"
@@ -2456,11 +3460,20 @@
 @"http://psi.iba-net.org/person/naut-490"
 @"http://psi.iba-net.org/person/aut-354"
 ]
+[aut-636 : person = "澄圓" /zh
+@"http://psi.iba-net.org/person/aut-636"
+]
 [naut-534 : person = "澄彧" /zh
 @"http://psi.iba-net.org/person/naut-534"
 ]
 [naut-505 : person = "澄照" /zh
 @"http://psi.iba-net.org/person/naut-505"
+]
+[aut-487 : person = "澄禪" /zh
+@"http://psi.iba-net.org/person/aut-487"
+]
+[aut-614 : person = "澄舜" /zh
+@"http://psi.iba-net.org/person/aut-614"
 ]
 [naut-69 : person = "澄觀" /zh
 @"http://psi.iba-net.org/person/naut-69"
@@ -2472,11 +3485,17 @@
 [naut-468 : person = "澄觀撰、宗密" /zh
 @"http://psi.iba-net.org/person/naut-468"
 ]
+[aut-531 : person = "澄豪" /zh
+@"http://psi.iba-net.org/person/aut-531"
+]
 [naut-522 : person = "濟嶽彙箋" /zh
 @"http://psi.iba-net.org/person/naut-522"
 ]
 [naut-136 : person = "濟時" /zh
 @"http://psi.iba-net.org/person/naut-136"
+]
+[aut-442 : person = "濟暹" /zh
+@"http://psi.iba-net.org/person/aut-442"
 ]
 [naut-552 : person = "濟能" /zh
 @"http://psi.iba-net.org/person/naut-552"
@@ -2497,6 +3516,9 @@
 [naut-1095 : person = "無寄" /zh
 @"http://psi.iba-net.org/person/naut-1095"
 ]
+[aut-268 : person = "無性" /zh
+@"http://psi.iba-net.org/person/aut-268"
+]
 [naut-1161 : person = "無慍" /zh
 @"http://psi.iba-net.org/person/naut-1161"
 ]
@@ -2508,6 +3530,13 @@
 ]
 [naut-291 : person = "無相" /zh
 @"http://psi.iba-net.org/person/naut-291"
+]
+[aut-50 : person = "無羅叉" /zh
+@"http://psi.iba-net.org/person/aut-50"
+]
+[aut-255 : person = "無著" /zh
+@"http://psi.iba-net.org/person/aut-255"
+@"http://psi.iba-net.org/person/aut-212"
 ]
 [naut-810 : person = "無補" /zh
 @"http://psi.iba-net.org/person/naut-810"
@@ -2521,17 +3550,42 @@
 [naut-568 : person = "照瑩" /zh
 @"http://psi.iba-net.org/person/naut-568"
 ]
+[aut-462 : person = "照遠" /zh
+@"http://psi.iba-net.org/person/aut-462"
+]
 [naut-1100 : person = "熙仲" /zh
 @"http://psi.iba-net.org/person/naut-1100"
+]
+[aut-149 : person = "牟尼室利" /zh
+@"http://psi.iba-net.org/person/aut-149"
 ]
 [naut-177 : person = "玄一" /zh
 @"http://psi.iba-net.org/person/naut-177"
 ]
+[aut-486 : person = "玄叡" /zh
+@"http://psi.iba-net.org/person/aut-486"
+]
+[aut-23 : person = "玄奘" /zh
+@"http://psi.iba-net.org/person/aut-23"
+@"http://psi.iba-net.org/person/naut-401"
+]
+[aut-404 : person = "玄嶷" /zh
+@"http://psi.iba-net.org/person/aut-404"
+]
 [naut-359 : person = "玄惲" /zh
 @"http://psi.iba-net.org/person/naut-359"
 ]
+[aut-430 : person = "玄日" /zh
+@"http://psi.iba-net.org/person/aut-430"
+]
+[aut-581 : person = "玄昭" /zh
+@"http://psi.iba-net.org/person/aut-581"
+]
 [naut-1129 : person = "玄極" /zh
 @"http://psi.iba-net.org/person/naut-1129"
+]
+[aut-367 : person = "玄覺" /zh
+@"http://psi.iba-net.org/person/aut-367"
 ]
 [naut-1093 : person = "王勃" /zh
 @"http://psi.iba-net.org/person/naut-1093"
@@ -2560,11 +3614,27 @@
 [naut-235 : person = "王錫琯" /zh
 @"http://psi.iba-net.org/person/naut-235"
 ]
+[aut-479 : person = "珍海" /zh
+@"http://psi.iba-net.org/person/aut-479"
+]
 [naut-1119 : person = "瑞璋" /zh
 @"http://psi.iba-net.org/person/naut-1119"
 ]
 [naut-560 : person = "瑞聖歎" /zh
 @"http://psi.iba-net.org/person/naut-560"
+]
+[aut-314 : person = "璟興" /zh
+@"http://psi.iba-net.org/person/aut-314"
+@"http://psi.iba-net.org/person/naut-178"
+]
+[aut-93 : person = "畺良耶舍" /zh
+@"http://psi.iba-net.org/person/aut-93"
+]
+[aut-4 : person = "白法祖" /zh
+@"http://psi.iba-net.org/person/aut-4"
+]
+[aut-526 : person = "皇慶" /zh
+@"http://psi.iba-net.org/person/aut-526"
 ]
 [naut-270 : person = "益證" /zh
 @"http://psi.iba-net.org/person/naut-270"
@@ -2584,11 +3654,20 @@
 [naut-660 : person = "眞在" /zh
 @"http://psi.iba-net.org/person/naut-660"
 ]
+[aut-325 : person = "眞宗" /zh
+@"http://psi.iba-net.org/person/aut-325"
+]
 [naut-318 : person = "眞宗皇帝" /zh
 @"http://psi.iba-net.org/person/naut-318"
 ]
+[aut-455 : person = "眞寂" /zh
+@"http://psi.iba-net.org/person/aut-455"
+]
 [naut-201 : person = "眞嵩" /zh
 @"http://psi.iba-net.org/person/naut-201"
+]
+[aut-572 : person = "眞慧" /zh
+@"http://psi.iba-net.org/person/aut-572"
 ]
 [naut-127 : person = "眞界" /zh
 @"http://psi.iba-net.org/person/naut-127"
@@ -2596,11 +3675,25 @@
 [naut-557 : person = "眞益願" /zh
 @"http://psi.iba-net.org/person/naut-557"
 ]
+[aut-535 : person = "眞盛" /zh
+@"http://psi.iba-net.org/person/aut-535"
+]
+[aut-456 : person = "眞興" /zh
+@"http://psi.iba-net.org/person/aut-456"
+]
 [naut-443 : person = "眞覺略解、智旭" /zh
 @"http://psi.iba-net.org/person/naut-443"
 ]
 [naut-183 : person = "眞覺重" /zh
 @"http://psi.iba-net.org/person/naut-183"
+]
+[aut-21 : person = "眞諦" /zh
+@"http://psi.iba-net.org/person/aut-21"
+@"http://psi.iba-net.org/person/aut-56"
+@"http://psi.iba-net.org/person/aut-227"
+]
+[aut-547 : person = "眞譽" /zh
+@"http://psi.iba-net.org/person/aut-547"
 ]
 [naut-253 : person = "眞貴" /zh
 @"http://psi.iba-net.org/person/naut-253"
@@ -2608,11 +3701,40 @@
 [naut-109 : person = "眞鑑" /zh
 @"http://psi.iba-net.org/person/naut-109"
 ]
+[aut-253 : person = "眾賢" /zh
+@"http://psi.iba-net.org/person/aut-253"
+]
+[aut-172 : person = "瞿多" /zh
+@"http://psi.iba-net.org/person/aut-172"
+]
+[aut-11 : person = "瞿曇僧伽堤婆" /zh
+@"http://psi.iba-net.org/person/aut-11"
+]
+[aut-19 : person = "瞿曇法智" /zh
+@"http://psi.iba-net.org/person/aut-19"
+]
+[aut-275 : person = "瞿曇流支" /zh
+@"http://psi.iba-net.org/person/aut-275"
+]
+[aut-28 : person = "瞿曇般若流支" /zh
+@"http://psi.iba-net.org/person/aut-28"
+@"http://psi.iba-net.org/person/aut-88"
+]
 [naut-1133 : person = "瞿汝稷" /zh
 @"http://psi.iba-net.org/person/naut-1133"
 ]
+[aut-248 : person = "瞿沙" /zh
+@"http://psi.iba-net.org/person/aut-248"
+]
 [naut-325 : person = "知周" /zh
 @"http://psi.iba-net.org/person/naut-325"
+]
+[aut-593 : person = "知恩" /zh
+@"http://psi.iba-net.org/person/aut-593"
+]
+[aut-310 : person = "知禮" /zh
+@"http://psi.iba-net.org/person/aut-310"
+@"http://psi.iba-net.org/person/naut-157"
 ]
 [naut-637 : person = "知訥" /zh
 @"http://psi.iba-net.org/person/naut-637"
@@ -2623,6 +3745,9 @@
 ]
 [naut-377 : person = "碩法師" /zh
 @"http://psi.iba-net.org/person/naut-377"
+]
+[aut-74 : person = "祇多蜜" /zh
+@"http://psi.iba-net.org/person/aut-74"
 ]
 [naut-982 : person = "祖光" /zh
 @"http://psi.iba-net.org/person/naut-982"
@@ -2677,6 +3802,9 @@
 @"http://psi.iba-net.org/person/naut-393"
 @"http://psi.iba-net.org/person/aut-340"
 ]
+[aut-405 : person = "祥邁" /zh
+@"http://psi.iba-net.org/person/aut-405"
+]
 [naut-1072 : person = "福善" /zh
 @"http://psi.iba-net.org/person/naut-1072"
 ]
@@ -2695,6 +3823,9 @@
 [naut-26 : person = "禪那崛多別譯" /zh
 @"http://psi.iba-net.org/person/naut-26"
 ]
+[aut-411 : person = "禮言" /zh
+@"http://psi.iba-net.org/person/aut-411"
+]
 [naut-680 : person = "秀人錢密" /zh
 @"http://psi.iba-net.org/person/naut-680"
 ]
@@ -2704,18 +3835,46 @@
 [naut-218 : person = "程衷懋補註" /zh
 @"http://psi.iba-net.org/person/naut-218"
 ]
+[aut-421 : person = "空海" /zh
+@"http://psi.iba-net.org/person/aut-421"
+]
+[aut-168 : person = "空蜝" /zh
+@"http://psi.iba-net.org/person/aut-168"
+]
+[aut-298 : person = "窺基" /zh
+@"http://psi.iba-net.org/person/aut-298"
+@"http://psi.iba-net.org/person/naut-151"
+]
 [naut-16 : person = "竺佛念" /zh
 @"http://psi.iba-net.org/person/naut-16"
 @"http://psi.iba-net.org/person/aut-2"
 ]
+[aut-122 : person = "竺法蘭" /zh
+@"http://psi.iba-net.org/person/aut-122"
+]
+[aut-16 : person = "竺法護" /zh
+@"http://psi.iba-net.org/person/aut-16"
+@"http://psi.iba-net.org/person/naut-20"
+@"http://psi.iba-net.org/person/aut-66"
+]
 [naut-275 : person = "竺道生" /zh
 @"http://psi.iba-net.org/person/naut-275"
+]
+[aut-85 : person = "竺難提" /zh
+@"http://psi.iba-net.org/person/aut-85"
+]
+[aut-204 : person = "笈多" /zh
+@"http://psi.iba-net.org/person/aut-204"
+@"http://psi.iba-net.org/person/aut-57"
 ]
 [naut-1053 : person = "等純" /zh
 @"http://psi.iba-net.org/person/naut-1053"
 ]
 [naut-25 : person = "筏提摩多" /zh
 @"http://psi.iba-net.org/person/naut-25"
+]
+[aut-296 : person = "管主八" /zh
+@"http://psi.iba-net.org/person/aut-296"
 ]
 [naut-1150 : person = "紀蔭" /zh
 @"http://psi.iba-net.org/person/naut-1150"
@@ -2737,6 +3896,12 @@
 ]
 [naut-229 : person = "經" /zh
 @"http://psi.iba-net.org/person/naut-229"
+]
+[aut-539 : person = "經尋" /zh
+@"http://psi.iba-net.org/person/aut-539"
+]
+[aut-46 : person = "維祇難" /zh
+@"http://psi.iba-net.org/person/aut-46"
 ]
 [naut-433 : person = "維蠲" /zh
 @"http://psi.iba-net.org/person/naut-433"
@@ -2779,13 +3944,26 @@
 @"http://psi.iba-net.org/person/naut-473"
 @"http://psi.iba-net.org/person/aut-436"
 ]
+[aut-332 : person = "義寂" /zh
+@"http://psi.iba-net.org/person/aut-332"
+@"http://psi.iba-net.org/person/naut-323"
+]
 [naut-493 : person = "義操" /zh
 @"http://psi.iba-net.org/person/naut-493"
 @"http://psi.iba-net.org/person/aut-131"
 ]
+[aut-22 : person = "義淨" /zh
+@"http://psi.iba-net.org/person/aut-22"
+@"http://psi.iba-net.org/person/naut-11"
+@"http://psi.iba-net.org/person/aut-198"
+]
 [naut-466 : person = "義湘" /zh
 @"http://psi.iba-net.org/person/naut-466"
 @"http://psi.iba-net.org/person/aut-343"
+]
+[aut-514 : person = "義眞" /zh
+@"http://psi.iba-net.org/person/aut-514"
+@"http://psi.iba-net.org/person/naut-434"
 ]
 [naut-1036 : person = "義遠" /zh
 @"http://psi.iba-net.org/person/naut-1036"
@@ -2802,11 +3980,44 @@
 [naut-234 : person = "翁春" /zh
 @"http://psi.iba-net.org/person/naut-234"
 ]
+[aut-54 : person = "翔公" /zh
+@"http://psi.iba-net.org/person/aut-54"
+]
+[aut-180 : person = "翻經院阿闍梨[不空]" /zh
+@"http://psi.iba-net.org/person/aut-180"
+]
+[aut-158 : person = "耶舍崛多" /zh
+@"http://psi.iba-net.org/person/aut-158"
+]
+[aut-27 : person = "聖勇" /zh
+@"http://psi.iba-net.org/person/aut-27"
+]
+[aut-30 : person = "聖堅" /zh
+@"http://psi.iba-net.org/person/aut-30"
+]
+[aut-260 : person = "聖天" /zh
+@"http://psi.iba-net.org/person/aut-260"
+]
+[aut-490 : person = "聖守" /zh
+@"http://psi.iba-net.org/person/aut-490"
+]
+[aut-589 : person = "聖尊" /zh
+@"http://psi.iba-net.org/person/aut-589"
+]
 [naut-153 : person = "聖德太子" /zh
 @"http://psi.iba-net.org/person/naut-153"
 ]
 [naut-371 : person = "聖法" /zh
 @"http://psi.iba-net.org/person/naut-371"
+]
+[aut-563 : person = "聖覺" /zh
+@"http://psi.iba-net.org/person/aut-563"
+]
+[aut-503 : person = "聖詮" /zh
+@"http://psi.iba-net.org/person/aut-503"
+]
+[aut-489 : person = "聞證" /zh
+@"http://psi.iba-net.org/person/aut-489"
 ]
 [naut-286 : person = "聞達" /zh
 @"http://psi.iba-net.org/person/naut-286"
@@ -2825,6 +4036,9 @@
 ]
 [naut-989 : person = "胤丘" /zh
 @"http://psi.iba-net.org/person/naut-989"
+]
+[aut-289 : person = "自在" /zh
+@"http://psi.iba-net.org/person/aut-289"
 ]
 [naut-848 : person = "自悟" /zh
 @"http://psi.iba-net.org/person/naut-848"
@@ -2865,11 +4079,40 @@
 [naut-321 : person = "與咸(入疏箋經加註釋疏)" /zh
 @"http://psi.iba-net.org/person/naut-321"
 ]
+[aut-540 : person = "興然" /zh
+@"http://psi.iba-net.org/person/aut-540"
+]
 [naut-1047 : person = "興燈" /zh
 @"http://psi.iba-net.org/person/naut-1047"
 ]
+[aut-556 : person = "興雅" /zh
+@"http://psi.iba-net.org/person/aut-556"
+]
+[aut-230 : person = "舍利子" /zh
+@"http://psi.iba-net.org/person/aut-230"
+]
+[aut-141 : person = "般刺蜜帝" /zh
+@"http://psi.iba-net.org/person/aut-141"
+]
+[aut-26 : person = "般若" /zh
+@"http://psi.iba-net.org/person/aut-26"
+@"http://psi.iba-net.org/person/naut-5"
+@"http://psi.iba-net.org/person/aut-63"
+]
+[aut-176 : person = "般若力" /zh
+@"http://psi.iba-net.org/person/aut-176"
+]
+[aut-175 : person = "般若惹羯羅" /zh
+@"http://psi.iba-net.org/person/aut-175"
+]
 [naut-35 : person = "般若斫羯囉" /zh
 @"http://psi.iba-net.org/person/naut-35"
+]
+[aut-171 : person = "般若斫羯羅" /zh
+@"http://psi.iba-net.org/person/aut-171"
+]
+[aut-90 : person = "般若流支" /zh
+@"http://psi.iba-net.org/person/aut-90"
 ]
 [naut-508 : person = "良信" /zh
 @"http://psi.iba-net.org/person/naut-508"
@@ -2880,17 +4123,54 @@
 [naut-986 : person = "良彥" /zh
 @"http://psi.iba-net.org/person/naut-986"
 ]
+[aut-447 : person = "良忠" /zh
+@"http://psi.iba-net.org/person/aut-447"
+]
+[aut-624 : person = "良慶" /zh
+@"http://psi.iba-net.org/person/aut-624"
+]
 [naut-1009 : person = "良玓" /zh
 @"http://psi.iba-net.org/person/naut-1009"
+]
+[aut-530 : person = "良祐" /zh
+@"http://psi.iba-net.org/person/aut-530"
+]
+[aut-628 : person = "良秀" /zh
+@"http://psi.iba-net.org/person/aut-628"
+]
+[aut-473 : person = "良算" /zh
+@"http://psi.iba-net.org/person/aut-473"
+]
+[aut-304 : person = "良賁" /zh
+@"http://psi.iba-net.org/person/aut-304"
+@"http://psi.iba-net.org/person/naut-254"
+]
+[aut-494 : person = "良遍" /zh
+@"http://psi.iba-net.org/person/aut-494"
 ]
 [naut-559 : person = "芳慧" /zh
 @"http://psi.iba-net.org/person/naut-559"
 ]
+[aut-123 : person = "若羅嚴" /zh
+@"http://psi.iba-net.org/person/aut-123"
+]
 [naut-763 : person = "若舟" /zh
 @"http://psi.iba-net.org/person/naut-763"
 ]
+[aut-146 : person = "若那" /zh
+@"http://psi.iba-net.org/person/aut-146"
+]
 [naut-56 : person = "若那譯" /zh
 @"http://psi.iba-net.org/person/naut-56"
+]
+[aut-97 : person = "若那跋陀羅" /zh
+@"http://psi.iba-net.org/person/aut-97"
+]
+[aut-511 : person = "英心" /zh
+@"http://psi.iba-net.org/person/aut-511"
+]
+[aut-467 : person = "英憲" /zh
+@"http://psi.iba-net.org/person/aut-467"
 ]
 [naut-540 : person = "莊廣還輯" /zh
 @"http://psi.iba-net.org/person/naut-540"
@@ -2898,8 +4178,26 @@
 [naut-38 : person = "菩提[口*栗]使" /zh
 @"http://psi.iba-net.org/person/naut-38"
 ]
+[aut-163 : person = "菩提仙" /zh
+@"http://psi.iba-net.org/person/aut-163"
+]
+[aut-58 : person = "菩提流志" /zh
+@"http://psi.iba-net.org/person/aut-58"
+@"http://psi.iba-net.org/person/aut-162"
+@"http://psi.iba-net.org/person/naut-2"
+]
+[aut-55 : person = "菩提流支" /zh
+@"http://psi.iba-net.org/person/aut-55"
+@"http://psi.iba-net.org/person/naut-28"
+]
+[aut-124 : person = "菩提燈" /zh
+@"http://psi.iba-net.org/person/aut-124"
+]
 [naut-36 : person = "菩提留支" /zh
 @"http://psi.iba-net.org/person/naut-36"
+]
+[aut-234 : person = "菩提耶舍" /zh
+@"http://psi.iba-net.org/person/aut-234"
 ]
 [naut-585 : person = "菩提達磨" /zh
 @"http://psi.iba-net.org/person/naut-585"
@@ -2914,8 +4212,30 @@
 [naut-456 : person = "蒙潤" /zh
 @"http://psi.iba-net.org/person/naut-456"
 ]
+[aut-515 : person = "蓮剛" /zh
+@"http://psi.iba-net.org/person/aut-515"
+]
+[aut-610 : person = "蓮惠" /zh
+@"http://psi.iba-net.org/person/aut-610"
+]
+[aut-290 : person = "蓮華戒" /zh
+@"http://psi.iba-net.org/person/aut-290"
+]
 [naut-334 : person = "蕅益" /zh
 @"http://psi.iba-net.org/person/naut-334"
+]
+[aut-433 : person = "藏俊" /zh
+@"http://psi.iba-net.org/person/aut-433"
+]
+[aut-632 : person = "藏川" /zh
+@"http://psi.iba-net.org/person/aut-632"
+@"http://psi.iba-net.org/person/naut-12"
+]
+[aut-470 : person = "藏海" /zh
+@"http://psi.iba-net.org/person/aut-470"
+]
+[aut-157 : person = "蘇嚩羅" /zh
+@"http://psi.iba-net.org/person/aut-157"
 ]
 [naut-420 : person = "處元" /zh
 @"http://psi.iba-net.org/person/naut-420"
@@ -2934,6 +4254,9 @@
 ]
 [naut-741 : person = "行佑" /zh
 @"http://psi.iba-net.org/person/naut-741"
+]
+[aut-611 : person = "行宴" /zh
+@"http://psi.iba-net.org/person/aut-611"
 ]
 [naut-778 : person = "行彌" /zh
 @"http://psi.iba-net.org/person/naut-778"
@@ -2996,11 +4319,33 @@
 [naut-472 : person = "見登之" /zh
 @"http://psi.iba-net.org/person/naut-472"
 ]
+[aut-228 : person = "親光" /zh
+@"http://psi.iba-net.org/person/aut-228"
+]
+[aut-498 : person = "親圓" /zh
+@"http://psi.iba-net.org/person/aut-498"
+]
+[aut-567 : person = "親鸞" /zh
+@"http://psi.iba-net.org/person/aut-567"
+@"http://psi.iba-net.org/person/aut-573"
+]
+[aut-534 : person = "覺千" /zh
+@"http://psi.iba-net.org/person/aut-534"
+]
+[aut-549 : person = "覺印" /zh
+@"http://psi.iba-net.org/person/aut-549"
+]
+[aut-278 : person = "覺吉祥智" /zh
+@"http://psi.iba-net.org/person/aut-278"
+]
 [naut-821 : person = "覺圓" /zh
 @"http://psi.iba-net.org/person/naut-821"
 ]
 [naut-757 : person = "覺孫" /zh
 @"http://psi.iba-net.org/person/naut-757"
+]
+[aut-379 : person = "覺岸" /zh
+@"http://psi.iba-net.org/person/aut-379"
 ]
 [naut-1102 : person = "覺岸(編集再治)" /zh
 @"http://psi.iba-net.org/person/naut-1102"
@@ -3020,11 +4365,32 @@
 [naut-847 : person = "覺此" /zh
 @"http://psi.iba-net.org/person/naut-847"
 ]
+[aut-633 : person = "覺源" /zh
+@"http://psi.iba-net.org/person/aut-633"
+]
+[aut-509 : person = "覺盛" /zh
+@"http://psi.iba-net.org/person/aut-509"
+]
+[aut-617 : person = "覺禪" /zh
+@"http://psi.iba-net.org/person/aut-617"
+]
 [naut-204 : person = "覺苑" /zh
 @"http://psi.iba-net.org/person/naut-204"
 ]
+[aut-390 : person = "覺訓" /zh
+@"http://psi.iba-net.org/person/aut-390"
+]
+[aut-192 : person = "覺賢" /zh
+@"http://psi.iba-net.org/person/aut-192"
+]
+[aut-524 : person = "覺超" /zh
+@"http://psi.iba-net.org/person/aut-524"
+]
 [naut-215 : person = "覺連" /zh
 @"http://psi.iba-net.org/person/naut-215"
+]
+[aut-439 : person = "覺鑁" /zh
+@"http://psi.iba-net.org/person/aut-439"
 ]
 [naut-582 : person = "觀如" /zh
 @"http://psi.iba-net.org/person/naut-582"
@@ -3032,8 +4398,17 @@
 [naut-88 : person = "觀復" /zh
 @"http://psi.iba-net.org/person/naut-88"
 ]
+[aut-117 : person = "觀無畏" /zh
+@"http://psi.iba-net.org/person/aut-117"
+]
 [naut-22 : person = "觀無畏尊者集" /zh
 @"http://psi.iba-net.org/person/naut-22"
+]
+[aut-478 : person = "觀理" /zh
+@"http://psi.iba-net.org/person/aut-478"
+]
+[aut-638 : person = "觀祐" /zh
+@"http://psi.iba-net.org/person/aut-638"
 ]
 [naut-122 : person = "觀衡" /zh
 @"http://psi.iba-net.org/person/naut-122"
@@ -3045,8 +4420,17 @@
 @"http://psi.iba-net.org/person/naut-42"
 @"http://psi.iba-net.org/person/aut-159"
 ]
+[aut-576 : person = "託何" /zh
+@"http://psi.iba-net.org/person/aut-576"
+]
 [naut-1074 : person = "許元釗" /zh
 @"http://psi.iba-net.org/person/naut-1074"
+]
+[aut-282 : person = "訶梨跋摩" /zh
+@"http://psi.iba-net.org/person/aut-282"
+]
+[aut-347 : person = "諦觀" /zh
+@"http://psi.iba-net.org/person/aut-347"
 ]
 [naut-134 : person = "諦閑" /zh
 @"http://psi.iba-net.org/person/naut-134"
@@ -3066,8 +4450,27 @@
 [naut-264 : person = "謝觀光" /zh
 @"http://psi.iba-net.org/person/naut-264"
 ]
+[aut-96 : person = "謝靈運" /zh
+@"http://psi.iba-net.org/person/aut-96"
+]
+[aut-446 : person = "證忍" /zh
+@"http://psi.iba-net.org/person/aut-446"
+]
+[aut-517 : person = "證眞" /zh
+@"http://psi.iba-net.org/person/aut-517"
+]
+[aut-565 : person = "證空" /zh
+@"http://psi.iba-net.org/person/aut-565"
+]
 [naut-1003 : person = "護位" /zh
 @"http://psi.iba-net.org/person/naut-1003"
+]
+[aut-492 : person = "護命" /zh
+@"http://psi.iba-net.org/person/aut-492"
+]
+[aut-266 : person = "護法" /zh
+@"http://psi.iba-net.org/person/aut-266"
+@"http://psi.iba-net.org/person/aut-261"
 ]
 [naut-1080 : person = "讀徹" /zh
 @"http://psi.iba-net.org/person/naut-1080"
@@ -3075,8 +4478,42 @@
 [naut-338 : person = "讀體" /zh
 @"http://psi.iba-net.org/person/naut-338"
 ]
+[aut-101 : person = "豆那掘多" /zh
+@"http://psi.iba-net.org/person/aut-101"
+]
+[aut-507 : person = "豐安" /zh
+@"http://psi.iba-net.org/person/aut-507"
+]
+[aut-440 : person = "貞慶" /zh
+@"http://psi.iba-net.org/person/aut-440"
+]
+[aut-488 : person = "貞海" /zh
+@"http://psi.iba-net.org/person/aut-488"
+]
+[aut-519 : person = "貞舜" /zh
+@"http://psi.iba-net.org/person/aut-519"
+]
+[aut-376 : person = "費長房" /zh
+@"http://psi.iba-net.org/person/aut-376"
+]
+[aut-622 : person = "賢寶" /zh
+@"http://psi.iba-net.org/person/aut-622"
+]
+[aut-483 : person = "賴寶" /zh
+@"http://psi.iba-net.org/person/aut-483"
+]
+[aut-454 : person = "賴尊" /zh
+@"http://psi.iba-net.org/person/aut-454"
+]
+[aut-451 : person = "賴瑜" /zh
+@"http://psi.iba-net.org/person/aut-451"
+]
 [naut-669 : person = "賾藏主" /zh
 @"http://psi.iba-net.org/person/naut-669"
+]
+[aut-388 : person = "贊寧" /zh
+@"http://psi.iba-net.org/person/aut-388"
+@"http://psi.iba-net.org/person/naut-1179"
 ]
 [naut-940 : person = "起宗" /zh
 @"http://psi.iba-net.org/person/naut-940"
@@ -3099,15 +4536,37 @@
 [naut-488 : person = "跋折羅菩提" /zh
 @"http://psi.iba-net.org/person/naut-488"
 ]
+[aut-182 : person = "跋馱木阿" /zh
+@"http://psi.iba-net.org/person/aut-182"
+]
 [naut-41 : person = "輸婆迦羅" /zh
 @"http://psi.iba-net.org/person/naut-41"
+]
+[aut-128 : person = "輸波迦羅" /zh
+@"http://psi.iba-net.org/person/aut-128"
 ]
 [naut-428 : person = "辯才" /zh
 @"http://psi.iba-net.org/person/naut-428"
 ]
+[aut-237 : person = "迦多衍尼子" /zh
+@"http://psi.iba-net.org/person/aut-237"
+]
 [naut-530 : person = "迦才" /zh
 @"http://psi.iba-net.org/person/naut-530"
 @"http://psi.iba-net.org/person/aut-357"
+]
+[aut-235 : person = "迦旃延子" /zh
+@"http://psi.iba-net.org/person/aut-235"
+@"http://psi.iba-net.org/person/aut-240"
+]
+[aut-413 : person = "迦毗羅" /zh
+@"http://psi.iba-net.org/person/aut-413"
+]
+[aut-37 : person = "迦留陀伽" /zh
+@"http://psi.iba-net.org/person/aut-37"
+]
+[aut-121 : person = "迦葉摩騰" /zh
+@"http://psi.iba-net.org/person/aut-121"
 ]
 [naut-610 : person = "退隱" /zh
 @"http://psi.iba-net.org/person/naut-610"
@@ -3139,11 +4598,24 @@
 [naut-501 : person = "造玄增" /zh
 @"http://psi.iba-net.org/person/naut-501"
 ]
+[aut-100 : person = "逹摩笈多" /zh
+@"http://psi.iba-net.org/person/aut-100"
+]
+[aut-225 : person = "逹磨菩提" /zh
+@"http://psi.iba-net.org/person/aut-225"
+]
+[aut-337 : person = "遁倫" /zh
+@"http://psi.iba-net.org/person/aut-337"
+@"http://psi.iba-net.org/person/naut-379"
+]
 [naut-397 : person = "遁麟" /zh
 @"http://psi.iba-net.org/person/naut-397"
 ]
 [naut-166 : person = "遇榮" /zh
 @"http://psi.iba-net.org/person/naut-166"
+]
+[aut-559 : person = "運敞" /zh
+@"http://psi.iba-net.org/person/aut-559"
 ]
 [naut-484 : person = "遍智" /zh
 @"http://psi.iba-net.org/person/naut-484"
@@ -3153,6 +4625,12 @@
 ]
 [naut-776 : person = "道[冰-水+中]" /zh
 @"http://psi.iba-net.org/person/naut-776"
+]
+[aut-355 : person = "道¬" /zh
+@"http://psi.iba-net.org/person/aut-355"
+]
+[aut-406 : person = "道世" /zh
+@"http://psi.iba-net.org/person/aut-406"
 ]
 [naut-855 : person = "道亨" /zh
 @"http://psi.iba-net.org/person/naut-855"
@@ -3172,14 +4650,24 @@
 [naut-685 : person = "道務" /zh
 @"http://psi.iba-net.org/person/naut-685"
 ]
+[aut-394 : person = "道原" /zh
+@"http://psi.iba-net.org/person/aut-394"
+]
 [naut-977 : person = "道哲" /zh
 @"http://psi.iba-net.org/person/naut-977"
 ]
 [naut-283 : person = "道威入" /zh
 @"http://psi.iba-net.org/person/naut-283"
 ]
+[aut-297 : person = "道安" /zh
+@"http://psi.iba-net.org/person/aut-297"
+]
 [naut-609 : person = "道安注" /zh
 @"http://psi.iba-net.org/person/naut-609"
+]
+[aut-328 : person = "道宣" /zh
+@"http://psi.iba-net.org/person/aut-328"
+@"http://psi.iba-net.org/person/naut-340"
 ]
 [naut-335 : person = "道宣刪" /zh
 @"http://psi.iba-net.org/person/naut-335"
@@ -3201,6 +4689,9 @@
 ]
 [naut-668 : person = "道忠" /zh
 @"http://psi.iba-net.org/person/naut-668"
+]
+[aut-597 : person = "道掖" /zh
+@"http://psi.iba-net.org/person/aut-597"
 ]
 [naut-116 : person = "道昉參訂" /zh
 @"http://psi.iba-net.org/person/naut-116"
@@ -3229,6 +4720,9 @@
 [naut-358 : person = "道標" /zh
 @"http://psi.iba-net.org/person/naut-358"
 ]
+[aut-590 : person = "道氤" /zh
+@"http://psi.iba-net.org/person/aut-590"
+]
 [naut-647 : person = "道泰" /zh
 @"http://psi.iba-net.org/person/naut-647"
 ]
@@ -3241,8 +4735,14 @@
 [naut-1042 : person = "道璞" /zh
 @"http://psi.iba-net.org/person/naut-1042"
 ]
+[aut-42 : person = "道略" /zh
+@"http://psi.iba-net.org/person/aut-42"
+]
 [naut-1041 : person = "道盛" /zh
 @"http://psi.iba-net.org/person/naut-1041"
+]
+[aut-481 : person = "道範" /zh
+@"http://psi.iba-net.org/person/aut-481"
 ]
 [naut-529 : person = "道綽" /zh
 @"http://psi.iba-net.org/person/naut-529"
@@ -3268,6 +4768,10 @@
 ]
 [naut-1115 : person = "道詵" /zh
 @"http://psi.iba-net.org/person/naut-1115"
+]
+[aut-407 : person = "道誠" /zh
+@"http://psi.iba-net.org/person/aut-407"
+@"http://psi.iba-net.org/person/naut-1094"
 ]
 [naut-718 : person = "道謙" /zh
 @"http://psi.iba-net.org/person/naut-718"
@@ -3299,6 +4803,18 @@
 [naut-548 : person = "道霑" /zh
 @"http://psi.iba-net.org/person/naut-548"
 ]
+[aut-86 : person = "道龔" /zh
+@"http://psi.iba-net.org/person/aut-86"
+]
+[aut-140 : person = "達喇嘛薩穆丹達爾吉" /zh
+@"http://psi.iba-net.org/person/aut-140"
+]
+[aut-107 : person = "達摩多羅" /zh
+@"http://psi.iba-net.org/person/aut-107"
+]
+[aut-10 : person = "達摩笈多" /zh
+@"http://psi.iba-net.org/person/aut-10"
+]
 [naut-197 : person = "達林參訂" /zh
 @"http://psi.iba-net.org/person/naut-197"
 ]
@@ -3316,6 +4832,13 @@
 @"http://psi.iba-net.org/person/naut-78"
 @"http://psi.iba-net.org/person/aut-351"
 ]
+[aut-102 : person = "那提" /zh
+@"http://psi.iba-net.org/person/aut-102"
+]
+[aut-246 : person = "那連提耶舍" /zh
+@"http://psi.iba-net.org/person/aut-246"
+@"http://psi.iba-net.org/person/aut-82"
+]
 [naut-672 : person = "郭凝之" /zh
 @"http://psi.iba-net.org/person/naut-672"
 ]
@@ -3331,11 +4854,26 @@
 [naut-574 : person = "鄭韋庵" /zh
 @"http://psi.iba-net.org/person/naut-574"
 ]
+[aut-164 : person = "釋智" /zh
+@"http://psi.iba-net.org/person/aut-164"
+]
+[aut-288 : person = "釋迦稱" /zh
+@"http://psi.iba-net.org/person/aut-288"
+]
+[aut-538 : person = "重譽" /zh
+@"http://psi.iba-net.org/person/aut-538"
+]
 [naut-648 : person = "重顯" /zh
 @"http://psi.iba-net.org/person/naut-648"
 ]
+[aut-181 : person = "金俱吒" /zh
+@"http://psi.iba-net.org/person/aut-181"
+]
 [naut-499 : person = "金俱吒撰集" /zh
 @"http://psi.iba-net.org/person/naut-499"
+]
+[aut-214 : person = "金剛仙" /zh
+@"http://psi.iba-net.org/person/aut-214"
 ]
 [naut-27 : person = "金剛仙菩薩造" /zh
 @"http://psi.iba-net.org/person/naut-27"
@@ -3360,11 +4898,33 @@
 [naut-409 : person = "鎭澄" /zh
 @"http://psi.iba-net.org/person/naut-409"
 ]
+[aut-527 : person = "長宴" /zh
+@"http://psi.iba-net.org/person/aut-527"
+]
+[aut-587 : person = "長惠" /zh
+@"http://psi.iba-net.org/person/aut-587"
+]
 [naut-599 : person = "開詗記" /zh
 @"http://psi.iba-net.org/person/naut-599"
 ]
 [naut-61 : person = "闍那多迦" /zh
 @"http://psi.iba-net.org/person/naut-61"
+]
+[aut-9 : person = "闍那崛多" /zh
+@"http://psi.iba-net.org/person/aut-9"
+@"http://psi.iba-net.org/person/aut-33"
+]
+[aut-111 : person = "闍那耶舍" /zh
+@"http://psi.iba-net.org/person/aut-111"
+]
+[aut-267 : person = "阿僧伽" /zh
+@"http://psi.iba-net.org/person/aut-267"
+]
+[aut-138 : person = "阿旺札什" /zh
+@"http://psi.iba-net.org/person/aut-138"
+]
+[aut-161 : person = "阿目佉" /zh
+@"http://psi.iba-net.org/person/aut-161"
 ]
 [naut-45 : person = "阿目佉譯" /zh
 @"http://psi.iba-net.org/person/naut-45"
@@ -3376,11 +4936,17 @@
 [naut-60 : person = "阿謨伽三藏譯" /zh
 @"http://psi.iba-net.org/person/naut-60"
 ]
+[aut-169 : person = "阿質達霰" /zh
+@"http://psi.iba-net.org/person/aut-169"
+]
 [naut-17 : person = "附西晉錄" /zh
 @"http://psi.iba-net.org/person/naut-17"
 ]
 [naut-524 : person = "陳熙願" /zh
 @"http://psi.iba-net.org/person/naut-524"
+]
+[aut-271 : person = "陳那" /zh
+@"http://psi.iba-net.org/person/aut-271"
 ]
 [naut-580 : person = "陶善" /zh
 @"http://psi.iba-net.org/person/naut-580"
@@ -3391,6 +4957,15 @@
 [naut-123 : person = "陸西星" /zh
 @"http://psi.iba-net.org/person/naut-123"
 ]
+[aut-575 : person = "隆寬" /zh
+@"http://psi.iba-net.org/person/aut-575"
+]
+[aut-609 : person = "隆譽" /zh
+@"http://psi.iba-net.org/person/aut-609"
+]
+[aut-642 : person = "隋天" /zh
+@"http://psi.iba-net.org/person/aut-642"
+]
 [naut-293 : person = "際慶" /zh
 @"http://psi.iba-net.org/person/naut-293"
 ]
@@ -3399,6 +4974,12 @@
 ]
 [naut-644 : person = "集雲堂" /zh
 @"http://psi.iba-net.org/person/naut-644"
+]
+[aut-619 : person = "雙珠" /zh
+@"http://psi.iba-net.org/person/aut-619"
+]
+[aut-154 : person = "難提" /zh
+@"http://psi.iba-net.org/person/aut-154"
 ]
 [naut-410 : person = "雲[山/夆]" /zh
 @"http://psi.iba-net.org/person/naut-410"
@@ -3415,6 +4996,9 @@
 [naut-1166 : person = "靈操撰" /zh
 @"http://psi.iba-net.org/person/naut-1166"
 ]
+[aut-504 : person = "靈波" /zh
+@"http://psi.iba-net.org/person/aut-504"
+]
 [naut-387 : person = "靈泰" /zh
 @"http://psi.iba-net.org/person/naut-387"
 ]
@@ -3427,9 +5011,22 @@
 [naut-62 : person = "靈辨" /zh
 @"http://psi.iba-net.org/person/naut-62"
 ]
+[aut-254 : person = "青目" /zh
+@"http://psi.iba-net.org/person/aut-254"
+]
+[aut-418 : person = "靖邁" /zh
+@"http://psi.iba-net.org/person/aut-418"
+@"http://psi.iba-net.org/person/naut-256"
+]
 [naut-64 : person = "靜居" /zh
 @"http://psi.iba-net.org/person/naut-64"
 @"http://psi.iba-net.org/person/aut-312"
+]
+[aut-528 : person = "靜然" /zh
+@"http://psi.iba-net.org/person/aut-528"
+]
+[aut-398 : person = "非濁" /zh
+@"http://psi.iba-net.org/person/aut-398"
 ]
 [naut-1173 : person = "非濁集" /zh
 @"http://psi.iba-net.org/person/naut-1173"
@@ -3437,17 +5034,51 @@
 [naut-217 : person = "韓巖" /zh
 @"http://psi.iba-net.org/person/naut-217"
 ]
+[aut-558 : person = "順繼" /zh
+@"http://psi.iba-net.org/person/aut-558"
+]
+[aut-570 : person = "顯智" /zh
+@"http://psi.iba-net.org/person/aut-570"
+]
+[aut-358 : person = "飛錫" /zh
+@"http://psi.iba-net.org/person/aut-358"
+]
+[aut-116 : person = "馬鳴" /zh
+@"http://psi.iba-net.org/person/aut-116"
+@"http://psi.iba-net.org/person/aut-34"
+@"http://psi.iba-net.org/person/aut-38"
+]
 [naut-21 : person = "馬鳴菩薩集" /zh
 @"http://psi.iba-net.org/person/naut-21"
 ]
+[aut-596 : person = "體請" /zh
+@"http://psi.iba-net.org/person/aut-596"
+]
 [naut-1155 : person = "高承埏補" /zh
 @"http://psi.iba-net.org/person/naut-1155"
+]
+[aut-460 : person = "高辧" /zh
+@"http://psi.iba-net.org/person/aut-460"
+]
+[aut-286 : person = "鬱楞伽" /zh
+@"http://psi.iba-net.org/person/aut-286"
 ]
 [naut-3 : person = "魏源" /zh
 @"http://psi.iba-net.org/person/naut-3"
 ]
 [naut-80 : person = "鮮演" /zh
 @"http://psi.iba-net.org/person/naut-80"
+]
+[aut-13 : person = "鳩摩羅什" /zh
+@"http://psi.iba-net.org/person/aut-13"
+@"http://psi.iba-net.org/person/naut-230"
+@"http://psi.iba-net.org/person/aut-39"
+]
+[aut-208 : person = "鳩摩羅佛提" /zh
+@"http://psi.iba-net.org/person/aut-208"
+]
+[aut-506 : person = "鳳潭" /zh
+@"http://psi.iba-net.org/person/aut-506"
 ]
 [naut-1052 : person = "黃大廣" /zh
 @"http://psi.iba-net.org/person/naut-1052"
@@ -3458,15 +5089,26 @@
 [naut-712 : person = "齊巳" /zh
 @"http://psi.iba-net.org/person/naut-712"
 ]
+[aut-211 : person = "龍樹" /zh
+@"http://psi.iba-net.org/person/aut-211"
+@"http://psi.iba-net.org/person/aut-276"
+@"http://psi.iba-net.org/person/aut-262"
+]
 [naut-24 : person = "龍樹菩薩造" /zh
 @"http://psi.iba-net.org/person/naut-24"
 ]
 [naut-23 : person = "龍樹菩薩集" /zh
 @"http://psi.iba-net.org/person/naut-23"
 ]
+[aut-287 : person = "龍猛" /zh
+@"http://psi.iba-net.org/person/aut-287"
+]
 [naut-242 : person = "龔穊綵" /zh
 @"http://psi.iba-net.org/person/naut-242"
 ]
 [naut-55 : person = "龜玆國" /zh
 @"http://psi.iba-net.org/person/naut-55"
+]
+[aut-142 : person = "𧦪弘" /zh
+@"http://psi.iba-net.org/person/aut-142"
 ]

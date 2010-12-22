@@ -31884,1197 +31884,3577 @@ is-embodied-in(ehnx_0791 : exp, mhnx_0791 : man)
 {mhnx_0791, startpage,  [[X46, p795]]} / new
 {ehnx_0791, canwwwid,  [[Z0740395]]}
 div(ehnx_0791 : exp, ndiv-26 : div)
-[naut-883 : resp = "" /zh hnx]
-[naut-655 : resp = "子淳" /zh hnx]
-[naut-386 : resp = "如理" /zh hnx]
-[naut-710 : resp = "嗣端" /zh hnx]
-[naut-325 : resp = "知周" /zh hnx]
-[naut-337 : resp = "智旭會補" /zh hnx]
-[naut-931 : resp = "可興" /zh hnx]
-[naut-165 : resp = "普觀" /zh hnx]
-[naut-30 : resp = "善無畏" /zh hnx]
-[naut-441 : resp = "如吉" /zh hnx]
-[naut-36 : resp = "菩提留支" /zh hnx]
-[naut-908 : resp = "具德" /zh hnx]
-[naut-78 : resp = "遵式" /zh hnx]
-[naut-50 : resp = "法天" /zh hnx]
-[naut-348 : resp = "法礪" /zh hnx]
-[naut-980 : resp = "祖銘" /zh hnx]
-[naut-819 : resp = "宗會" /zh hnx]
-[naut-695 : resp = "有宗" /zh hnx]
-[naut-408 : resp = "道衡" /zh hnx]
-[naut-282 : resp = "智雲" /zh hnx]
-[naut-678 : resp = "慧南" /zh hnx]
-[naut-1169 : resp = "段成式" /zh hnx]
-[naut-448 : resp = "義銛" /zh hnx]
-[naut-898 : resp = "應儼" /zh hnx]
-[naut-657 : resp = "行秀" /zh hnx]
-[naut-1126 : resp = "普濟" /zh hnx]
-[naut-538 : resp = "宗本" /zh hnx]
-[naut-496 : resp = "武徹" /zh hnx]
-[naut-717 : resp = "法宏" /zh hnx]
-[naut-940 : resp = "起宗" /zh hnx]
-[naut-617 : resp = "張文憲參閱" /zh hnx]
-[naut-704 : resp = "法孜" /zh hnx]
-[naut-518 : resp = "省悟" /zh hnx]
-[naut-983 : resp = "文玹" /zh hnx]
-[naut-770 : resp = "祖誾" /zh hnx]
-[naut-519 : resp = "嗣良參訂" /zh hnx]
-[naut-564 : resp = "妙空子" /zh hnx]
-[naut-887 : resp = "淨韻" /zh hnx]
-[naut-691 : resp = "善果" /zh hnx]
-[naut-628 : resp = "性音" /zh hnx]
-[naut-498 : resp = "西天竺" /zh hnx]
-[naut-684 : resp = "介諶" /zh hnx]
-[naut-281 : resp = "智度" /zh hnx]
-[naut-1127 : resp = "淨柱" /zh hnx]
-[naut-594 : resp = "道楷" /zh hnx]
-[naut-925 : resp = "元浩" /zh hnx]
-[naut-607 : resp = "弋咸" /zh hnx]
-[naut-852 : resp = "希革" /zh hnx]
-[naut-679 : resp = "元聚" /zh hnx]
-[naut-333 : resp = "書玉" /zh hnx]
-[naut-442 : resp = "戒珠" /zh hnx]
-[naut-494 : resp = "法全" /zh hnx]
-[naut-338 : resp = "讀體" /zh hnx]
-[naut-841 : resp = "善珙" /zh hnx]
-[naut-139 : resp = "智嚴" /zh hnx]
-[naut-906 : resp = "可橖" /zh hnx]
-[naut-277 : resp = "法照" /zh hnx]
-[naut-997 : resp = "正除" /zh hnx]
-[naut-1 : resp = "日稱" /zh hnx]
-[naut-627 : resp = "如瑛" /zh hnx]
-[naut-765 : resp = "宗坦" /zh hnx]
-[naut-68 : resp = "湛然" /zh hnx]
-[naut-703 : resp = "普禮" /zh hnx]
-[naut-335 : resp = "道宣刪" /zh hnx]
-[naut-306 : resp = "實乘" /zh hnx]
-[naut-888 : resp = "清澤" /zh hnx]
-[naut-651 : resp = "本瑞直註、道霖" /zh hnx]
-[naut-815 : resp = "正一" /zh hnx]
-[naut-216 : resp = "洪蓮" /zh hnx]
-[naut-38 : resp = "菩提[口*栗]使" /zh hnx]
-[naut-638 : resp = "永盛" /zh hnx]
-[naut-706 : resp = "普覺" /zh hnx]
-[naut-811 : resp = "法光" /zh hnx]
-[naut-94 : resp = "如山" /zh hnx]
-[naut-1109 : resp = "幽貞刊纂" /zh hnx]
-[naut-142 : resp = "楊彥國" /zh hnx]
-[naut-739 : resp = "法奇" /zh hnx]
-[naut-504 : resp = "寂暹" /zh hnx]
-[naut-650 : resp = "克勤擊節" /zh hnx]
-[naut-381 : resp = "普光" /zh hnx]
-[naut-19 : resp = "施護" /zh hnx]
-[naut-41 : resp = "輸婆迦羅" /zh hnx]
-[naut-912 : resp = "壽椿" /zh hnx]
-[naut-586 : resp = "弘忍" /zh hnx]
-[naut-241 : resp = "石成金" /zh hnx]
-[naut-798 : resp = "德溢" /zh hnx]
-[naut-752 : resp = "正因" /zh hnx]
-[naut-619 : resp = "超記錄" /zh hnx]
-[naut-1138 : resp = "了貞" /zh hnx]
-[naut-173 : resp = "吉藏撰" /zh hnx]
-[naut-129 : resp = "劉道開" /zh hnx]
-[naut-793 : resp = "惟衍" /zh hnx]
-[naut-131 : resp = "正相" /zh hnx]
-[naut-438 : resp = "元悟" /zh hnx]
-[naut-270 : resp = "益證" /zh hnx]
-[naut-1002 : resp = "慧鏡" /zh hnx]
-[naut-757 : resp = "覺孫" /zh hnx]
-[naut-506 : resp = "彥起" /zh hnx]
-[naut-645 : resp = "子昇" /zh hnx]
-[naut-557 : resp = "真益願" /zh hnx]
-[naut-1049 : resp = "性朗" /zh hnx]
-[naut-1007 : resp = "復初" /zh hnx]
-[naut-675 : resp = "樓[(匕/示)*頁]" /zh hnx]
-[naut-96 : resp = "通潤" /zh hnx]
-[naut-487 : resp = "圓照" /zh hnx]
-[naut-958 : resp = "宗義" /zh hnx]
-[naut-624 : resp = "普照" /zh hnx]
-[naut-17 : resp = "附西晉錄" /zh hnx]
-[naut-287 : resp = "守倫" /zh hnx]
-[naut-950 : resp = "宗黼" /zh hnx]
-[naut-705 : resp = "普巖" /zh hnx]
-[naut-881 : resp = "從心" /zh hnx]
-[naut-1120 : resp = "李遵勗" /zh hnx]
-[naut-599 : resp = "開詗記" /zh hnx]
-[naut-1034 : resp = "智湖" /zh hnx]
-[naut-1134 : resp = "聶先" /zh hnx]
-[naut-198 : resp = "鄭澄德" /zh hnx]
-[naut-515 : resp = "守一述、行枝" /zh hnx]
-[naut-1128 : resp = "超永" /zh hnx]
-[naut-620 : resp = "智昭" /zh hnx]
-[naut-981 : resp = "梵琦" /zh hnx]
-[naut-933 : resp = "祖運" /zh hnx]
-[naut-537 : resp = "道衍" /zh hnx]
-[naut-152 : resp = "義令記" /zh hnx]
-[naut-988 : resp = "明遠" /zh hnx]
-[naut-927 : resp = "應槐" /zh hnx]
-[naut-424 : resp = "宗翌" /zh hnx]
-[naut-465 : resp = "希迪" /zh hnx]
-[naut-1069 : resp = "惟能" /zh hnx]
-[naut-1050 : resp = "謝大材" /zh hnx]
-[naut-1130 : resp = "文琇" /zh hnx]
-[naut-179 : resp = "彭際清" /zh hnx]
-[naut-242 : resp = "龔穊綵" /zh hnx]
-[naut-283 : resp = "道威入" /zh hnx]
-[naut-401 : resp = "玄奘" /zh hnx]
-[naut-316 : resp = "守遂" /zh hnx]
-[naut-595 : resp = "覺慈編" /zh hnx]
-[naut-1189 : resp = "慧影" /zh hnx]
-[naut-443 : resp = "真覺略解、智旭" /zh hnx]
-[naut-170 : resp = "岳玄" /zh hnx]
-[naut-298 : resp = "一松講" /zh hnx]
-[naut-466 : resp = "義湘" /zh hnx]
-[naut-344 : resp = "智旭輯" /zh hnx]
-[naut-1016 : resp = "宗信" /zh hnx]
-[naut-905 : resp = "大機" /zh hnx]
-[naut-275 : resp = "竺道生" /zh hnx]
-[naut-969 : resp = "思廉" /zh hnx]
-[naut-991 : resp = "正隆" /zh hnx]
-[naut-1076 : resp = "戒度注" /zh hnx]
-[naut-614 : resp = "善卿" /zh hnx]
-[naut-641 : resp = "法應" /zh hnx]
-[naut-183 : resp = "真覺重" /zh hnx]
-[naut-900 : resp = "祖森" /zh hnx]
-[naut-1182 : resp = "趙遷" /zh hnx]
-[naut-859 : resp = "宗清" /zh hnx]
-[naut-435 : resp = "光定" /zh hnx]
-[naut-1092 : resp = "咫觀" /zh hnx]
-[naut-584 : resp = "寬量" /zh hnx]
-[naut-936 : resp = "得度" /zh hnx]
-[naut-659 : resp = "性福編集" /zh hnx]
-[naut-406 : resp = "曉月" /zh hnx]
-[naut-229 : resp = "經" /zh hnx]
-[naut-1036 : resp = "義遠" /zh hnx]
-[naut-1056 : resp = "丁元公．祁駿隹" /zh hnx]
-[naut-894 : resp = "祖定" /zh hnx]
-[naut-1051 : resp = "潘道靖" /zh hnx]
-[naut-1175 : resp = "唐臨" /zh hnx]
-[naut-397 : resp = "遁麟" /zh hnx]
-[naut-762 : resp = "慧雲" /zh hnx]
-[naut-84 : resp = "道通" /zh hnx]
-[naut-211 : resp = "道川頌並著" /zh hnx]
-[naut-196 : resp = "達默" /zh hnx]
-[naut-300 : resp = "佛閑立科、智一拾" /zh hnx]
-[naut-970 : resp = "文度" /zh hnx]
-[naut-186 : resp = "灌頂記" /zh hnx]
-[naut-255 : resp = "淨源" /zh hnx]
-[naut-188 : resp = "戒度記" /zh hnx]
-[naut-921 : resp = "文藻" /zh hnx]
-[naut-1020 : resp = "普崇" /zh hnx]
-[naut-769 : resp = "志諶" /zh hnx]
-[naut-26 : resp = "禪那崛多別譯" /zh hnx]
-[naut-919 : resp = "文闡" /zh hnx]
-[naut-6 : resp = "利言" /zh hnx]
-[naut-324 : resp = "勝莊" /zh hnx]
-[naut-736 : resp = "元愷" /zh hnx]
-[naut-563 : resp = "治兆" /zh hnx]
-[naut-360 : resp = "性祗" /zh hnx]
-[naut-948 : resp = "智辯" /zh hnx]
-[naut-996 : resp = "溥震" /zh hnx]
-[naut-1055 : resp = "明凡" /zh hnx]
-[naut-168 : resp = "元奇" /zh hnx]
-[naut-102 : resp = "子璿" /zh hnx]
-[naut-1053 : resp = "等純" /zh hnx]
-[naut-1025 : resp = "法恭" /zh hnx]
-[naut-1044 : resp = "成正" /zh hnx]
-[naut-878 : resp = "希陵" /zh hnx]
-[naut-753 : resp = "法恩" /zh hnx]
-[naut-371 : resp = "聖法" /zh hnx]
-[naut-835 : resp = "正從" /zh hnx]
-[naut-771 : resp = "崇岳" /zh hnx]
-[naut-285 : resp = "張商英撰" /zh hnx]
-[naut-868 : resp = "文斌" /zh hnx]
-[naut-1185 : resp = "延一" /zh hnx]
-[naut-575 : resp = "廣貴" /zh hnx]
-[naut-172 : resp = "胡" /zh hnx]
-[naut-962 : resp = "妙淨" /zh hnx]
-[naut-5 : resp = "般若" /zh hnx]
-[naut-971 : resp = "文朗" /zh hnx]
-[naut-602 : resp = "德煇重編、大訴" /zh hnx]
-[naut-667 : resp = "一辯問、覺" /zh hnx]
-[naut-511 : resp = "惟顯" /zh hnx]
-[naut-164 : resp = "元照" /zh hnx]
-[naut-217 : resp = "韓巖" /zh hnx]
-[naut-719 : resp = "覺心" /zh hnx]
-[naut-220 : resp = "真可" /zh hnx]
-[naut-763 : resp = "若舟" /zh hnx]
-[naut-822 : resp = "如海" /zh hnx]
-[naut-901 : resp = "淨伏、(門人)" /zh hnx]
-[naut-439 : resp = "繼忠" /zh hnx]
-[naut-1060 : resp = "文智" /zh hnx]
-[naut-737 : resp = "實仁" /zh hnx]
-[naut-914 : resp = "思敬" /zh hnx]
-[naut-1012 : resp = "德初" /zh hnx]
-[naut-323 : resp = "義寂" /zh hnx]
-[naut-359 : resp = "玄惲" /zh hnx]
-[naut-681 : resp = "子和" /zh hnx]
-[naut-1077 : resp = "王子成" /zh hnx]
-[naut-1137 : resp = "際源" /zh hnx]
-[naut-1021 : resp = "法為" /zh hnx]
-[naut-228 : resp = "徐昌治" /zh hnx]
-[naut-731 : resp = "元偉" /zh hnx]
-[naut-60 : resp = "阿謨伽三藏譯" /zh hnx]
-[naut-509 : resp = "妙生" /zh hnx]
-[naut-790 : resp = "唯道" /zh hnx]
-[naut-199 : resp = "鄭澄源" /zh hnx]
-[naut-1164 : resp = "郭凝之彙編" /zh hnx]
-[naut-303 : resp = "崇俊" /zh hnx]
-[naut-347 : resp = "則安" /zh hnx]
-[naut-864 : resp = "了因" /zh hnx]
-[naut-1132 : resp = "曉瑩" /zh hnx]
-[naut-4 : resp = "員珂" /zh hnx]
-[naut-740 : resp = "守愿" /zh hnx]
-[naut-71 : resp = "慧苑" /zh hnx]
-[naut-890 : resp = "景用" /zh hnx]
-[naut-1159 : resp = "志明" /zh hnx]
-[naut-385 : resp = "道邑" /zh hnx]
-[naut-795 : resp = "可宣" /zh hnx]
-[naut-755 : resp = "可能" /zh hnx]
-[naut-984 : resp = "曇紹" /zh hnx]
-[naut-274 : resp = "何道全" /zh hnx]
-[naut-125 : resp = "廣莫直" /zh hnx]
-[naut-816 : resp = "淨嘉" /zh hnx]
-[naut-992 : resp = "善成" /zh hnx]
-[naut-423 : resp = "源清" /zh hnx]
-[naut-422 : resp = "道邃" /zh hnx]
-[naut-166 : resp = "遇榮" /zh hnx]
-[naut-1085 : resp = "受登" /zh hnx]
-[naut-295 : resp = "淨昇" /zh hnx]
-[naut-774 : resp = "德高" /zh hnx]
-[naut-688 : resp = "智本" /zh hnx]
-[naut-308 : resp = "本如述、處咸續" /zh hnx]
-[naut-1145 : resp = "朱時恩" /zh hnx]
-[naut-516 : resp = "守一" /zh hnx]
-[naut-226 : resp = "王起隆" /zh hnx]
-[naut-375 : resp = "楊文會" /zh hnx]
-[naut-159 : resp = "宗曉" /zh hnx]
-[naut-701 : resp = "普通" /zh hnx]
-[naut-23 : resp = "龍樹菩薩集" /zh hnx]
-[naut-69 : resp = "澄觀" /zh hnx]
-[naut-182 : resp = "法聰" /zh hnx]
-[naut-440 : resp = "慧觀重編" /zh hnx]
-[naut-233 : resp = "仲之屏" /zh hnx]
-[naut-99 : resp = "弘麗" /zh hnx]
-[naut-1090 : resp = "智證" /zh hnx]
-[naut-156 : resp = "灌頂" /zh hnx]
-[naut-581 : resp = "弟子節鈔" /zh hnx]
-[naut-101 : resp = "徐鍔" /zh hnx]
-[naut-698 : resp = "慧開" /zh hnx]
-[naut-380 : resp = "從芳" /zh hnx]
-[naut-1063 : resp = "善清" /zh hnx]
-[naut-994 : resp = "正參" /zh hnx]
-[naut-365 : resp = "元曉(疏並別記)" /zh hnx]
-[naut-721 : resp = "了見、(侍者)" /zh hnx]
-[naut-1030 : resp = "文素" /zh hnx]
-[naut-909 : resp = "宗滿" /zh hnx]
-[naut-658 : resp = "本瑞直" /zh hnx]
-[naut-662 : resp = "宗杲集並著" /zh hnx]
-[naut-829 : resp = "了覺" /zh hnx]
-[naut-918 : resp = "紹宗" /zh hnx]
-[naut-149 : resp = "智圓" /zh hnx]
-[naut-1039 : resp = "德祥" /zh hnx]
-[naut-432 : resp = "廣修" /zh hnx]
-[naut-225 : resp = "圓杲" /zh hnx]
-[naut-910 : resp = "自然" /zh hnx]
-[naut-1023 : resp = "曇像" /zh hnx]
-[naut-1184 : resp = "慧祥" /zh hnx]
-[naut-585 : resp = "菩提達磨" /zh hnx]
-[naut-1173 : resp = "非濁集" /zh hnx]
-[naut-781 : resp = "元樞" /zh hnx]
-[naut-606 : resp = "惟勉" /zh hnx]
-[naut-329 : resp = "今釋" /zh hnx]
-[naut-803 : resp = "如阜" /zh hnx]
-[naut-794 : resp = "妙源" /zh hnx]
-[naut-400 : resp = "文軌" /zh hnx]
-[naut-354 : resp = "景霄纂" /zh hnx]
-[naut-33 : resp = "尸羅達摩" /zh hnx]
-[naut-985 : resp = "景瓛" /zh hnx]
-[naut-1156 : resp = "通旭" /zh hnx]
-[naut-315 : resp = "可度重訂" /zh hnx]
-[naut-272 : resp = "敬止" /zh hnx]
-[naut-48 : resp = "沙囉巴" /zh hnx]
-[naut-844 : resp = "銳彰" /zh hnx]
-[naut-565 : resp = "戒香" /zh hnx]
-[naut-1150 : resp = "紀蔭" /zh hnx]
-[naut-1068 : resp = "道傑" /zh hnx]
-[naut-476 : resp = "善熹" /zh hnx]
-[naut-507 : resp = "慧光" /zh hnx]
-[naut-207 : resp = "弘贊" /zh hnx]
-[naut-967 : resp = "普莊" /zh hnx]
-[naut-27 : resp = "金剛仙菩薩造" /zh hnx]
-[naut-857 : resp = "修義" /zh hnx]
-[naut-1116 : resp = "王古輯" /zh hnx]
-[naut-964 : resp = "文暐" /zh hnx]
-[naut-374 : resp = "志福" /zh hnx]
-[naut-845 : resp = "心寧" /zh hnx]
-[naut-452 : resp = "自慶" /zh hnx]
-[naut-562 : resp = "常攝" /zh hnx]
-[naut-1061 : resp = "師皎" /zh hnx]
-[naut-31 : resp = "一行" /zh hnx]
-[naut-150 : resp = "楊起元評" /zh hnx]
-[naut-1005 : resp = "宗謐" /zh hnx]
-[naut-492 : resp = "憬瑟" /zh hnx]
-[naut-301 : resp = "佛閑立科、智一" /zh hnx]
-[naut-932 : resp = "文康" /zh hnx]
-[naut-364 : resp = "曇延" /zh hnx]
-[naut-750 : resp = "慧行" /zh hnx]
-[naut-512 : resp = "俊芿" /zh hnx]
-[naut-580 : resp = "陶善" /zh hnx]
-[naut-523 : resp = "儀潤" /zh hnx]
-[naut-1149 : resp = "大壑" /zh hnx]
-[naut-952 : resp = "宗[一/旦]" /zh hnx]
-[naut-35 : resp = "般若斫羯囉" /zh hnx]
-[naut-517 : resp = "妙蓮" /zh hnx]
-[naut-527 : resp = "周思仁" /zh hnx]
-[naut-777 : resp = "智沂" /zh hnx]
-[naut-1028 : resp = "師儼" /zh hnx]
-[naut-1102 : resp = "覺岸(編集再治)" /zh hnx]
-[naut-451 : resp = "普容" /zh hnx]
-[naut-213 : resp = "徐行善" /zh hnx]
-[naut-378 : resp = "均正" /zh hnx]
-[naut-261 : resp = "道楷述、懷深" /zh hnx]
-[naut-821 : resp = "覺圓" /zh hnx]
-[naut-832 : resp = "至慧" /zh hnx]
-[naut-633 : resp = "錢伊庵編" /zh hnx]
-[naut-738 : resp = "宗文" /zh hnx]
-[naut-57 : resp = "阿謨伽" /zh hnx]
-[naut-616 : resp = "張文嘉" /zh hnx]
-[naut-1086 : resp = "夏道人" /zh hnx]
-[naut-302 : resp = "智周" /zh hnx]
-[naut-646 : resp = "如祐錄" /zh hnx]
-[naut-431 : resp = "最澄" /zh hnx]
-[naut-990 : resp = "文晟" /zh hnx]
-[naut-362 : resp = "曇鸞" /zh hnx]
-[naut-65 : resp = "靈祐" /zh hnx]
-[naut-373 : resp = "法悟[束*力]" /zh hnx]
-[naut-723 : resp = "德溥" /zh hnx]
-[naut-729 : resp = "淨志" /zh hnx]
-[naut-796 : resp = "無隱" /zh hnx]
-[naut-410 : resp = "雲[山/夆]" /zh hnx]
-[naut-768 : resp = "智瑾" /zh hnx]
-[naut-838 : resp = "慈證" /zh hnx]
-[naut-510 : resp = "道詢集" /zh hnx]
-[naut-0 : resp = "松本文三郎" /zh hnx]
-[naut-112 : resp = "惟則" /zh hnx]
-[naut-418 : resp = "梁肅" /zh hnx]
-[naut-671 : resp = "圓信" /zh hnx]
-[naut-230 : resp = "鳩摩羅什" /zh hnx]
-[naut-545 : resp = "受教" /zh hnx]
-[naut-677 : resp = "楚圓" /zh hnx]
-[naut-1096 : resp = "寶成" /zh hnx]
-[naut-884 : resp = "持正" /zh hnx]
-[naut-1171 : resp = "懷信" /zh hnx]
-[naut-699 : resp = "德秀" /zh hnx]
-[naut-824 : resp = "惟一" /zh hnx]
-[naut-600 : resp = "彥琪" /zh hnx]
-[naut-903 : resp = "居簡" /zh hnx]
-[naut-372 : resp = "法敏" /zh hnx]
-[naut-712 : resp = "齊巳" /zh hnx]
-[naut-133 : resp = "行策" /zh hnx]
-[naut-503 : resp = "施堯挺" /zh hnx]
-[naut-513 : resp = "智瑞" /zh hnx]
-[naut-1031 : resp = "妙宗" /zh hnx]
-[naut-1027 : resp = "淨覺" /zh hnx]
-[naut-911 : resp = "慧觀" /zh hnx]
-[naut-820 : resp = "智折" /zh hnx]
-[naut-1160 : resp = "德諫" /zh hnx]
-[naut-623 : resp = "胡文煥" /zh hnx]
-[naut-554 : resp = "了亮" /zh hnx]
-[naut-709 : resp = "子文" /zh hnx]
-[naut-243 : resp = "性起" /zh hnx]
-[naut-126 : resp = "乘[ㄓ/日]講" /zh hnx]
-[naut-321 : resp = "與咸(入疏箋經加註釋疏)" /zh hnx]
-[naut-632 : resp = "性統" /zh hnx]
-[naut-872 : resp = "文寶" /zh hnx]
-[naut-1106 : resp = "元敬．元復" /zh hnx]
-[naut-946 : resp = "祖灊" /zh hnx]
-[naut-392 : resp = "法寶" /zh hnx]
-[naut-670 : resp = "師明" /zh hnx]
-[naut-924 : resp = "本光" /zh hnx]
-[naut-450 : resp = "志磐" /zh hnx]
-[naut-570 : resp = "德真" /zh hnx]
-[naut-539 : resp = "實賢" /zh hnx]
-[naut-221 : resp = "廣伸" /zh hnx]
-[naut-1187 : resp = "盛熙明" /zh hnx]
-[naut-1089 : resp = "建基" /zh hnx]
-[naut-87 : resp = "宗密(於大疏略出)" /zh hnx]
-[naut-291 : resp = "無相" /zh hnx]
-[naut-532 : resp = "道鏡" /zh hnx]
-[naut-866 : resp = "元勗" /zh hnx]
-[naut-876 : resp = "機雲" /zh hnx]
-[naut-1167 : resp = "心泰" /zh hnx]
-[naut-70 : resp = "復[共/(電-雨)]" /zh hnx]
-[naut-271 : resp = "王澤泩" /zh hnx]
-[naut-534 : resp = "澄彧" /zh hnx]
-[naut-809 : resp = "以文" /zh hnx]
-[naut-88 : resp = "觀復" /zh hnx]
-[naut-530 : resp = "迦才" /zh hnx]
-[naut-240 : resp = "[這-言+亦]刪鷲" /zh hnx]
-[naut-235 : resp = "王錫琯" /zh hnx]
-[naut-369 : resp = "法藏造" /zh hnx]
-[naut-711 : resp = "守詮" /zh hnx]
-[naut-404 : resp = "惠達" /zh hnx]
-[naut-561 : resp = "覺明菩薩說" /zh hnx]
-[naut-587 : resp = "北天竺" /zh hnx]
-[naut-979 : resp = "曇噩" /zh hnx]
-[naut-111 : resp = "圓澄" /zh hnx]
-[naut-115 : resp = "智旭" /zh hnx]
-[naut-1114 : resp = "了圓" /zh hnx]
-[naut-351 : resp = "懷素" /zh hnx]
-[naut-119 : resp = "凌弘憲點" /zh hnx]
-[naut-232 : resp = "徐發詮" /zh hnx]
-[naut-1180 : resp = "佐伯定胤．中野達慧共" /zh hnx]
-[naut-352 : resp = "大覺" /zh hnx]
-[naut-162 : resp = "來舟" /zh hnx]
-[naut-1070 : resp = "宗[山/乃]" /zh hnx]
-[naut-497 : resp = "神愷" /zh hnx]
-[naut-145 : resp = "慧遠" /zh hnx]
-[naut-356 : resp = "慧顯" /zh hnx]
-[naut-846 : resp = "慧恭" /zh hnx]
-[naut-1009 : resp = "良玓" /zh hnx]
-[naut-954 : resp = "惟寂" /zh hnx]
-[naut-468 : resp = "澄觀撰、宗密" /zh hnx]
-[naut-383 : resp = "廣益" /zh hnx]
-[naut-358 : resp = "道標" /zh hnx]
-[naut-234 : resp = "翁春" /zh hnx]
-[naut-529 : resp = "道綽" /zh hnx]
-[naut-831 : resp = "妙因" /zh hnx]
-[naut-713 : resp = "如本" /zh hnx]
-[naut-870 : resp = "處林" /zh hnx]
-[naut-941 : resp = "汝現" /zh hnx]
-[naut-1157 : resp = "道融" /zh hnx]
-[naut-640 : resp = "大香" /zh hnx]
-[naut-802 : resp = "似涇" /zh hnx]
-[naut-304 : resp = "法清集疏" /zh hnx]
-[naut-1188 : resp = "一然" /zh hnx]
-[naut-696 : resp = "惟珪" /zh hnx]
-[naut-842 : resp = "德修" /zh hnx]
-[naut-734 : resp = "惟實" /zh hnx]
-[naut-55 : resp = "龜茲國" /zh hnx]
-[naut-343 : resp = "道言" /zh hnx]
-[naut-1099 : resp = "本覺" /zh hnx]
-[naut-8 : resp = "失譯" /zh hnx]
-[naut-839 : resp = "宗永" /zh hnx]
-[naut-572 : resp = "程兆鸞錄" /zh hnx]
-[naut-935 : resp = "祖杲" /zh hnx]
-[naut-577 : resp = "尼量海" /zh hnx]
-[naut-1135 : resp = "黎眉" /zh hnx]
-[naut-875 : resp = "祖燈" /zh hnx]
-[naut-961 : resp = "思靜" /zh hnx]
-[naut-904 : resp = "妙心" /zh hnx]
-[naut-567 : resp = "卍蓮" /zh hnx]
-[naut-490 : resp = "潛真" /zh hnx]
-[naut-804 : resp = "似藻" /zh hnx]
-[naut-1115 : resp = "道詵" /zh hnx]
-[naut-748 : resp = "文煥" /zh hnx]
-[naut-694 : resp = "法清" /zh hnx]
-[naut-64 : resp = "靜居" /zh hnx]
-[naut-745 : resp = "法從" /zh hnx]
-[naut-1098 : resp = "宗鑑" /zh hnx]
-[naut-163 : resp = "圓測" /zh hnx]
-[naut-1074 : resp = "許元釗" /zh hnx]
-[naut-928 : resp = "海壽" /zh hnx]
-[naut-1040 : resp = "士慘" /zh hnx]
-[naut-639 : resp = "德弘編" /zh hnx]
-[naut-578 : resp = "彭際清著、弟子" /zh hnx]
-[naut-649 : resp = "克勤評唱" /zh hnx]
-[naut-1112 : resp = "士衡" /zh hnx]
-[naut-669 : resp = "賾藏主" /zh hnx]
-[naut-77 : resp = "澄觀別行疏、宗密" /zh hnx]
-[naut-305 : resp = "栖復" /zh hnx]
-[naut-415 : resp = "慧思" /zh hnx]
-[naut-388 : resp = "王肯堂" /zh hnx]
-[naut-265 : resp = "李贄" /zh hnx]
-[naut-673 : resp = "慧印校" /zh hnx]
-[naut-29 : resp = "菩提金剛" /zh hnx]
-[naut-1078 : resp = "古崑錄" /zh hnx]
-[naut-982 : resp = "祖光" /zh hnx]
-[naut-104 : resp = "思坦" /zh hnx]
-[naut-118 : resp = "錢謙益" /zh hnx]
-[naut-320 : resp = "明曠刪" /zh hnx]
-[naut-514 : resp = "妙音" /zh hnx]
-[naut-947 : resp = "清逸" /zh hnx]
-[naut-289 : resp = "一如" /zh hnx]
-[naut-138 : resp = "寶臣" /zh hnx]
-[naut-21 : resp = "馬鳴菩薩集" /zh hnx]
-[naut-897 : resp = "仁安" /zh hnx]
-[naut-708 : resp = "一見" /zh hnx]
-[naut-210 : resp = "慧能" /zh hnx]
-[naut-479 : resp = "善堅" /zh hnx]
-[naut-1176 : resp = "佐佐木憲德" /zh hnx]
-[naut-1155 : resp = "高承埏補" /zh hnx]
-[naut-693 : resp = "慶會" /zh hnx]
-[naut-473 : resp = "義天" /zh hnx]
-[naut-330 : resp = "道昉訂" /zh hnx]
-[naut-318 : resp = "真宗皇帝" /zh hnx]
-[naut-934 : resp = "志道" /zh hnx]
-[naut-391 : resp = "明昱錄" /zh hnx]
-[naut-1094 : resp = "道誠" /zh hnx]
-[naut-1058 : resp = "柳湞" /zh hnx]
-[naut-61 : resp = "闍那多迦" /zh hnx]
-[naut-848 : resp = "自悟" /zh hnx]
-[naut-1008 : resp = "廷璨" /zh hnx]
-[naut-830 : resp = "師坦" /zh hnx]
-[naut-643 : resp = "淨符" /zh hnx]
-[naut-1032 : resp = "唯敬" /zh hnx]
-[naut-1148 : resp = "曇噩撰" /zh hnx]
-[naut-327 : resp = "法銑" /zh hnx]
-[naut-540 : resp = "莊廣還輯" /zh hnx]
-[naut-1067 : resp = "宗敬" /zh hnx]
-[naut-833 : resp = "了垠" /zh hnx]
-[naut-989 : resp = "胤丘" /zh hnx]
-[naut-160 : resp = "受汰" /zh hnx]
-[naut-801 : resp = "德惟" /zh hnx]
-[naut-767 : resp = "淨球" /zh hnx]
-[naut-682 : resp = "仲介" /zh hnx]
-[naut-944 : resp = "景毅" /zh hnx]
-[naut-116 : resp = "道昉參訂" /zh hnx]
-[naut-197 : resp = "達林參訂" /zh hnx]
-[naut-896 : resp = "光玉" /zh hnx]
-[naut-863 : resp = "子昶" /zh hnx]
-[naut-202 : resp = "工布查布譯並解" /zh hnx]
-[naut-672 : resp = "郭凝之" /zh hnx]
-[naut-134 : resp = "諦閑" /zh hnx]
-[naut-886 : resp = "善遇" /zh hnx]
-[naut-100 : resp = "通理" /zh hnx]
-[naut-1018 : resp = "信悟" /zh hnx]
-[naut-286 : resp = "聞達" /zh hnx]
-[naut-551 : resp = "俞行敏" /zh hnx]
-[naut-446 : resp = "可觀" /zh hnx]
-[naut-195 : resp = "大慧" /zh hnx]
-[naut-1014 : resp = "宗法" /zh hnx]
-[naut-486 : resp = "灌頂阿闍梨" /zh hnx]
-[naut-135 : resp = "溥畹" /zh hnx]
-[naut-209 : resp = "葛[鼎*彗]提" /zh hnx]
-[naut-176 : resp = "守千" /zh hnx]
-[naut-130 : resp = "靈耀" /zh hnx]
-[naut-82 : resp = "表員" /zh hnx]
-[naut-1006 : resp = "妙門" /zh hnx]
-[naut-361 : resp = "永海" /zh hnx]
-[naut-612 : resp = "元來說、成正" /zh hnx]
-[naut-377 : resp = "碩法師" /zh hnx]
-[naut-579 : resp = "彭紹升著、弟子" /zh hnx]
-[naut-191 : resp = "傳燈鈔" /zh hnx]
-[naut-484 : resp = "遍智" /zh hnx]
-[naut-1066 : resp = "普紹" /zh hnx]
-[naut-865 : resp = "彌安" /zh hnx]
-[naut-1110 : resp = "弘璧" /zh hnx]
-[naut-1144 : resp = "如巹" /zh hnx]
-[naut-1000 : resp = "寶盈" /zh hnx]
-[naut-396 : resp = "圓暉" /zh hnx]
-[naut-120 : resp = "函[曰/正]" /zh hnx]
-[naut-663 : resp = "祖慶" /zh hnx]
-[naut-426 : resp = "可度" /zh hnx]
-[naut-412 : resp = "行舟" /zh hnx]
-[naut-1103 : resp = "幻輪" /zh hnx]
-[naut-556 : resp = "張師誠" /zh hnx]
-[naut-942 : resp = "元寶" /zh hnx]
-[naut-147 : resp = "大乘基" /zh hnx]
-[naut-1071 : resp = "祖祿" /zh hnx]
-[naut-256 : resp = "靖邁" /zh hnx]
-[naut-583 : resp = "德潤" /zh hnx]
-[naut-208 : resp = "大隱" /zh hnx]
-[naut-987 : resp = "應訢" /zh hnx]
-[naut-409 : resp = "鎮澄" /zh hnx]
-[naut-419 : resp = "道邃說乾淑" /zh hnx]
-[naut-175 : resp = "憬興" /zh hnx]
-[naut-574 : resp = "鄭韋庵" /zh hnx]
-[naut-1178 : resp = "彥琮" /zh hnx]
-[naut-597 : resp = "廣輝釋" /zh hnx]
-[naut-292 : resp = "圓澄說、明海" /zh hnx]
-[naut-789 : resp = "法洪" /zh hnx]
-[naut-1105 : resp = "明河" /zh hnx]
-[naut-414 : resp = "善漳等錄" /zh hnx]
-[naut-398 : resp = "失名者補作" /zh hnx]
-[naut-169 : resp = "太賢" /zh hnx]
-[naut-43 : resp = "失" /zh hnx]
-[naut-1064 : resp = "善隨" /zh hnx]
-[naut-955 : resp = "宗寄" /zh hnx]
-[naut-200 : resp = "了根" /zh hnx]
-[naut-1001 : resp = "至寶" /zh hnx]
-[naut-95 : resp = "元粹" /zh hnx]
-[naut-501 : resp = "造玄增" /zh hnx]
-[naut-1139 : resp = "達珍" /zh hnx]
-[naut-1046 : resp = "太泉" /zh hnx]
-[naut-206 : resp = "法崇" /zh hnx]
-[naut-205 : resp = "不可思議" /zh hnx]
-[naut-559 : resp = "芳慧" /zh hnx]
-[naut-453 : resp = "克勤" /zh hnx]
-[naut-593 : resp = "文[冰-水+中](重校編集)" /zh hnx]
-[naut-685 : resp = "道務" /zh hnx]
-[naut-40 : resp = "金剛智" /zh hnx]
-[naut-977 : resp = "道哲" /zh hnx]
-[naut-1131 : resp = "道行" /zh hnx]
-[naut-784 : resp = "師肇" /zh hnx]
-[naut-231 : resp = "偈" /zh hnx]
-[naut-648 : resp = "重顯" /zh hnx]
-[naut-683 : resp = "慧弼" /zh hnx]
-[naut-615 : resp = "大建" /zh hnx]
-[naut-254 : resp = "良賁" /zh hnx]
-[naut-664 : resp = "慧開語、宗紹" /zh hnx]
-[naut-726 : resp = "中孚" /zh hnx]
-[naut-502 : resp = "謝于教" /zh hnx]
-[naut-776 : resp = "道[冰-水+中]" /zh hnx]
-[naut-42 : resp = "解脫師子" /zh hnx]
-[naut-151 : resp = "窺基" /zh hnx]
-[naut-399 : resp = "元瑜" /zh hnx]
-[naut-259 : resp = "仲希" /zh hnx]
-[naut-39 : resp = "達磨栖那" /zh hnx]
-[naut-836 : resp = "自永" /zh hnx]
-[naut-1035 : resp = "祖日" /zh hnx]
-[naut-943 : resp = "慧朗" /zh hnx]
-[naut-1136 : resp = "通問編定、施沛" /zh hnx]
-[naut-974 : resp = "智勝" /zh hnx]
-[naut-445 : resp = "可觀述智增" /zh hnx]
-[naut-1121 : resp = "悟明" /zh hnx]
-[naut-393 : resp = "神泰" /zh hnx]
-[naut-596 : resp = "慧霞" /zh hnx]
-[naut-968 : resp = "宗遠" /zh hnx]
-[naut-1038 : resp = "清茂" /zh hnx]
-[naut-62 : resp = "靈辨" /zh hnx]
-[naut-132 : resp = "續法" /zh hnx]
-[naut-437 : resp = "德圓" /zh hnx]
-[naut-268 : resp = "通容" /zh hnx]
-[naut-1037 : resp = "德霑" /zh hnx]
-[naut-449 : resp = "宗印" /zh hnx]
-[naut-310 : resp = "[言*(上/小)]震" /zh hnx]
-[naut-273 : resp = "大顛祖師" /zh hnx]
-[naut-474 : resp = "希[廷-壬+由]註" /zh hnx]
-[naut-204 : resp = "覺苑" /zh hnx]
-[naut-528 : resp = "彭紹升" /zh hnx]
-[naut-279 : resp = "智銓" /zh hnx]
-[naut-319 : resp = "淨挺" /zh hnx]
-[naut-553 : resp = "柳子厚" /zh hnx]
-[naut-267 : resp = "諸萬里" /zh hnx]
-[naut-976 : resp = "曇頓" /zh hnx]
-[naut-140 : resp = "善月" /zh hnx]
-[naut-480 : resp = "圓覺" /zh hnx]
-[naut-469 : resp = "宗豫" /zh hnx]
-[naut-749 : resp = "淨伏" /zh hnx]
-[naut-203 : resp = "一行述" /zh hnx]
-[naut-22 : resp = "觀無畏尊者集" /zh hnx]
-[naut-772 : resp = "了悟" /zh hnx]
-[naut-635 : resp = "行海" /zh hnx]
-[naut-869 : resp = "汝均" /zh hnx]
-[naut-547 : resp = "嚴培西" /zh hnx]
-[naut-266 : resp = "洪恩" /zh hnx]
-[naut-260 : resp = "慧忠" /zh hnx]
-[naut-430 : resp = "海眼" /zh hnx]
-[naut-80 : resp = "鮮演" /zh hnx]
-[naut-345 : resp = "德基" /zh hnx]
-[naut-339 : resp = "定賓" /zh hnx]
-[naut-51 : resp = "義雲法金剛．菩提仙" /zh hnx]
-[naut-823 : resp = "妙倫" /zh hnx]
-[naut-622 : resp = "師遠" /zh hnx]
-[naut-700 : resp = "普敬" /zh hnx]
-[naut-1059 : resp = "朱嘉謨" /zh hnx]
-[naut-1104 : resp = "寶唱" /zh hnx]
-[naut-1125 : resp = "寶曇" /zh hnx]
-[naut-566 : resp = "張淵" /zh hnx]
-[naut-244 : resp = "行敏" /zh hnx]
-[naut-993 : resp = "中端" /zh hnx]
-[naut-341 : resp = "允堪" /zh hnx]
-[naut-818 : resp = "惠明" /zh hnx]
-[naut-263 : resp = "宋濂文" /zh hnx]
-[naut-828 : resp = "紹曇" /zh hnx]
-[naut-592 : resp = "文益" /zh hnx]
-[naut-1123 : resp = "自融" /zh hnx]
-[naut-105 : resp = "仁岳" /zh hnx]
-[naut-654 : resp = "從倫" /zh hnx]
-[naut-676 : resp = "于[由*頁]" /zh hnx]
-[naut-535 : resp = "王日休" /zh hnx]
-[naut-806 : resp = "文衡" /zh hnx]
-[naut-357 : resp = "戒月" /zh hnx]
-[naut-457 : resp = "性權" /zh hnx]
-[naut-957 : resp = "清歲" /zh hnx]
-[naut-582 : resp = "觀如" /zh hnx]
-[naut-76 : resp = "宗密" /zh hnx]
-[naut-411 : resp = "正誨" /zh hnx]
-[naut-106 : resp = "惟愍科可度" /zh hnx]
-[naut-460 : resp = "承遷" /zh hnx]
-[naut-1166 : resp = "靈操撰" /zh hnx]
-[naut-299 : resp = "廣和編定" /zh hnx]
-[naut-1097 : resp = "祖琇" /zh hnx]
-[naut-718 : resp = "道謙" /zh hnx]
-[naut-311 : resp = "寶亮" /zh hnx]
-[naut-882 : resp = "至柔" /zh hnx]
-[naut-194 : resp = "徐槐廷" /zh hnx]
-[naut-72 : resp = "李通玄" /zh hnx]
-[naut-873 : resp = "善靖" /zh hnx]
-[naut-1052 : resp = "黃大廣" /zh hnx]
-[naut-715 : resp = "法慧" /zh hnx]
-[naut-79 : resp = "淨源錄疏注經" /zh hnx]
-[naut-834 : resp = "妙恩" /zh hnx]
-[naut-7 : resp = "唐僧鎧" /zh hnx]
-[naut-1179 : resp = "贊寧" /zh hnx]
-[naut-759 : resp = "宗和" /zh hnx]
-[naut-1118 : resp = "胡[王*延]" /zh hnx]
-[naut-214 : resp = "宗鏡" /zh hnx]
-[naut-128 : resp = "元賢" /zh hnx]
-[naut-456 : resp = "蒙潤" /zh hnx]
-[naut-158 : resp = "從義" /zh hnx]
-[naut-67 : resp = "法藏" /zh hnx]
-[naut-744 : resp = "淨證" /zh hnx]
-[naut-1075 : resp = "本晳" /zh hnx]
-[naut-609 : resp = "道安注" /zh hnx]
-[naut-49 : resp = "善護尊者造" /zh hnx]
-[naut-53 : resp = "僧伽婆羅譯抄之" /zh hnx]
-[naut-488 : resp = "跋折羅菩提" /zh hnx]
-[naut-810 : resp = "無補" /zh hnx]
-[naut-1087 : resp = "如惺" /zh hnx]
-[naut-926 : resp = "清欲" /zh hnx]
-[naut-193 : resp = "慈航智願定本" /zh hnx]
-[naut-960 : resp = "思齊" /zh hnx]
-[naut-689 : resp = "智華" /zh hnx]
-[naut-472 : resp = "見登之" /zh hnx]
-[naut-732 : resp = "光從" /zh hnx]
-[naut-56 : resp = "若那譯" /zh hnx]
-[naut-1082 : resp = "正止" /zh hnx]
-[naut-1129 : resp = "玄極" /zh hnx]
-[naut-264 : resp = "謝觀光" /zh hnx]
-[naut-1062 : resp = "慧辯" /zh hnx]
-[naut-185 : resp = "戒度" /zh hnx]
-[naut-249 : resp = "謝承謨" /zh hnx]
-[naut-63 : resp = "吉藏" /zh hnx]
-[naut-938 : resp = "宗成" /zh hnx]
-[naut-219 : resp = "屠根" /zh hnx]
-[naut-59 : resp = "縛日羅枳惹曩" /zh hnx]
-[naut-636 : resp = "法泉繼" /zh hnx]
-[naut-290 : resp = "如愚" /zh hnx]
-[naut-58 : resp = "提雲般若" /zh hnx]
-[naut-861 : resp = "宗應" /zh hnx]
-[naut-122 : resp = "觀衡" /zh hnx]
-[naut-416 : resp = "了然" /zh hnx]
-[naut-1165 : resp = "朴永善" /zh hnx]
-[naut-589 : resp = "明恂隨錄、慧智" /zh hnx]
-[naut-631 : resp = "世宗皇帝" /zh hnx]
-[naut-467 : resp = "明皛" /zh hnx]
-[naut-257 : resp = "提婆" /zh hnx]
-[naut-189 : resp = "性澄句" /zh hnx]
-[naut-14 : resp = "惟淨" /zh hnx]
-[naut-382 : resp = "普泰" /zh hnx]
-[naut-1080 : resp = "讀徹" /zh hnx]
-[naut-1011 : resp = "慶預" /zh hnx]
-[naut-121 : resp = "大韶" /zh hnx]
-[naut-1153 : resp = "悟進" /zh hnx]
-[naut-747 : resp = "普璋" /zh hnx]
-[naut-850 : resp = "普和" /zh hnx]
-[naut-334 : resp = "蕅益" /zh hnx]
-[naut-153 : resp = "聖德太子" /zh hnx]
-[naut-223 : resp = "大韻" /zh hnx]
-[naut-1029 : resp = "明總" /zh hnx]
-[naut-1033 : resp = "如玉" /zh hnx]
-[naut-895 : resp = "宗茙" /zh hnx]
-[naut-2 : resp = "菩提流志" /zh hnx]
-[naut-775 : resp = "懷珠" /zh hnx]
-[naut-500 : resp = "海雲" /zh hnx]
-[naut-482 : resp = "一行撰" /zh hnx]
-[naut-995 : resp = "觀通" /zh hnx]
-[naut-746 : resp = "紹熏" /zh hnx]
-[naut-212 : resp = "曇應" /zh hnx]
-[naut-687 : resp = "處凝" /zh hnx]
-[naut-665 : resp = "圓通" /zh hnx]
-[naut-85 : resp = "德清" /zh hnx]
-[naut-192 : resp = "古德法師" /zh hnx]
-[naut-707 : resp = "光祖" /zh hnx]
-[naut-899 : resp = "永珍" /zh hnx]
-[naut-733 : resp = "道鑑" /zh hnx]
-[naut-1072 : resp = "福善" /zh hnx]
-[naut-1161 : resp = "無慍" /zh hnx]
-[naut-278 : resp = "有嚴" /zh hnx]
-[naut-180 : resp = "王耕心衷" /zh hnx]
-[naut-1172 : resp = "常謹" /zh hnx]
-[naut-297 : resp = "廣和標" /zh hnx]
-[naut-505 : resp = "澄照" /zh hnx]
-[naut-797 : resp = "梵閱" /zh hnx]
-[naut-427 : resp = "正謐" /zh hnx]
-[naut-114 : resp = "一松" /zh hnx]
-[naut-951 : resp = "道瑄" /zh hnx]
-[naut-25 : resp = "筏提摩多" /zh hnx]
-[naut-20 : resp = "竺法護" /zh hnx]
-[naut-1181 : resp = "李華" /zh hnx]
-[naut-54 : resp = "不空譯抄之" /zh hnx]
-[naut-805 : resp = "至源" /zh hnx]
-[naut-481 : resp = "揚嘉祚" /zh hnx]
-[naut-403 : resp = "羅什" /zh hnx]
-[naut-785 : resp = "道巖" /zh hnx]
-[naut-1084 : resp = "禪修" /zh hnx]
-[naut-555 : resp = "悟開" /zh hnx]
-[naut-81 : resp = "普瑞" /zh hnx]
-[naut-328 : resp = "慧因" /zh hnx]
-[naut-366 : resp = "見登" /zh hnx]
-[naut-917 : resp = "本真" /zh hnx]
-[naut-1117 : resp = "彭希涑" /zh hnx]
-[naut-598 : resp = "淨訥" /zh hnx]
-[naut-860 : resp = "繼燖" /zh hnx]
-[naut-611 : resp = "[虎-儿+丘]一" /zh hnx]
-[naut-761 : resp = "有智" /zh hnx]
-[naut-945 : resp = "大圓" /zh hnx]
-[naut-1042 : resp = "道璞" /zh hnx]
-[naut-434 : resp = "義真" /zh hnx]
-[naut-97 : resp = "寂正" /zh hnx]
-[naut-692 : resp = "法[王*壽]" /zh hnx]
-[naut-544 : resp = "正寂" /zh hnx]
-[naut-238 : resp = "子真乩訂" /zh hnx]
-[naut-526 : resp = "如馨" /zh hnx]
-[naut-879 : resp = "行純" /zh hnx]
-[naut-725 : resp = "慧曇" /zh hnx]
-[naut-637 : resp = "知訥" /zh hnx]
-[naut-154 : resp = "明空私" /zh hnx]
-[naut-549 : resp = "周克復" /zh hnx]
-[naut-867 : resp = "師楷" /zh hnx]
-[naut-787 : resp = "妙儼" /zh hnx]
-[naut-1143 : resp = "火蓮集梓" /zh hnx]
-[naut-660 : resp = "真在" /zh hnx]
-[naut-825 : resp = "了禪" /zh hnx]
-[naut-141 : resp = "正受" /zh hnx]
-[naut-1119 : resp = "瑞璋" /zh hnx]
-[naut-3 : resp = "魏源" /zh hnx]
-[naut-332 : resp = "德玉順" /zh hnx]
-[naut-720 : resp = "志清" /zh hnx]
-[naut-157 : resp = "知禮" /zh hnx]
-[naut-224 : resp = "如觀" /zh hnx]
-[naut-743 : resp = "善之" /zh hnx]
-[naut-342 : resp = "即靜" /zh hnx]
-[naut-847 : resp = "覺此" /zh hnx]
-[naut-812 : resp = "道準" /zh hnx]
-[naut-485 : resp = "不空奉詔" /zh hnx]
-[naut-647 : resp = "道泰" /zh hnx]
-[naut-858 : resp = "景元" /zh hnx]
-[naut-621 : resp = "惠彬" /zh hnx]
-[naut-429 : resp = "時舉" /zh hnx]
-[naut-1047 : resp = "興燈" /zh hnx]
-[naut-1113 : resp = "慧詳" /zh hnx]
-[naut-929 : resp = "一志" /zh hnx]
-[naut-674 : resp = "林弘衍" /zh hnx]
-[naut-786 : resp = "了能" /zh hnx]
-[naut-891 : resp = "禪了" /zh hnx]
-[naut-10 : resp = "佛陀波利" /zh hnx]
-[naut-18 : resp = "法賢" /zh hnx]
-[naut-808 : resp = "文愷" /zh hnx]
-[naut-788 : resp = "妙全" /zh hnx]
-[naut-222 : resp = "林兆恩" /zh hnx]
-[naut-629 : resp = "圓悟" /zh hnx]
-[naut-190 : resp = "大佑" /zh hnx]
-[naut-978 : resp = "法林" /zh hnx]
-[naut-74 : resp = "李贄簡" /zh hnx]
-[naut-1108 : resp = "崔致遠結" /zh hnx]
-[naut-653 : resp = "義青" /zh hnx]
-[naut-309 : resp = "亮潤" /zh hnx]
-[naut-965 : resp = "雲澹" /zh hnx]
-[naut-444 : resp = "與咸" /zh hnx]
-[naut-1111 : resp = "曇照" /zh hnx]
-[naut-840 : resp = "正定" /zh hnx]
-[naut-15 : resp = "智慧輪" /zh hnx]
-[naut-246 : resp = "孫念劬" /zh hnx]
-[naut-541 : resp = "一念" /zh hnx]
-[naut-546 : resp = "虞執西" /zh hnx]
-[naut-1045 : resp = "太靖" /zh hnx]
-[naut-395 : resp = "慧暉" /zh hnx]
-[naut-783 : resp = "光睦" /zh hnx]
-[naut-590 : resp = "慧海" /zh hnx]
-[naut-117 : resp = "鍾惺" /zh hnx]
-[naut-28 : resp = "菩提流支" /zh hnx]
-[naut-782 : resp = "善開" /zh hnx]
-[naut-455 : resp = "智旭重" /zh hnx]
-[naut-483 : resp = "一行修" /zh hnx]
-[naut-367 : resp = "正遠" /zh hnx]
-[naut-849 : resp = "了舜" /zh hnx]
-[naut-728 : resp = "元清" /zh hnx]
-[naut-236 : resp = "大璸" /zh hnx]
-[naut-792 : resp = "智能" /zh hnx]
-[naut-413 : resp = "性起論" /zh hnx]
-[naut-417 : resp = "智顗(略出)" /zh hnx]
-[naut-756 : resp = "持志" /zh hnx]
-[naut-178 : resp = "璟興" /zh hnx]
-[naut-123 : resp = "陸西星" /zh hnx]
-[naut-862 : resp = "妙寅、(侍者)" /zh hnx]
-[naut-956 : resp = "慧浩" /zh hnx]
-[naut-542 : resp = "成時(評點節要)" /zh hnx]
-[naut-807 : resp = "惟份" /zh hnx]
-[naut-1048 : resp = "心亮" /zh hnx]
-[naut-247 : resp = "俞樾" /zh hnx]
-[naut-843 : resp = "慧澄" /zh hnx]
-[naut-972 : resp = "慧啟" /zh hnx]
-[naut-690 : resp = "法演" /zh hnx]
-[naut-548 : resp = "道霑" /zh hnx]
-[naut-253 : resp = "真貴" /zh hnx]
-[naut-937 : resp = "克明" /zh hnx]
-[naut-630 : resp = "真啟編" /zh hnx]
-[naut-1141 : resp = "如純" /zh hnx]
-[naut-46 : resp = "三昧蘇[口*縛]羅" /zh hnx]
-[naut-963 : resp = "無我" /zh hnx]
-[naut-251 : resp = "道霈" /zh hnx]
-[naut-813 : resp = "禧會" /zh hnx]
-[naut-591 : resp = "宗密答" /zh hnx]
-[naut-907 : resp = "祖安" /zh hnx]
-[naut-652 : resp = "性福" /zh hnx]
-[naut-800 : resp = "淨覃" /zh hnx]
-[naut-322 : resp = "傳奧" /zh hnx]
-[naut-143 : resp = "廣莫" /zh hnx]
-[naut-686 : resp = "圓淨" /zh hnx]
-[naut-1140 : resp = "通醉" /zh hnx]
-[naut-973 : resp = "智粵" /zh hnx]
-[naut-103 : resp = "懷遠" /zh hnx]
-[naut-258 : resp = "明曠" /zh hnx]
-[naut-52 : resp = "同譯" /zh hnx]
-[naut-880 : resp = "道彰" /zh hnx]
-[naut-107 : resp = "德洪" /zh hnx]
-[naut-1065 : resp = "宗先" /zh hnx]
-[naut-735 : resp = "妙高" /zh hnx]
-[naut-722 : resp = "大觀" /zh hnx]
-[naut-326 : resp = "大賢" /zh hnx]
-[naut-1017 : resp = "法潤" /zh hnx]
-[naut-376 : resp = "遍滿" /zh hnx]
-[naut-524 : resp = "陳熙願" /zh hnx]
-[naut-284 : resp = "慧洪" /zh hnx]
-[naut-458 : resp = "杜順" /zh hnx]
-[naut-644 : resp = "集雲堂" /zh hnx]
-[naut-893 : resp = "宗煥" /zh hnx]
-[naut-1057 : resp = "編" /zh hnx]
-[naut-293 : resp = "際慶" /zh hnx]
-[naut-1004 : resp = "道彝" /zh hnx]
-[naut-754 : resp = "德紀" /zh hnx]
-[naut-758 : resp = "惟康" /zh hnx]
-[naut-47 : resp = "婆羅門僧" /zh hnx]
-[naut-307 : resp = "周上智" /zh hnx]
-[naut-144 : resp = "僧肇" /zh hnx]
-[naut-1162 : resp = "善燦" /zh hnx]
-[naut-12 : resp = "藏川" /zh hnx]
-[naut-493 : resp = "義操" /zh hnx]
-[naut-608 : resp = "清覺" /zh hnx]
-[naut-1019 : resp = "行從" /zh hnx]
-[naut-1186 : resp = "張商英" /zh hnx]
-[naut-766 : resp = "延輝" /zh hnx]
-[naut-588 : resp = "覺愛略說" /zh hnx]
-[naut-459 : resp = "師會" /zh hnx]
-[naut-727 : resp = "崇裕" /zh hnx]
-[naut-543 : resp = "明教標" /zh hnx]
-[naut-666 : resp = "行秀仰答" /zh hnx]
-[naut-916 : resp = "景行" /zh hnx]
-[naut-1079 : resp = "一行慧覺" /zh hnx]
-[naut-661 : resp = "機雲重續" /zh hnx]
-[naut-814 : resp = "紹賢" /zh hnx]
-[naut-215 : resp = "覺連" /zh hnx]
-[naut-1101 : resp = "念常" /zh hnx]
-[naut-464 : resp = "希[廷-壬+由]" /zh hnx]
-[naut-113 : resp = "傳燈" /zh hnx]
-[naut-571 : resp = "信菴" /zh hnx]
-[naut-930 : resp = "元皓" /zh hnx]
-[naut-384 : resp = "明昱" /zh hnx]
-[naut-331 : resp = "寂光直" /zh hnx]
-[naut-227 : resp = "無是道人" /zh hnx]
-[naut-93 : resp = "智聰" /zh hnx]
-[naut-187 : resp = "慧淨" /zh hnx]
-[naut-237 : resp = "溥仁乩" /zh hnx]
-[naut-370 : resp = "德清纂" /zh hnx]
-[naut-477 : resp = "惟白" /zh hnx]
-[naut-626 : resp = "天[正*頁]" /zh hnx]
-[naut-826 : resp = "普明" /zh hnx]
-[naut-499 : resp = "金俱吒撰集" /zh hnx]
-[naut-764 : resp = "正賢" /zh hnx]
-[naut-1015 : resp = "宗榮" /zh hnx]
-[naut-724 : resp = "延俊" /zh hnx]
-[naut-1124 : resp = "性磊補輯" /zh hnx]
-[naut-610 : resp = "退隱" /zh hnx]
-[naut-294 : resp = "大義" /zh hnx]
-[naut-353 : resp = "後唐" /zh hnx]
-[naut-741 : resp = "行佑" /zh hnx]
-[naut-837 : resp = "守靜" /zh hnx]
-[naut-856 : resp = "法澄" /zh hnx]
-[naut-146 : resp = "智顗" /zh hnx]
-[naut-405 : resp = "元康" /zh hnx]
-[naut-923 : resp = "繼祖" /zh hnx]
-[naut-174 : resp = "元曉" /zh hnx]
-[naut-871 : resp = "雲岑" /zh hnx]
-[naut-390 : resp = "智素" /zh hnx]
-[naut-1163 : resp = "陶明潛" /zh hnx]
-[naut-642 : resp = "普會" /zh hnx]
-[naut-552 : resp = "濟能" /zh hnx]
-[naut-109 : resp = "真鑑" /zh hnx]
-[naut-471 : resp = "裴休" /zh hnx]
-[naut-1147 : resp = "弘儲" /zh hnx]
-[naut-885 : resp = "洪喬祖" /zh hnx]
-[naut-1024 : resp = "清萃" /zh hnx]
-[naut-613 : resp = "行悅" /zh hnx]
-[naut-124 : resp = "傳如" /zh hnx]
-[naut-854 : resp = "道信" /zh hnx]
-[naut-668 : resp = "道忠" /zh hnx]
-[naut-252 : resp = "成蓮" /zh hnx]
-[naut-1170 : resp = "淨慧" /zh hnx]
-[naut-90 : resp = "孝宗帝" /zh hnx]
-[naut-245 : resp = "孚佑帝君" /zh hnx]
-[naut-91 : resp = "行霆" /zh hnx]
-[naut-66 : resp = "智儼" /zh hnx]
-[naut-288 : resp = "法濟" /zh hnx]
-[naut-1100 : resp = "熙仲" /zh hnx]
-[naut-680 : resp = "秀人錢密" /zh hnx]
-[naut-1003 : resp = "護位" /zh hnx]
-[naut-520 : resp = "性祇" /zh hnx]
-[naut-702 : resp = "了心" /zh hnx]
-[naut-317 : resp = "了童" /zh hnx]
-[naut-436 : resp = "宗[(匕/示)*頁]" /zh hnx]
-[naut-463 : resp = "師會述、善熹" /zh hnx]
-[naut-349 : resp = "志鴻" /zh hnx]
-[naut-171 : resp = "靈[亢-几+桀]" /zh hnx]
-[naut-601 : resp = "傳燈重編並" /zh hnx]
-[naut-239 : resp = "寂燄" /zh hnx]
-[naut-73 : resp = "志寧釐經合論" /zh hnx]
-[naut-428 : resp = "辯才" /zh hnx]
-[naut-83 : resp = "戒環" /zh hnx]
-[naut-407 : resp = "文才" /zh hnx]
-[naut-346 : resp = "禪能" /zh hnx]
-[naut-922 : resp = "自成" /zh hnx]
-[naut-780 : resp = "元省" /zh hnx]
-[naut-966 : resp = "思謙" /zh hnx]
-[naut-92 : resp = "周琪" /zh hnx]
-[naut-799 : resp = "惟俊" /zh hnx]
-[naut-889 : resp = "道昭" /zh hnx]
-[naut-576 : resp = "乘戒" /zh hnx]
-[naut-313 : resp = "行滿" /zh hnx]
-[naut-1168 : resp = "孟獻忠" /zh hnx]
-[naut-568 : resp = "照瑩" /zh hnx]
-[naut-1083 : resp = "智肱" /zh hnx]
-[naut-98 : resp = "焦竑" /zh hnx]
-[naut-1158 : resp = "曇秀" /zh hnx]
-[naut-521 : resp = "戒顯" /zh hnx]
-[naut-9 : resp = "工布查布" /zh hnx]
-[naut-1010 : resp = "自覺" /zh hnx]
-[naut-16 : resp = "竺佛念" /zh hnx]
-[naut-387 : resp = "靈泰" /zh hnx]
-[naut-569 : resp = "果能" /zh hnx]
-[naut-573 : resp = "沈善登" /zh hnx]
-[naut-817 : resp = "尚賢" /zh hnx]
-[naut-533 : resp = "善道" /zh hnx]
-[naut-269 : resp = "大文" /zh hnx]
-[naut-34 : resp = "實叉難陀" /zh hnx]
-[naut-24 : resp = "龍樹菩薩造" /zh hnx]
-[naut-773 : resp = "士洵" /zh hnx]
-[naut-110 : resp = "袾宏" /zh hnx]
-[naut-531 : resp = "懷感" /zh hnx]
-[naut-1154 : resp = "明喜" /zh hnx]
-[naut-618 : resp = "行盛" /zh hnx]
-[naut-155 : resp = "明得" /zh hnx]
-[naut-892 : resp = "住顯" /zh hnx]
-[naut-730 : resp = "普暉" /zh hnx]
-[naut-148 : resp = "道暹私" /zh hnx]
-[naut-489 : resp = "慧琳" /zh hnx]
-[naut-959 : resp = "有端" /zh hnx]
-[naut-447 : resp = "法登" /zh hnx]
-[naut-827 : resp = "了南" /zh hnx]
-[naut-389 : resp = "大惠" /zh hnx]
-[naut-902 : resp = "及藏主" /zh hnx]
-[naut-75 : resp = "方澤" /zh hnx]
-[naut-874 : resp = "先[者*見]" /zh hnx]
-[naut-1043 : resp = "弘瀚" /zh hnx]
-[naut-11 : resp = "義淨" /zh hnx]
-[naut-939 : resp = "宗胤" /zh hnx]
-[naut-355 : resp = "慧門等" /zh hnx]
-[naut-1174 : resp = "智覺" /zh hnx]
-[naut-1081 : resp = "木增" /zh hnx]
-[naut-250 : resp = "智顗說、灌頂" /zh hnx]
-[naut-44 : resp = "伽梵達摩" /zh hnx]
-[naut-791 : resp = "元靖" /zh hnx]
-[naut-1095 : resp = "無寄" /zh hnx]
-[naut-975 : resp = "德琇" /zh hnx]
-[naut-1022 : resp = "中翼" /zh hnx]
-[naut-1073 : resp = "通炯" /zh hnx]
-[naut-495 : resp = "惟謹" /zh hnx]
-[naut-760 : resp = "如止" /zh hnx]
-[naut-108 : resp = "正受會合" /zh hnx]
-[naut-998 : resp = "希顏" /zh hnx]
-[naut-999 : resp = "忻悟" /zh hnx]
-[naut-218 : resp = "程衷懋補註" /zh hnx]
-[naut-779 : resp = "紹甄" /zh hnx]
-[naut-508 : resp = "良信" /zh hnx]
-[naut-454 : resp = "仁潮" /zh hnx]
-[naut-461 : resp = "淨源刊" /zh hnx]
-[naut-714 : resp = "祖淳" /zh hnx]
-[naut-1088 : resp = "繼僧" /zh hnx]
-[naut-402 : resp = "延壽" /zh hnx]
-[naut-350 : resp = "智首" /zh hnx]
-[naut-45 : resp = "阿目佉譯" /zh hnx]
-[naut-953 : resp = "居頂" /zh hnx]
-[naut-1183 : resp = "慧堅" /zh hnx]
-[naut-920 : resp = "寶生" /zh hnx]
-[naut-181 : resp = "善導" /zh hnx]
-[naut-280 : resp = "道暹" /zh hnx]
-[naut-605 : resp = "明本" /zh hnx]
-[naut-949 : resp = "寶日" /zh hnx]
-[naut-1122 : resp = "惠洪" /zh hnx]
-[naut-296 : resp = "智祥" /zh hnx]
-[naut-491 : resp = "含光" /zh hnx]
-[naut-716 : resp = "沈孟柈敘" /zh hnx]
-[naut-368 : resp = "通潤述" /zh hnx]
-[naut-177 : resp = "玄一" /zh hnx]
-[naut-340 : resp = "道宣" /zh hnx]
-[naut-312 : resp = "本純" /zh hnx]
-[naut-855 : resp = "道亨" /zh hnx]
-[naut-336 : resp = "廣承" /zh hnx]
-[naut-462 : resp = "道亭" /zh hnx]
-[naut-1026 : resp = "道京" /zh hnx]
-[naut-1142 : resp = "心圓" /zh hnx]
-[naut-1107 : resp = "法藏集" /zh hnx]
-[naut-136 : resp = "濟時" /zh hnx]
-[naut-1054 : resp = "淨煥" /zh hnx]
-[naut-32 : resp = "不空" /zh hnx]
-[naut-314 : resp = "師正" /zh hnx]
-[naut-915 : resp = "良圭" /zh hnx]
-[naut-425 : resp = "處謙" /zh hnx]
-[naut-851 : resp = "惠洇" /zh hnx]
-[naut-1091 : resp = "西宗" /zh hnx]
-[naut-379 : resp = "遁倫" /zh hnx]
-[naut-13 : resp = "法月重" /zh hnx]
-[naut-89 : resp = "清遠" /zh hnx]
-[naut-1152 : resp = "吳侗集" /zh hnx]
-[naut-1151 : resp = "道忞" /zh hnx]
-[naut-420 : resp = "處元" /zh hnx]
-[naut-560 : resp = "瑞聖歎" /zh hnx]
-[naut-262 : resp = "道隆" /zh hnx]
-[naut-558 : resp = "古崑" /zh hnx]
-[naut-248 : resp = "存吾闡" /zh hnx]
-[naut-1013 : resp = "義初" /zh hnx]
-[naut-421 : resp = "傳燈說、靈耀" /zh hnx]
-[naut-522 : resp = "濟岳彙箋" /zh hnx]
-[naut-550 : resp = "周夢顏" /zh hnx]
-[naut-877 : resp = "昭如" /zh hnx]
-[naut-1093 : resp = "王勃" /zh hnx]
-[naut-1177 : resp = "夏樹芳" /zh hnx]
-[naut-161 : resp = "慧沼" /zh hnx]
-[naut-751 : resp = "文謙" /zh hnx]
-[naut-276 : resp = "法雲" /zh hnx]
-[naut-37 : resp = "勿提提犀魚" /zh hnx]
-[naut-656 : resp = "正覺" /zh hnx]
-[naut-634 : resp = "超溟" /zh hnx]
-[naut-127 : resp = "真界" /zh hnx]
-[naut-603 : resp = "宗賾" /zh hnx]
-[naut-137 : resp = "曾鳳儀" /zh hnx]
-[naut-363 : resp = "智愷" /zh hnx]
-[naut-167 : resp = "日新" /zh hnx]
-[naut-913 : resp = "德粹" /zh hnx]
-[naut-853 : resp = "彌紹" /zh hnx]
-[naut-1041 : resp = "道盛" /zh hnx]
-[naut-478 : resp = "忠" /zh hnx]
-[naut-86 : resp = "永光" /zh hnx]
-[naut-536 : resp = "普度" /zh hnx]
-[naut-475 : resp = "善熹註" /zh hnx]
-[naut-986 : resp = "良彥" /zh hnx]
-[naut-697 : resp = "道果" /zh hnx]
-[naut-525 : resp = "超遠檢" /zh hnx]
-[naut-470 : resp = "本嵩" /zh hnx]
-[naut-184 : resp = "實觀" /zh hnx]
-[naut-1146 : resp = "果性" /zh hnx]
-[naut-742 : resp = "了元" /zh hnx]
-[naut-394 : resp = "法盈" /zh hnx]
-[naut-201 : resp = "真嵩" /zh hnx]
-[naut-433 : resp = "維蠲" /zh hnx]
-[naut-1133 : resp = "瞿汝稷" /zh hnx]
-[naut-604 : resp = "宗壽" /zh hnx]
-[naut-778 : resp = "行彌" /zh hnx]
-[naut-625 : resp = "智徹" /zh hnx]
-[date1 : resp = "June 2007" /zh hnx]
+[naut-883 : resp = "" /zh hnx
+@"http://psi.iba-net.org/person/naut-883"
+]
+[naut-655 : resp = "子淳" /zh hnx
+@"http://psi.iba-net.org/person/naut-655"
+]
+[naut-386 : resp = "如理" /zh hnx
+@"http://psi.iba-net.org/person/naut-386"
+]
+[naut-710 : resp = "嗣端" /zh hnx
+@"http://psi.iba-net.org/person/naut-710"
+]
+[naut-325 : resp = "知周" /zh hnx
+@"http://psi.iba-net.org/person/naut-325"
+]
+[naut-337 : resp = "智旭會補" /zh hnx
+@"http://psi.iba-net.org/person/naut-337"
+]
+[naut-931 : resp = "可興" /zh hnx
+@"http://psi.iba-net.org/person/naut-931"
+]
+[naut-165 : resp = "普觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-165"
+]
+[naut-30 : resp = "善無畏" /zh hnx
+@"http://psi.iba-net.org/person/naut-30"
+]
+[naut-441 : resp = "如吉" /zh hnx
+@"http://psi.iba-net.org/person/naut-441"
+]
+[naut-36 : resp = "菩提留支" /zh hnx
+@"http://psi.iba-net.org/person/naut-36"
+]
+[naut-908 : resp = "具德" /zh hnx
+@"http://psi.iba-net.org/person/naut-908"
+]
+[naut-78 : resp = "遵式" /zh hnx
+@"http://psi.iba-net.org/person/naut-78"
+]
+[naut-50 : resp = "法天" /zh hnx
+@"http://psi.iba-net.org/person/naut-50"
+]
+[naut-348 : resp = "法礪" /zh hnx
+@"http://psi.iba-net.org/person/naut-348"
+]
+[naut-980 : resp = "祖銘" /zh hnx
+@"http://psi.iba-net.org/person/naut-980"
+]
+[naut-819 : resp = "宗會" /zh hnx
+@"http://psi.iba-net.org/person/naut-819"
+]
+[naut-695 : resp = "有宗" /zh hnx
+@"http://psi.iba-net.org/person/naut-695"
+]
+[naut-408 : resp = "道衡" /zh hnx
+@"http://psi.iba-net.org/person/naut-408"
+]
+[naut-282 : resp = "智雲" /zh hnx
+@"http://psi.iba-net.org/person/naut-282"
+]
+[naut-678 : resp = "慧南" /zh hnx
+@"http://psi.iba-net.org/person/naut-678"
+]
+[naut-1169 : resp = "段成式" /zh hnx
+@"http://psi.iba-net.org/person/naut-1169"
+]
+[naut-448 : resp = "義銛" /zh hnx
+@"http://psi.iba-net.org/person/naut-448"
+]
+[naut-898 : resp = "應儼" /zh hnx
+@"http://psi.iba-net.org/person/naut-898"
+]
+[naut-657 : resp = "行秀" /zh hnx
+@"http://psi.iba-net.org/person/naut-657"
+]
+[naut-1126 : resp = "普濟" /zh hnx
+@"http://psi.iba-net.org/person/naut-1126"
+]
+[naut-538 : resp = "宗本" /zh hnx
+@"http://psi.iba-net.org/person/naut-538"
+]
+[naut-496 : resp = "武徹" /zh hnx
+@"http://psi.iba-net.org/person/naut-496"
+]
+[naut-717 : resp = "法宏" /zh hnx
+@"http://psi.iba-net.org/person/naut-717"
+]
+[naut-940 : resp = "起宗" /zh hnx
+@"http://psi.iba-net.org/person/naut-940"
+]
+[naut-617 : resp = "張文憲參閱" /zh hnx
+@"http://psi.iba-net.org/person/naut-617"
+]
+[naut-704 : resp = "法孜" /zh hnx
+@"http://psi.iba-net.org/person/naut-704"
+]
+[naut-518 : resp = "省悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-518"
+]
+[naut-983 : resp = "文玹" /zh hnx
+@"http://psi.iba-net.org/person/naut-983"
+]
+[naut-770 : resp = "祖誾" /zh hnx
+@"http://psi.iba-net.org/person/naut-770"
+]
+[naut-519 : resp = "嗣良參訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-519"
+]
+[naut-564 : resp = "妙空子" /zh hnx
+@"http://psi.iba-net.org/person/naut-564"
+]
+[naut-887 : resp = "淨韻" /zh hnx
+@"http://psi.iba-net.org/person/naut-887"
+]
+[naut-691 : resp = "善果" /zh hnx
+@"http://psi.iba-net.org/person/naut-691"
+]
+[naut-628 : resp = "性音" /zh hnx
+@"http://psi.iba-net.org/person/naut-628"
+]
+[naut-498 : resp = "西天竺" /zh hnx
+@"http://psi.iba-net.org/person/naut-498"
+]
+[naut-684 : resp = "介諶" /zh hnx
+@"http://psi.iba-net.org/person/naut-684"
+]
+[naut-281 : resp = "智度" /zh hnx
+@"http://psi.iba-net.org/person/naut-281"
+]
+[naut-1127 : resp = "淨柱" /zh hnx
+@"http://psi.iba-net.org/person/naut-1127"
+]
+[naut-594 : resp = "道楷" /zh hnx
+@"http://psi.iba-net.org/person/naut-594"
+]
+[naut-925 : resp = "元浩" /zh hnx
+@"http://psi.iba-net.org/person/naut-925"
+]
+[naut-607 : resp = "弋咸" /zh hnx
+@"http://psi.iba-net.org/person/naut-607"
+]
+[naut-852 : resp = "希革" /zh hnx
+@"http://psi.iba-net.org/person/naut-852"
+]
+[naut-679 : resp = "元聚" /zh hnx
+@"http://psi.iba-net.org/person/naut-679"
+]
+[naut-333 : resp = "書玉" /zh hnx
+@"http://psi.iba-net.org/person/naut-333"
+]
+[naut-442 : resp = "戒珠" /zh hnx
+@"http://psi.iba-net.org/person/naut-442"
+]
+[naut-494 : resp = "法全" /zh hnx
+@"http://psi.iba-net.org/person/naut-494"
+]
+[naut-338 : resp = "讀體" /zh hnx
+@"http://psi.iba-net.org/person/naut-338"
+]
+[naut-841 : resp = "善珙" /zh hnx
+@"http://psi.iba-net.org/person/naut-841"
+]
+[naut-139 : resp = "智嚴" /zh hnx
+@"http://psi.iba-net.org/person/naut-139"
+]
+[naut-906 : resp = "可橖" /zh hnx
+@"http://psi.iba-net.org/person/naut-906"
+]
+[naut-277 : resp = "法照" /zh hnx
+@"http://psi.iba-net.org/person/naut-277"
+]
+[naut-997 : resp = "正除" /zh hnx
+@"http://psi.iba-net.org/person/naut-997"
+]
+[naut-1 : resp = "日稱" /zh hnx
+@"http://psi.iba-net.org/person/naut-1"
+]
+[naut-627 : resp = "如瑛" /zh hnx
+@"http://psi.iba-net.org/person/naut-627"
+]
+[naut-765 : resp = "宗坦" /zh hnx
+@"http://psi.iba-net.org/person/naut-765"
+]
+[naut-68 : resp = "湛然" /zh hnx
+@"http://psi.iba-net.org/person/naut-68"
+]
+[naut-703 : resp = "普禮" /zh hnx
+@"http://psi.iba-net.org/person/naut-703"
+]
+[naut-335 : resp = "道宣刪" /zh hnx
+@"http://psi.iba-net.org/person/naut-335"
+]
+[naut-306 : resp = "實乘" /zh hnx
+@"http://psi.iba-net.org/person/naut-306"
+]
+[naut-888 : resp = "清澤" /zh hnx
+@"http://psi.iba-net.org/person/naut-888"
+]
+[naut-651 : resp = "本瑞直註、道霖" /zh hnx
+@"http://psi.iba-net.org/person/naut-651"
+]
+[naut-815 : resp = "正一" /zh hnx
+@"http://psi.iba-net.org/person/naut-815"
+]
+[naut-216 : resp = "洪蓮" /zh hnx
+@"http://psi.iba-net.org/person/naut-216"
+]
+[naut-38 : resp = "菩提[口*栗
+@"http://psi.iba-net.org/person/naut-38"
+]使" /zh hnx]
+[naut-638 : resp = "永盛" /zh hnx
+@"http://psi.iba-net.org/person/naut-638"
+]
+[naut-706 : resp = "普覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-706"
+]
+[naut-811 : resp = "法光" /zh hnx
+@"http://psi.iba-net.org/person/naut-811"
+]
+[naut-94 : resp = "如山" /zh hnx
+@"http://psi.iba-net.org/person/naut-94"
+]
+[naut-1109 : resp = "幽貞刊纂" /zh hnx
+@"http://psi.iba-net.org/person/naut-1109"
+]
+[naut-142 : resp = "楊彥國" /zh hnx
+@"http://psi.iba-net.org/person/naut-142"
+]
+[naut-739 : resp = "法奇" /zh hnx
+@"http://psi.iba-net.org/person/naut-739"
+]
+[naut-504 : resp = "寂暹" /zh hnx
+@"http://psi.iba-net.org/person/naut-504"
+]
+[naut-650 : resp = "克勤擊節" /zh hnx
+@"http://psi.iba-net.org/person/naut-650"
+]
+[naut-381 : resp = "普光" /zh hnx
+@"http://psi.iba-net.org/person/naut-381"
+]
+[naut-19 : resp = "施護" /zh hnx
+@"http://psi.iba-net.org/person/naut-19"
+]
+[naut-41 : resp = "輸婆迦羅" /zh hnx
+@"http://psi.iba-net.org/person/naut-41"
+]
+[naut-912 : resp = "壽椿" /zh hnx
+@"http://psi.iba-net.org/person/naut-912"
+]
+[naut-586 : resp = "弘忍" /zh hnx
+@"http://psi.iba-net.org/person/naut-586"
+]
+[naut-241 : resp = "石成金" /zh hnx
+@"http://psi.iba-net.org/person/naut-241"
+]
+[naut-798 : resp = "德溢" /zh hnx
+@"http://psi.iba-net.org/person/naut-798"
+]
+[naut-752 : resp = "正因" /zh hnx
+@"http://psi.iba-net.org/person/naut-752"
+]
+[naut-619 : resp = "超記錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-619"
+]
+[naut-1138 : resp = "了貞" /zh hnx
+@"http://psi.iba-net.org/person/naut-1138"
+]
+[naut-173 : resp = "吉藏撰" /zh hnx
+@"http://psi.iba-net.org/person/naut-173"
+]
+[naut-129 : resp = "劉道開" /zh hnx
+@"http://psi.iba-net.org/person/naut-129"
+]
+[naut-793 : resp = "惟衍" /zh hnx
+@"http://psi.iba-net.org/person/naut-793"
+]
+[naut-131 : resp = "正相" /zh hnx
+@"http://psi.iba-net.org/person/naut-131"
+]
+[naut-438 : resp = "元悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-438"
+]
+[naut-270 : resp = "益證" /zh hnx
+@"http://psi.iba-net.org/person/naut-270"
+]
+[naut-1002 : resp = "慧鏡" /zh hnx
+@"http://psi.iba-net.org/person/naut-1002"
+]
+[naut-757 : resp = "覺孫" /zh hnx
+@"http://psi.iba-net.org/person/naut-757"
+]
+[naut-506 : resp = "彥起" /zh hnx
+@"http://psi.iba-net.org/person/naut-506"
+]
+[naut-645 : resp = "子昇" /zh hnx
+@"http://psi.iba-net.org/person/naut-645"
+]
+[naut-557 : resp = "真益願" /zh hnx
+@"http://psi.iba-net.org/person/naut-557"
+]
+[naut-1049 : resp = "性朗" /zh hnx
+@"http://psi.iba-net.org/person/naut-1049"
+]
+[naut-1007 : resp = "復初" /zh hnx
+@"http://psi.iba-net.org/person/naut-1007"
+]
+[naut-675 : resp = "樓[(匕/示)*頁
+@"http://psi.iba-net.org/person/naut-675"
+]" /zh hnx]
+[naut-96 : resp = "通潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-96"
+]
+[naut-487 : resp = "圓照" /zh hnx
+@"http://psi.iba-net.org/person/naut-487"
+]
+[naut-958 : resp = "宗義" /zh hnx
+@"http://psi.iba-net.org/person/naut-958"
+]
+[naut-624 : resp = "普照" /zh hnx
+@"http://psi.iba-net.org/person/naut-624"
+]
+[naut-17 : resp = "附西晉錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-17"
+]
+[naut-287 : resp = "守倫" /zh hnx
+@"http://psi.iba-net.org/person/naut-287"
+]
+[naut-950 : resp = "宗黼" /zh hnx
+@"http://psi.iba-net.org/person/naut-950"
+]
+[naut-705 : resp = "普巖" /zh hnx
+@"http://psi.iba-net.org/person/naut-705"
+]
+[naut-881 : resp = "從心" /zh hnx
+@"http://psi.iba-net.org/person/naut-881"
+]
+[naut-1120 : resp = "李遵勗" /zh hnx
+@"http://psi.iba-net.org/person/naut-1120"
+]
+[naut-599 : resp = "開詗記" /zh hnx
+@"http://psi.iba-net.org/person/naut-599"
+]
+[naut-1034 : resp = "智湖" /zh hnx
+@"http://psi.iba-net.org/person/naut-1034"
+]
+[naut-1134 : resp = "聶先" /zh hnx
+@"http://psi.iba-net.org/person/naut-1134"
+]
+[naut-198 : resp = "鄭澄德" /zh hnx
+@"http://psi.iba-net.org/person/naut-198"
+]
+[naut-515 : resp = "守一述、行枝" /zh hnx
+@"http://psi.iba-net.org/person/naut-515"
+]
+[naut-1128 : resp = "超永" /zh hnx
+@"http://psi.iba-net.org/person/naut-1128"
+]
+[naut-620 : resp = "智昭" /zh hnx
+@"http://psi.iba-net.org/person/naut-620"
+]
+[naut-981 : resp = "梵琦" /zh hnx
+@"http://psi.iba-net.org/person/naut-981"
+]
+[naut-933 : resp = "祖運" /zh hnx
+@"http://psi.iba-net.org/person/naut-933"
+]
+[naut-537 : resp = "道衍" /zh hnx
+@"http://psi.iba-net.org/person/naut-537"
+]
+[naut-152 : resp = "義令記" /zh hnx
+@"http://psi.iba-net.org/person/naut-152"
+]
+[naut-988 : resp = "明遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-988"
+]
+[naut-927 : resp = "應槐" /zh hnx
+@"http://psi.iba-net.org/person/naut-927"
+]
+[naut-424 : resp = "宗翌" /zh hnx
+@"http://psi.iba-net.org/person/naut-424"
+]
+[naut-465 : resp = "希迪" /zh hnx
+@"http://psi.iba-net.org/person/naut-465"
+]
+[naut-1069 : resp = "惟能" /zh hnx
+@"http://psi.iba-net.org/person/naut-1069"
+]
+[naut-1050 : resp = "謝大材" /zh hnx
+@"http://psi.iba-net.org/person/naut-1050"
+]
+[naut-1130 : resp = "文琇" /zh hnx
+@"http://psi.iba-net.org/person/naut-1130"
+]
+[naut-179 : resp = "彭際清" /zh hnx
+@"http://psi.iba-net.org/person/naut-179"
+]
+[naut-242 : resp = "龔穊綵" /zh hnx
+@"http://psi.iba-net.org/person/naut-242"
+]
+[naut-283 : resp = "道威入" /zh hnx
+@"http://psi.iba-net.org/person/naut-283"
+]
+[naut-401 : resp = "玄奘" /zh hnx
+@"http://psi.iba-net.org/person/naut-401"
+]
+[naut-316 : resp = "守遂" /zh hnx
+@"http://psi.iba-net.org/person/naut-316"
+]
+[naut-595 : resp = "覺慈編" /zh hnx
+@"http://psi.iba-net.org/person/naut-595"
+]
+[naut-1189 : resp = "慧影" /zh hnx
+@"http://psi.iba-net.org/person/naut-1189"
+]
+[naut-443 : resp = "真覺略解、智旭" /zh hnx
+@"http://psi.iba-net.org/person/naut-443"
+]
+[naut-170 : resp = "岳玄" /zh hnx
+@"http://psi.iba-net.org/person/naut-170"
+]
+[naut-298 : resp = "一松講" /zh hnx
+@"http://psi.iba-net.org/person/naut-298"
+]
+[naut-466 : resp = "義湘" /zh hnx
+@"http://psi.iba-net.org/person/naut-466"
+]
+[naut-344 : resp = "智旭輯" /zh hnx
+@"http://psi.iba-net.org/person/naut-344"
+]
+[naut-1016 : resp = "宗信" /zh hnx
+@"http://psi.iba-net.org/person/naut-1016"
+]
+[naut-905 : resp = "大機" /zh hnx
+@"http://psi.iba-net.org/person/naut-905"
+]
+[naut-275 : resp = "竺道生" /zh hnx
+@"http://psi.iba-net.org/person/naut-275"
+]
+[naut-969 : resp = "思廉" /zh hnx
+@"http://psi.iba-net.org/person/naut-969"
+]
+[naut-991 : resp = "正隆" /zh hnx
+@"http://psi.iba-net.org/person/naut-991"
+]
+[naut-1076 : resp = "戒度注" /zh hnx
+@"http://psi.iba-net.org/person/naut-1076"
+]
+[naut-614 : resp = "善卿" /zh hnx
+@"http://psi.iba-net.org/person/naut-614"
+]
+[naut-641 : resp = "法應" /zh hnx
+@"http://psi.iba-net.org/person/naut-641"
+]
+[naut-183 : resp = "真覺重" /zh hnx
+@"http://psi.iba-net.org/person/naut-183"
+]
+[naut-900 : resp = "祖森" /zh hnx
+@"http://psi.iba-net.org/person/naut-900"
+]
+[naut-1182 : resp = "趙遷" /zh hnx
+@"http://psi.iba-net.org/person/naut-1182"
+]
+[naut-859 : resp = "宗清" /zh hnx
+@"http://psi.iba-net.org/person/naut-859"
+]
+[naut-435 : resp = "光定" /zh hnx
+@"http://psi.iba-net.org/person/naut-435"
+]
+[naut-1092 : resp = "咫觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-1092"
+]
+[naut-584 : resp = "寬量" /zh hnx
+@"http://psi.iba-net.org/person/naut-584"
+]
+[naut-936 : resp = "得度" /zh hnx
+@"http://psi.iba-net.org/person/naut-936"
+]
+[naut-659 : resp = "性福編集" /zh hnx
+@"http://psi.iba-net.org/person/naut-659"
+]
+[naut-406 : resp = "曉月" /zh hnx
+@"http://psi.iba-net.org/person/naut-406"
+]
+[naut-229 : resp = "經" /zh hnx
+@"http://psi.iba-net.org/person/naut-229"
+]
+[naut-1036 : resp = "義遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-1036"
+]
+[naut-1056 : resp = "丁元公．祁駿隹" /zh hnx
+@"http://psi.iba-net.org/person/naut-1056"
+]
+[naut-894 : resp = "祖定" /zh hnx
+@"http://psi.iba-net.org/person/naut-894"
+]
+[naut-1051 : resp = "潘道靖" /zh hnx
+@"http://psi.iba-net.org/person/naut-1051"
+]
+[naut-1175 : resp = "唐臨" /zh hnx
+@"http://psi.iba-net.org/person/naut-1175"
+]
+[naut-397 : resp = "遁麟" /zh hnx
+@"http://psi.iba-net.org/person/naut-397"
+]
+[naut-762 : resp = "慧雲" /zh hnx
+@"http://psi.iba-net.org/person/naut-762"
+]
+[naut-84 : resp = "道通" /zh hnx
+@"http://psi.iba-net.org/person/naut-84"
+]
+[naut-211 : resp = "道川頌並著" /zh hnx
+@"http://psi.iba-net.org/person/naut-211"
+]
+[naut-196 : resp = "達默" /zh hnx
+@"http://psi.iba-net.org/person/naut-196"
+]
+[naut-300 : resp = "佛閑立科、智一拾" /zh hnx
+@"http://psi.iba-net.org/person/naut-300"
+]
+[naut-970 : resp = "文度" /zh hnx
+@"http://psi.iba-net.org/person/naut-970"
+]
+[naut-186 : resp = "灌頂記" /zh hnx
+@"http://psi.iba-net.org/person/naut-186"
+]
+[naut-255 : resp = "淨源" /zh hnx
+@"http://psi.iba-net.org/person/naut-255"
+]
+[naut-188 : resp = "戒度記" /zh hnx
+@"http://psi.iba-net.org/person/naut-188"
+]
+[naut-921 : resp = "文藻" /zh hnx
+@"http://psi.iba-net.org/person/naut-921"
+]
+[naut-1020 : resp = "普崇" /zh hnx
+@"http://psi.iba-net.org/person/naut-1020"
+]
+[naut-769 : resp = "志諶" /zh hnx
+@"http://psi.iba-net.org/person/naut-769"
+]
+[naut-26 : resp = "禪那崛多別譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-26"
+]
+[naut-919 : resp = "文闡" /zh hnx
+@"http://psi.iba-net.org/person/naut-919"
+]
+[naut-6 : resp = "利言" /zh hnx
+@"http://psi.iba-net.org/person/naut-6"
+]
+[naut-324 : resp = "勝莊" /zh hnx
+@"http://psi.iba-net.org/person/naut-324"
+]
+[naut-736 : resp = "元愷" /zh hnx
+@"http://psi.iba-net.org/person/naut-736"
+]
+[naut-563 : resp = "治兆" /zh hnx
+@"http://psi.iba-net.org/person/naut-563"
+]
+[naut-360 : resp = "性祗" /zh hnx
+@"http://psi.iba-net.org/person/naut-360"
+]
+[naut-948 : resp = "智辯" /zh hnx
+@"http://psi.iba-net.org/person/naut-948"
+]
+[naut-996 : resp = "溥震" /zh hnx
+@"http://psi.iba-net.org/person/naut-996"
+]
+[naut-1055 : resp = "明凡" /zh hnx
+@"http://psi.iba-net.org/person/naut-1055"
+]
+[naut-168 : resp = "元奇" /zh hnx
+@"http://psi.iba-net.org/person/naut-168"
+]
+[naut-102 : resp = "子璿" /zh hnx
+@"http://psi.iba-net.org/person/naut-102"
+]
+[naut-1053 : resp = "等純" /zh hnx
+@"http://psi.iba-net.org/person/naut-1053"
+]
+[naut-1025 : resp = "法恭" /zh hnx
+@"http://psi.iba-net.org/person/naut-1025"
+]
+[naut-1044 : resp = "成正" /zh hnx
+@"http://psi.iba-net.org/person/naut-1044"
+]
+[naut-878 : resp = "希陵" /zh hnx
+@"http://psi.iba-net.org/person/naut-878"
+]
+[naut-753 : resp = "法恩" /zh hnx
+@"http://psi.iba-net.org/person/naut-753"
+]
+[naut-371 : resp = "聖法" /zh hnx
+@"http://psi.iba-net.org/person/naut-371"
+]
+[naut-835 : resp = "正從" /zh hnx
+@"http://psi.iba-net.org/person/naut-835"
+]
+[naut-771 : resp = "崇岳" /zh hnx
+@"http://psi.iba-net.org/person/naut-771"
+]
+[naut-285 : resp = "張商英撰" /zh hnx
+@"http://psi.iba-net.org/person/naut-285"
+]
+[naut-868 : resp = "文斌" /zh hnx
+@"http://psi.iba-net.org/person/naut-868"
+]
+[naut-1185 : resp = "延一" /zh hnx
+@"http://psi.iba-net.org/person/naut-1185"
+]
+[naut-575 : resp = "廣貴" /zh hnx
+@"http://psi.iba-net.org/person/naut-575"
+]
+[naut-172 : resp = "胡" /zh hnx
+@"http://psi.iba-net.org/person/naut-172"
+]
+[naut-962 : resp = "妙淨" /zh hnx
+@"http://psi.iba-net.org/person/naut-962"
+]
+[naut-5 : resp = "般若" /zh hnx
+@"http://psi.iba-net.org/person/naut-5"
+]
+[naut-971 : resp = "文朗" /zh hnx
+@"http://psi.iba-net.org/person/naut-971"
+]
+[naut-602 : resp = "德煇重編、大訴" /zh hnx
+@"http://psi.iba-net.org/person/naut-602"
+]
+[naut-667 : resp = "一辯問、覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-667"
+]
+[naut-511 : resp = "惟顯" /zh hnx
+@"http://psi.iba-net.org/person/naut-511"
+]
+[naut-164 : resp = "元照" /zh hnx
+@"http://psi.iba-net.org/person/naut-164"
+]
+[naut-217 : resp = "韓巖" /zh hnx
+@"http://psi.iba-net.org/person/naut-217"
+]
+[naut-719 : resp = "覺心" /zh hnx
+@"http://psi.iba-net.org/person/naut-719"
+]
+[naut-220 : resp = "真可" /zh hnx
+@"http://psi.iba-net.org/person/naut-220"
+]
+[naut-763 : resp = "若舟" /zh hnx
+@"http://psi.iba-net.org/person/naut-763"
+]
+[naut-822 : resp = "如海" /zh hnx
+@"http://psi.iba-net.org/person/naut-822"
+]
+[naut-901 : resp = "淨伏、(門人)" /zh hnx
+@"http://psi.iba-net.org/person/naut-901"
+]
+[naut-439 : resp = "繼忠" /zh hnx
+@"http://psi.iba-net.org/person/naut-439"
+]
+[naut-1060 : resp = "文智" /zh hnx
+@"http://psi.iba-net.org/person/naut-1060"
+]
+[naut-737 : resp = "實仁" /zh hnx
+@"http://psi.iba-net.org/person/naut-737"
+]
+[naut-914 : resp = "思敬" /zh hnx
+@"http://psi.iba-net.org/person/naut-914"
+]
+[naut-1012 : resp = "德初" /zh hnx
+@"http://psi.iba-net.org/person/naut-1012"
+]
+[naut-323 : resp = "義寂" /zh hnx
+@"http://psi.iba-net.org/person/naut-323"
+]
+[naut-359 : resp = "玄惲" /zh hnx
+@"http://psi.iba-net.org/person/naut-359"
+]
+[naut-681 : resp = "子和" /zh hnx
+@"http://psi.iba-net.org/person/naut-681"
+]
+[naut-1077 : resp = "王子成" /zh hnx
+@"http://psi.iba-net.org/person/naut-1077"
+]
+[naut-1137 : resp = "際源" /zh hnx
+@"http://psi.iba-net.org/person/naut-1137"
+]
+[naut-1021 : resp = "法為" /zh hnx
+@"http://psi.iba-net.org/person/naut-1021"
+]
+[naut-228 : resp = "徐昌治" /zh hnx
+@"http://psi.iba-net.org/person/naut-228"
+]
+[naut-731 : resp = "元偉" /zh hnx
+@"http://psi.iba-net.org/person/naut-731"
+]
+[naut-60 : resp = "阿謨伽三藏譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-60"
+]
+[naut-509 : resp = "妙生" /zh hnx
+@"http://psi.iba-net.org/person/naut-509"
+]
+[naut-790 : resp = "唯道" /zh hnx
+@"http://psi.iba-net.org/person/naut-790"
+]
+[naut-199 : resp = "鄭澄源" /zh hnx
+@"http://psi.iba-net.org/person/naut-199"
+]
+[naut-1164 : resp = "郭凝之彙編" /zh hnx
+@"http://psi.iba-net.org/person/naut-1164"
+]
+[naut-303 : resp = "崇俊" /zh hnx
+@"http://psi.iba-net.org/person/naut-303"
+]
+[naut-347 : resp = "則安" /zh hnx
+@"http://psi.iba-net.org/person/naut-347"
+]
+[naut-864 : resp = "了因" /zh hnx
+@"http://psi.iba-net.org/person/naut-864"
+]
+[naut-1132 : resp = "曉瑩" /zh hnx
+@"http://psi.iba-net.org/person/naut-1132"
+]
+[naut-4 : resp = "員珂" /zh hnx
+@"http://psi.iba-net.org/person/naut-4"
+]
+[naut-740 : resp = "守愿" /zh hnx
+@"http://psi.iba-net.org/person/naut-740"
+]
+[naut-71 : resp = "慧苑" /zh hnx
+@"http://psi.iba-net.org/person/naut-71"
+]
+[naut-890 : resp = "景用" /zh hnx
+@"http://psi.iba-net.org/person/naut-890"
+]
+[naut-1159 : resp = "志明" /zh hnx
+@"http://psi.iba-net.org/person/naut-1159"
+]
+[naut-385 : resp = "道邑" /zh hnx
+@"http://psi.iba-net.org/person/naut-385"
+]
+[naut-795 : resp = "可宣" /zh hnx
+@"http://psi.iba-net.org/person/naut-795"
+]
+[naut-755 : resp = "可能" /zh hnx
+@"http://psi.iba-net.org/person/naut-755"
+]
+[naut-984 : resp = "曇紹" /zh hnx
+@"http://psi.iba-net.org/person/naut-984"
+]
+[naut-274 : resp = "何道全" /zh hnx
+@"http://psi.iba-net.org/person/naut-274"
+]
+[naut-125 : resp = "廣莫直" /zh hnx
+@"http://psi.iba-net.org/person/naut-125"
+]
+[naut-816 : resp = "淨嘉" /zh hnx
+@"http://psi.iba-net.org/person/naut-816"
+]
+[naut-992 : resp = "善成" /zh hnx
+@"http://psi.iba-net.org/person/naut-992"
+]
+[naut-423 : resp = "源清" /zh hnx
+@"http://psi.iba-net.org/person/naut-423"
+]
+[naut-422 : resp = "道邃" /zh hnx
+@"http://psi.iba-net.org/person/naut-422"
+]
+[naut-166 : resp = "遇榮" /zh hnx
+@"http://psi.iba-net.org/person/naut-166"
+]
+[naut-1085 : resp = "受登" /zh hnx
+@"http://psi.iba-net.org/person/naut-1085"
+]
+[naut-295 : resp = "淨昇" /zh hnx
+@"http://psi.iba-net.org/person/naut-295"
+]
+[naut-774 : resp = "德高" /zh hnx
+@"http://psi.iba-net.org/person/naut-774"
+]
+[naut-688 : resp = "智本" /zh hnx
+@"http://psi.iba-net.org/person/naut-688"
+]
+[naut-308 : resp = "本如述、處咸續" /zh hnx
+@"http://psi.iba-net.org/person/naut-308"
+]
+[naut-1145 : resp = "朱時恩" /zh hnx
+@"http://psi.iba-net.org/person/naut-1145"
+]
+[naut-516 : resp = "守一" /zh hnx
+@"http://psi.iba-net.org/person/naut-516"
+]
+[naut-226 : resp = "王起隆" /zh hnx
+@"http://psi.iba-net.org/person/naut-226"
+]
+[naut-375 : resp = "楊文會" /zh hnx
+@"http://psi.iba-net.org/person/naut-375"
+]
+[naut-159 : resp = "宗曉" /zh hnx
+@"http://psi.iba-net.org/person/naut-159"
+]
+[naut-701 : resp = "普通" /zh hnx
+@"http://psi.iba-net.org/person/naut-701"
+]
+[naut-23 : resp = "龍樹菩薩集" /zh hnx
+@"http://psi.iba-net.org/person/naut-23"
+]
+[naut-69 : resp = "澄觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-69"
+]
+[naut-182 : resp = "法聰" /zh hnx
+@"http://psi.iba-net.org/person/naut-182"
+]
+[naut-440 : resp = "慧觀重編" /zh hnx
+@"http://psi.iba-net.org/person/naut-440"
+]
+[naut-233 : resp = "仲之屏" /zh hnx
+@"http://psi.iba-net.org/person/naut-233"
+]
+[naut-99 : resp = "弘麗" /zh hnx
+@"http://psi.iba-net.org/person/naut-99"
+]
+[naut-1090 : resp = "智證" /zh hnx
+@"http://psi.iba-net.org/person/naut-1090"
+]
+[naut-156 : resp = "灌頂" /zh hnx
+@"http://psi.iba-net.org/person/naut-156"
+]
+[naut-581 : resp = "弟子節鈔" /zh hnx
+@"http://psi.iba-net.org/person/naut-581"
+]
+[naut-101 : resp = "徐鍔" /zh hnx
+@"http://psi.iba-net.org/person/naut-101"
+]
+[naut-698 : resp = "慧開" /zh hnx
+@"http://psi.iba-net.org/person/naut-698"
+]
+[naut-380 : resp = "從芳" /zh hnx
+@"http://psi.iba-net.org/person/naut-380"
+]
+[naut-1063 : resp = "善清" /zh hnx
+@"http://psi.iba-net.org/person/naut-1063"
+]
+[naut-994 : resp = "正參" /zh hnx
+@"http://psi.iba-net.org/person/naut-994"
+]
+[naut-365 : resp = "元曉(疏並別記)" /zh hnx
+@"http://psi.iba-net.org/person/naut-365"
+]
+[naut-721 : resp = "了見、(侍者)" /zh hnx
+@"http://psi.iba-net.org/person/naut-721"
+]
+[naut-1030 : resp = "文素" /zh hnx
+@"http://psi.iba-net.org/person/naut-1030"
+]
+[naut-909 : resp = "宗滿" /zh hnx
+@"http://psi.iba-net.org/person/naut-909"
+]
+[naut-658 : resp = "本瑞直" /zh hnx
+@"http://psi.iba-net.org/person/naut-658"
+]
+[naut-662 : resp = "宗杲集並著" /zh hnx
+@"http://psi.iba-net.org/person/naut-662"
+]
+[naut-829 : resp = "了覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-829"
+]
+[naut-918 : resp = "紹宗" /zh hnx
+@"http://psi.iba-net.org/person/naut-918"
+]
+[naut-149 : resp = "智圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-149"
+]
+[naut-1039 : resp = "德祥" /zh hnx
+@"http://psi.iba-net.org/person/naut-1039"
+]
+[naut-432 : resp = "廣修" /zh hnx
+@"http://psi.iba-net.org/person/naut-432"
+]
+[naut-225 : resp = "圓杲" /zh hnx
+@"http://psi.iba-net.org/person/naut-225"
+]
+[naut-910 : resp = "自然" /zh hnx
+@"http://psi.iba-net.org/person/naut-910"
+]
+[naut-1023 : resp = "曇像" /zh hnx
+@"http://psi.iba-net.org/person/naut-1023"
+]
+[naut-1184 : resp = "慧祥" /zh hnx
+@"http://psi.iba-net.org/person/naut-1184"
+]
+[naut-585 : resp = "菩提達磨" /zh hnx
+@"http://psi.iba-net.org/person/naut-585"
+]
+[naut-1173 : resp = "非濁集" /zh hnx
+@"http://psi.iba-net.org/person/naut-1173"
+]
+[naut-781 : resp = "元樞" /zh hnx
+@"http://psi.iba-net.org/person/naut-781"
+]
+[naut-606 : resp = "惟勉" /zh hnx
+@"http://psi.iba-net.org/person/naut-606"
+]
+[naut-329 : resp = "今釋" /zh hnx
+@"http://psi.iba-net.org/person/naut-329"
+]
+[naut-803 : resp = "如阜" /zh hnx
+@"http://psi.iba-net.org/person/naut-803"
+]
+[naut-794 : resp = "妙源" /zh hnx
+@"http://psi.iba-net.org/person/naut-794"
+]
+[naut-400 : resp = "文軌" /zh hnx
+@"http://psi.iba-net.org/person/naut-400"
+]
+[naut-354 : resp = "景霄纂" /zh hnx
+@"http://psi.iba-net.org/person/naut-354"
+]
+[naut-33 : resp = "尸羅達摩" /zh hnx
+@"http://psi.iba-net.org/person/naut-33"
+]
+[naut-985 : resp = "景瓛" /zh hnx
+@"http://psi.iba-net.org/person/naut-985"
+]
+[naut-1156 : resp = "通旭" /zh hnx
+@"http://psi.iba-net.org/person/naut-1156"
+]
+[naut-315 : resp = "可度重訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-315"
+]
+[naut-272 : resp = "敬止" /zh hnx
+@"http://psi.iba-net.org/person/naut-272"
+]
+[naut-48 : resp = "沙囉巴" /zh hnx
+@"http://psi.iba-net.org/person/naut-48"
+]
+[naut-844 : resp = "銳彰" /zh hnx
+@"http://psi.iba-net.org/person/naut-844"
+]
+[naut-565 : resp = "戒香" /zh hnx
+@"http://psi.iba-net.org/person/naut-565"
+]
+[naut-1150 : resp = "紀蔭" /zh hnx
+@"http://psi.iba-net.org/person/naut-1150"
+]
+[naut-1068 : resp = "道傑" /zh hnx
+@"http://psi.iba-net.org/person/naut-1068"
+]
+[naut-476 : resp = "善熹" /zh hnx
+@"http://psi.iba-net.org/person/naut-476"
+]
+[naut-507 : resp = "慧光" /zh hnx
+@"http://psi.iba-net.org/person/naut-507"
+]
+[naut-207 : resp = "弘贊" /zh hnx
+@"http://psi.iba-net.org/person/naut-207"
+]
+[naut-967 : resp = "普莊" /zh hnx
+@"http://psi.iba-net.org/person/naut-967"
+]
+[naut-27 : resp = "金剛仙菩薩造" /zh hnx
+@"http://psi.iba-net.org/person/naut-27"
+]
+[naut-857 : resp = "修義" /zh hnx
+@"http://psi.iba-net.org/person/naut-857"
+]
+[naut-1116 : resp = "王古輯" /zh hnx
+@"http://psi.iba-net.org/person/naut-1116"
+]
+[naut-964 : resp = "文暐" /zh hnx
+@"http://psi.iba-net.org/person/naut-964"
+]
+[naut-374 : resp = "志福" /zh hnx
+@"http://psi.iba-net.org/person/naut-374"
+]
+[naut-845 : resp = "心寧" /zh hnx
+@"http://psi.iba-net.org/person/naut-845"
+]
+[naut-452 : resp = "自慶" /zh hnx
+@"http://psi.iba-net.org/person/naut-452"
+]
+[naut-562 : resp = "常攝" /zh hnx
+@"http://psi.iba-net.org/person/naut-562"
+]
+[naut-1061 : resp = "師皎" /zh hnx
+@"http://psi.iba-net.org/person/naut-1061"
+]
+[naut-31 : resp = "一行" /zh hnx
+@"http://psi.iba-net.org/person/naut-31"
+]
+[naut-150 : resp = "楊起元評" /zh hnx
+@"http://psi.iba-net.org/person/naut-150"
+]
+[naut-1005 : resp = "宗謐" /zh hnx
+@"http://psi.iba-net.org/person/naut-1005"
+]
+[naut-492 : resp = "憬瑟" /zh hnx
+@"http://psi.iba-net.org/person/naut-492"
+]
+[naut-301 : resp = "佛閑立科、智一" /zh hnx
+@"http://psi.iba-net.org/person/naut-301"
+]
+[naut-932 : resp = "文康" /zh hnx
+@"http://psi.iba-net.org/person/naut-932"
+]
+[naut-364 : resp = "曇延" /zh hnx
+@"http://psi.iba-net.org/person/naut-364"
+]
+[naut-750 : resp = "慧行" /zh hnx
+@"http://psi.iba-net.org/person/naut-750"
+]
+[naut-512 : resp = "俊芿" /zh hnx
+@"http://psi.iba-net.org/person/naut-512"
+]
+[naut-580 : resp = "陶善" /zh hnx
+@"http://psi.iba-net.org/person/naut-580"
+]
+[naut-523 : resp = "儀潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-523"
+]
+[naut-1149 : resp = "大壑" /zh hnx
+@"http://psi.iba-net.org/person/naut-1149"
+]
+[naut-952 : resp = "宗[一/旦
+@"http://psi.iba-net.org/person/naut-952"
+]" /zh hnx]
+[naut-35 : resp = "般若斫羯囉" /zh hnx
+@"http://psi.iba-net.org/person/naut-35"
+]
+[naut-517 : resp = "妙蓮" /zh hnx
+@"http://psi.iba-net.org/person/naut-517"
+]
+[naut-527 : resp = "周思仁" /zh hnx
+@"http://psi.iba-net.org/person/naut-527"
+]
+[naut-777 : resp = "智沂" /zh hnx
+@"http://psi.iba-net.org/person/naut-777"
+]
+[naut-1028 : resp = "師儼" /zh hnx
+@"http://psi.iba-net.org/person/naut-1028"
+]
+[naut-1102 : resp = "覺岸(編集再治)" /zh hnx
+@"http://psi.iba-net.org/person/naut-1102"
+]
+[naut-451 : resp = "普容" /zh hnx
+@"http://psi.iba-net.org/person/naut-451"
+]
+[naut-213 : resp = "徐行善" /zh hnx
+@"http://psi.iba-net.org/person/naut-213"
+]
+[naut-378 : resp = "均正" /zh hnx
+@"http://psi.iba-net.org/person/naut-378"
+]
+[naut-261 : resp = "道楷述、懷深" /zh hnx
+@"http://psi.iba-net.org/person/naut-261"
+]
+[naut-821 : resp = "覺圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-821"
+]
+[naut-832 : resp = "至慧" /zh hnx
+@"http://psi.iba-net.org/person/naut-832"
+]
+[naut-633 : resp = "錢伊庵編" /zh hnx
+@"http://psi.iba-net.org/person/naut-633"
+]
+[naut-738 : resp = "宗文" /zh hnx
+@"http://psi.iba-net.org/person/naut-738"
+]
+[naut-57 : resp = "阿謨伽" /zh hnx
+@"http://psi.iba-net.org/person/naut-57"
+]
+[naut-616 : resp = "張文嘉" /zh hnx
+@"http://psi.iba-net.org/person/naut-616"
+]
+[naut-1086 : resp = "夏道人" /zh hnx
+@"http://psi.iba-net.org/person/naut-1086"
+]
+[naut-302 : resp = "智周" /zh hnx
+@"http://psi.iba-net.org/person/naut-302"
+]
+[naut-646 : resp = "如祐錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-646"
+]
+[naut-431 : resp = "最澄" /zh hnx
+@"http://psi.iba-net.org/person/naut-431"
+]
+[naut-990 : resp = "文晟" /zh hnx
+@"http://psi.iba-net.org/person/naut-990"
+]
+[naut-362 : resp = "曇鸞" /zh hnx
+@"http://psi.iba-net.org/person/naut-362"
+]
+[naut-65 : resp = "靈祐" /zh hnx
+@"http://psi.iba-net.org/person/naut-65"
+]
+[naut-373 : resp = "法悟[束*力
+@"http://psi.iba-net.org/person/naut-373"
+]" /zh hnx]
+[naut-723 : resp = "德溥" /zh hnx
+@"http://psi.iba-net.org/person/naut-723"
+]
+[naut-729 : resp = "淨志" /zh hnx
+@"http://psi.iba-net.org/person/naut-729"
+]
+[naut-796 : resp = "無隱" /zh hnx
+@"http://psi.iba-net.org/person/naut-796"
+]
+[naut-410 : resp = "雲[山/夆
+@"http://psi.iba-net.org/person/naut-410"
+]" /zh hnx]
+[naut-768 : resp = "智瑾" /zh hnx
+@"http://psi.iba-net.org/person/naut-768"
+]
+[naut-838 : resp = "慈證" /zh hnx
+@"http://psi.iba-net.org/person/naut-838"
+]
+[naut-510 : resp = "道詢集" /zh hnx
+@"http://psi.iba-net.org/person/naut-510"
+]
+[naut-0 : resp = "松本文三郎" /zh hnx
+@"http://psi.iba-net.org/person/naut-0"
+]
+[naut-112 : resp = "惟則" /zh hnx
+@"http://psi.iba-net.org/person/naut-112"
+]
+[naut-418 : resp = "梁肅" /zh hnx
+@"http://psi.iba-net.org/person/naut-418"
+]
+[naut-671 : resp = "圓信" /zh hnx
+@"http://psi.iba-net.org/person/naut-671"
+]
+[naut-230 : resp = "鳩摩羅什" /zh hnx
+@"http://psi.iba-net.org/person/naut-230"
+]
+[naut-545 : resp = "受教" /zh hnx
+@"http://psi.iba-net.org/person/naut-545"
+]
+[naut-677 : resp = "楚圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-677"
+]
+[naut-1096 : resp = "寶成" /zh hnx
+@"http://psi.iba-net.org/person/naut-1096"
+]
+[naut-884 : resp = "持正" /zh hnx
+@"http://psi.iba-net.org/person/naut-884"
+]
+[naut-1171 : resp = "懷信" /zh hnx
+@"http://psi.iba-net.org/person/naut-1171"
+]
+[naut-699 : resp = "德秀" /zh hnx
+@"http://psi.iba-net.org/person/naut-699"
+]
+[naut-824 : resp = "惟一" /zh hnx
+@"http://psi.iba-net.org/person/naut-824"
+]
+[naut-600 : resp = "彥琪" /zh hnx
+@"http://psi.iba-net.org/person/naut-600"
+]
+[naut-903 : resp = "居簡" /zh hnx
+@"http://psi.iba-net.org/person/naut-903"
+]
+[naut-372 : resp = "法敏" /zh hnx
+@"http://psi.iba-net.org/person/naut-372"
+]
+[naut-712 : resp = "齊巳" /zh hnx
+@"http://psi.iba-net.org/person/naut-712"
+]
+[naut-133 : resp = "行策" /zh hnx
+@"http://psi.iba-net.org/person/naut-133"
+]
+[naut-503 : resp = "施堯挺" /zh hnx
+@"http://psi.iba-net.org/person/naut-503"
+]
+[naut-513 : resp = "智瑞" /zh hnx
+@"http://psi.iba-net.org/person/naut-513"
+]
+[naut-1031 : resp = "妙宗" /zh hnx
+@"http://psi.iba-net.org/person/naut-1031"
+]
+[naut-1027 : resp = "淨覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1027"
+]
+[naut-911 : resp = "慧觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-911"
+]
+[naut-820 : resp = "智折" /zh hnx
+@"http://psi.iba-net.org/person/naut-820"
+]
+[naut-1160 : resp = "德諫" /zh hnx
+@"http://psi.iba-net.org/person/naut-1160"
+]
+[naut-623 : resp = "胡文煥" /zh hnx
+@"http://psi.iba-net.org/person/naut-623"
+]
+[naut-554 : resp = "了亮" /zh hnx
+@"http://psi.iba-net.org/person/naut-554"
+]
+[naut-709 : resp = "子文" /zh hnx
+@"http://psi.iba-net.org/person/naut-709"
+]
+[naut-243 : resp = "性起" /zh hnx
+@"http://psi.iba-net.org/person/naut-243"
+]
+[naut-126 : resp = "乘[ㄓ/日
+@"http://psi.iba-net.org/person/naut-126"
+]講" /zh hnx]
+[naut-321 : resp = "與咸(入疏箋經加註釋疏)" /zh hnx
+@"http://psi.iba-net.org/person/naut-321"
+]
+[naut-632 : resp = "性統" /zh hnx
+@"http://psi.iba-net.org/person/naut-632"
+]
+[naut-872 : resp = "文寶" /zh hnx
+@"http://psi.iba-net.org/person/naut-872"
+]
+[naut-1106 : resp = "元敬．元復" /zh hnx
+@"http://psi.iba-net.org/person/naut-1106"
+]
+[naut-946 : resp = "祖灊" /zh hnx
+@"http://psi.iba-net.org/person/naut-946"
+]
+[naut-392 : resp = "法寶" /zh hnx
+@"http://psi.iba-net.org/person/naut-392"
+]
+[naut-670 : resp = "師明" /zh hnx
+@"http://psi.iba-net.org/person/naut-670"
+]
+[naut-924 : resp = "本光" /zh hnx
+@"http://psi.iba-net.org/person/naut-924"
+]
+[naut-450 : resp = "志磐" /zh hnx
+@"http://psi.iba-net.org/person/naut-450"
+]
+[naut-570 : resp = "德真" /zh hnx
+@"http://psi.iba-net.org/person/naut-570"
+]
+[naut-539 : resp = "實賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-539"
+]
+[naut-221 : resp = "廣伸" /zh hnx
+@"http://psi.iba-net.org/person/naut-221"
+]
+[naut-1187 : resp = "盛熙明" /zh hnx
+@"http://psi.iba-net.org/person/naut-1187"
+]
+[naut-1089 : resp = "建基" /zh hnx
+@"http://psi.iba-net.org/person/naut-1089"
+]
+[naut-87 : resp = "宗密(於大疏略出)" /zh hnx
+@"http://psi.iba-net.org/person/naut-87"
+]
+[naut-291 : resp = "無相" /zh hnx
+@"http://psi.iba-net.org/person/naut-291"
+]
+[naut-532 : resp = "道鏡" /zh hnx
+@"http://psi.iba-net.org/person/naut-532"
+]
+[naut-866 : resp = "元勗" /zh hnx
+@"http://psi.iba-net.org/person/naut-866"
+]
+[naut-876 : resp = "機雲" /zh hnx
+@"http://psi.iba-net.org/person/naut-876"
+]
+[naut-1167 : resp = "心泰" /zh hnx
+@"http://psi.iba-net.org/person/naut-1167"
+]
+[naut-70 : resp = "復[共/(電-雨)
+@"http://psi.iba-net.org/person/naut-70"
+]" /zh hnx]
+[naut-271 : resp = "王澤泩" /zh hnx
+@"http://psi.iba-net.org/person/naut-271"
+]
+[naut-534 : resp = "澄彧" /zh hnx
+@"http://psi.iba-net.org/person/naut-534"
+]
+[naut-809 : resp = "以文" /zh hnx
+@"http://psi.iba-net.org/person/naut-809"
+]
+[naut-88 : resp = "觀復" /zh hnx
+@"http://psi.iba-net.org/person/naut-88"
+]
+[naut-530 : resp = "迦才" /zh hnx
+@"http://psi.iba-net.org/person/naut-530"
+]
+[naut-240 : resp = "[這-言+亦
+@"http://psi.iba-net.org/person/naut-240"
+]刪鷲" /zh hnx]
+[naut-235 : resp = "王錫琯" /zh hnx
+@"http://psi.iba-net.org/person/naut-235"
+]
+[naut-369 : resp = "法藏造" /zh hnx
+@"http://psi.iba-net.org/person/naut-369"
+]
+[naut-711 : resp = "守詮" /zh hnx
+@"http://psi.iba-net.org/person/naut-711"
+]
+[naut-404 : resp = "惠達" /zh hnx
+@"http://psi.iba-net.org/person/naut-404"
+]
+[naut-561 : resp = "覺明菩薩說" /zh hnx
+@"http://psi.iba-net.org/person/naut-561"
+]
+[naut-587 : resp = "北天竺" /zh hnx
+@"http://psi.iba-net.org/person/naut-587"
+]
+[naut-979 : resp = "曇噩" /zh hnx
+@"http://psi.iba-net.org/person/naut-979"
+]
+[naut-111 : resp = "圓澄" /zh hnx
+@"http://psi.iba-net.org/person/naut-111"
+]
+[naut-115 : resp = "智旭" /zh hnx
+@"http://psi.iba-net.org/person/naut-115"
+]
+[naut-1114 : resp = "了圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-1114"
+]
+[naut-351 : resp = "懷素" /zh hnx
+@"http://psi.iba-net.org/person/naut-351"
+]
+[naut-119 : resp = "凌弘憲點" /zh hnx
+@"http://psi.iba-net.org/person/naut-119"
+]
+[naut-232 : resp = "徐發詮" /zh hnx
+@"http://psi.iba-net.org/person/naut-232"
+]
+[naut-1180 : resp = "佐伯定胤．中野達慧共" /zh hnx
+@"http://psi.iba-net.org/person/naut-1180"
+]
+[naut-352 : resp = "大覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-352"
+]
+[naut-162 : resp = "來舟" /zh hnx
+@"http://psi.iba-net.org/person/naut-162"
+]
+[naut-1070 : resp = "宗[山/乃
+@"http://psi.iba-net.org/person/naut-1070"
+]" /zh hnx]
+[naut-497 : resp = "神愷" /zh hnx
+@"http://psi.iba-net.org/person/naut-497"
+]
+[naut-145 : resp = "慧遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-145"
+]
+[naut-356 : resp = "慧顯" /zh hnx
+@"http://psi.iba-net.org/person/naut-356"
+]
+[naut-846 : resp = "慧恭" /zh hnx
+@"http://psi.iba-net.org/person/naut-846"
+]
+[naut-1009 : resp = "良玓" /zh hnx
+@"http://psi.iba-net.org/person/naut-1009"
+]
+[naut-954 : resp = "惟寂" /zh hnx
+@"http://psi.iba-net.org/person/naut-954"
+]
+[naut-468 : resp = "澄觀撰、宗密" /zh hnx
+@"http://psi.iba-net.org/person/naut-468"
+]
+[naut-383 : resp = "廣益" /zh hnx
+@"http://psi.iba-net.org/person/naut-383"
+]
+[naut-358 : resp = "道標" /zh hnx
+@"http://psi.iba-net.org/person/naut-358"
+]
+[naut-234 : resp = "翁春" /zh hnx
+@"http://psi.iba-net.org/person/naut-234"
+]
+[naut-529 : resp = "道綽" /zh hnx
+@"http://psi.iba-net.org/person/naut-529"
+]
+[naut-831 : resp = "妙因" /zh hnx
+@"http://psi.iba-net.org/person/naut-831"
+]
+[naut-713 : resp = "如本" /zh hnx
+@"http://psi.iba-net.org/person/naut-713"
+]
+[naut-870 : resp = "處林" /zh hnx
+@"http://psi.iba-net.org/person/naut-870"
+]
+[naut-941 : resp = "汝現" /zh hnx
+@"http://psi.iba-net.org/person/naut-941"
+]
+[naut-1157 : resp = "道融" /zh hnx
+@"http://psi.iba-net.org/person/naut-1157"
+]
+[naut-640 : resp = "大香" /zh hnx
+@"http://psi.iba-net.org/person/naut-640"
+]
+[naut-802 : resp = "似涇" /zh hnx
+@"http://psi.iba-net.org/person/naut-802"
+]
+[naut-304 : resp = "法清集疏" /zh hnx
+@"http://psi.iba-net.org/person/naut-304"
+]
+[naut-1188 : resp = "一然" /zh hnx
+@"http://psi.iba-net.org/person/naut-1188"
+]
+[naut-696 : resp = "惟珪" /zh hnx
+@"http://psi.iba-net.org/person/naut-696"
+]
+[naut-842 : resp = "德修" /zh hnx
+@"http://psi.iba-net.org/person/naut-842"
+]
+[naut-734 : resp = "惟實" /zh hnx
+@"http://psi.iba-net.org/person/naut-734"
+]
+[naut-55 : resp = "龜茲國" /zh hnx
+@"http://psi.iba-net.org/person/naut-55"
+]
+[naut-343 : resp = "道言" /zh hnx
+@"http://psi.iba-net.org/person/naut-343"
+]
+[naut-1099 : resp = "本覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1099"
+]
+[naut-8 : resp = "失譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-8"
+]
+[naut-839 : resp = "宗永" /zh hnx
+@"http://psi.iba-net.org/person/naut-839"
+]
+[naut-572 : resp = "程兆鸞錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-572"
+]
+[naut-935 : resp = "祖杲" /zh hnx
+@"http://psi.iba-net.org/person/naut-935"
+]
+[naut-577 : resp = "尼量海" /zh hnx
+@"http://psi.iba-net.org/person/naut-577"
+]
+[naut-1135 : resp = "黎眉" /zh hnx
+@"http://psi.iba-net.org/person/naut-1135"
+]
+[naut-875 : resp = "祖燈" /zh hnx
+@"http://psi.iba-net.org/person/naut-875"
+]
+[naut-961 : resp = "思靜" /zh hnx
+@"http://psi.iba-net.org/person/naut-961"
+]
+[naut-904 : resp = "妙心" /zh hnx
+@"http://psi.iba-net.org/person/naut-904"
+]
+[naut-567 : resp = "卍蓮" /zh hnx
+@"http://psi.iba-net.org/person/naut-567"
+]
+[naut-490 : resp = "潛真" /zh hnx
+@"http://psi.iba-net.org/person/naut-490"
+]
+[naut-804 : resp = "似藻" /zh hnx
+@"http://psi.iba-net.org/person/naut-804"
+]
+[naut-1115 : resp = "道詵" /zh hnx
+@"http://psi.iba-net.org/person/naut-1115"
+]
+[naut-748 : resp = "文煥" /zh hnx
+@"http://psi.iba-net.org/person/naut-748"
+]
+[naut-694 : resp = "法清" /zh hnx
+@"http://psi.iba-net.org/person/naut-694"
+]
+[naut-64 : resp = "靜居" /zh hnx
+@"http://psi.iba-net.org/person/naut-64"
+]
+[naut-745 : resp = "法從" /zh hnx
+@"http://psi.iba-net.org/person/naut-745"
+]
+[naut-1098 : resp = "宗鑑" /zh hnx
+@"http://psi.iba-net.org/person/naut-1098"
+]
+[naut-163 : resp = "圓測" /zh hnx
+@"http://psi.iba-net.org/person/naut-163"
+]
+[naut-1074 : resp = "許元釗" /zh hnx
+@"http://psi.iba-net.org/person/naut-1074"
+]
+[naut-928 : resp = "海壽" /zh hnx
+@"http://psi.iba-net.org/person/naut-928"
+]
+[naut-1040 : resp = "士慘" /zh hnx
+@"http://psi.iba-net.org/person/naut-1040"
+]
+[naut-639 : resp = "德弘編" /zh hnx
+@"http://psi.iba-net.org/person/naut-639"
+]
+[naut-578 : resp = "彭際清著、弟子" /zh hnx
+@"http://psi.iba-net.org/person/naut-578"
+]
+[naut-649 : resp = "克勤評唱" /zh hnx
+@"http://psi.iba-net.org/person/naut-649"
+]
+[naut-1112 : resp = "士衡" /zh hnx
+@"http://psi.iba-net.org/person/naut-1112"
+]
+[naut-669 : resp = "賾藏主" /zh hnx
+@"http://psi.iba-net.org/person/naut-669"
+]
+[naut-77 : resp = "澄觀別行疏、宗密" /zh hnx
+@"http://psi.iba-net.org/person/naut-77"
+]
+[naut-305 : resp = "栖復" /zh hnx
+@"http://psi.iba-net.org/person/naut-305"
+]
+[naut-415 : resp = "慧思" /zh hnx
+@"http://psi.iba-net.org/person/naut-415"
+]
+[naut-388 : resp = "王肯堂" /zh hnx
+@"http://psi.iba-net.org/person/naut-388"
+]
+[naut-265 : resp = "李贄" /zh hnx
+@"http://psi.iba-net.org/person/naut-265"
+]
+[naut-673 : resp = "慧印校" /zh hnx
+@"http://psi.iba-net.org/person/naut-673"
+]
+[naut-29 : resp = "菩提金剛" /zh hnx
+@"http://psi.iba-net.org/person/naut-29"
+]
+[naut-1078 : resp = "古崑錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-1078"
+]
+[naut-982 : resp = "祖光" /zh hnx
+@"http://psi.iba-net.org/person/naut-982"
+]
+[naut-104 : resp = "思坦" /zh hnx
+@"http://psi.iba-net.org/person/naut-104"
+]
+[naut-118 : resp = "錢謙益" /zh hnx
+@"http://psi.iba-net.org/person/naut-118"
+]
+[naut-320 : resp = "明曠刪" /zh hnx
+@"http://psi.iba-net.org/person/naut-320"
+]
+[naut-514 : resp = "妙音" /zh hnx
+@"http://psi.iba-net.org/person/naut-514"
+]
+[naut-947 : resp = "清逸" /zh hnx
+@"http://psi.iba-net.org/person/naut-947"
+]
+[naut-289 : resp = "一如" /zh hnx
+@"http://psi.iba-net.org/person/naut-289"
+]
+[naut-138 : resp = "寶臣" /zh hnx
+@"http://psi.iba-net.org/person/naut-138"
+]
+[naut-21 : resp = "馬鳴菩薩集" /zh hnx
+@"http://psi.iba-net.org/person/naut-21"
+]
+[naut-897 : resp = "仁安" /zh hnx
+@"http://psi.iba-net.org/person/naut-897"
+]
+[naut-708 : resp = "一見" /zh hnx
+@"http://psi.iba-net.org/person/naut-708"
+]
+[naut-210 : resp = "慧能" /zh hnx
+@"http://psi.iba-net.org/person/naut-210"
+]
+[naut-479 : resp = "善堅" /zh hnx
+@"http://psi.iba-net.org/person/naut-479"
+]
+[naut-1176 : resp = "佐佐木憲德" /zh hnx
+@"http://psi.iba-net.org/person/naut-1176"
+]
+[naut-1155 : resp = "高承埏補" /zh hnx
+@"http://psi.iba-net.org/person/naut-1155"
+]
+[naut-693 : resp = "慶會" /zh hnx
+@"http://psi.iba-net.org/person/naut-693"
+]
+[naut-473 : resp = "義天" /zh hnx
+@"http://psi.iba-net.org/person/naut-473"
+]
+[naut-330 : resp = "道昉訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-330"
+]
+[naut-318 : resp = "真宗皇帝" /zh hnx
+@"http://psi.iba-net.org/person/naut-318"
+]
+[naut-934 : resp = "志道" /zh hnx
+@"http://psi.iba-net.org/person/naut-934"
+]
+[naut-391 : resp = "明昱錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-391"
+]
+[naut-1094 : resp = "道誠" /zh hnx
+@"http://psi.iba-net.org/person/naut-1094"
+]
+[naut-1058 : resp = "柳湞" /zh hnx
+@"http://psi.iba-net.org/person/naut-1058"
+]
+[naut-61 : resp = "闍那多迦" /zh hnx
+@"http://psi.iba-net.org/person/naut-61"
+]
+[naut-848 : resp = "自悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-848"
+]
+[naut-1008 : resp = "廷璨" /zh hnx
+@"http://psi.iba-net.org/person/naut-1008"
+]
+[naut-830 : resp = "師坦" /zh hnx
+@"http://psi.iba-net.org/person/naut-830"
+]
+[naut-643 : resp = "淨符" /zh hnx
+@"http://psi.iba-net.org/person/naut-643"
+]
+[naut-1032 : resp = "唯敬" /zh hnx
+@"http://psi.iba-net.org/person/naut-1032"
+]
+[naut-1148 : resp = "曇噩撰" /zh hnx
+@"http://psi.iba-net.org/person/naut-1148"
+]
+[naut-327 : resp = "法銑" /zh hnx
+@"http://psi.iba-net.org/person/naut-327"
+]
+[naut-540 : resp = "莊廣還輯" /zh hnx
+@"http://psi.iba-net.org/person/naut-540"
+]
+[naut-1067 : resp = "宗敬" /zh hnx
+@"http://psi.iba-net.org/person/naut-1067"
+]
+[naut-833 : resp = "了垠" /zh hnx
+@"http://psi.iba-net.org/person/naut-833"
+]
+[naut-989 : resp = "胤丘" /zh hnx
+@"http://psi.iba-net.org/person/naut-989"
+]
+[naut-160 : resp = "受汰" /zh hnx
+@"http://psi.iba-net.org/person/naut-160"
+]
+[naut-801 : resp = "德惟" /zh hnx
+@"http://psi.iba-net.org/person/naut-801"
+]
+[naut-767 : resp = "淨球" /zh hnx
+@"http://psi.iba-net.org/person/naut-767"
+]
+[naut-682 : resp = "仲介" /zh hnx
+@"http://psi.iba-net.org/person/naut-682"
+]
+[naut-944 : resp = "景毅" /zh hnx
+@"http://psi.iba-net.org/person/naut-944"
+]
+[naut-116 : resp = "道昉參訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-116"
+]
+[naut-197 : resp = "達林參訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-197"
+]
+[naut-896 : resp = "光玉" /zh hnx
+@"http://psi.iba-net.org/person/naut-896"
+]
+[naut-863 : resp = "子昶" /zh hnx
+@"http://psi.iba-net.org/person/naut-863"
+]
+[naut-202 : resp = "工布查布譯並解" /zh hnx
+@"http://psi.iba-net.org/person/naut-202"
+]
+[naut-672 : resp = "郭凝之" /zh hnx
+@"http://psi.iba-net.org/person/naut-672"
+]
+[naut-134 : resp = "諦閑" /zh hnx
+@"http://psi.iba-net.org/person/naut-134"
+]
+[naut-886 : resp = "善遇" /zh hnx
+@"http://psi.iba-net.org/person/naut-886"
+]
+[naut-100 : resp = "通理" /zh hnx
+@"http://psi.iba-net.org/person/naut-100"
+]
+[naut-1018 : resp = "信悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-1018"
+]
+[naut-286 : resp = "聞達" /zh hnx
+@"http://psi.iba-net.org/person/naut-286"
+]
+[naut-551 : resp = "俞行敏" /zh hnx
+@"http://psi.iba-net.org/person/naut-551"
+]
+[naut-446 : resp = "可觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-446"
+]
+[naut-195 : resp = "大慧" /zh hnx
+@"http://psi.iba-net.org/person/naut-195"
+]
+[naut-1014 : resp = "宗法" /zh hnx
+@"http://psi.iba-net.org/person/naut-1014"
+]
+[naut-486 : resp = "灌頂阿闍梨" /zh hnx
+@"http://psi.iba-net.org/person/naut-486"
+]
+[naut-135 : resp = "溥畹" /zh hnx
+@"http://psi.iba-net.org/person/naut-135"
+]
+[naut-209 : resp = "葛[鼎*彗
+@"http://psi.iba-net.org/person/naut-209"
+]提" /zh hnx]
+[naut-176 : resp = "守千" /zh hnx
+@"http://psi.iba-net.org/person/naut-176"
+]
+[naut-130 : resp = "靈耀" /zh hnx
+@"http://psi.iba-net.org/person/naut-130"
+]
+[naut-82 : resp = "表員" /zh hnx
+@"http://psi.iba-net.org/person/naut-82"
+]
+[naut-1006 : resp = "妙門" /zh hnx
+@"http://psi.iba-net.org/person/naut-1006"
+]
+[naut-361 : resp = "永海" /zh hnx
+@"http://psi.iba-net.org/person/naut-361"
+]
+[naut-612 : resp = "元來說、成正" /zh hnx
+@"http://psi.iba-net.org/person/naut-612"
+]
+[naut-377 : resp = "碩法師" /zh hnx
+@"http://psi.iba-net.org/person/naut-377"
+]
+[naut-579 : resp = "彭紹升著、弟子" /zh hnx
+@"http://psi.iba-net.org/person/naut-579"
+]
+[naut-191 : resp = "傳燈鈔" /zh hnx
+@"http://psi.iba-net.org/person/naut-191"
+]
+[naut-484 : resp = "遍智" /zh hnx
+@"http://psi.iba-net.org/person/naut-484"
+]
+[naut-1066 : resp = "普紹" /zh hnx
+@"http://psi.iba-net.org/person/naut-1066"
+]
+[naut-865 : resp = "彌安" /zh hnx
+@"http://psi.iba-net.org/person/naut-865"
+]
+[naut-1110 : resp = "弘璧" /zh hnx
+@"http://psi.iba-net.org/person/naut-1110"
+]
+[naut-1144 : resp = "如巹" /zh hnx
+@"http://psi.iba-net.org/person/naut-1144"
+]
+[naut-1000 : resp = "寶盈" /zh hnx
+@"http://psi.iba-net.org/person/naut-1000"
+]
+[naut-396 : resp = "圓暉" /zh hnx
+@"http://psi.iba-net.org/person/naut-396"
+]
+[naut-120 : resp = "函[曰/正
+@"http://psi.iba-net.org/person/naut-120"
+]" /zh hnx]
+[naut-663 : resp = "祖慶" /zh hnx
+@"http://psi.iba-net.org/person/naut-663"
+]
+[naut-426 : resp = "可度" /zh hnx
+@"http://psi.iba-net.org/person/naut-426"
+]
+[naut-412 : resp = "行舟" /zh hnx
+@"http://psi.iba-net.org/person/naut-412"
+]
+[naut-1103 : resp = "幻輪" /zh hnx
+@"http://psi.iba-net.org/person/naut-1103"
+]
+[naut-556 : resp = "張師誠" /zh hnx
+@"http://psi.iba-net.org/person/naut-556"
+]
+[naut-942 : resp = "元寶" /zh hnx
+@"http://psi.iba-net.org/person/naut-942"
+]
+[naut-147 : resp = "大乘基" /zh hnx
+@"http://psi.iba-net.org/person/naut-147"
+]
+[naut-1071 : resp = "祖祿" /zh hnx
+@"http://psi.iba-net.org/person/naut-1071"
+]
+[naut-256 : resp = "靖邁" /zh hnx
+@"http://psi.iba-net.org/person/naut-256"
+]
+[naut-583 : resp = "德潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-583"
+]
+[naut-208 : resp = "大隱" /zh hnx
+@"http://psi.iba-net.org/person/naut-208"
+]
+[naut-987 : resp = "應訢" /zh hnx
+@"http://psi.iba-net.org/person/naut-987"
+]
+[naut-409 : resp = "鎮澄" /zh hnx
+@"http://psi.iba-net.org/person/naut-409"
+]
+[naut-419 : resp = "道邃說乾淑" /zh hnx
+@"http://psi.iba-net.org/person/naut-419"
+]
+[naut-175 : resp = "憬興" /zh hnx
+@"http://psi.iba-net.org/person/naut-175"
+]
+[naut-574 : resp = "鄭韋庵" /zh hnx
+@"http://psi.iba-net.org/person/naut-574"
+]
+[naut-1178 : resp = "彥琮" /zh hnx
+@"http://psi.iba-net.org/person/naut-1178"
+]
+[naut-597 : resp = "廣輝釋" /zh hnx
+@"http://psi.iba-net.org/person/naut-597"
+]
+[naut-292 : resp = "圓澄說、明海" /zh hnx
+@"http://psi.iba-net.org/person/naut-292"
+]
+[naut-789 : resp = "法洪" /zh hnx
+@"http://psi.iba-net.org/person/naut-789"
+]
+[naut-1105 : resp = "明河" /zh hnx
+@"http://psi.iba-net.org/person/naut-1105"
+]
+[naut-414 : resp = "善漳等錄" /zh hnx
+@"http://psi.iba-net.org/person/naut-414"
+]
+[naut-398 : resp = "失名者補作" /zh hnx
+@"http://psi.iba-net.org/person/naut-398"
+]
+[naut-169 : resp = "太賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-169"
+]
+[naut-43 : resp = "失" /zh hnx
+@"http://psi.iba-net.org/person/naut-43"
+]
+[naut-1064 : resp = "善隨" /zh hnx
+@"http://psi.iba-net.org/person/naut-1064"
+]
+[naut-955 : resp = "宗寄" /zh hnx
+@"http://psi.iba-net.org/person/naut-955"
+]
+[naut-200 : resp = "了根" /zh hnx
+@"http://psi.iba-net.org/person/naut-200"
+]
+[naut-1001 : resp = "至寶" /zh hnx
+@"http://psi.iba-net.org/person/naut-1001"
+]
+[naut-95 : resp = "元粹" /zh hnx
+@"http://psi.iba-net.org/person/naut-95"
+]
+[naut-501 : resp = "造玄增" /zh hnx
+@"http://psi.iba-net.org/person/naut-501"
+]
+[naut-1139 : resp = "達珍" /zh hnx
+@"http://psi.iba-net.org/person/naut-1139"
+]
+[naut-1046 : resp = "太泉" /zh hnx
+@"http://psi.iba-net.org/person/naut-1046"
+]
+[naut-206 : resp = "法崇" /zh hnx
+@"http://psi.iba-net.org/person/naut-206"
+]
+[naut-205 : resp = "不可思議" /zh hnx
+@"http://psi.iba-net.org/person/naut-205"
+]
+[naut-559 : resp = "芳慧" /zh hnx
+@"http://psi.iba-net.org/person/naut-559"
+]
+[naut-453 : resp = "克勤" /zh hnx
+@"http://psi.iba-net.org/person/naut-453"
+]
+[naut-593 : resp = "文[冰-水+中
+@"http://psi.iba-net.org/person/naut-593"
+](重校編集)" /zh hnx]
+[naut-685 : resp = "道務" /zh hnx
+@"http://psi.iba-net.org/person/naut-685"
+]
+[naut-40 : resp = "金剛智" /zh hnx
+@"http://psi.iba-net.org/person/naut-40"
+]
+[naut-977 : resp = "道哲" /zh hnx
+@"http://psi.iba-net.org/person/naut-977"
+]
+[naut-1131 : resp = "道行" /zh hnx
+@"http://psi.iba-net.org/person/naut-1131"
+]
+[naut-784 : resp = "師肇" /zh hnx
+@"http://psi.iba-net.org/person/naut-784"
+]
+[naut-231 : resp = "偈" /zh hnx
+@"http://psi.iba-net.org/person/naut-231"
+]
+[naut-648 : resp = "重顯" /zh hnx
+@"http://psi.iba-net.org/person/naut-648"
+]
+[naut-683 : resp = "慧弼" /zh hnx
+@"http://psi.iba-net.org/person/naut-683"
+]
+[naut-615 : resp = "大建" /zh hnx
+@"http://psi.iba-net.org/person/naut-615"
+]
+[naut-254 : resp = "良賁" /zh hnx
+@"http://psi.iba-net.org/person/naut-254"
+]
+[naut-664 : resp = "慧開語、宗紹" /zh hnx
+@"http://psi.iba-net.org/person/naut-664"
+]
+[naut-726 : resp = "中孚" /zh hnx
+@"http://psi.iba-net.org/person/naut-726"
+]
+[naut-502 : resp = "謝于教" /zh hnx
+@"http://psi.iba-net.org/person/naut-502"
+]
+[naut-776 : resp = "道[冰-水+中
+@"http://psi.iba-net.org/person/naut-776"
+]" /zh hnx]
+[naut-42 : resp = "解脫師子" /zh hnx
+@"http://psi.iba-net.org/person/naut-42"
+]
+[naut-151 : resp = "窺基" /zh hnx
+@"http://psi.iba-net.org/person/naut-151"
+]
+[naut-399 : resp = "元瑜" /zh hnx
+@"http://psi.iba-net.org/person/naut-399"
+]
+[naut-259 : resp = "仲希" /zh hnx
+@"http://psi.iba-net.org/person/naut-259"
+]
+[naut-39 : resp = "達磨栖那" /zh hnx
+@"http://psi.iba-net.org/person/naut-39"
+]
+[naut-836 : resp = "自永" /zh hnx
+@"http://psi.iba-net.org/person/naut-836"
+]
+[naut-1035 : resp = "祖日" /zh hnx
+@"http://psi.iba-net.org/person/naut-1035"
+]
+[naut-943 : resp = "慧朗" /zh hnx
+@"http://psi.iba-net.org/person/naut-943"
+]
+[naut-1136 : resp = "通問編定、施沛" /zh hnx
+@"http://psi.iba-net.org/person/naut-1136"
+]
+[naut-974 : resp = "智勝" /zh hnx
+@"http://psi.iba-net.org/person/naut-974"
+]
+[naut-445 : resp = "可觀述智增" /zh hnx
+@"http://psi.iba-net.org/person/naut-445"
+]
+[naut-1121 : resp = "悟明" /zh hnx
+@"http://psi.iba-net.org/person/naut-1121"
+]
+[naut-393 : resp = "神泰" /zh hnx
+@"http://psi.iba-net.org/person/naut-393"
+]
+[naut-596 : resp = "慧霞" /zh hnx
+@"http://psi.iba-net.org/person/naut-596"
+]
+[naut-968 : resp = "宗遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-968"
+]
+[naut-1038 : resp = "清茂" /zh hnx
+@"http://psi.iba-net.org/person/naut-1038"
+]
+[naut-62 : resp = "靈辨" /zh hnx
+@"http://psi.iba-net.org/person/naut-62"
+]
+[naut-132 : resp = "續法" /zh hnx
+@"http://psi.iba-net.org/person/naut-132"
+]
+[naut-437 : resp = "德圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-437"
+]
+[naut-268 : resp = "通容" /zh hnx
+@"http://psi.iba-net.org/person/naut-268"
+]
+[naut-1037 : resp = "德霑" /zh hnx
+@"http://psi.iba-net.org/person/naut-1037"
+]
+[naut-449 : resp = "宗印" /zh hnx
+@"http://psi.iba-net.org/person/naut-449"
+]
+[naut-310 : resp = "[言*(上/小)
+@"http://psi.iba-net.org/person/naut-310"
+]震" /zh hnx]
+[naut-273 : resp = "大顛祖師" /zh hnx
+@"http://psi.iba-net.org/person/naut-273"
+]
+[naut-474 : resp = "希[廷-壬+由
+@"http://psi.iba-net.org/person/naut-474"
+]註" /zh hnx]
+[naut-204 : resp = "覺苑" /zh hnx
+@"http://psi.iba-net.org/person/naut-204"
+]
+[naut-528 : resp = "彭紹升" /zh hnx
+@"http://psi.iba-net.org/person/naut-528"
+]
+[naut-279 : resp = "智銓" /zh hnx
+@"http://psi.iba-net.org/person/naut-279"
+]
+[naut-319 : resp = "淨挺" /zh hnx
+@"http://psi.iba-net.org/person/naut-319"
+]
+[naut-553 : resp = "柳子厚" /zh hnx
+@"http://psi.iba-net.org/person/naut-553"
+]
+[naut-267 : resp = "諸萬里" /zh hnx
+@"http://psi.iba-net.org/person/naut-267"
+]
+[naut-976 : resp = "曇頓" /zh hnx
+@"http://psi.iba-net.org/person/naut-976"
+]
+[naut-140 : resp = "善月" /zh hnx
+@"http://psi.iba-net.org/person/naut-140"
+]
+[naut-480 : resp = "圓覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-480"
+]
+[naut-469 : resp = "宗豫" /zh hnx
+@"http://psi.iba-net.org/person/naut-469"
+]
+[naut-749 : resp = "淨伏" /zh hnx
+@"http://psi.iba-net.org/person/naut-749"
+]
+[naut-203 : resp = "一行述" /zh hnx
+@"http://psi.iba-net.org/person/naut-203"
+]
+[naut-22 : resp = "觀無畏尊者集" /zh hnx
+@"http://psi.iba-net.org/person/naut-22"
+]
+[naut-772 : resp = "了悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-772"
+]
+[naut-635 : resp = "行海" /zh hnx
+@"http://psi.iba-net.org/person/naut-635"
+]
+[naut-869 : resp = "汝均" /zh hnx
+@"http://psi.iba-net.org/person/naut-869"
+]
+[naut-547 : resp = "嚴培西" /zh hnx
+@"http://psi.iba-net.org/person/naut-547"
+]
+[naut-266 : resp = "洪恩" /zh hnx
+@"http://psi.iba-net.org/person/naut-266"
+]
+[naut-260 : resp = "慧忠" /zh hnx
+@"http://psi.iba-net.org/person/naut-260"
+]
+[naut-430 : resp = "海眼" /zh hnx
+@"http://psi.iba-net.org/person/naut-430"
+]
+[naut-80 : resp = "鮮演" /zh hnx
+@"http://psi.iba-net.org/person/naut-80"
+]
+[naut-345 : resp = "德基" /zh hnx
+@"http://psi.iba-net.org/person/naut-345"
+]
+[naut-339 : resp = "定賓" /zh hnx
+@"http://psi.iba-net.org/person/naut-339"
+]
+[naut-51 : resp = "義雲法金剛．菩提仙" /zh hnx
+@"http://psi.iba-net.org/person/naut-51"
+]
+[naut-823 : resp = "妙倫" /zh hnx
+@"http://psi.iba-net.org/person/naut-823"
+]
+[naut-622 : resp = "師遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-622"
+]
+[naut-700 : resp = "普敬" /zh hnx
+@"http://psi.iba-net.org/person/naut-700"
+]
+[naut-1059 : resp = "朱嘉謨" /zh hnx
+@"http://psi.iba-net.org/person/naut-1059"
+]
+[naut-1104 : resp = "寶唱" /zh hnx
+@"http://psi.iba-net.org/person/naut-1104"
+]
+[naut-1125 : resp = "寶曇" /zh hnx
+@"http://psi.iba-net.org/person/naut-1125"
+]
+[naut-566 : resp = "張淵" /zh hnx
+@"http://psi.iba-net.org/person/naut-566"
+]
+[naut-244 : resp = "行敏" /zh hnx
+@"http://psi.iba-net.org/person/naut-244"
+]
+[naut-993 : resp = "中端" /zh hnx
+@"http://psi.iba-net.org/person/naut-993"
+]
+[naut-341 : resp = "允堪" /zh hnx
+@"http://psi.iba-net.org/person/naut-341"
+]
+[naut-818 : resp = "惠明" /zh hnx
+@"http://psi.iba-net.org/person/naut-818"
+]
+[naut-263 : resp = "宋濂文" /zh hnx
+@"http://psi.iba-net.org/person/naut-263"
+]
+[naut-828 : resp = "紹曇" /zh hnx
+@"http://psi.iba-net.org/person/naut-828"
+]
+[naut-592 : resp = "文益" /zh hnx
+@"http://psi.iba-net.org/person/naut-592"
+]
+[naut-1123 : resp = "自融" /zh hnx
+@"http://psi.iba-net.org/person/naut-1123"
+]
+[naut-105 : resp = "仁岳" /zh hnx
+@"http://psi.iba-net.org/person/naut-105"
+]
+[naut-654 : resp = "從倫" /zh hnx
+@"http://psi.iba-net.org/person/naut-654"
+]
+[naut-676 : resp = "于[由*頁
+@"http://psi.iba-net.org/person/naut-676"
+]" /zh hnx]
+[naut-535 : resp = "王日休" /zh hnx
+@"http://psi.iba-net.org/person/naut-535"
+]
+[naut-806 : resp = "文衡" /zh hnx
+@"http://psi.iba-net.org/person/naut-806"
+]
+[naut-357 : resp = "戒月" /zh hnx
+@"http://psi.iba-net.org/person/naut-357"
+]
+[naut-457 : resp = "性權" /zh hnx
+@"http://psi.iba-net.org/person/naut-457"
+]
+[naut-957 : resp = "清歲" /zh hnx
+@"http://psi.iba-net.org/person/naut-957"
+]
+[naut-582 : resp = "觀如" /zh hnx
+@"http://psi.iba-net.org/person/naut-582"
+]
+[naut-76 : resp = "宗密" /zh hnx
+@"http://psi.iba-net.org/person/naut-76"
+]
+[naut-411 : resp = "正誨" /zh hnx
+@"http://psi.iba-net.org/person/naut-411"
+]
+[naut-106 : resp = "惟愍科可度" /zh hnx
+@"http://psi.iba-net.org/person/naut-106"
+]
+[naut-460 : resp = "承遷" /zh hnx
+@"http://psi.iba-net.org/person/naut-460"
+]
+[naut-1166 : resp = "靈操撰" /zh hnx
+@"http://psi.iba-net.org/person/naut-1166"
+]
+[naut-299 : resp = "廣和編定" /zh hnx
+@"http://psi.iba-net.org/person/naut-299"
+]
+[naut-1097 : resp = "祖琇" /zh hnx
+@"http://psi.iba-net.org/person/naut-1097"
+]
+[naut-718 : resp = "道謙" /zh hnx
+@"http://psi.iba-net.org/person/naut-718"
+]
+[naut-311 : resp = "寶亮" /zh hnx
+@"http://psi.iba-net.org/person/naut-311"
+]
+[naut-882 : resp = "至柔" /zh hnx
+@"http://psi.iba-net.org/person/naut-882"
+]
+[naut-194 : resp = "徐槐廷" /zh hnx
+@"http://psi.iba-net.org/person/naut-194"
+]
+[naut-72 : resp = "李通玄" /zh hnx
+@"http://psi.iba-net.org/person/naut-72"
+]
+[naut-873 : resp = "善靖" /zh hnx
+@"http://psi.iba-net.org/person/naut-873"
+]
+[naut-1052 : resp = "黃大廣" /zh hnx
+@"http://psi.iba-net.org/person/naut-1052"
+]
+[naut-715 : resp = "法慧" /zh hnx
+@"http://psi.iba-net.org/person/naut-715"
+]
+[naut-79 : resp = "淨源錄疏注經" /zh hnx
+@"http://psi.iba-net.org/person/naut-79"
+]
+[naut-834 : resp = "妙恩" /zh hnx
+@"http://psi.iba-net.org/person/naut-834"
+]
+[naut-7 : resp = "唐僧鎧" /zh hnx
+@"http://psi.iba-net.org/person/naut-7"
+]
+[naut-1179 : resp = "贊寧" /zh hnx
+@"http://psi.iba-net.org/person/naut-1179"
+]
+[naut-759 : resp = "宗和" /zh hnx
+@"http://psi.iba-net.org/person/naut-759"
+]
+[naut-1118 : resp = "胡[王*延
+@"http://psi.iba-net.org/person/naut-1118"
+]" /zh hnx]
+[naut-214 : resp = "宗鏡" /zh hnx
+@"http://psi.iba-net.org/person/naut-214"
+]
+[naut-128 : resp = "元賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-128"
+]
+[naut-456 : resp = "蒙潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-456"
+]
+[naut-158 : resp = "從義" /zh hnx
+@"http://psi.iba-net.org/person/naut-158"
+]
+[naut-67 : resp = "法藏" /zh hnx
+@"http://psi.iba-net.org/person/naut-67"
+]
+[naut-744 : resp = "淨證" /zh hnx
+@"http://psi.iba-net.org/person/naut-744"
+]
+[naut-1075 : resp = "本晳" /zh hnx
+@"http://psi.iba-net.org/person/naut-1075"
+]
+[naut-609 : resp = "道安注" /zh hnx
+@"http://psi.iba-net.org/person/naut-609"
+]
+[naut-49 : resp = "善護尊者造" /zh hnx
+@"http://psi.iba-net.org/person/naut-49"
+]
+[naut-53 : resp = "僧伽婆羅譯抄之" /zh hnx
+@"http://psi.iba-net.org/person/naut-53"
+]
+[naut-488 : resp = "跋折羅菩提" /zh hnx
+@"http://psi.iba-net.org/person/naut-488"
+]
+[naut-810 : resp = "無補" /zh hnx
+@"http://psi.iba-net.org/person/naut-810"
+]
+[naut-1087 : resp = "如惺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1087"
+]
+[naut-926 : resp = "清欲" /zh hnx
+@"http://psi.iba-net.org/person/naut-926"
+]
+[naut-193 : resp = "慈航智願定本" /zh hnx
+@"http://psi.iba-net.org/person/naut-193"
+]
+[naut-960 : resp = "思齊" /zh hnx
+@"http://psi.iba-net.org/person/naut-960"
+]
+[naut-689 : resp = "智華" /zh hnx
+@"http://psi.iba-net.org/person/naut-689"
+]
+[naut-472 : resp = "見登之" /zh hnx
+@"http://psi.iba-net.org/person/naut-472"
+]
+[naut-732 : resp = "光從" /zh hnx
+@"http://psi.iba-net.org/person/naut-732"
+]
+[naut-56 : resp = "若那譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-56"
+]
+[naut-1082 : resp = "正止" /zh hnx
+@"http://psi.iba-net.org/person/naut-1082"
+]
+[naut-1129 : resp = "玄極" /zh hnx
+@"http://psi.iba-net.org/person/naut-1129"
+]
+[naut-264 : resp = "謝觀光" /zh hnx
+@"http://psi.iba-net.org/person/naut-264"
+]
+[naut-1062 : resp = "慧辯" /zh hnx
+@"http://psi.iba-net.org/person/naut-1062"
+]
+[naut-185 : resp = "戒度" /zh hnx
+@"http://psi.iba-net.org/person/naut-185"
+]
+[naut-249 : resp = "謝承謨" /zh hnx
+@"http://psi.iba-net.org/person/naut-249"
+]
+[naut-63 : resp = "吉藏" /zh hnx
+@"http://psi.iba-net.org/person/naut-63"
+]
+[naut-938 : resp = "宗成" /zh hnx
+@"http://psi.iba-net.org/person/naut-938"
+]
+[naut-219 : resp = "屠根" /zh hnx
+@"http://psi.iba-net.org/person/naut-219"
+]
+[naut-59 : resp = "縛日羅枳惹曩" /zh hnx
+@"http://psi.iba-net.org/person/naut-59"
+]
+[naut-636 : resp = "法泉繼" /zh hnx
+@"http://psi.iba-net.org/person/naut-636"
+]
+[naut-290 : resp = "如愚" /zh hnx
+@"http://psi.iba-net.org/person/naut-290"
+]
+[naut-58 : resp = "提雲般若" /zh hnx
+@"http://psi.iba-net.org/person/naut-58"
+]
+[naut-861 : resp = "宗應" /zh hnx
+@"http://psi.iba-net.org/person/naut-861"
+]
+[naut-122 : resp = "觀衡" /zh hnx
+@"http://psi.iba-net.org/person/naut-122"
+]
+[naut-416 : resp = "了然" /zh hnx
+@"http://psi.iba-net.org/person/naut-416"
+]
+[naut-1165 : resp = "朴永善" /zh hnx
+@"http://psi.iba-net.org/person/naut-1165"
+]
+[naut-589 : resp = "明恂隨錄、慧智" /zh hnx
+@"http://psi.iba-net.org/person/naut-589"
+]
+[naut-631 : resp = "世宗皇帝" /zh hnx
+@"http://psi.iba-net.org/person/naut-631"
+]
+[naut-467 : resp = "明皛" /zh hnx
+@"http://psi.iba-net.org/person/naut-467"
+]
+[naut-257 : resp = "提婆" /zh hnx
+@"http://psi.iba-net.org/person/naut-257"
+]
+[naut-189 : resp = "性澄句" /zh hnx
+@"http://psi.iba-net.org/person/naut-189"
+]
+[naut-14 : resp = "惟淨" /zh hnx
+@"http://psi.iba-net.org/person/naut-14"
+]
+[naut-382 : resp = "普泰" /zh hnx
+@"http://psi.iba-net.org/person/naut-382"
+]
+[naut-1080 : resp = "讀徹" /zh hnx
+@"http://psi.iba-net.org/person/naut-1080"
+]
+[naut-1011 : resp = "慶預" /zh hnx
+@"http://psi.iba-net.org/person/naut-1011"
+]
+[naut-121 : resp = "大韶" /zh hnx
+@"http://psi.iba-net.org/person/naut-121"
+]
+[naut-1153 : resp = "悟進" /zh hnx
+@"http://psi.iba-net.org/person/naut-1153"
+]
+[naut-747 : resp = "普璋" /zh hnx
+@"http://psi.iba-net.org/person/naut-747"
+]
+[naut-850 : resp = "普和" /zh hnx
+@"http://psi.iba-net.org/person/naut-850"
+]
+[naut-334 : resp = "蕅益" /zh hnx
+@"http://psi.iba-net.org/person/naut-334"
+]
+[naut-153 : resp = "聖德太子" /zh hnx
+@"http://psi.iba-net.org/person/naut-153"
+]
+[naut-223 : resp = "大韻" /zh hnx
+@"http://psi.iba-net.org/person/naut-223"
+]
+[naut-1029 : resp = "明總" /zh hnx
+@"http://psi.iba-net.org/person/naut-1029"
+]
+[naut-1033 : resp = "如玉" /zh hnx
+@"http://psi.iba-net.org/person/naut-1033"
+]
+[naut-895 : resp = "宗茙" /zh hnx
+@"http://psi.iba-net.org/person/naut-895"
+]
+[naut-2 : resp = "菩提流志" /zh hnx
+@"http://psi.iba-net.org/person/naut-2"
+]
+[naut-775 : resp = "懷珠" /zh hnx
+@"http://psi.iba-net.org/person/naut-775"
+]
+[naut-500 : resp = "海雲" /zh hnx
+@"http://psi.iba-net.org/person/naut-500"
+]
+[naut-482 : resp = "一行撰" /zh hnx
+@"http://psi.iba-net.org/person/naut-482"
+]
+[naut-995 : resp = "觀通" /zh hnx
+@"http://psi.iba-net.org/person/naut-995"
+]
+[naut-746 : resp = "紹熏" /zh hnx
+@"http://psi.iba-net.org/person/naut-746"
+]
+[naut-212 : resp = "曇應" /zh hnx
+@"http://psi.iba-net.org/person/naut-212"
+]
+[naut-687 : resp = "處凝" /zh hnx
+@"http://psi.iba-net.org/person/naut-687"
+]
+[naut-665 : resp = "圓通" /zh hnx
+@"http://psi.iba-net.org/person/naut-665"
+]
+[naut-85 : resp = "德清" /zh hnx
+@"http://psi.iba-net.org/person/naut-85"
+]
+[naut-192 : resp = "古德法師" /zh hnx
+@"http://psi.iba-net.org/person/naut-192"
+]
+[naut-707 : resp = "光祖" /zh hnx
+@"http://psi.iba-net.org/person/naut-707"
+]
+[naut-899 : resp = "永珍" /zh hnx
+@"http://psi.iba-net.org/person/naut-899"
+]
+[naut-733 : resp = "道鑑" /zh hnx
+@"http://psi.iba-net.org/person/naut-733"
+]
+[naut-1072 : resp = "福善" /zh hnx
+@"http://psi.iba-net.org/person/naut-1072"
+]
+[naut-1161 : resp = "無慍" /zh hnx
+@"http://psi.iba-net.org/person/naut-1161"
+]
+[naut-278 : resp = "有嚴" /zh hnx
+@"http://psi.iba-net.org/person/naut-278"
+]
+[naut-180 : resp = "王耕心衷" /zh hnx
+@"http://psi.iba-net.org/person/naut-180"
+]
+[naut-1172 : resp = "常謹" /zh hnx
+@"http://psi.iba-net.org/person/naut-1172"
+]
+[naut-297 : resp = "廣和標" /zh hnx
+@"http://psi.iba-net.org/person/naut-297"
+]
+[naut-505 : resp = "澄照" /zh hnx
+@"http://psi.iba-net.org/person/naut-505"
+]
+[naut-797 : resp = "梵閱" /zh hnx
+@"http://psi.iba-net.org/person/naut-797"
+]
+[naut-427 : resp = "正謐" /zh hnx
+@"http://psi.iba-net.org/person/naut-427"
+]
+[naut-114 : resp = "一松" /zh hnx
+@"http://psi.iba-net.org/person/naut-114"
+]
+[naut-951 : resp = "道瑄" /zh hnx
+@"http://psi.iba-net.org/person/naut-951"
+]
+[naut-25 : resp = "筏提摩多" /zh hnx
+@"http://psi.iba-net.org/person/naut-25"
+]
+[naut-20 : resp = "竺法護" /zh hnx
+@"http://psi.iba-net.org/person/naut-20"
+]
+[naut-1181 : resp = "李華" /zh hnx
+@"http://psi.iba-net.org/person/naut-1181"
+]
+[naut-54 : resp = "不空譯抄之" /zh hnx
+@"http://psi.iba-net.org/person/naut-54"
+]
+[naut-805 : resp = "至源" /zh hnx
+@"http://psi.iba-net.org/person/naut-805"
+]
+[naut-481 : resp = "揚嘉祚" /zh hnx
+@"http://psi.iba-net.org/person/naut-481"
+]
+[naut-403 : resp = "羅什" /zh hnx
+@"http://psi.iba-net.org/person/naut-403"
+]
+[naut-785 : resp = "道巖" /zh hnx
+@"http://psi.iba-net.org/person/naut-785"
+]
+[naut-1084 : resp = "禪修" /zh hnx
+@"http://psi.iba-net.org/person/naut-1084"
+]
+[naut-555 : resp = "悟開" /zh hnx
+@"http://psi.iba-net.org/person/naut-555"
+]
+[naut-81 : resp = "普瑞" /zh hnx
+@"http://psi.iba-net.org/person/naut-81"
+]
+[naut-328 : resp = "慧因" /zh hnx
+@"http://psi.iba-net.org/person/naut-328"
+]
+[naut-366 : resp = "見登" /zh hnx
+@"http://psi.iba-net.org/person/naut-366"
+]
+[naut-917 : resp = "本真" /zh hnx
+@"http://psi.iba-net.org/person/naut-917"
+]
+[naut-1117 : resp = "彭希涑" /zh hnx
+@"http://psi.iba-net.org/person/naut-1117"
+]
+[naut-598 : resp = "淨訥" /zh hnx
+@"http://psi.iba-net.org/person/naut-598"
+]
+[naut-860 : resp = "繼燖" /zh hnx
+@"http://psi.iba-net.org/person/naut-860"
+]
+[naut-611 : resp = "[虎-儿+丘
+@"http://psi.iba-net.org/person/naut-611"
+]一" /zh hnx]
+[naut-761 : resp = "有智" /zh hnx
+@"http://psi.iba-net.org/person/naut-761"
+]
+[naut-945 : resp = "大圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-945"
+]
+[naut-1042 : resp = "道璞" /zh hnx
+@"http://psi.iba-net.org/person/naut-1042"
+]
+[naut-434 : resp = "義真" /zh hnx
+@"http://psi.iba-net.org/person/naut-434"
+]
+[naut-97 : resp = "寂正" /zh hnx
+@"http://psi.iba-net.org/person/naut-97"
+]
+[naut-692 : resp = "法[王*壽
+@"http://psi.iba-net.org/person/naut-692"
+]" /zh hnx]
+[naut-544 : resp = "正寂" /zh hnx
+@"http://psi.iba-net.org/person/naut-544"
+]
+[naut-238 : resp = "子真乩訂" /zh hnx
+@"http://psi.iba-net.org/person/naut-238"
+]
+[naut-526 : resp = "如馨" /zh hnx
+@"http://psi.iba-net.org/person/naut-526"
+]
+[naut-879 : resp = "行純" /zh hnx
+@"http://psi.iba-net.org/person/naut-879"
+]
+[naut-725 : resp = "慧曇" /zh hnx
+@"http://psi.iba-net.org/person/naut-725"
+]
+[naut-637 : resp = "知訥" /zh hnx
+@"http://psi.iba-net.org/person/naut-637"
+]
+[naut-154 : resp = "明空私" /zh hnx
+@"http://psi.iba-net.org/person/naut-154"
+]
+[naut-549 : resp = "周克復" /zh hnx
+@"http://psi.iba-net.org/person/naut-549"
+]
+[naut-867 : resp = "師楷" /zh hnx
+@"http://psi.iba-net.org/person/naut-867"
+]
+[naut-787 : resp = "妙儼" /zh hnx
+@"http://psi.iba-net.org/person/naut-787"
+]
+[naut-1143 : resp = "火蓮集梓" /zh hnx
+@"http://psi.iba-net.org/person/naut-1143"
+]
+[naut-660 : resp = "真在" /zh hnx
+@"http://psi.iba-net.org/person/naut-660"
+]
+[naut-825 : resp = "了禪" /zh hnx
+@"http://psi.iba-net.org/person/naut-825"
+]
+[naut-141 : resp = "正受" /zh hnx
+@"http://psi.iba-net.org/person/naut-141"
+]
+[naut-1119 : resp = "瑞璋" /zh hnx
+@"http://psi.iba-net.org/person/naut-1119"
+]
+[naut-3 : resp = "魏源" /zh hnx
+@"http://psi.iba-net.org/person/naut-3"
+]
+[naut-332 : resp = "德玉順" /zh hnx
+@"http://psi.iba-net.org/person/naut-332"
+]
+[naut-720 : resp = "志清" /zh hnx
+@"http://psi.iba-net.org/person/naut-720"
+]
+[naut-157 : resp = "知禮" /zh hnx
+@"http://psi.iba-net.org/person/naut-157"
+]
+[naut-224 : resp = "如觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-224"
+]
+[naut-743 : resp = "善之" /zh hnx
+@"http://psi.iba-net.org/person/naut-743"
+]
+[naut-342 : resp = "即靜" /zh hnx
+@"http://psi.iba-net.org/person/naut-342"
+]
+[naut-847 : resp = "覺此" /zh hnx
+@"http://psi.iba-net.org/person/naut-847"
+]
+[naut-812 : resp = "道準" /zh hnx
+@"http://psi.iba-net.org/person/naut-812"
+]
+[naut-485 : resp = "不空奉詔" /zh hnx
+@"http://psi.iba-net.org/person/naut-485"
+]
+[naut-647 : resp = "道泰" /zh hnx
+@"http://psi.iba-net.org/person/naut-647"
+]
+[naut-858 : resp = "景元" /zh hnx
+@"http://psi.iba-net.org/person/naut-858"
+]
+[naut-621 : resp = "惠彬" /zh hnx
+@"http://psi.iba-net.org/person/naut-621"
+]
+[naut-429 : resp = "時舉" /zh hnx
+@"http://psi.iba-net.org/person/naut-429"
+]
+[naut-1047 : resp = "興燈" /zh hnx
+@"http://psi.iba-net.org/person/naut-1047"
+]
+[naut-1113 : resp = "慧詳" /zh hnx
+@"http://psi.iba-net.org/person/naut-1113"
+]
+[naut-929 : resp = "一志" /zh hnx
+@"http://psi.iba-net.org/person/naut-929"
+]
+[naut-674 : resp = "林弘衍" /zh hnx
+@"http://psi.iba-net.org/person/naut-674"
+]
+[naut-786 : resp = "了能" /zh hnx
+@"http://psi.iba-net.org/person/naut-786"
+]
+[naut-891 : resp = "禪了" /zh hnx
+@"http://psi.iba-net.org/person/naut-891"
+]
+[naut-10 : resp = "佛陀波利" /zh hnx
+@"http://psi.iba-net.org/person/naut-10"
+]
+[naut-18 : resp = "法賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-18"
+]
+[naut-808 : resp = "文愷" /zh hnx
+@"http://psi.iba-net.org/person/naut-808"
+]
+[naut-788 : resp = "妙全" /zh hnx
+@"http://psi.iba-net.org/person/naut-788"
+]
+[naut-222 : resp = "林兆恩" /zh hnx
+@"http://psi.iba-net.org/person/naut-222"
+]
+[naut-629 : resp = "圓悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-629"
+]
+[naut-190 : resp = "大佑" /zh hnx
+@"http://psi.iba-net.org/person/naut-190"
+]
+[naut-978 : resp = "法林" /zh hnx
+@"http://psi.iba-net.org/person/naut-978"
+]
+[naut-74 : resp = "李贄簡" /zh hnx
+@"http://psi.iba-net.org/person/naut-74"
+]
+[naut-1108 : resp = "崔致遠結" /zh hnx
+@"http://psi.iba-net.org/person/naut-1108"
+]
+[naut-653 : resp = "義青" /zh hnx
+@"http://psi.iba-net.org/person/naut-653"
+]
+[naut-309 : resp = "亮潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-309"
+]
+[naut-965 : resp = "雲澹" /zh hnx
+@"http://psi.iba-net.org/person/naut-965"
+]
+[naut-444 : resp = "與咸" /zh hnx
+@"http://psi.iba-net.org/person/naut-444"
+]
+[naut-1111 : resp = "曇照" /zh hnx
+@"http://psi.iba-net.org/person/naut-1111"
+]
+[naut-840 : resp = "正定" /zh hnx
+@"http://psi.iba-net.org/person/naut-840"
+]
+[naut-15 : resp = "智慧輪" /zh hnx
+@"http://psi.iba-net.org/person/naut-15"
+]
+[naut-246 : resp = "孫念劬" /zh hnx
+@"http://psi.iba-net.org/person/naut-246"
+]
+[naut-541 : resp = "一念" /zh hnx
+@"http://psi.iba-net.org/person/naut-541"
+]
+[naut-546 : resp = "虞執西" /zh hnx
+@"http://psi.iba-net.org/person/naut-546"
+]
+[naut-1045 : resp = "太靖" /zh hnx
+@"http://psi.iba-net.org/person/naut-1045"
+]
+[naut-395 : resp = "慧暉" /zh hnx
+@"http://psi.iba-net.org/person/naut-395"
+]
+[naut-783 : resp = "光睦" /zh hnx
+@"http://psi.iba-net.org/person/naut-783"
+]
+[naut-590 : resp = "慧海" /zh hnx
+@"http://psi.iba-net.org/person/naut-590"
+]
+[naut-117 : resp = "鍾惺" /zh hnx
+@"http://psi.iba-net.org/person/naut-117"
+]
+[naut-28 : resp = "菩提流支" /zh hnx
+@"http://psi.iba-net.org/person/naut-28"
+]
+[naut-782 : resp = "善開" /zh hnx
+@"http://psi.iba-net.org/person/naut-782"
+]
+[naut-455 : resp = "智旭重" /zh hnx
+@"http://psi.iba-net.org/person/naut-455"
+]
+[naut-483 : resp = "一行修" /zh hnx
+@"http://psi.iba-net.org/person/naut-483"
+]
+[naut-367 : resp = "正遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-367"
+]
+[naut-849 : resp = "了舜" /zh hnx
+@"http://psi.iba-net.org/person/naut-849"
+]
+[naut-728 : resp = "元清" /zh hnx
+@"http://psi.iba-net.org/person/naut-728"
+]
+[naut-236 : resp = "大璸" /zh hnx
+@"http://psi.iba-net.org/person/naut-236"
+]
+[naut-792 : resp = "智能" /zh hnx
+@"http://psi.iba-net.org/person/naut-792"
+]
+[naut-413 : resp = "性起論" /zh hnx
+@"http://psi.iba-net.org/person/naut-413"
+]
+[naut-417 : resp = "智顗(略出)" /zh hnx
+@"http://psi.iba-net.org/person/naut-417"
+]
+[naut-756 : resp = "持志" /zh hnx
+@"http://psi.iba-net.org/person/naut-756"
+]
+[naut-178 : resp = "璟興" /zh hnx
+@"http://psi.iba-net.org/person/naut-178"
+]
+[naut-123 : resp = "陸西星" /zh hnx
+@"http://psi.iba-net.org/person/naut-123"
+]
+[naut-862 : resp = "妙寅、(侍者)" /zh hnx
+@"http://psi.iba-net.org/person/naut-862"
+]
+[naut-956 : resp = "慧浩" /zh hnx
+@"http://psi.iba-net.org/person/naut-956"
+]
+[naut-542 : resp = "成時(評點節要)" /zh hnx
+@"http://psi.iba-net.org/person/naut-542"
+]
+[naut-807 : resp = "惟份" /zh hnx
+@"http://psi.iba-net.org/person/naut-807"
+]
+[naut-1048 : resp = "心亮" /zh hnx
+@"http://psi.iba-net.org/person/naut-1048"
+]
+[naut-247 : resp = "俞樾" /zh hnx
+@"http://psi.iba-net.org/person/naut-247"
+]
+[naut-843 : resp = "慧澄" /zh hnx
+@"http://psi.iba-net.org/person/naut-843"
+]
+[naut-972 : resp = "慧啟" /zh hnx
+@"http://psi.iba-net.org/person/naut-972"
+]
+[naut-690 : resp = "法演" /zh hnx
+@"http://psi.iba-net.org/person/naut-690"
+]
+[naut-548 : resp = "道霑" /zh hnx
+@"http://psi.iba-net.org/person/naut-548"
+]
+[naut-253 : resp = "真貴" /zh hnx
+@"http://psi.iba-net.org/person/naut-253"
+]
+[naut-937 : resp = "克明" /zh hnx
+@"http://psi.iba-net.org/person/naut-937"
+]
+[naut-630 : resp = "真啟編" /zh hnx
+@"http://psi.iba-net.org/person/naut-630"
+]
+[naut-1141 : resp = "如純" /zh hnx
+@"http://psi.iba-net.org/person/naut-1141"
+]
+[naut-46 : resp = "三昧蘇[口*縛
+@"http://psi.iba-net.org/person/naut-46"
+]羅" /zh hnx]
+[naut-963 : resp = "無我" /zh hnx
+@"http://psi.iba-net.org/person/naut-963"
+]
+[naut-251 : resp = "道霈" /zh hnx
+@"http://psi.iba-net.org/person/naut-251"
+]
+[naut-813 : resp = "禧會" /zh hnx
+@"http://psi.iba-net.org/person/naut-813"
+]
+[naut-591 : resp = "宗密答" /zh hnx
+@"http://psi.iba-net.org/person/naut-591"
+]
+[naut-907 : resp = "祖安" /zh hnx
+@"http://psi.iba-net.org/person/naut-907"
+]
+[naut-652 : resp = "性福" /zh hnx
+@"http://psi.iba-net.org/person/naut-652"
+]
+[naut-800 : resp = "淨覃" /zh hnx
+@"http://psi.iba-net.org/person/naut-800"
+]
+[naut-322 : resp = "傳奧" /zh hnx
+@"http://psi.iba-net.org/person/naut-322"
+]
+[naut-143 : resp = "廣莫" /zh hnx
+@"http://psi.iba-net.org/person/naut-143"
+]
+[naut-686 : resp = "圓淨" /zh hnx
+@"http://psi.iba-net.org/person/naut-686"
+]
+[naut-1140 : resp = "通醉" /zh hnx
+@"http://psi.iba-net.org/person/naut-1140"
+]
+[naut-973 : resp = "智粵" /zh hnx
+@"http://psi.iba-net.org/person/naut-973"
+]
+[naut-103 : resp = "懷遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-103"
+]
+[naut-258 : resp = "明曠" /zh hnx
+@"http://psi.iba-net.org/person/naut-258"
+]
+[naut-52 : resp = "同譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-52"
+]
+[naut-880 : resp = "道彰" /zh hnx
+@"http://psi.iba-net.org/person/naut-880"
+]
+[naut-107 : resp = "德洪" /zh hnx
+@"http://psi.iba-net.org/person/naut-107"
+]
+[naut-1065 : resp = "宗先" /zh hnx
+@"http://psi.iba-net.org/person/naut-1065"
+]
+[naut-735 : resp = "妙高" /zh hnx
+@"http://psi.iba-net.org/person/naut-735"
+]
+[naut-722 : resp = "大觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-722"
+]
+[naut-326 : resp = "大賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-326"
+]
+[naut-1017 : resp = "法潤" /zh hnx
+@"http://psi.iba-net.org/person/naut-1017"
+]
+[naut-376 : resp = "遍滿" /zh hnx
+@"http://psi.iba-net.org/person/naut-376"
+]
+[naut-524 : resp = "陳熙願" /zh hnx
+@"http://psi.iba-net.org/person/naut-524"
+]
+[naut-284 : resp = "慧洪" /zh hnx
+@"http://psi.iba-net.org/person/naut-284"
+]
+[naut-458 : resp = "杜順" /zh hnx
+@"http://psi.iba-net.org/person/naut-458"
+]
+[naut-644 : resp = "集雲堂" /zh hnx
+@"http://psi.iba-net.org/person/naut-644"
+]
+[naut-893 : resp = "宗煥" /zh hnx
+@"http://psi.iba-net.org/person/naut-893"
+]
+[naut-1057 : resp = "編" /zh hnx
+@"http://psi.iba-net.org/person/naut-1057"
+]
+[naut-293 : resp = "際慶" /zh hnx
+@"http://psi.iba-net.org/person/naut-293"
+]
+[naut-1004 : resp = "道彝" /zh hnx
+@"http://psi.iba-net.org/person/naut-1004"
+]
+[naut-754 : resp = "德紀" /zh hnx
+@"http://psi.iba-net.org/person/naut-754"
+]
+[naut-758 : resp = "惟康" /zh hnx
+@"http://psi.iba-net.org/person/naut-758"
+]
+[naut-47 : resp = "婆羅門僧" /zh hnx
+@"http://psi.iba-net.org/person/naut-47"
+]
+[naut-307 : resp = "周上智" /zh hnx
+@"http://psi.iba-net.org/person/naut-307"
+]
+[naut-144 : resp = "僧肇" /zh hnx
+@"http://psi.iba-net.org/person/naut-144"
+]
+[naut-1162 : resp = "善燦" /zh hnx
+@"http://psi.iba-net.org/person/naut-1162"
+]
+[naut-12 : resp = "藏川" /zh hnx
+@"http://psi.iba-net.org/person/naut-12"
+]
+[naut-493 : resp = "義操" /zh hnx
+@"http://psi.iba-net.org/person/naut-493"
+]
+[naut-608 : resp = "清覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-608"
+]
+[naut-1019 : resp = "行從" /zh hnx
+@"http://psi.iba-net.org/person/naut-1019"
+]
+[naut-1186 : resp = "張商英" /zh hnx
+@"http://psi.iba-net.org/person/naut-1186"
+]
+[naut-766 : resp = "延輝" /zh hnx
+@"http://psi.iba-net.org/person/naut-766"
+]
+[naut-588 : resp = "覺愛略說" /zh hnx
+@"http://psi.iba-net.org/person/naut-588"
+]
+[naut-459 : resp = "師會" /zh hnx
+@"http://psi.iba-net.org/person/naut-459"
+]
+[naut-727 : resp = "崇裕" /zh hnx
+@"http://psi.iba-net.org/person/naut-727"
+]
+[naut-543 : resp = "明教標" /zh hnx
+@"http://psi.iba-net.org/person/naut-543"
+]
+[naut-666 : resp = "行秀仰答" /zh hnx
+@"http://psi.iba-net.org/person/naut-666"
+]
+[naut-916 : resp = "景行" /zh hnx
+@"http://psi.iba-net.org/person/naut-916"
+]
+[naut-1079 : resp = "一行慧覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1079"
+]
+[naut-661 : resp = "機雲重續" /zh hnx
+@"http://psi.iba-net.org/person/naut-661"
+]
+[naut-814 : resp = "紹賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-814"
+]
+[naut-215 : resp = "覺連" /zh hnx
+@"http://psi.iba-net.org/person/naut-215"
+]
+[naut-1101 : resp = "念常" /zh hnx
+@"http://psi.iba-net.org/person/naut-1101"
+]
+[naut-464 : resp = "希[廷-壬+由
+@"http://psi.iba-net.org/person/naut-464"
+]" /zh hnx]
+[naut-113 : resp = "傳燈" /zh hnx
+@"http://psi.iba-net.org/person/naut-113"
+]
+[naut-571 : resp = "信菴" /zh hnx
+@"http://psi.iba-net.org/person/naut-571"
+]
+[naut-930 : resp = "元皓" /zh hnx
+@"http://psi.iba-net.org/person/naut-930"
+]
+[naut-384 : resp = "明昱" /zh hnx
+@"http://psi.iba-net.org/person/naut-384"
+]
+[naut-331 : resp = "寂光直" /zh hnx
+@"http://psi.iba-net.org/person/naut-331"
+]
+[naut-227 : resp = "無是道人" /zh hnx
+@"http://psi.iba-net.org/person/naut-227"
+]
+[naut-93 : resp = "智聰" /zh hnx
+@"http://psi.iba-net.org/person/naut-93"
+]
+[naut-187 : resp = "慧淨" /zh hnx
+@"http://psi.iba-net.org/person/naut-187"
+]
+[naut-237 : resp = "溥仁乩" /zh hnx
+@"http://psi.iba-net.org/person/naut-237"
+]
+[naut-370 : resp = "德清纂" /zh hnx
+@"http://psi.iba-net.org/person/naut-370"
+]
+[naut-477 : resp = "惟白" /zh hnx
+@"http://psi.iba-net.org/person/naut-477"
+]
+[naut-626 : resp = "天[正*頁
+@"http://psi.iba-net.org/person/naut-626"
+]" /zh hnx]
+[naut-826 : resp = "普明" /zh hnx
+@"http://psi.iba-net.org/person/naut-826"
+]
+[naut-499 : resp = "金俱吒撰集" /zh hnx
+@"http://psi.iba-net.org/person/naut-499"
+]
+[naut-764 : resp = "正賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-764"
+]
+[naut-1015 : resp = "宗榮" /zh hnx
+@"http://psi.iba-net.org/person/naut-1015"
+]
+[naut-724 : resp = "延俊" /zh hnx
+@"http://psi.iba-net.org/person/naut-724"
+]
+[naut-1124 : resp = "性磊補輯" /zh hnx
+@"http://psi.iba-net.org/person/naut-1124"
+]
+[naut-610 : resp = "退隱" /zh hnx
+@"http://psi.iba-net.org/person/naut-610"
+]
+[naut-294 : resp = "大義" /zh hnx
+@"http://psi.iba-net.org/person/naut-294"
+]
+[naut-353 : resp = "後唐" /zh hnx
+@"http://psi.iba-net.org/person/naut-353"
+]
+[naut-741 : resp = "行佑" /zh hnx
+@"http://psi.iba-net.org/person/naut-741"
+]
+[naut-837 : resp = "守靜" /zh hnx
+@"http://psi.iba-net.org/person/naut-837"
+]
+[naut-856 : resp = "法澄" /zh hnx
+@"http://psi.iba-net.org/person/naut-856"
+]
+[naut-146 : resp = "智顗" /zh hnx
+@"http://psi.iba-net.org/person/naut-146"
+]
+[naut-405 : resp = "元康" /zh hnx
+@"http://psi.iba-net.org/person/naut-405"
+]
+[naut-923 : resp = "繼祖" /zh hnx
+@"http://psi.iba-net.org/person/naut-923"
+]
+[naut-174 : resp = "元曉" /zh hnx
+@"http://psi.iba-net.org/person/naut-174"
+]
+[naut-871 : resp = "雲岑" /zh hnx
+@"http://psi.iba-net.org/person/naut-871"
+]
+[naut-390 : resp = "智素" /zh hnx
+@"http://psi.iba-net.org/person/naut-390"
+]
+[naut-1163 : resp = "陶明潛" /zh hnx
+@"http://psi.iba-net.org/person/naut-1163"
+]
+[naut-642 : resp = "普會" /zh hnx
+@"http://psi.iba-net.org/person/naut-642"
+]
+[naut-552 : resp = "濟能" /zh hnx
+@"http://psi.iba-net.org/person/naut-552"
+]
+[naut-109 : resp = "真鑑" /zh hnx
+@"http://psi.iba-net.org/person/naut-109"
+]
+[naut-471 : resp = "裴休" /zh hnx
+@"http://psi.iba-net.org/person/naut-471"
+]
+[naut-1147 : resp = "弘儲" /zh hnx
+@"http://psi.iba-net.org/person/naut-1147"
+]
+[naut-885 : resp = "洪喬祖" /zh hnx
+@"http://psi.iba-net.org/person/naut-885"
+]
+[naut-1024 : resp = "清萃" /zh hnx
+@"http://psi.iba-net.org/person/naut-1024"
+]
+[naut-613 : resp = "行悅" /zh hnx
+@"http://psi.iba-net.org/person/naut-613"
+]
+[naut-124 : resp = "傳如" /zh hnx
+@"http://psi.iba-net.org/person/naut-124"
+]
+[naut-854 : resp = "道信" /zh hnx
+@"http://psi.iba-net.org/person/naut-854"
+]
+[naut-668 : resp = "道忠" /zh hnx
+@"http://psi.iba-net.org/person/naut-668"
+]
+[naut-252 : resp = "成蓮" /zh hnx
+@"http://psi.iba-net.org/person/naut-252"
+]
+[naut-1170 : resp = "淨慧" /zh hnx
+@"http://psi.iba-net.org/person/naut-1170"
+]
+[naut-90 : resp = "孝宗帝" /zh hnx
+@"http://psi.iba-net.org/person/naut-90"
+]
+[naut-245 : resp = "孚佑帝君" /zh hnx
+@"http://psi.iba-net.org/person/naut-245"
+]
+[naut-91 : resp = "行霆" /zh hnx
+@"http://psi.iba-net.org/person/naut-91"
+]
+[naut-66 : resp = "智儼" /zh hnx
+@"http://psi.iba-net.org/person/naut-66"
+]
+[naut-288 : resp = "法濟" /zh hnx
+@"http://psi.iba-net.org/person/naut-288"
+]
+[naut-1100 : resp = "熙仲" /zh hnx
+@"http://psi.iba-net.org/person/naut-1100"
+]
+[naut-680 : resp = "秀人錢密" /zh hnx
+@"http://psi.iba-net.org/person/naut-680"
+]
+[naut-1003 : resp = "護位" /zh hnx
+@"http://psi.iba-net.org/person/naut-1003"
+]
+[naut-520 : resp = "性祇" /zh hnx
+@"http://psi.iba-net.org/person/naut-520"
+]
+[naut-702 : resp = "了心" /zh hnx
+@"http://psi.iba-net.org/person/naut-702"
+]
+[naut-317 : resp = "了童" /zh hnx
+@"http://psi.iba-net.org/person/naut-317"
+]
+[naut-436 : resp = "宗[(匕/示)*頁
+@"http://psi.iba-net.org/person/naut-436"
+]" /zh hnx]
+[naut-463 : resp = "師會述、善熹" /zh hnx
+@"http://psi.iba-net.org/person/naut-463"
+]
+[naut-349 : resp = "志鴻" /zh hnx
+@"http://psi.iba-net.org/person/naut-349"
+]
+[naut-171 : resp = "靈[亢-几+桀
+@"http://psi.iba-net.org/person/naut-171"
+]" /zh hnx]
+[naut-601 : resp = "傳燈重編並" /zh hnx
+@"http://psi.iba-net.org/person/naut-601"
+]
+[naut-239 : resp = "寂燄" /zh hnx
+@"http://psi.iba-net.org/person/naut-239"
+]
+[naut-73 : resp = "志寧釐經合論" /zh hnx
+@"http://psi.iba-net.org/person/naut-73"
+]
+[naut-428 : resp = "辯才" /zh hnx
+@"http://psi.iba-net.org/person/naut-428"
+]
+[naut-83 : resp = "戒環" /zh hnx
+@"http://psi.iba-net.org/person/naut-83"
+]
+[naut-407 : resp = "文才" /zh hnx
+@"http://psi.iba-net.org/person/naut-407"
+]
+[naut-346 : resp = "禪能" /zh hnx
+@"http://psi.iba-net.org/person/naut-346"
+]
+[naut-922 : resp = "自成" /zh hnx
+@"http://psi.iba-net.org/person/naut-922"
+]
+[naut-780 : resp = "元省" /zh hnx
+@"http://psi.iba-net.org/person/naut-780"
+]
+[naut-966 : resp = "思謙" /zh hnx
+@"http://psi.iba-net.org/person/naut-966"
+]
+[naut-92 : resp = "周琪" /zh hnx
+@"http://psi.iba-net.org/person/naut-92"
+]
+[naut-799 : resp = "惟俊" /zh hnx
+@"http://psi.iba-net.org/person/naut-799"
+]
+[naut-889 : resp = "道昭" /zh hnx
+@"http://psi.iba-net.org/person/naut-889"
+]
+[naut-576 : resp = "乘戒" /zh hnx
+@"http://psi.iba-net.org/person/naut-576"
+]
+[naut-313 : resp = "行滿" /zh hnx
+@"http://psi.iba-net.org/person/naut-313"
+]
+[naut-1168 : resp = "孟獻忠" /zh hnx
+@"http://psi.iba-net.org/person/naut-1168"
+]
+[naut-568 : resp = "照瑩" /zh hnx
+@"http://psi.iba-net.org/person/naut-568"
+]
+[naut-1083 : resp = "智肱" /zh hnx
+@"http://psi.iba-net.org/person/naut-1083"
+]
+[naut-98 : resp = "焦竑" /zh hnx
+@"http://psi.iba-net.org/person/naut-98"
+]
+[naut-1158 : resp = "曇秀" /zh hnx
+@"http://psi.iba-net.org/person/naut-1158"
+]
+[naut-521 : resp = "戒顯" /zh hnx
+@"http://psi.iba-net.org/person/naut-521"
+]
+[naut-9 : resp = "工布查布" /zh hnx
+@"http://psi.iba-net.org/person/naut-9"
+]
+[naut-1010 : resp = "自覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1010"
+]
+[naut-16 : resp = "竺佛念" /zh hnx
+@"http://psi.iba-net.org/person/naut-16"
+]
+[naut-387 : resp = "靈泰" /zh hnx
+@"http://psi.iba-net.org/person/naut-387"
+]
+[naut-569 : resp = "果能" /zh hnx
+@"http://psi.iba-net.org/person/naut-569"
+]
+[naut-573 : resp = "沈善登" /zh hnx
+@"http://psi.iba-net.org/person/naut-573"
+]
+[naut-817 : resp = "尚賢" /zh hnx
+@"http://psi.iba-net.org/person/naut-817"
+]
+[naut-533 : resp = "善道" /zh hnx
+@"http://psi.iba-net.org/person/naut-533"
+]
+[naut-269 : resp = "大文" /zh hnx
+@"http://psi.iba-net.org/person/naut-269"
+]
+[naut-34 : resp = "實叉難陀" /zh hnx
+@"http://psi.iba-net.org/person/naut-34"
+]
+[naut-24 : resp = "龍樹菩薩造" /zh hnx
+@"http://psi.iba-net.org/person/naut-24"
+]
+[naut-773 : resp = "士洵" /zh hnx
+@"http://psi.iba-net.org/person/naut-773"
+]
+[naut-110 : resp = "袾宏" /zh hnx
+@"http://psi.iba-net.org/person/naut-110"
+]
+[naut-531 : resp = "懷感" /zh hnx
+@"http://psi.iba-net.org/person/naut-531"
+]
+[naut-1154 : resp = "明喜" /zh hnx
+@"http://psi.iba-net.org/person/naut-1154"
+]
+[naut-618 : resp = "行盛" /zh hnx
+@"http://psi.iba-net.org/person/naut-618"
+]
+[naut-155 : resp = "明得" /zh hnx
+@"http://psi.iba-net.org/person/naut-155"
+]
+[naut-892 : resp = "住顯" /zh hnx
+@"http://psi.iba-net.org/person/naut-892"
+]
+[naut-730 : resp = "普暉" /zh hnx
+@"http://psi.iba-net.org/person/naut-730"
+]
+[naut-148 : resp = "道暹私" /zh hnx
+@"http://psi.iba-net.org/person/naut-148"
+]
+[naut-489 : resp = "慧琳" /zh hnx
+@"http://psi.iba-net.org/person/naut-489"
+]
+[naut-959 : resp = "有端" /zh hnx
+@"http://psi.iba-net.org/person/naut-959"
+]
+[naut-447 : resp = "法登" /zh hnx
+@"http://psi.iba-net.org/person/naut-447"
+]
+[naut-827 : resp = "了南" /zh hnx
+@"http://psi.iba-net.org/person/naut-827"
+]
+[naut-389 : resp = "大惠" /zh hnx
+@"http://psi.iba-net.org/person/naut-389"
+]
+[naut-902 : resp = "及藏主" /zh hnx
+@"http://psi.iba-net.org/person/naut-902"
+]
+[naut-75 : resp = "方澤" /zh hnx
+@"http://psi.iba-net.org/person/naut-75"
+]
+[naut-874 : resp = "先[者*見
+@"http://psi.iba-net.org/person/naut-874"
+]" /zh hnx]
+[naut-1043 : resp = "弘瀚" /zh hnx
+@"http://psi.iba-net.org/person/naut-1043"
+]
+[naut-11 : resp = "義淨" /zh hnx
+@"http://psi.iba-net.org/person/naut-11"
+]
+[naut-939 : resp = "宗胤" /zh hnx
+@"http://psi.iba-net.org/person/naut-939"
+]
+[naut-355 : resp = "慧門等" /zh hnx
+@"http://psi.iba-net.org/person/naut-355"
+]
+[naut-1174 : resp = "智覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-1174"
+]
+[naut-1081 : resp = "木增" /zh hnx
+@"http://psi.iba-net.org/person/naut-1081"
+]
+[naut-250 : resp = "智顗說、灌頂" /zh hnx
+@"http://psi.iba-net.org/person/naut-250"
+]
+[naut-44 : resp = "伽梵達摩" /zh hnx
+@"http://psi.iba-net.org/person/naut-44"
+]
+[naut-791 : resp = "元靖" /zh hnx
+@"http://psi.iba-net.org/person/naut-791"
+]
+[naut-1095 : resp = "無寄" /zh hnx
+@"http://psi.iba-net.org/person/naut-1095"
+]
+[naut-975 : resp = "德琇" /zh hnx
+@"http://psi.iba-net.org/person/naut-975"
+]
+[naut-1022 : resp = "中翼" /zh hnx
+@"http://psi.iba-net.org/person/naut-1022"
+]
+[naut-1073 : resp = "通炯" /zh hnx
+@"http://psi.iba-net.org/person/naut-1073"
+]
+[naut-495 : resp = "惟謹" /zh hnx
+@"http://psi.iba-net.org/person/naut-495"
+]
+[naut-760 : resp = "如止" /zh hnx
+@"http://psi.iba-net.org/person/naut-760"
+]
+[naut-108 : resp = "正受會合" /zh hnx
+@"http://psi.iba-net.org/person/naut-108"
+]
+[naut-998 : resp = "希顏" /zh hnx
+@"http://psi.iba-net.org/person/naut-998"
+]
+[naut-999 : resp = "忻悟" /zh hnx
+@"http://psi.iba-net.org/person/naut-999"
+]
+[naut-218 : resp = "程衷懋補註" /zh hnx
+@"http://psi.iba-net.org/person/naut-218"
+]
+[naut-779 : resp = "紹甄" /zh hnx
+@"http://psi.iba-net.org/person/naut-779"
+]
+[naut-508 : resp = "良信" /zh hnx
+@"http://psi.iba-net.org/person/naut-508"
+]
+[naut-454 : resp = "仁潮" /zh hnx
+@"http://psi.iba-net.org/person/naut-454"
+]
+[naut-461 : resp = "淨源刊" /zh hnx
+@"http://psi.iba-net.org/person/naut-461"
+]
+[naut-714 : resp = "祖淳" /zh hnx
+@"http://psi.iba-net.org/person/naut-714"
+]
+[naut-1088 : resp = "繼僧" /zh hnx
+@"http://psi.iba-net.org/person/naut-1088"
+]
+[naut-402 : resp = "延壽" /zh hnx
+@"http://psi.iba-net.org/person/naut-402"
+]
+[naut-350 : resp = "智首" /zh hnx
+@"http://psi.iba-net.org/person/naut-350"
+]
+[naut-45 : resp = "阿目佉譯" /zh hnx
+@"http://psi.iba-net.org/person/naut-45"
+]
+[naut-953 : resp = "居頂" /zh hnx
+@"http://psi.iba-net.org/person/naut-953"
+]
+[naut-1183 : resp = "慧堅" /zh hnx
+@"http://psi.iba-net.org/person/naut-1183"
+]
+[naut-920 : resp = "寶生" /zh hnx
+@"http://psi.iba-net.org/person/naut-920"
+]
+[naut-181 : resp = "善導" /zh hnx
+@"http://psi.iba-net.org/person/naut-181"
+]
+[naut-280 : resp = "道暹" /zh hnx
+@"http://psi.iba-net.org/person/naut-280"
+]
+[naut-605 : resp = "明本" /zh hnx
+@"http://psi.iba-net.org/person/naut-605"
+]
+[naut-949 : resp = "寶日" /zh hnx
+@"http://psi.iba-net.org/person/naut-949"
+]
+[naut-1122 : resp = "惠洪" /zh hnx
+@"http://psi.iba-net.org/person/naut-1122"
+]
+[naut-296 : resp = "智祥" /zh hnx
+@"http://psi.iba-net.org/person/naut-296"
+]
+[naut-491 : resp = "含光" /zh hnx
+@"http://psi.iba-net.org/person/naut-491"
+]
+[naut-716 : resp = "沈孟柈敘" /zh hnx
+@"http://psi.iba-net.org/person/naut-716"
+]
+[naut-368 : resp = "通潤述" /zh hnx
+@"http://psi.iba-net.org/person/naut-368"
+]
+[naut-177 : resp = "玄一" /zh hnx
+@"http://psi.iba-net.org/person/naut-177"
+]
+[naut-340 : resp = "道宣" /zh hnx
+@"http://psi.iba-net.org/person/naut-340"
+]
+[naut-312 : resp = "本純" /zh hnx
+@"http://psi.iba-net.org/person/naut-312"
+]
+[naut-855 : resp = "道亨" /zh hnx
+@"http://psi.iba-net.org/person/naut-855"
+]
+[naut-336 : resp = "廣承" /zh hnx
+@"http://psi.iba-net.org/person/naut-336"
+]
+[naut-462 : resp = "道亭" /zh hnx
+@"http://psi.iba-net.org/person/naut-462"
+]
+[naut-1026 : resp = "道京" /zh hnx
+@"http://psi.iba-net.org/person/naut-1026"
+]
+[naut-1142 : resp = "心圓" /zh hnx
+@"http://psi.iba-net.org/person/naut-1142"
+]
+[naut-1107 : resp = "法藏集" /zh hnx
+@"http://psi.iba-net.org/person/naut-1107"
+]
+[naut-136 : resp = "濟時" /zh hnx
+@"http://psi.iba-net.org/person/naut-136"
+]
+[naut-1054 : resp = "淨煥" /zh hnx
+@"http://psi.iba-net.org/person/naut-1054"
+]
+[naut-32 : resp = "不空" /zh hnx
+@"http://psi.iba-net.org/person/naut-32"
+]
+[naut-314 : resp = "師正" /zh hnx
+@"http://psi.iba-net.org/person/naut-314"
+]
+[naut-915 : resp = "良圭" /zh hnx
+@"http://psi.iba-net.org/person/naut-915"
+]
+[naut-425 : resp = "處謙" /zh hnx
+@"http://psi.iba-net.org/person/naut-425"
+]
+[naut-851 : resp = "惠洇" /zh hnx
+@"http://psi.iba-net.org/person/naut-851"
+]
+[naut-1091 : resp = "西宗" /zh hnx
+@"http://psi.iba-net.org/person/naut-1091"
+]
+[naut-379 : resp = "遁倫" /zh hnx
+@"http://psi.iba-net.org/person/naut-379"
+]
+[naut-13 : resp = "法月重" /zh hnx
+@"http://psi.iba-net.org/person/naut-13"
+]
+[naut-89 : resp = "清遠" /zh hnx
+@"http://psi.iba-net.org/person/naut-89"
+]
+[naut-1152 : resp = "吳侗集" /zh hnx
+@"http://psi.iba-net.org/person/naut-1152"
+]
+[naut-1151 : resp = "道忞" /zh hnx
+@"http://psi.iba-net.org/person/naut-1151"
+]
+[naut-420 : resp = "處元" /zh hnx
+@"http://psi.iba-net.org/person/naut-420"
+]
+[naut-560 : resp = "瑞聖歎" /zh hnx
+@"http://psi.iba-net.org/person/naut-560"
+]
+[naut-262 : resp = "道隆" /zh hnx
+@"http://psi.iba-net.org/person/naut-262"
+]
+[naut-558 : resp = "古崑" /zh hnx
+@"http://psi.iba-net.org/person/naut-558"
+]
+[naut-248 : resp = "存吾闡" /zh hnx
+@"http://psi.iba-net.org/person/naut-248"
+]
+[naut-1013 : resp = "義初" /zh hnx
+@"http://psi.iba-net.org/person/naut-1013"
+]
+[naut-421 : resp = "傳燈說、靈耀" /zh hnx
+@"http://psi.iba-net.org/person/naut-421"
+]
+[naut-522 : resp = "濟岳彙箋" /zh hnx
+@"http://psi.iba-net.org/person/naut-522"
+]
+[naut-550 : resp = "周夢顏" /zh hnx
+@"http://psi.iba-net.org/person/naut-550"
+]
+[naut-877 : resp = "昭如" /zh hnx
+@"http://psi.iba-net.org/person/naut-877"
+]
+[naut-1093 : resp = "王勃" /zh hnx
+@"http://psi.iba-net.org/person/naut-1093"
+]
+[naut-1177 : resp = "夏樹芳" /zh hnx
+@"http://psi.iba-net.org/person/naut-1177"
+]
+[naut-161 : resp = "慧沼" /zh hnx
+@"http://psi.iba-net.org/person/naut-161"
+]
+[naut-751 : resp = "文謙" /zh hnx
+@"http://psi.iba-net.org/person/naut-751"
+]
+[naut-276 : resp = "法雲" /zh hnx
+@"http://psi.iba-net.org/person/naut-276"
+]
+[naut-37 : resp = "勿提提犀魚" /zh hnx
+@"http://psi.iba-net.org/person/naut-37"
+]
+[naut-656 : resp = "正覺" /zh hnx
+@"http://psi.iba-net.org/person/naut-656"
+]
+[naut-634 : resp = "超溟" /zh hnx
+@"http://psi.iba-net.org/person/naut-634"
+]
+[naut-127 : resp = "真界" /zh hnx
+@"http://psi.iba-net.org/person/naut-127"
+]
+[naut-603 : resp = "宗賾" /zh hnx
+@"http://psi.iba-net.org/person/naut-603"
+]
+[naut-137 : resp = "曾鳳儀" /zh hnx
+@"http://psi.iba-net.org/person/naut-137"
+]
+[naut-363 : resp = "智愷" /zh hnx
+@"http://psi.iba-net.org/person/naut-363"
+]
+[naut-167 : resp = "日新" /zh hnx
+@"http://psi.iba-net.org/person/naut-167"
+]
+[naut-913 : resp = "德粹" /zh hnx
+@"http://psi.iba-net.org/person/naut-913"
+]
+[naut-853 : resp = "彌紹" /zh hnx
+@"http://psi.iba-net.org/person/naut-853"
+]
+[naut-1041 : resp = "道盛" /zh hnx
+@"http://psi.iba-net.org/person/naut-1041"
+]
+[naut-478 : resp = "忠" /zh hnx
+@"http://psi.iba-net.org/person/naut-478"
+]
+[naut-86 : resp = "永光" /zh hnx
+@"http://psi.iba-net.org/person/naut-86"
+]
+[naut-536 : resp = "普度" /zh hnx
+@"http://psi.iba-net.org/person/naut-536"
+]
+[naut-475 : resp = "善熹註" /zh hnx
+@"http://psi.iba-net.org/person/naut-475"
+]
+[naut-986 : resp = "良彥" /zh hnx
+@"http://psi.iba-net.org/person/naut-986"
+]
+[naut-697 : resp = "道果" /zh hnx
+@"http://psi.iba-net.org/person/naut-697"
+]
+[naut-525 : resp = "超遠檢" /zh hnx
+@"http://psi.iba-net.org/person/naut-525"
+]
+[naut-470 : resp = "本嵩" /zh hnx
+@"http://psi.iba-net.org/person/naut-470"
+]
+[naut-184 : resp = "實觀" /zh hnx
+@"http://psi.iba-net.org/person/naut-184"
+]
+[naut-1146 : resp = "果性" /zh hnx
+@"http://psi.iba-net.org/person/naut-1146"
+]
+[naut-742 : resp = "了元" /zh hnx
+@"http://psi.iba-net.org/person/naut-742"
+]
+[naut-394 : resp = "法盈" /zh hnx
+@"http://psi.iba-net.org/person/naut-394"
+]
+[naut-201 : resp = "真嵩" /zh hnx
+@"http://psi.iba-net.org/person/naut-201"
+]
+[naut-433 : resp = "維蠲" /zh hnx
+@"http://psi.iba-net.org/person/naut-433"
+]
+[naut-1133 : resp = "瞿汝稷" /zh hnx
+@"http://psi.iba-net.org/person/naut-1133"
+]
+[naut-604 : resp = "宗壽" /zh hnx
+@"http://psi.iba-net.org/person/naut-604"
+]
+[naut-778 : resp = "行彌" /zh hnx
+@"http://psi.iba-net.org/person/naut-778"
+]
+[naut-625 : resp = "智徹" /zh hnx
+@"http://psi.iba-net.org/person/naut-625"
+]
+[date1 : resp = "June 2007" hnx]
 [date15 : resp = "梁" /zh hnx]
 [date6 : resp = "後漢" /zh hnx]
 [date35 : resp = "伏秦" /zh hnx]
