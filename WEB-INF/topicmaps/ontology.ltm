@@ -1,11 +1,11 @@
 @"utf-8"
 #PREFIX def @"http://psi.iba-net.org/def/"
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
-#INCLUDE "new.ltm"
 #INCLUDE "resp.ltm"
 #INCLUDE "dynasty.ltm"
 #INCLUDE "genre.ltm"
 #INCLUDE "person.ltm"
+#INCLUDE "hnx-new.ltm"
 
 [hcl = "HCL Context"]
 [hobogirin = "Hobogirin"]
@@ -296,7 +296,7 @@
 [div-38 : division = "法相宗" /zh]
 [div-39 : division = "天台宗" /zh]
 [div-40 : division = "華嚴宗" /zh]
-[div-41 : division = "真言宗" /zh]
+[div-41 : division = "眞言宗" /zh]
 [div-42 : division = "戒律宗" /zh]
 [div-43 : division = "淨土宗" /zh]
 [div-44 : division = "禪宗雜著" /zh]
