@@ -1,5 +1,7 @@
 @"utf-8"
 /* duplicate aut numbers in the file have been not yet removed here. cf autrep.tab in jinglu folder */
+#INCLUDE "ontology.ltm"
+
 [aut-1  : person ="Butsudayasha"/ja-rom
   ="佛陀耶舍"/ zh
   ="fo2 tuo2 ye1 she4 "/ zh-py
