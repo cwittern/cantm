@@ -6,6 +6,7 @@
 #INCLUDE "genre.ltm"
 #INCLUDE "person.ltm"
 #INCLUDE "hnx-new.ltm"
+#INCLUDE "hmw-new.ltm"
 
 [hcl = "HCL Context"]
 [hobogirin = "Hobogirin"]

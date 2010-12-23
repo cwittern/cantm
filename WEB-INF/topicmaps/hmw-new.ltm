@@ -1,0 +1,304 @@
+@"utf-8"
+/* textual agents */
+[naut-1682 : person = "一如等集註" / zh 
+ @"http://psi.iba-net.org/person/naut-1682"]
+[naut-1709 : person = "徹庸" / zh 
+ @"http://psi.iba-net.org/person/naut-1709"]
+[naut-1674 : person = "咸輝排經入" / zh 
+ @"http://psi.iba-net.org/person/naut-1674"]
+[naut-1760 : person = "正繼" / zh 
+ @"http://psi.iba-net.org/person/naut-1760"]
+[naut-1705 : person = "守堅" / zh 
+ @"http://psi.iba-net.org/person/naut-1705"]
+[naut-1767 : person = "超見" / zh 
+ @"http://psi.iba-net.org/person/naut-1767"]
+[naut-1751 : person = "法秀" / zh 
+ @"http://psi.iba-net.org/person/naut-1751"]
+[naut-1750 : person = "徹御" / zh 
+ @"http://psi.iba-net.org/person/naut-1750"]
+[naut-1791 : person = "時蔚" / zh 
+ @"http://psi.iba-net.org/person/naut-1791"]
+[naut-1652 : person = "闍那笈" / zh 
+ @"http://psi.iba-net.org/person/naut-1652"]
+[naut-1748 : person = "符" / zh 
+ @"http://psi.iba-net.org/person/naut-1748"]
+[naut-1741 : person = "義" / zh 
+ @"http://psi.iba-net.org/person/naut-1741"]
+[naut-1773 : person = "巨翔" / zh 
+ @"http://psi.iba-net.org/person/naut-1773"]
+[naut-1771 : person = "純" / zh 
+ @"http://psi.iba-net.org/person/naut-1771"]
+[naut-1781 : person = "燈顯" / zh 
+ @"http://psi.iba-net.org/person/naut-1781"]
+[naut-1754 : person = "悟卓" / zh 
+ @"http://psi.iba-net.org/person/naut-1754"]
+[naut-1668 : person = "般刺蜜諦譯經" / zh 
+ @"http://psi.iba-net.org/person/naut-1668"]
+[naut-1671 : person = "懷迪證" / zh 
+ @"http://psi.iba-net.org/person/naut-1671"]
+[naut-1687 : person = "惟則會解" / zh 
+ @"http://psi.iba-net.org/person/naut-1687"]
+[naut-1733 : person = "釋德清" / zh 
+ @"http://psi.iba-net.org/person/naut-1733"]
+[naut-1676 : person = "宗[江-工+防]" / zh 
+ @"http://psi.iba-net.org/person/naut-1676"]
+[naut-1736 : person = "海屋編" / zh 
+ @"http://psi.iba-net.org/person/naut-1736"]
+[naut-1749 : person = "振徵等" / zh 
+ @"http://psi.iba-net.org/person/naut-1749"]
+[naut-1689 : person = "師子比丘述註" / zh 
+ @"http://psi.iba-net.org/person/naut-1689"]
+[naut-1715 : person = "顯權等編" / zh 
+ @"http://psi.iba-net.org/person/naut-1715"]
+[naut-1799 : person = "德敷" / zh 
+ @"http://psi.iba-net.org/person/naut-1799"]
+[naut-1797 : person = "明康" / zh 
+ @"http://psi.iba-net.org/person/naut-1797"]
+[naut-1765 : person = "順" / zh 
+ @"http://psi.iba-net.org/person/naut-1765"]
+[naut-1721 : person = "正賢等編" / zh 
+ @"http://psi.iba-net.org/person/naut-1721"]
+[naut-1702 : person = "高道素斗光手錄" / zh 
+ @"http://psi.iba-net.org/person/naut-1702"]
+[naut-1727 : person = "慧機" / zh 
+ @"http://psi.iba-net.org/person/naut-1727"]
+[naut-1757 : person = "眞雄" / zh 
+ @"http://psi.iba-net.org/person/naut-1757"]
+[naut-1661 : person = "惟蓋竺" / zh 
+ @"http://psi.iba-net.org/person/naut-1661"]
+[naut-1782 : person = "性胤" / zh 
+ @"http://psi.iba-net.org/person/naut-1782"]
+[naut-1793 : person = "拙" / zh 
+ @"http://psi.iba-net.org/person/naut-1793"]
+[naut-1753 : person = "全威" / zh 
+ @"http://psi.iba-net.org/person/naut-1753"]
+[naut-1696 : person = "失注釋人名" / zh 
+ @"http://psi.iba-net.org/person/naut-1696"]
+[naut-1698 : person = "釋智旭" / zh 
+ @"http://psi.iba-net.org/person/naut-1698"]
+[naut-1738 : person = "宏怤" / zh 
+ @"http://psi.iba-net.org/person/naut-1738"]
+[naut-1685 : person = "彌伽釋迦譯語" / zh 
+ @"http://psi.iba-net.org/person/naut-1685"]
+[naut-1700 : person = "天如則" / zh 
+ @"http://psi.iba-net.org/person/naut-1700"]
+[naut-1664 : person = "祖詠編，宗演" / zh 
+ @"http://psi.iba-net.org/person/naut-1664"]
+[naut-1796 : person = "朱道則" / zh 
+ @"http://psi.iba-net.org/person/naut-1796"]
+[naut-1798 : person = "？" / zh 
+ @"http://psi.iba-net.org/person/naut-1798"]
+[naut-1690 : person = "圓[江-工+靜]" / zh 
+ @"http://psi.iba-net.org/person/naut-1690"]
+[naut-1772 : person = "福月" / zh 
+ @"http://psi.iba-net.org/person/naut-1772"]
+[naut-1743 : person = "智質" / zh 
+ @"http://psi.iba-net.org/person/naut-1743"]
+[naut-1766 : person = "寶性" / zh 
+ @"http://psi.iba-net.org/person/naut-1766"]
+[naut-1672 : person = "子璿集義疏注經竝" / zh 
+ @"http://psi.iba-net.org/person/naut-1672"]
+[naut-1734 : person = "通門" / zh 
+ @"http://psi.iba-net.org/person/naut-1734"]
+[naut-1723 : person = "道正" / zh 
+ @"http://psi.iba-net.org/person/naut-1723"]
+[naut-1666 : person = "釋湛然" / zh 
+ @"http://psi.iba-net.org/person/naut-1666"]
+[naut-1742 : person = "憲" / zh 
+ @"http://psi.iba-net.org/person/naut-1742"]
+[naut-1725 : person = "廣眞" / zh 
+ @"http://psi.iba-net.org/person/naut-1725"]
+[naut-1778 : person = "寶悟" / zh 
+ @"http://psi.iba-net.org/person/naut-1778"]
+[naut-1675 : person = "宋" / zh 
+ @"http://psi.iba-net.org/person/naut-1675"]
+[naut-1678 : person = "成祖" / zh 
+ @"http://psi.iba-net.org/person/naut-1678"]
+[naut-1683 : person = "戒環解" / zh 
+ @"http://psi.iba-net.org/person/naut-1683"]
+[naut-1720 : person = "百癡" / zh 
+ @"http://psi.iba-net.org/person/naut-1720"]
+[naut-1703 : person = "鍾始聲" / zh 
+ @"http://psi.iba-net.org/person/naut-1703"]
+[naut-1730 : person = "性亮同" / zh 
+ @"http://psi.iba-net.org/person/naut-1730"]
+[naut-1718 : person = "智誾" / zh 
+ @"http://psi.iba-net.org/person/naut-1718"]
+[naut-1662 : person = "紹隆" / zh 
+ @"http://psi.iba-net.org/person/naut-1662"]
+[naut-1788 : person = "傅鵬" / zh 
+ @"http://psi.iba-net.org/person/naut-1788"]
+[naut-1677 : person = "如[王*巳]" / zh 
+ @"http://psi.iba-net.org/person/naut-1677"]
+[naut-1710 : person = "洪如" / zh 
+ @"http://psi.iba-net.org/person/naut-1710"]
+[naut-1657 : person = "諸大法師" / zh 
+ @"http://psi.iba-net.org/person/naut-1657"]
+[naut-1728 : person = "幻敏" / zh 
+ @"http://psi.iba-net.org/person/naut-1728"]
+[naut-1783 : person = "一" / zh 
+ @"http://psi.iba-net.org/person/naut-1783"]
+[naut-1681 : person = "明太宗朱棣制" / zh 
+ @"http://psi.iba-net.org/person/naut-1681"]
+[naut-1711 : person = "圓悟．圓修等編" / zh 
+ @"http://psi.iba-net.org/person/naut-1711"]
+[naut-1744 : person = "行韜" / zh 
+ @"http://psi.iba-net.org/person/naut-1744"]
+[naut-1695 : person = "道忞上進" / zh 
+ @"http://psi.iba-net.org/person/naut-1695"]
+[naut-1746 : person = "大成等" / zh 
+ @"http://psi.iba-net.org/person/naut-1746"]
+[naut-1724 : person = "發慧" / zh 
+ @"http://psi.iba-net.org/person/naut-1724"]
+[naut-1787 : person = "普潤" / zh 
+ @"http://psi.iba-net.org/person/naut-1787"]
+[naut-1761 : person = "道澄" / zh 
+ @"http://psi.iba-net.org/person/naut-1761"]
+[naut-1789 : person = "道濟" / zh 
+ @"http://psi.iba-net.org/person/naut-1789"]
+[naut-1739 : person = "行省" / zh 
+ @"http://psi.iba-net.org/person/naut-1739"]
+[naut-1731 : person = "書玉略" / zh 
+ @"http://psi.iba-net.org/person/naut-1731"]
+[naut-1768 : person = "徹凡" / zh 
+ @"http://psi.iba-net.org/person/naut-1768"]
+[naut-1732 : person = "袁宏道" / zh 
+ @"http://psi.iba-net.org/person/naut-1732"]
+[naut-1777 : person = "眞續" / zh 
+ @"http://psi.iba-net.org/person/naut-1777"]
+[naut-1655 : person = "夏" / zh 
+ @"http://psi.iba-net.org/person/naut-1655"]
+[naut-1707 : person = "淨倫" / zh 
+ @"http://psi.iba-net.org/person/naut-1707"]
+[naut-1722 : person = "原澂" / zh 
+ @"http://psi.iba-net.org/person/naut-1722"]
+[naut-1717 : person = "達尊．達謙等編次" / zh 
+ @"http://psi.iba-net.org/person/naut-1717"]
+[naut-1659 : person = "失譯撰人名" / zh 
+ @"http://psi.iba-net.org/person/naut-1659"]
+[naut-1794 : person = "光模" / zh 
+ @"http://psi.iba-net.org/person/naut-1794"]
+[naut-1774 : person = "寂乾" / zh 
+ @"http://psi.iba-net.org/person/naut-1774"]
+[naut-1712 : person = "弘歇等編" / zh 
+ @"http://psi.iba-net.org/person/naut-1712"]
+[naut-1691 : person = "澄觀撰述" / zh 
+ @"http://psi.iba-net.org/person/naut-1691"]
+[naut-1764 : person = "超宗" / zh 
+ @"http://psi.iba-net.org/person/naut-1764"]
+[naut-1759 : person = "智" / zh 
+ @"http://psi.iba-net.org/person/naut-1759"]
+[naut-1663 : person = "蘊聞" / zh 
+ @"http://psi.iba-net.org/person/naut-1663"]
+[naut-1680 : person = "太宗御" / zh 
+ @"http://psi.iba-net.org/person/naut-1680"]
+[naut-1701 : person = "失撰人名" / zh 
+ @"http://psi.iba-net.org/person/naut-1701"]
+[naut-1714 : person = "正明" / zh 
+ @"http://psi.iba-net.org/person/naut-1714"]
+[naut-1762 : person = "德儒" / zh 
+ @"http://psi.iba-net.org/person/naut-1762"]
+[naut-1719 : person = "傳善" / zh 
+ @"http://psi.iba-net.org/person/naut-1719"]
+[naut-1770 : person = "行謙" / zh 
+ @"http://psi.iba-net.org/person/naut-1770"]
+[naut-1658 : person = "失譯撰集人名" / zh 
+ @"http://psi.iba-net.org/person/naut-1658"]
+[naut-1667 : person = "釋知禮" / zh 
+ @"http://psi.iba-net.org/person/naut-1667"]
+[naut-1763 : person = "乾" / zh 
+ @"http://psi.iba-net.org/person/naut-1763"]
+[naut-1654 : person = "安藏" / zh 
+ @"http://psi.iba-net.org/person/naut-1654"]
+[naut-1747 : person = "大樞" / zh 
+ @"http://psi.iba-net.org/person/naut-1747"]
+[naut-1686 : person = "房融筆受" / zh 
+ @"http://psi.iba-net.org/person/naut-1686"]
+[naut-1679 : person = "明太宗御製" / zh 
+ @"http://psi.iba-net.org/person/naut-1679"]
+[naut-1669 : person = "彌伽釋伽譯語" / zh 
+ @"http://psi.iba-net.org/person/naut-1669"]
+[naut-1694 : person = "徐皇后" / zh 
+ @"http://psi.iba-net.org/person/naut-1694"]
+[naut-1656 : person = "智廣等集" / zh 
+ @"http://psi.iba-net.org/person/naut-1656"]
+[naut-1726 : person = "燈來" / zh 
+ @"http://psi.iba-net.org/person/naut-1726"]
+[naut-1673 : person = "曉月標指要義" / zh 
+ @"http://psi.iba-net.org/person/naut-1673"]
+[naut-1779 : person = "性鉅" / zh 
+ @"http://psi.iba-net.org/person/naut-1779"]
+[naut-1737 : person = "行澤" / zh 
+ @"http://psi.iba-net.org/person/naut-1737"]
+[naut-1784 : person = "明滿" / zh 
+ @"http://psi.iba-net.org/person/naut-1784"]
+[naut-1704 : person = "普明原" / zh 
+ @"http://psi.iba-net.org/person/naut-1704"]
+[naut-1706 : person = "周理" / zh 
+ @"http://psi.iba-net.org/person/naut-1706"]
+[naut-1755 : person = "超常" / zh 
+ @"http://psi.iba-net.org/person/naut-1755"]
+[naut-1785 : person = "必" / zh 
+ @"http://psi.iba-net.org/person/naut-1785"]
+[naut-1693 : person = "琮湛" / zh 
+ @"http://psi.iba-net.org/person/naut-1693"]
+[naut-1769 : person = "德宗" / zh 
+ @"http://psi.iba-net.org/person/naut-1769"]
+[naut-1684 : person = "般刺密帝譯" / zh 
+ @"http://psi.iba-net.org/person/naut-1684"]
+[naut-1792 : person = "普壽" / zh 
+ @"http://psi.iba-net.org/person/naut-1792"]
+[naut-1795 : person = "上思" / zh 
+ @"http://psi.iba-net.org/person/naut-1795"]
+[naut-1775 : person = "申" / zh 
+ @"http://psi.iba-net.org/person/naut-1775"]
+[naut-1699 : person = "妙[口*十]" / zh 
+ @"http://psi.iba-net.org/person/naut-1699"]
+[naut-1670 : person = "房融筆授" / zh 
+ @"http://psi.iba-net.org/person/naut-1670"]
+[naut-1790 : person = "如淵" / zh 
+ @"http://psi.iba-net.org/person/naut-1790"]
+[naut-1692 : person = "劉謐" / zh 
+ @"http://psi.iba-net.org/person/naut-1692"]
+[naut-1713 : person = "通琇編" / zh 
+ @"http://psi.iba-net.org/person/naut-1713"]
+[naut-1756 : person = "今辨" / zh 
+ @"http://psi.iba-net.org/person/naut-1756"]
+[naut-1697 : person = "遵式集" / zh 
+ @"http://psi.iba-net.org/person/naut-1697"]
+[naut-1716 : person = "眞樸" / zh 
+ @"http://psi.iba-net.org/person/naut-1716"]
+[naut-1758 : person = "機德" / zh 
+ @"http://psi.iba-net.org/person/naut-1758"]
+[naut-1665 : person = "灌頂錄" / zh 
+ @"http://psi.iba-net.org/person/naut-1665"]
+[naut-1688 : person = "法藏述" / zh 
+ @"http://psi.iba-net.org/person/naut-1688"]
+[naut-1653 : person = "開元拾遺附梁錄" / zh 
+ @"http://psi.iba-net.org/person/naut-1653"]
+[naut-1780 : person = "燈映" / zh 
+ @"http://psi.iba-net.org/person/naut-1780"]
+[naut-1660 : person = "宗寶" / zh 
+ @"http://psi.iba-net.org/person/naut-1660"]
+[naut-1776 : person = "合喆" / zh 
+ @"http://psi.iba-net.org/person/naut-1776"]
+[naut-1752 : person = "機如" / zh 
+ @"http://psi.iba-net.org/person/naut-1752"]
+[naut-1708 : person = "本智" / zh 
+ @"http://psi.iba-net.org/person/naut-1708"]
+[naut-1745 : person = "顯裕" / zh 
+ @"http://psi.iba-net.org/person/naut-1745"]
+[naut-1786 : person = "暐" / zh 
+ @"http://psi.iba-net.org/person/naut-1786"]
+[naut-1729 : person = "性養" / zh 
+ @"http://psi.iba-net.org/person/naut-1729"]
+[naut-1735 : person = "集成" / zh 
+ @"http://psi.iba-net.org/person/naut-1735"]
+[naut-1651 : person = "鳩摩羅什譯長行" / zh 
+ @"http://psi.iba-net.org/person/naut-1651"]
+[naut-1740 : person = "超直" / zh 
+ @"http://psi.iba-net.org/person/naut-1740"]
+/* dynasties, roles */
+/* resp */
+[nresp-280 : resp = "智旭重治" / zh ]
+/* divisions */
