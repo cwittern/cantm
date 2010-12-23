@@ -1,6 +1,7 @@
 @"utf-8"
 #PREFIX def @"http://psi.iba-net.org/def/"
 #PREFIX frbr @"http://purl.org/vocab/frbr/core#"
+#INCLUDE "new.ltm"
 #INCLUDE "resp.ltm"
 #INCLUDE "dynasty.ltm"
 #INCLUDE "genre.ltm"
