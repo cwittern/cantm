@@ -2,7 +2,7 @@
 #INCLUDE "ontology.ltm"
 /* expressions */
 #INCLUDE "hnt-exp.ltm"
-/* #INCLUDE "hkd-exp.ltm" */
+#INCLUDE "hkd-exp.ltm" 
 #INCLUDE "hnx-exp.ltm"
 #INCLUDE "hmw-exp.ltm"
 /* #INCLUDE "hkb-exp.ltm" */
