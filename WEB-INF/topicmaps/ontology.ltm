@@ -4,6 +4,7 @@
 #INCLUDE "resp.ltm"
 #INCLUDE "dynasty.ltm"
 #INCLUDE "genre.ltm"
+#INCLUDE "person.ltm"
 
 [hcl = "HCL Context"]
 [hobogirin = "Hobogirin"]
