@@ -1777,7 +1777,7 @@ related-text(ek0290 : source, ek0291 : target)
 related-text(ek0291 : source, ek0287 : target)
 related-text(ek0291 : source, ek0290 : target)
 [ek0292 : exp = "千眼千臂觀世音菩薩陀羅尼神咒經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_0292" "]
+    @"http://psi.iba-net.org/exp/hkd_0292"]
 related-text(ek0292 : source, ek0293 : target)
 related-text(ek0292 : source, ek0294 : target)
 related-text(ek0292 : source, ek1269 : target)
@@ -3908,7 +3908,7 @@ related-text(ek0762 : source, ek0759 : target)
 related-text(ek0762 : source, ek0764 : target)
 related-text(ek0762 : source, ek0766 : target)
 [ek0763 : exp = "餓鬼報應經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_0763" "]
+    @"http://psi.iba-net.org/exp/hkd_0763"]
 [ek0764 : exp = "舍頭諫太子二十八宿經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_0764"  
  @"http://psi.iba-net.org/exp/hnt_1301"]
@@ -4991,9 +4991,9 @@ related-text(ek1051 : source, ek1108 : target)
     @"http://psi.iba-net.org/exp/hkd_1062"  
  @"http://psi.iba-net.org/exp/hnt_2154"]
 [ek1063 : exp = "一切經音義" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1063" "]
+    @"http://psi.iba-net.org/exp/hkd_1063" ]
 [ek1064 : exp = "新譯大方廣佛華嚴經音義" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1064" "]
+    @"http://psi.iba-net.org/exp/hkd_1064" ]
 [ek1065 : exp = "大唐西域記" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1065"  
  @"http://psi.iba-net.org/exp/hnt_2087"]
@@ -5753,15 +5753,15 @@ related-text(ek1256 : source, ek0018 : target)
 related-text(ek1256 : source, ek1189 : target)
 related-text(ek1256 : source, ek1275 : target)
 [ek1257 : exp = "新集藏經音義隨凾錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1257" "]
+    @"http://psi.iba-net.org/exp/hkd_1257"]
 [ek1258 : exp = "御製蓮華心輪廻文偈頌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1258" "]
+    @"http://psi.iba-net.org/exp/hkd_1258"]
 [ek1259 : exp = "御製祕藏詮" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1259" "]
+    @"http://psi.iba-net.org/exp/hkd_1259"]
 [ek1260 : exp = "御製逍遙詠" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1260" "]
+    @"http://psi.iba-net.org/exp/hkd_1260"]
 [ek1261 : exp = "御製緣識" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1261" "]
+    @"http://psi.iba-net.org/exp/hkd_1261"]
 [ek1262 : exp = "大方廣佛華嚴經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1262"  
  @"http://psi.iba-net.org/exp/hnt_0293"]
@@ -6308,7 +6308,7 @@ related-text(ek1389 : source, ek1395 : target)
     @"http://psi.iba-net.org/exp/hkd_1401"  
  @"http://psi.iba-net.org/exp/hnt_2157"]
 [ek1402 : exp = "高麗國新雕大藏校正別錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1402" "]
+    @"http://psi.iba-net.org/exp/hkd_1402"]
 [ek1403 : exp = "大般涅槃經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1403"  
  @"http://psi.iba-net.org/exp/hnt_0375"]
@@ -6319,7 +6319,7 @@ related-text(ek1403 : source, ek0567 : target)
     @"http://psi.iba-net.org/exp/hkd_1404"  
  @"http://psi.iba-net.org/exp/hnt_0441"]
 [ek1405 : exp = "大藏目錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1405" "]
+    @"http://psi.iba-net.org/exp/hkd_1405"]
 [ek1406 : exp = "法苑珠林" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1406"  
  @"http://psi.iba-net.org/exp/hnt_2122"]
@@ -6678,7 +6678,7 @@ related-text(ek1496 : source, ek0022 : target)
     @"http://psi.iba-net.org/exp/hkd_1499"  
  @"http://psi.iba-net.org/exp/hnt_2016"]
 [ek1500 : exp = "南明泉和尚頌證道歌事實" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1500" "]
+    @"http://psi.iba-net.org/exp/hkd_1500"]
 [ek1501 : exp = "金剛三昧經論" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1501"  
  @"http://psi.iba-net.org/exp/hnt_1730"]
@@ -6687,27 +6687,27 @@ related-text(ek1501 : source, ek0521 : target)
     @"http://psi.iba-net.org/exp/hkd_1502"  
  @"http://psi.iba-net.org/exp/hnt_1887b"]
 [ek1503 : exp = "祖堂集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1503" "]
+    @"http://psi.iba-net.org/exp/hkd_1503"]
 [ek1504 : exp = "大藏一覽集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1504" "]
+    @"http://psi.iba-net.org/exp/hkd_1504"]
 [ek1505 : exp = "禪門拈頌集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1505" "]
+    @"http://psi.iba-net.org/exp/hkd_1505"]
 [ek1506 : exp = "大方廣佛華嚴經搜玄分齊通智方規" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1506"  
  @"http://psi.iba-net.org/exp/hnt_1732"]
 related-text(ek1506 : source, ek0079 : target)
 [ek1507 : exp = "十句章圓通記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1507" "]
+    @"http://psi.iba-net.org/exp/hkd_1507"]
 [ek1508 : exp = "釋華嚴旨歸章圓通鈔" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1508" "]
+    @"http://psi.iba-net.org/exp/hkd_1508"]
 [ek1509 : exp = "華嚴經三寶章圓通記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1509" "]
+    @"http://psi.iba-net.org/exp/hkd_1509"]
 [ek1510a : exp = "釋華嚴教分記圓通鈔" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1510a" "]
+    @"http://psi.iba-net.org/exp/hkd_1510a"]
 [ek1510b : exp = "大華嚴首座圓通兩重大師均如傳幷序" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1510b" "]
+    @"http://psi.iba-net.org/exp/hkd_1510b"]
 [ek1511 : exp = "禮念彌陀道場懺法" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1511" "]
+    @"http://psi.iba-net.org/exp/hkd_1511"]
 [ek1512 : exp = "慈悲道場懺法" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_1512"  
  @"http://psi.iba-net.org/exp/hnt_1909"]
@@ -6716,7 +6716,7 @@ related-text(ek1506 : source, ek0079 : target)
  @"http://psi.iba-net.org/exp/hnt_1733"]
 related-text(ek1513 : source, ek0079 : target)
 [ek1514 : exp = "高麗大藏經補遺目錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1514" "]
+    @"http://psi.iba-net.org/exp/hkd_1514"]
 [eks0001 : exp = "大方廣佛華嚴經疏" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0001"  
  @"http://psi.iba-net.org/exp/hnt_1735"]
@@ -6731,7 +6731,7 @@ related-text(eks0002 : source, ek0080 : target)
     @"http://psi.iba-net.org/exp/hkd_s0003"  
  @"http://psi.iba-net.org/exp/hnt_0262"]
 [eks0004 : exp = "海印寺藏散板集 天地冥陽水陸齊疏牓文牒節要 華嚴經略神象 十門和諍論 普門經 妙法蓮華經觀世音菩薩普門品 大方廣佛華嚴經行願品 大方廣佛華嚴經淨行品 金剛般若波羅蜜經 般若經科 梵釋四天王陀羅尼經 三十八分功德疏經 預修十王生七經 悉曇章 白花道場發願文略解 傳燈錄 發願文 雲水 鼎州梁山廊然和尚一牛圖頌 續命寺壁上詩數首 懶菴普雨大師作觀 四名日施食時國魂通用請 多林 緇門警訓 點眼文三十七尊" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0004" "]
+    @"http://psi.iba-net.org/exp/hkd_s0004"]
 [eks0005 : exp = "金剛般若波羅密經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0005"  
  @"http://psi.iba-net.org/exp/hnt_0235"]
@@ -6739,22 +6739,22 @@ related-text(eks0002 : source, ek0080 : target)
     @"http://psi.iba-net.org/exp/hkd_s0006"  
  @"http://psi.iba-net.org/exp/hnt_0366"]
 [eks0007 : exp = "佛頂心觀世音菩薩大陀羅尼" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0007" "]
+    @"http://psi.iba-net.org/exp/hkd_s0007"]
 [eks0008 : exp = "上天王天帝釋請命長生經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0008" "]
+    @"http://psi.iba-net.org/exp/hkd_s0008"]
 [eks0009 : exp = "天尊却溫黃神呪經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0009" "]
+    @"http://psi.iba-net.org/exp/hkd_s0009"]
 [eks0010 : exp = "三十八分功德疏經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0010" "]
+    @"http://psi.iba-net.org/exp/hkd_s0010"]
 [eks0011 : exp = "長壽滅罪護諸童子陀羅尼經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0011" "]
+    @"http://psi.iba-net.org/exp/hkd_s0011"]
 [eks0012 : exp = "金光明經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0012"  
  @"http://psi.iba-net.org/exp/hnt_0663"]
 [eks0013 : exp = "四分律詳集記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0013" "]
+    @"http://psi.iba-net.org/exp/hkd_s0013"]
 [eks0014 : exp = "倶舍論頌疏抄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0014" "]
+    @"http://psi.iba-net.org/exp/hkd_s0014"]
 [eks0015 : exp = "大方廣佛華嚴經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0015"  
  @"http://psi.iba-net.org/exp/hnt_0278"]
@@ -6765,49 +6765,49 @@ related-text(eks0002 : source, ek0080 : target)
     @"http://psi.iba-net.org/exp/hkd_s0017"  
  @"http://psi.iba-net.org/exp/hnt_0279"]
 [eks0018 : exp = "結手文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0018" "]
+    @"http://psi.iba-net.org/exp/hkd_s0018"]
 [eks0019 : exp = "仔虁文節次條例" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0019" "]
+    @"http://psi.iba-net.org/exp/hkd_s0019"]
 [eks0020 : exp = "釋門家禮抄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0020" "]
+    @"http://psi.iba-net.org/exp/hkd_s0020"]
 [eks0021 : exp = "中禮文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0021" "]
+    @"http://psi.iba-net.org/exp/hkd_s0021"]
 [eks0022 : exp = "水陸無遮平等齊儀撮要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0022" "]
+    @"http://psi.iba-net.org/exp/hkd_s0022"]
 [eks0023 : exp = "天地冥陽水陸齊儀疏榜文牒節要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0023" "]
+    @"http://psi.iba-net.org/exp/hkd_s0023"]
 [eks0024 : exp = "大刹四明日迎魂施食儀文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0024" "]
+    @"http://psi.iba-net.org/exp/hkd_s0024"]
 [eks0025 : exp = "海印寺藏板刊記集 大方廣佛華嚴經 大方廣佛華嚴經 大方廣佛華嚴經 金光明經 父母恩重胎骨經 好隱集 施食儀 大報父母恩重經 景德轉燈錄 林間錄 高峰禪要 禪宗永嘉集 王郞傳 安位供養篇 華嚴經觀自在菩薩所說法門別行疏 條例 註心賦 禮念彌陀道場懺法 釋門家禮 禪宗唯心訣 唐賢詩範 林間錄 普賢行願品 佛遺教經 普勸文 起信論海東疏䟽 華嚴法華略纂 梵釋四天陀羅尼經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0025" "]
+    @"http://psi.iba-net.org/exp/hkd_s0025"]
 [eks0026 : exp = "註心賦" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0026" "]
+    @"http://psi.iba-net.org/exp/hkd_s0026"]
 [eks0027 : exp = "妙法蓮華經要解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0027" "]
+    @"http://psi.iba-net.org/exp/hkd_s0027"]
 [eks0028 : exp = "景德傳燈錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0028" "]
+    @"http://psi.iba-net.org/exp/hkd_s0028"]
 [eks0029 : exp = "大乘起信論疏記會本" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0029" "]
+    @"http://psi.iba-net.org/exp/hkd_s0029"]
 [eks0030 : exp = "禮念彌陀道場懺法" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0030" "]
+    @"http://psi.iba-net.org/exp/hkd_s0030"]
 [eks0031 : exp = "仔虁删補文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0031" "]
+    @"http://psi.iba-net.org/exp/hkd_s0031"]
 [eks0032 : exp = "禪宗永嘉集諺解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0032" "]
+    @"http://psi.iba-net.org/exp/hkd_s0032"]
 [eks0033 : exp = "大覺國師文集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0033" "]
+    @"http://psi.iba-net.org/exp/hkd_s0033"]
 [eks0034 : exp = "大覺國師外集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0034" "]
+    @"http://psi.iba-net.org/exp/hkd_s0034"]
 [eks0035 : exp = "首楞嚴經要解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0035" "]
+    @"http://psi.iba-net.org/exp/hkd_s0035"]
 [eks0036 : exp = "華嚴經觀自在菩薩所說法門別行疏" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0036" "]
+    @"http://psi.iba-net.org/exp/hkd_s0036"]
 [eks0037 : exp = "雲水壇" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0037" "]
+    @"http://psi.iba-net.org/exp/hkd_s0037"]
 [eks0038 : exp = "作觀說" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0038" "]
+    @"http://psi.iba-net.org/exp/hkd_s0038"]
 [eks0039 : exp = "五大眞言集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0039" "]
+    @"http://psi.iba-net.org/exp/hkd_s0039"]
 [eks0040 : exp = "禪宗唯心訣" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0040"  
  @"http://psi.iba-net.org/exp/hnt_2018"]
@@ -6815,20 +6815,20 @@ related-text(eks0002 : source, ek0080 : target)
     @"http://psi.iba-net.org/exp/hkd_s0041"  
  @"http://psi.iba-net.org/exp/hnt_2020"]
 [eks0042 : exp = "高峰和尚禪要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0042" "]
+    @"http://psi.iba-net.org/exp/hkd_s0042"]
 [eks0043 : exp = "林讚" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0043" "]
+    @"http://psi.iba-net.org/exp/hkd_s0043"]
 [eks0044 : exp = "林間錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0044" "]
+    @"http://psi.iba-net.org/exp/hkd_s0044"]
 [eks0045 : exp = "蒙山和尚法語諺解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0045" "]
+    @"http://psi.iba-net.org/exp/hkd_s0045"]
 [eks0046 : exp = "禪宗永嘉集" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0046"  
  @"http://psi.iba-net.org/exp/hnt_2013"]
 [eks0047 : exp = "人天寳鑑" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0047" "]
+    @"http://psi.iba-net.org/exp/hkd_s0047"]
 [eks0048 : exp = "華嚴法華略纂" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0048" "]
+    @"http://psi.iba-net.org/exp/hkd_s0048"]
 [eks0049 : exp = "四十二章經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0049"  
  @"http://psi.iba-net.org/exp/hnt_0784"]
@@ -6842,26 +6842,26 @@ related-text(eks0002 : source, ek0080 : target)
     @"http://psi.iba-net.org/exp/hkd_s0052"  
  @"http://psi.iba-net.org/exp/hnt_0293"]
 [eks0053 : exp = "藏乘法數" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0053" "]
+    @"http://psi.iba-net.org/exp/hkd_s0053"]
 [eks0054 : exp = "日用集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0054" "]
+    @"http://psi.iba-net.org/exp/hkd_s0054"]
 [eks0055 : exp = "諸般文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0055" "]
+    @"http://psi.iba-net.org/exp/hkd_s0055"]
 [eks0056 : exp = "禪宗永嘉集" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0056"  
  @"http://psi.iba-net.org/exp/hnt_2013"]
 [eks0057 : exp = "念佛普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0057" "]
+    @"http://psi.iba-net.org/exp/hkd_s0057"]
 [eks0058 : exp = "彌陀經諺解" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0058"  
  @"http://psi.iba-net.org/exp/hnt_0366"]
 related-text(eks0058 : source, ek0192 : target)
 [eks0059 : exp = "新編普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0059" "]
+    @"http://psi.iba-net.org/exp/hkd_s0059"]
 [eks0060 : exp = "江月尊者西往歌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0060" "]
+    @"http://psi.iba-net.org/exp/hkd_s0060"]
 [eks0061 : exp = "王郞返魂傳" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0061" "]
+    @"http://psi.iba-net.org/exp/hkd_s0061"]
 [eks0062 : exp = "高王勸世音經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0062"  
  @"http://psi.iba-net.org/exp/hnt_2898"]
@@ -6869,50 +6869,50 @@ related-text(eks0058 : source, ek0192 : target)
     @"http://psi.iba-net.org/exp/hkd_s0063"  
  @"http://psi.iba-net.org/exp/hnt_2896"]
 [eks0064 : exp = "高麗大藏經跋文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0064" "]
+    @"http://psi.iba-net.org/exp/hkd_s0064"]
 [eks0065 : exp = "海印寺重修記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0065" "]
+    @"http://psi.iba-net.org/exp/hkd_s0065"]
 [eks0066 : exp = "伽倻山海印寺古籍" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0066" "]
+    @"http://psi.iba-net.org/exp/hkd_s0066"]
 [eks0067 : exp = "受戒儀" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0067" "]
+    @"http://psi.iba-net.org/exp/hkd_s0067"]
 [eks0068 : exp = "念佛普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0068" "]
+    @"http://psi.iba-net.org/exp/hkd_s0068"]
 [eks0069 : exp = "大報父母恩重經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0069" "]
+    @"http://psi.iba-net.org/exp/hkd_s0069"]
 related-text(eks0069 : source, ek0883 : target)
 [eks0070 : exp = "父母恩重胎骨經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0070" "]
+    @"http://psi.iba-net.org/exp/hkd_s0070"]
 related-text(eks0070 : source, ek0883 : target)
 [eks0071 : exp = "茶毘文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0071" "]
+    @"http://psi.iba-net.org/exp/hkd_s0071"]
 [eks0072 : exp = "四分律比丘二百五十戒本" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0072" "]
+    @"http://psi.iba-net.org/exp/hkd_s0072"]
 [eks0073 : exp = "二百五十戒頌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0073" "]
+    @"http://psi.iba-net.org/exp/hkd_s0073"]
 [eks0074 : exp = "戒法源流" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0074" "]
+    @"http://psi.iba-net.org/exp/hkd_s0074"]
 [eks0075 : exp = "戒相篇聚圖" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0075" "]
+    @"http://psi.iba-net.org/exp/hkd_s0075"]
 [eks0076 : exp = "具足戒相威儀細行論" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0076" "]
+    @"http://psi.iba-net.org/exp/hkd_s0076"]
 [eks0077 : exp = "梵網經廬舍那佛說心地法門品菩薩戒本註" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0077" "]
+    @"http://psi.iba-net.org/exp/hkd_s0077"]
 [eks0078 : exp = "法寳壇經" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0078"  
  @"http://psi.iba-net.org/exp/hnt_2008"]
 [eks0079 : exp = "好隱集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0079" "]
+    @"http://psi.iba-net.org/exp/hkd_s0079"]
 [eks0080 : exp = "誡初心學人文" / zh korcat
     @"http://psi.iba-net.org/exp/hkd_s0080"  
  @"http://psi.iba-net.org/exp/hnt_2019b"]
 [eks0081 : exp = "發心修行章" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0081" "]
+    @"http://psi.iba-net.org/exp/hkd_s0081"]
 [eks0082 : exp = "自警" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0082" "]
+    @"http://psi.iba-net.org/exp/hkd_s0082"]
 [eks0083 : exp = "像法滅義經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0083" "]
+    @"http://psi.iba-net.org/exp/hkd_s0083"]
 [eks0084 : exp = "唐賢詩範" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0084" "]
+    @"http://psi.iba-net.org/exp/hkd_s0084"]
 [eks0085 : exp = "南陽先生詩集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0085" "]
+    @"http://psi.iba-net.org/exp/hkd_s0085"]
