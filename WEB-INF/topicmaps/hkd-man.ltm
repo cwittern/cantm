@@ -4019,7 +4019,7 @@ related-text(ek0291 : source, ek0290 : target)
         = "Ch'ien yen ch'ien pei kuan shih yin p'u sa t'o lo ni shen chou ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_0292" ]
 [ek0292 : exp = "千眼千臂觀世音菩薩陀羅尼神咒經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_0292" "]
+    @"http://psi.iba-net.org/exp/hkd_0292"]
 is-embodied-in(ek0292 : exp, mk0292 : man)
 related-text(ek0292 : source, ek0293 : target)
 related-text(ek0292 : source, ek0294 : target)
@@ -8884,7 +8884,7 @@ related-text(ek0762 : source, ek0766 : target)
         = "E kuei pao ying ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_0763" ]
 [ek0763 : exp = "餓鬼報應經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_0763" "]
+    @"http://psi.iba-net.org/exp/hkd_0763"]
 is-embodied-in(ek0763 : exp, mk0763 : man)
 [mk0764 : man = "舍頭諫太子二十八宿經" / zh korcat
         = "사두간태자이십팔숙경" / ko korcat
@@ -11596,14 +11596,14 @@ is-embodied-in(ek1062 : exp, mk1062 : man)
         = "I ch'ieh ching yin i" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1063" ]
 [ek1063 : exp = "一切經音義" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1063" "]
+    @"http://psi.iba-net.org/exp/hkd_1063"]
 is-embodied-in(ek1063 : exp, mk1063 : man)
 [mk1064 : man = "新譯大方廣佛華嚴經音義" / zh korcat
         = "신역대방광불화엄경음의" / ko korcat
         = "Hsin i ta fang kuang fo hua yen ching yin i" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1064" ]
 [ek1064 : exp = "新譯大方廣佛華嚴經音義" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1064" "]
+    @"http://psi.iba-net.org/exp/hkd_1064"]
 is-embodied-in(ek1064 : exp, mk1064 : man)
 [mk1065 : man = "大唐西域記" / zh korcat
         = "대당서역기" / ko korcat
@@ -13609,35 +13609,35 @@ related-text(ek1256 : source, ek1275 : target)
         = "Hsin chi ts'ang ching yin i sui han lu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1257" ]
 [ek1257 : exp = "新集藏經音義隨凾錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1257" "]
+    @"http://psi.iba-net.org/exp/hkd_1257"]
 is-embodied-in(ek1257 : exp, mk1257 : man)
 [mk1258 : man = "御製蓮華心輪廻文偈頌" / zh korcat
         = "어제연화심윤회문게송" / ko korcat
         = "Yü chih lien hua hsin lun hui wen chieh sung" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1258" ]
 [ek1258 : exp = "御製蓮華心輪廻文偈頌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1258" "]
+    @"http://psi.iba-net.org/exp/hkd_1258"]
 is-embodied-in(ek1258 : exp, mk1258 : man)
 [mk1259 : man = "御製祕藏詮" / zh korcat
         = "어제비장전" / ko korcat
         = "Yü chih pi ts'ang ch'üan" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1259" ]
 [ek1259 : exp = "御製祕藏詮" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1259" "]
+    @"http://psi.iba-net.org/exp/hkd_1259"]
 is-embodied-in(ek1259 : exp, mk1259 : man)
 [mk1260 : man = "御製逍遙詠" / zh korcat
         = "어제소요영" / ko korcat
         = "Yü chih hsiao yao yung" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1260" ]
 [ek1260 : exp = "御製逍遙詠" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1260" "]
+    @"http://psi.iba-net.org/exp/hkd_1260"]
 is-embodied-in(ek1260 : exp, mk1260 : man)
 [mk1261 : man = "御製緣識" / zh korcat
         = "어제연식" / ko korcat
         = "Yü chih yüan shih" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1261" ]
 [ek1261 : exp = "御製緣識" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1261" "]
+    @"http://psi.iba-net.org/exp/hkd_1261"]
 is-embodied-in(ek1261 : exp, mk1261 : man)
 [mk1262 : man = "大方廣佛華嚴經" / zh korcat
         = "대방광불화엄경" / ko korcat
@@ -14986,7 +14986,7 @@ is-embodied-in(ek1401 : exp, mk1401 : man)
         = "Ko-ryŏ-guk sin-jo tae-jang kyo-jŏng pyŏl-lok" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1402" ]
 [ek1402 : exp = "高麗國新雕大藏校正別錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1402" "]
+    @"http://psi.iba-net.org/exp/hkd_1402"]
 is-embodied-in(ek1402 : exp, mk1402 : man)
 [mk1403 : man = "大般涅槃經" / zh korcat
         = "대반열반경" / ko korcat
@@ -15014,7 +15014,7 @@ is-embodied-in(ek1404 : exp, mk1404 : man)
         = "Tae-jang mong-nok" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1405" ]
 [ek1405 : exp = "大藏目錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1405" "]
+    @"http://psi.iba-net.org/exp/hkd_1405"]
 is-embodied-in(ek1405 : exp, mk1405 : man)
 [mk1406 : man = "法苑珠林" / zh korcat
         = "법원주림" / ko korcat
@@ -15954,7 +15954,7 @@ is-embodied-in(ek1499 : exp, mk1499 : man)
         = "Nam-myŏng ch'ŏn hwa-sang song chŭng-do-ga sa-sil" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1500" ]
 [ek1500 : exp = "南明泉和尚頌證道歌事實" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1500" "]
+    @"http://psi.iba-net.org/exp/hkd_1500"]
 is-embodied-in(ek1500 : exp, mk1500 : man)
 [mk1501 : man = "金剛三昧經論" / zh korcat
         = "(iv) Kŭm-gang sam-mae-gyŏng non 금강삼매경론" / ko korcat
@@ -15978,21 +15978,21 @@ is-embodied-in(ek1502 : exp, mk1502 : man)
         = "Tsu t'ang chi" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1503" ]
 [ek1503 : exp = "祖堂集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1503" "]
+    @"http://psi.iba-net.org/exp/hkd_1503"]
 is-embodied-in(ek1503 : exp, mk1503 : man)
 [mk1504 : man = "大藏一覽集" / zh korcat
         = "대장일람집" / ko korcat
         = "Ta t'sang i lan chi" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1504" ]
 [ek1504 : exp = "大藏一覽集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1504" "]
+    @"http://psi.iba-net.org/exp/hkd_1504"]
 is-embodied-in(ek1504 : exp, mk1504 : man)
 [mk1505 : man = "禪門拈頌集" / zh korcat
         = "Sŏn-mun yŏm-song chip 선문염송집" / ko korcat
         = "Sŏn-mun yŏm-song chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1505" ]
 [ek1505 : exp = "禪門拈頌集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1505" "]
+    @"http://psi.iba-net.org/exp/hkd_1505"]
 is-embodied-in(ek1505 : exp, mk1505 : man)
 [mk1506 : man = "大方廣佛華嚴經搜玄分齊通智方規" / zh korcat
         = "대방광불화엄경수현분재통지방궤" / ko korcat
@@ -16008,42 +16008,42 @@ related-text(ek1506 : source, ek0079 : target)
         = "Sip-ku-jang wŏn-t'ong-gi" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1507" ]
 [ek1507 : exp = "十句章圓通記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1507" "]
+    @"http://psi.iba-net.org/exp/hkd_1507"]
 is-embodied-in(ek1507 : exp, mk1507 : man)
 [mk1508 : man = "釋華嚴旨歸章圓通鈔" / zh korcat
         = "Sŏk hwa ŏm ji kwi jang wŏn t'ong ch'o 석화엄지귀장원통초" / ko korcat
         = "Sŏk hwa ŏm ji kwi jang wŏn t'ong ch'o" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1508" ]
 [ek1508 : exp = "釋華嚴旨歸章圓通鈔" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1508" "]
+    @"http://psi.iba-net.org/exp/hkd_1508"]
 is-embodied-in(ek1508 : exp, mk1508 : man)
 [mk1509 : man = "華嚴經三寶章圓通記" / zh korcat
         = "Hwa-ŏm-gyŏng sam-bo-jang wŏn-t'ong-gi 화엄경삼보장원통기" / ko korcat
         = "Hwa-ŏm-gyŏng sam-bo-jang wŏn-t'ong-gi" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1509" ]
 [ek1509 : exp = "華嚴經三寶章圓通記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1509" "]
+    @"http://psi.iba-net.org/exp/hkd_1509"]
 is-embodied-in(ek1509 : exp, mk1509 : man)
 [mk1510a : man = "釋華嚴教分記圓通鈔" / zh korcat
         = "Sŏk hwa-ŏm-gyo pun-gi wŏn-t'ong ch'o 석화엄교분기원통초" / ko korcat
         = "Sŏk hwa-ŏm-gyo pun-gi wŏn-t'ong ch'o" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1510a" ]
 [ek1510a : exp = "釋華嚴教分記圓通鈔" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1510a" "]
+    @"http://psi.iba-net.org/exp/hkd_1510a"]
 is-embodied-in(ek1510a : exp, mk1510a : man)
 [mk1510b : man = "大華嚴首座圓通兩重大師均如傳幷序" / zh korcat
         = "Tae-hwa-ŏm su-jwa wŏn-t'ong yang-jung tae-sa kyun-yŏ chŏn pyŏng-sŏ 대화엄수좌원통양중대사균여전병서" / ko korcat
         = "Tae-hwa-ŏm su-jwa wŏn-t'ong yang-jung tae-sa kyun-yŏ chŏn pyŏng-sŏ" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1510b" ]
 [ek1510b : exp = "大華嚴首座圓通兩重大師均如傳幷序" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1510b" "]
+    @"http://psi.iba-net.org/exp/hkd_1510b"]
 is-embodied-in(ek1510b : exp, mk1510b : man)
 [mk1511 : man = "禮念彌陀道場懺法" / zh korcat
         = "예념미타도량참법" / ko korcat
         = "Li nien mi t'o tao ch'ang ch'an fa" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_1511" ]
 [ek1511 : exp = "禮念彌陀道場懺法" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1511" "]
+    @"http://psi.iba-net.org/exp/hkd_1511"]
 is-embodied-in(ek1511 : exp, mk1511 : man)
 [mk1512 : man = "慈悲道場懺法" / zh korcat
         = "자비도량참법" / ko korcat
@@ -16067,7 +16067,7 @@ related-text(ek1513 : source, ek0079 : target)
         = "Ko-ryŏ tae-jang-gyŏng po-yu mong-nok" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_1514" ]
 [ek1514 : exp = "高麗大藏經補遺目錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_1514" "]
+    @"http://psi.iba-net.org/exp/hkd_1514"]
 is-embodied-in(ek1514 : exp, mk1514 : man)
 [mks0001 : man = "大方廣佛華嚴經疏" / zh korcat
         = "대방광불화엄경소" / ko korcat
@@ -16104,7 +16104,7 @@ is-embodied-in(eks0003 : exp, mks0003 : man)
         = "Hae-in-sa-jang san-p'an chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0004" ]
 [eks0004 : exp = "海印寺藏散板集 天地冥陽水陸齊疏牓文牒節要 華嚴經略神象 十門和諍論 普門經 妙法蓮華經觀世音菩薩普門品 大方廣佛華嚴經行願品 大方廣佛華嚴經淨行品 金剛般若波羅蜜經 般若經科 梵釋四天王陀羅尼經 三十八分功德疏經 預修十王生七經 悉曇章 白花道場發願文略解 傳燈錄 發願文 雲水 鼎州梁山廊然和尚一牛圖頌 續命寺壁上詩數首 懶菴普雨大師作觀 四名日施食時國魂通用請 多林 緇門警訓 點眼文三十七尊" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0004" "]
+    @"http://psi.iba-net.org/exp/hkd_s0004"]
 is-embodied-in(eks0004 : exp, mks0004 : man)
 [mks0005 : man = "金剛般若波羅密經" / zh korcat
         = "금강반야바라밀경" / ko korcat
@@ -16131,14 +16131,14 @@ is-embodied-in(eks0006 : exp, mks0006 : man)
         = "Fo ting hsin kuan 	shih yin p'u sa ta t'o lo ni. (frag.)" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0007" ]
 [eks0007 : exp = "佛頂心觀世音菩薩大陀羅尼" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0007" "]
+    @"http://psi.iba-net.org/exp/hkd_s0007"]
 is-embodied-in(eks0007 : exp, mks0007 : man)
 [mks0008 : man = "上天王天帝釋請命長生經" / zh korcat
         = "상천왕천제석청명장생경" / ko korcat
         = "Shang t'ien wang t'ien ti shih ch'ing ming ch'ang sheng ching" /zh  korcat
     @"http://psi.iba-net.org/man/hkd_s0008" ]
 [eks0008 : exp = "上天王天帝釋請命長生經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0008" "]
+    @"http://psi.iba-net.org/exp/hkd_s0008"]
 is-embodied-in(eks0008 : exp, mks0008 : man)
 [mks0009 : man = "天尊却溫黃神呪經" / zh korcat
         = "천존각온황신주경" / ko korcat
@@ -16146,21 +16146,21 @@ is-embodied-in(eks0008 : exp, mks0008 : man)
         = "T'ien tsun 	ch'io wen huang shen chou ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0009" ]
 [eks0009 : exp = "天尊却溫黃神呪經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0009" "]
+    @"http://psi.iba-net.org/exp/hkd_s0009"]
 is-embodied-in(eks0009 : exp, mks0009 : man)
 [mks0010 : man = "三十八分功德疏經" / zh korcat
         = "삼십팔분공덕소경" / ko korcat
         = "San shih pa fen kung te su ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0010" ]
 [eks0010 : exp = "三十八分功德疏經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0010" "]
+    @"http://psi.iba-net.org/exp/hkd_s0010"]
 is-embodied-in(eks0010 : exp, mks0010 : man)
 [mks0011 : man = "長壽滅罪護諸童子陀羅尼經" / zh korcat
         = "장수멸죄호제동자다라니경" / ko korcat
         = "Chang shou mieh tsui hu chu t'ung tzu t'o lo ni ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0011" ]
 [eks0011 : exp = "長壽滅罪護諸童子陀羅尼經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0011" "]
+    @"http://psi.iba-net.org/exp/hkd_s0011"]
 is-embodied-in(eks0011 : exp, mks0011 : man)
 [mks0012 : man = "金光明經" / zh korcat
         = "금광명경" / ko korcat
@@ -16177,14 +16177,14 @@ is-embodied-in(eks0012 : exp, mks0012 : man)
         = "Ssu fen lü hsiang chi chi" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0013" ]
 [eks0013 : exp = "四分律詳集記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0013" "]
+    @"http://psi.iba-net.org/exp/hkd_s0013"]
 is-embodied-in(eks0013 : exp, mks0013 : man)
 [mks0014 : man = "倶舍論頌疏抄" / zh korcat
         = "구사론송소초" / ko korcat
         = "Chü she lun sung su ch'ao" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0014" ]
 [eks0014 : exp = "倶舍論頌疏抄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0014" "]
+    @"http://psi.iba-net.org/exp/hkd_s0014"]
 is-embodied-in(eks0014 : exp, mks0014 : man)
 [mks0015 : man = "大方廣佛華嚴經" / zh korcat
         = "대방광불화엄경" / ko korcat
@@ -16217,154 +16217,154 @@ is-embodied-in(eks0017 : exp, mks0017 : man)
         = "결수문" / ko korcat
     @"http://psi.iba-net.org/man/hkd_s0018" ]
 [eks0018 : exp = "結手文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0018" "]
+    @"http://psi.iba-net.org/exp/hkd_s0018"]
 is-embodied-in(eks0018 : exp, mks0018 : man)
 [mks0019 : man = "仔虁文節次條例" / zh korcat
         = "Cha-gi-mun chol-ch'a cho-rye 자기문절차조례" / ko korcat
         = "Cha-gi-mun chol-ch'a cho-rye" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0019" ]
 [eks0019 : exp = "仔虁文節次條例" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0019" "]
+    @"http://psi.iba-net.org/exp/hkd_s0019"]
 is-embodied-in(eks0019 : exp, mks0019 : man)
 [mks0020 : man = "釋門家禮抄" / zh korcat
         = "Sŏng-mun ka-rye ch'o 석문가례초" / ko korcat
         = "Sŏng-mun ka-rye ch'o" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0020" ]
 [eks0020 : exp = "釋門家禮抄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0020" "]
+    @"http://psi.iba-net.org/exp/hkd_s0020"]
 is-embodied-in(eks0020 : exp, mks0020 : man)
 [mks0021 : man = "中禮文" / zh korcat
         = "중례문" / ko korcat
         = "Chung-li wen" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0021" ]
 [eks0021 : exp = "中禮文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0021" "]
+    @"http://psi.iba-net.org/exp/hkd_s0021"]
 is-embodied-in(eks0021 : exp, mks0021 : man)
 [mks0022 : man = "水陸無遮平等齊儀撮要" / zh korcat
         = "Su-ryuk mu-ch'a p'yŏng-dŭng-jae ŭi ch'wal-yo 수륙무차평등재의촬요" / ko korcat
         = "Su-ryuk mu-ch'a p'yŏng-dŭng-jae ŭi ch'wal-yo" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0022" ]
 [eks0022 : exp = "水陸無遮平等齊儀撮要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0022" "]
+    @"http://psi.iba-net.org/exp/hkd_s0022"]
 is-embodied-in(eks0022 : exp, mks0022 : man)
 [mks0023 : man = "天地冥陽水陸齊儀疏榜文牒節要" / zh korcat
         = "Ch'ŏn-ji myŏng-yang su-ryuk-jae ŭi-so pang-mun-ch'ŏp chŏl-yo 천지명양수륙재의소방문첩절요" / ko korcat
         = "Ch'ŏn-ji myŏng-yang su-ryuk-jae ŭi-so pang-mun-ch'ŏp chŏl-yo" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0023" ]
 [eks0023 : exp = "天地冥陽水陸齊儀疏榜文牒節要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0023" "]
+    @"http://psi.iba-net.org/exp/hkd_s0023"]
 is-embodied-in(eks0023 : exp, mks0023 : man)
 [mks0024 : man = "大刹四明日迎魂施食儀文" / zh korcat
         = "Tae-ch'al sa-myŏng-il yŏng-hon si-sik-ŭi mun 대찰사명일영혼시식의문" / ko korcat
         = "Tae-ch'al sa-myŏng-il yŏng-hon si-sik-ŭi mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0024" ]
 [eks0024 : exp = "大刹四明日迎魂施食儀文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0024" "]
+    @"http://psi.iba-net.org/exp/hkd_s0024"]
 is-embodied-in(eks0024 : exp, mks0024 : man)
 [mks0025 : man = "海印寺藏板刊記集 大方廣佛華嚴經 大方廣佛華嚴經 大方廣佛華嚴經 金光明經 父母恩重胎骨經 好隱集 施食儀 大報父母恩重經 景德轉燈錄 林間錄 高峰禪要 禪宗永嘉集 王郞傳 安位供養篇 華嚴經觀自在菩薩所說法門別行疏 條例 註心賦 禮念彌陀道場懺法 釋門家禮 禪宗唯心訣 唐賢詩範 林間錄 普賢行願品 佛遺教經 普勸文 起信論海東疏䟽 華嚴法華略纂 梵釋四天陀羅尼經" / zh korcat
         = "Hae-in-sa jang p'an kan-gi chip 해인사장판간기집 대방광불화엄경 대방광불화엄경 대방광불화엄경 금광명경 부모은중태골경 Ho-ŭn chip 호은집 Si-sik ŭi 시식의 대보부모은중경 Ir-yong-jip hu-bal Tan-gyŏng p'il-gi 경덕전등록 임간록 고봉선요 선종영가집 왕랑전 안위공양편 Hwa-ŭm-gyŏng kwan-ja-jae-bo-sal so-sŏl pŏp-mun pyŏl-haeng-so 화엄경관자재보살소설법문별행소 Cho-rye 조례 주심부 예념미타도량참법 Sŏng-mun ka-rye 석문가례 선종유심결 Mog-u-ja su-sim-gyŏl ŏn-hae 당현시범 임간록 보현행원품 불유교경 Po-gwŏn mun 보권문 Ki-sin-non hae-dong-so 기신론해동소 Hwa-ŏm pŏp-hwa yak-ch'an 화엄법화약찬 범석사천다라니경" / ko korcat
         = "Hae-in-sa jang p'an kan-gi chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0025" ]
 [eks0025 : exp = "海印寺藏板刊記集 大方廣佛華嚴經 大方廣佛華嚴經 大方廣佛華嚴經 金光明經 父母恩重胎骨經 好隱集 施食儀 大報父母恩重經 景德轉燈錄 林間錄 高峰禪要 禪宗永嘉集 王郞傳 安位供養篇 華嚴經觀自在菩薩所說法門別行疏 條例 註心賦 禮念彌陀道場懺法 釋門家禮 禪宗唯心訣 唐賢詩範 林間錄 普賢行願品 佛遺教經 普勸文 起信論海東疏䟽 華嚴法華略纂 梵釋四天陀羅尼經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0025" "]
+    @"http://psi.iba-net.org/exp/hkd_s0025"]
 is-embodied-in(eks0025 : exp, mks0025 : man)
 [mks0026 : man = "註心賦" / zh korcat
         = "주심부" / ko korcat
         = "Chu hsin fu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0026" ]
 [eks0026 : exp = "註心賦" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0026" "]
+    @"http://psi.iba-net.org/exp/hkd_s0026"]
 is-embodied-in(eks0026 : exp, mks0026 : man)
 [mks0027 : man = "妙法蓮華經要解" / zh korcat
         = "묘법연화경요해" / ko korcat
         = "Miao fa lien hua ching yao chieh" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0027" ]
 [eks0027 : exp = "妙法蓮華經要解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0027" "]
+    @"http://psi.iba-net.org/exp/hkd_s0027"]
 is-embodied-in(eks0027 : exp, mks0027 : man)
 [mks0028 : man = "景德傳燈錄" / zh korcat
         = "경덕전등록" / ko korcat
         = "Ching te chuan teng lu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0028" ]
 [eks0028 : exp = "景德傳燈錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0028" "]
+    @"http://psi.iba-net.org/exp/hkd_s0028"]
 is-embodied-in(eks0028 : exp, mks0028 : man)
 [mks0029 : man = "大乘起信論疏記會本" / zh korcat
         = "Tae-sŭng ki-sin-non so-gi hoe-bon 대승기신론소기회보 Ki-sin-non so Tae-sŭng ki-sin-non pyŏl-gi" / ko korcat
         = "Tae-sŭng ki-sin-non so-gi hoe-bon" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0029" ]
 [eks0029 : exp = "大乘起信論疏記會本" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0029" "]
+    @"http://psi.iba-net.org/exp/hkd_s0029"]
 is-embodied-in(eks0029 : exp, mks0029 : man)
 [mks0030 : man = "禮念彌陀道場懺法" / zh korcat
         = "예념미타도량참법" / ko korcat
         = "Li nien mi t'o tao ch'ang ch'an fa" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0030" ]
 [eks0030 : exp = "禮念彌陀道場懺法" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0030" "]
+    @"http://psi.iba-net.org/exp/hkd_s0030"]
 is-embodied-in(eks0030 : exp, mks0030 : man)
 [mks0031 : man = "仔虁删補文" / zh korcat
         = "자기산보문" / ko korcat
         = "Tzu-k'uei shan pu wen" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0031" ]
 [eks0031 : exp = "仔虁删補文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0031" "]
+    @"http://psi.iba-net.org/exp/hkd_s0031"]
 is-embodied-in(eks0031 : exp, mks0031 : man)
 [mks0032 : man = "禪宗永嘉集諺解" / zh korcat
         = "Sŏn-jong yŏng-ga-jip ŏn-hae 선종영가집언해" / ko korcat
         = "Sŏn-jong yŏng-ga-jip ŏn-hae" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0032" ]
 [eks0032 : exp = "禪宗永嘉集諺解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0032" "]
+    @"http://psi.iba-net.org/exp/hkd_s0032"]
 is-embodied-in(eks0032 : exp, mks0032 : man)
 [mks0033 : man = "大覺國師文集" / zh korcat
         = "Tae-gak kuk-sa mun-jip 대각국사문집" / ko korcat
         = "Tae-gak kuk-sa mun-jip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0033" ]
 [eks0033 : exp = "大覺國師文集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0033" "]
+    @"http://psi.iba-net.org/exp/hkd_s0033"]
 is-embodied-in(eks0033 : exp, mks0033 : man)
 [mks0034 : man = "大覺國師外集" / zh korcat
         = "Tae-gak kuk-sa oe-jip 대각국사외집" / ko korcat
         = "Tae-gak kuk-sa oe-jip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0034" ]
 [eks0034 : exp = "大覺國師外集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0034" "]
+    @"http://psi.iba-net.org/exp/hkd_s0034"]
 is-embodied-in(eks0034 : exp, mks0034 : man)
 [mks0035 : man = "首楞嚴經要解" / zh korcat
         = "수능엄경요해" / ko korcat
         = "Shou leng yen ching yao chieh" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0035" ]
 [eks0035 : exp = "首楞嚴經要解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0035" "]
+    @"http://psi.iba-net.org/exp/hkd_s0035"]
 is-embodied-in(eks0035 : exp, mks0035 : man)
 [mks0036 : man = "華嚴經觀自在菩薩所說法門別行疏" / zh korcat
         = "Hwa ŏm gyŏng kwan-ja-jae po-sal so-sŏl pŏm-mun pyŏl-haeng-so 화엄경관자재보살소설법문별행소" / ko korcat
         = "Hwa ŏm gyŏng kwan-ja-jae po-sal so-sŏl pŏm-mun pyŏl-haeng-so" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0036" ]
 [eks0036 : exp = "華嚴經觀自在菩薩所說法門別行疏" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0036" "]
+    @"http://psi.iba-net.org/exp/hkd_s0036"]
 is-embodied-in(eks0036 : exp, mks0036 : man)
 [mks0037 : man = "雲水壇" / zh korcat
         = "Un-su-tan 운수단" / ko korcat
         = "Un-su-tan" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0037" ]
 [eks0037 : exp = "雲水壇" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0037" "]
+    @"http://psi.iba-net.org/exp/hkd_s0037"]
 is-embodied-in(eks0037 : exp, mks0037 : man)
 [mks0038 : man = "作觀說" / zh korcat
         = "Chak-kwan sŏl 작관설" / ko korcat
         = "Chak-kwan sŏl" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0038" ]
 [eks0038 : exp = "作觀說" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0038" "]
+    @"http://psi.iba-net.org/exp/hkd_s0038"]
 is-embodied-in(eks0038 : exp, mks0038 : man)
 [mks0039 : man = "五大眞言集" / zh korcat
         = "O-dae chin-ŏn chip 오대진언집" / ko korcat
         = "O-dae chin-ŏn chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0039" ]
 [eks0039 : exp = "五大眞言集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0039" "]
+    @"http://psi.iba-net.org/exp/hkd_s0039"]
 is-embodied-in(eks0039 : exp, mks0039 : man)
 [mks0040 : man = "禪宗唯心訣" / zh korcat
         = "선종유심결" / ko korcat
@@ -16387,28 +16387,28 @@ is-embodied-in(eks0041 : exp, mks0041 : man)
         = "Kao feng ho shang ch'an yao" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0042" ]
 [eks0042 : exp = "高峰和尚禪要" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0042" "]
+    @"http://psi.iba-net.org/exp/hkd_s0042"]
 is-embodied-in(eks0042 : exp, mks0042 : man)
 [mks0043 : man = "林讚" / zh korcat
         = "임찬" / ko korcat
         = "Lin tsan" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0043" ]
 [eks0043 : exp = "林讚" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0043" "]
+    @"http://psi.iba-net.org/exp/hkd_s0043"]
 is-embodied-in(eks0043 : exp, mks0043 : man)
 [mks0044 : man = "林間錄" / zh korcat
         = "임간록" / ko korcat
         = "Lin chien lu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0044" ]
 [eks0044 : exp = "林間錄" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0044" "]
+    @"http://psi.iba-net.org/exp/hkd_s0044"]
 is-embodied-in(eks0044 : exp, mks0044 : man)
 [mks0045 : man = "蒙山和尚法語諺解" / zh korcat
         = "Mong-san hwa-sang pŏb-ŏ ŏn-hae 몽산화상법어언해" / ko korcat
         = "Mong-san hwa-sang pŏb-ŏ ŏn-hae" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0045" ]
 [eks0045 : exp = "蒙山和尚法語諺解" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0045" "]
+    @"http://psi.iba-net.org/exp/hkd_s0045"]
 is-embodied-in(eks0045 : exp, mks0045 : man)
 [mks0046 : man = "禪宗永嘉集" / zh korcat
         = "선종영가집" / ko korcat
@@ -16423,14 +16423,14 @@ is-embodied-in(eks0046 : exp, mks0046 : man)
         = "Jen t'ien pao chien" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0047" ]
 [eks0047 : exp = "人天寳鑑" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0047" "]
+    @"http://psi.iba-net.org/exp/hkd_s0047"]
 is-embodied-in(eks0047 : exp, mks0047 : man)
 [mks0048 : man = "華嚴法華略纂" / zh korcat
         = "Hwa-ŏm pŏp-hwa yak-ch'an 화엄법화약찬" / ko korcat
         = "Hwa-ŏm pŏp-hwa yak-ch'an" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0048" ]
 [eks0048 : exp = "華嚴法華略纂" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0048" "]
+    @"http://psi.iba-net.org/exp/hkd_s0048"]
 is-embodied-in(eks0048 : exp, mks0048 : man)
 [mks0049 : man = "四十二章經" / zh korcat
         = "사십이장경" / ko korcat
@@ -16471,21 +16471,21 @@ is-embodied-in(eks0052 : exp, mks0052 : man)
         = "Ts' ang ch'eng fa shu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0053" ]
 [eks0053 : exp = "藏乘法數" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0053" "]
+    @"http://psi.iba-net.org/exp/hkd_s0053"]
 is-embodied-in(eks0053 : exp, mks0053 : man)
 [mks0054 : man = "日用集" / zh korcat
         = "Ir-yong chip 일융집" / ko korcat
         = "Ir-yong chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0054" ]
 [eks0054 : exp = "日用集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0054" "]
+    @"http://psi.iba-net.org/exp/hkd_s0054"]
 is-embodied-in(eks0054 : exp, mks0054 : man)
 [mks0055 : man = "諸般文" / zh korcat
         = "Che-ban mun 제반문" / ko korcat
         = "Che-ban mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0055" ]
 [eks0055 : exp = "諸般文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0055" "]
+    @"http://psi.iba-net.org/exp/hkd_s0055"]
 is-embodied-in(eks0055 : exp, mks0055 : man)
 [mks0056 : man = "禪宗永嘉集" / zh korcat
         = "선종영가집" / ko korcat
@@ -16500,7 +16500,7 @@ is-embodied-in(eks0056 : exp, mks0056 : man)
         = "Yŏm-bul po-gwŏn mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0057" ]
 [eks0057 : exp = "念佛普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0057" "]
+    @"http://psi.iba-net.org/exp/hkd_s0057"]
 is-embodied-in(eks0057 : exp, mks0057 : man)
 [mks0058 : man = "彌陀經諺解" / zh korcat
         = "Mi-t'a-gyŏng ŏn-hae 미타경언해" / ko korcat
@@ -16517,21 +16517,21 @@ related-text(eks0058 : source, ek0192 : target)
         = "Sin-p'yŏn po-gwŏn mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0059" ]
 [eks0059 : exp = "新編普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0059" "]
+    @"http://psi.iba-net.org/exp/hkd_s0059"]
 is-embodied-in(eks0059 : exp, mks0059 : man)
 [mks0060 : man = "江月尊者西往歌" / zh korcat
         = "Kang-wŏl chon-ja sŏ-wang ka 강월존자서왕가" / ko korcat
         = "Kang-wŏl chon-ja sŏ-wang ka" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0060" ]
 [eks0060 : exp = "江月尊者西往歌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0060" "]
+    @"http://psi.iba-net.org/exp/hkd_s0060"]
 is-embodied-in(eks0060 : exp, mks0060 : man)
 [mks0061 : man = "王郞返魂傳" / zh korcat
         = "Wang-nang pan-hon chŏn 왕랑반혼전" / ko korcat
         = "Wang-nang pan-hon chŏn" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0061" ]
 [eks0061 : exp = "王郞返魂傳" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0061" "]
+    @"http://psi.iba-net.org/exp/hkd_s0061"]
 is-embodied-in(eks0061 : exp, mks0061 : man)
 [mks0062 : man = "高王勸世音經" / zh korcat
         = "고왕관세음경" / ko korcat
@@ -16554,42 +16554,42 @@ is-embodied-in(eks0063 : exp, mks0063 : man)
         = "Ko-ryŏ tae-jang-gyŏng pal-mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0064" ]
 [eks0064 : exp = "高麗大藏經跋文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0064" "]
+    @"http://psi.iba-net.org/exp/hkd_s0064"]
 is-embodied-in(eks0064 : exp, mks0064 : man)
 [mks0065 : man = "海印寺重修記" / zh korcat
         = "Hae-in-sa chung-su ki 해인사중수기" / ko korcat
         = "Hae-in-sa chung-su ki" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0065" ]
 [eks0065 : exp = "海印寺重修記" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0065" "]
+    @"http://psi.iba-net.org/exp/hkd_s0065"]
 is-embodied-in(eks0065 : exp, mks0065 : man)
 [mks0066 : man = "伽倻山海印寺古籍" / zh korcat
         = "Ka-ya-san Hae-in-sa ko-jŏk 가야산해인사고적" / ko korcat
         = "Ka-ya-san Hae-in-sa ko-jŏk" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0066" ]
 [eks0066 : exp = "伽倻山海印寺古籍" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0066" "]
+    @"http://psi.iba-net.org/exp/hkd_s0066"]
 is-embodied-in(eks0066 : exp, mks0066 : man)
 [mks0067 : man = "受戒儀" / zh korcat
         = "Su-gye ūi 수계의" / ko korcat
         = "Su-gye ūi" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0067" ]
 [eks0067 : exp = "受戒儀" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0067" "]
+    @"http://psi.iba-net.org/exp/hkd_s0067"]
 is-embodied-in(eks0067 : exp, mks0067 : man)
 [mks0068 : man = "念佛普勸文" / zh korcat
         = "Yŏm-bul po-gwŏn mun 염불보권문" / ko korcat
         = "Yŏm-bul po-gwŏn mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0068" ]
 [eks0068 : exp = "念佛普勸文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0068" "]
+    @"http://psi.iba-net.org/exp/hkd_s0068"]
 is-embodied-in(eks0068 : exp, mks0068 : man)
 [mks0069 : man = "大報父母恩重經" / zh korcat
         = "대보부모은중경" / ko korcat
         = "Ta pao fu mu en chung ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0069" ]
 [eks0069 : exp = "大報父母恩重經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0069" "]
+    @"http://psi.iba-net.org/exp/hkd_s0069"]
 is-embodied-in(eks0069 : exp, mks0069 : man)
 related-text(eks0069 : source, ek0883 : target)
 [mks0070 : man = "父母恩重胎骨經" / zh korcat
@@ -16597,7 +16597,7 @@ related-text(eks0069 : source, ek0883 : target)
         = "Fu mu en chung t'ai ku ching" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0070" ]
 [eks0070 : exp = "父母恩重胎骨經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0070" "]
+    @"http://psi.iba-net.org/exp/hkd_s0070"]
 is-embodied-in(eks0070 : exp, mks0070 : man)
 related-text(eks0070 : source, ek0883 : target)
 [mks0071 : man = "茶毘文" / zh korcat
@@ -16605,49 +16605,49 @@ related-text(eks0070 : source, ek0883 : target)
         = "Ta-bi mun" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0071" ]
 [eks0071 : exp = "茶毘文" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0071" "]
+    @"http://psi.iba-net.org/exp/hkd_s0071"]
 is-embodied-in(eks0071 : exp, mks0071 : man)
 [mks0072 : man = "四分律比丘二百五十戒本" / zh korcat
         = "사분율비구이백오십계본" / ko korcat
         = "Ssu fen lü pi ch'iu erh pai wu shih chieh pen" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0072" ]
 [eks0072 : exp = "四分律比丘二百五十戒本" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0072" "]
+    @"http://psi.iba-net.org/exp/hkd_s0072"]
 is-embodied-in(eks0072 : exp, mks0072 : man)
 [mks0073 : man = "二百五十戒頌" / zh korcat
         = "이백오십계송" / ko korcat
         = "Erh pai wu shih chieh sung" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0073" ]
 [eks0073 : exp = "二百五十戒頌" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0073" "]
+    @"http://psi.iba-net.org/exp/hkd_s0073"]
 is-embodied-in(eks0073 : exp, mks0073 : man)
 [mks0074 : man = "戒法源流" / zh korcat
         = "계법원류" / ko korcat
         = "Chieh fa yüan liu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0074" ]
 [eks0074 : exp = "戒法源流" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0074" "]
+    @"http://psi.iba-net.org/exp/hkd_s0074"]
 is-embodied-in(eks0074 : exp, mks0074 : man)
 [mks0075 : man = "戒相篇聚圖" / zh korcat
         = "계상편취도" / ko korcat
         = "Chieh hsiang p'ien chü t'u" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0075" ]
 [eks0075 : exp = "戒相篇聚圖" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0075" "]
+    @"http://psi.iba-net.org/exp/hkd_s0075"]
 is-embodied-in(eks0075 : exp, mks0075 : man)
 [mks0076 : man = "具足戒相威儀細行論" / zh korcat
         = "Ku-jok kye-sang wi-ŭi se-haeng non 구족계상위의세행론" / ko korcat
         = "Ku-jok kye-sang wi-ŭi se-haeng non" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0076" ]
 [eks0076 : exp = "具足戒相威儀細行論" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0076" "]
+    @"http://psi.iba-net.org/exp/hkd_s0076"]
 is-embodied-in(eks0076 : exp, mks0076 : man)
 [mks0077 : man = "梵網經廬舍那佛說心地法門品菩薩戒本註" / zh korcat
         = "범망경노사나불설심지법문품보살계본주" / ko korcat
         = "Fan wang ching lu she na fo shuo hsin ti fa men p'in p'u sa chieh pen chu" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0077" ]
 [eks0077 : exp = "梵網經廬舍那佛說心地法門品菩薩戒本註" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0077" "]
+    @"http://psi.iba-net.org/exp/hkd_s0077"]
 is-embodied-in(eks0077 : exp, mks0077 : man)
 [mks0078 : man = "法寳壇經" / zh korcat
         = "법보단경" / ko korcat
@@ -16662,7 +16662,7 @@ is-embodied-in(eks0078 : exp, mks0078 : man)
         = "Ho-ŭn chip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0079" ]
 [eks0079 : exp = "好隱集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0079" "]
+    @"http://psi.iba-net.org/exp/hkd_s0079"]
 is-embodied-in(eks0079 : exp, mks0079 : man)
 [mks0080 : man = "誡初心學人文" / zh korcat
         = "Kye ch'o-sim hak-in mun 계초심학인문" / ko korcat
@@ -16677,33 +16677,33 @@ is-embodied-in(eks0080 : exp, mks0080 : man)
         = "Pal-sim su-haeng 	chang" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0081" ]
 [eks0081 : exp = "發心修行章" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0081" "]
+    @"http://psi.iba-net.org/exp/hkd_s0081"]
 is-embodied-in(eks0081 : exp, mks0081 : man)
 [mks0082 : man = "自警" / zh korcat
         = "Cha-gyŏng 자경" / ko korcat
         = "Cha-gyŏng" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0082" ]
 [eks0082 : exp = "自警" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0082" "]
+    @"http://psi.iba-net.org/exp/hkd_s0082"]
 is-embodied-in(eks0082 : exp, mks0082 : man)
 [mks0083 : man = "像法滅義經" / zh korcat
         = "Sang-bŏp myŏr-ŭi kyŏng 상법멸의경" / ko korcat
         = "Sang-bŏp myŏr-ŭi kyŏng" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0083" ]
 [eks0083 : exp = "像法滅義經" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0083" "]
+    @"http://psi.iba-net.org/exp/hkd_s0083"]
 is-embodied-in(eks0083 : exp, mks0083 : man)
 [mks0084 : man = "唐賢詩範" / zh korcat
         = "당현시범" / ko korcat
         = "T'ang hsien shih fan" /zh-wg  korcat
     @"http://psi.iba-net.org/man/hkd_s0084" ]
 [eks0084 : exp = "唐賢詩範" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0084" "]
+    @"http://psi.iba-net.org/exp/hkd_s0084"]
 is-embodied-in(eks0084 : exp, mks0084 : man)
 [mks0085 : man = "南陽先生詩集" / zh korcat
         = "Nam-yang sŏn-saeng si-jip 남양선생시집" / ko korcat
         = "Nam-yang sŏn-saeng si-jip" /ko-mr  korcat
     @"http://psi.iba-net.org/man/hkd_s0085" ]
 [eks0085 : exp = "南陽先生詩集" / zh korcat
-    @"http://psi.iba-net.org/exp/hkd_s0085" "]
+    @"http://psi.iba-net.org/exp/hkd_s0085"]
 is-embodied-in(eks0085 : exp, mks0085 : man)
