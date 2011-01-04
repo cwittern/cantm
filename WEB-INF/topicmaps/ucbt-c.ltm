@@ -7,4 +7,5 @@
 #INCLUDE "hmw-exp.ltm"
 /* #INCLUDE "hkb-exp.ltm" */
 /* manifestations */
+#INCLUDE "hkd-man.ltm"
 /* #INCLUDE "hnx-man.ltm" */
