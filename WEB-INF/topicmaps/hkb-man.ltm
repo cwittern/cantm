@@ -3,2593 +3,2593 @@
 #INCLUDE "ontology.ltm"
 
 [ehkb_0001 : exp = "佛說般若波羅蜜多心經贊" /zh toc
-	http://psi.iba-net.org/exp/hkb_0001]
+	@"http://psi.iba-net.org/exp/hkb_0001"]
 [mhkb_0001 : man = "佛說般若波羅蜜多心經贊" /zh toc
-	http://psi.iba-net.org/man/hkb_0001]
+	@"http://psi.iba-net.org/man/hkb_0001"]
 is-embodied-in(ehkb_0001 : exp, mhkb_0001 : man)
-{mhkb_0001, startpage [[Vol. 1, p. 1]]}
-{mhkb_0001, catpage [[p. 1]]}
+{mhkb_0001, startpage, [[Vol. 1, p. 1]]}
+{mhkb_0001, catpage, [[p. 1]]}
 
 [ehkb_0002 : exp = "仁王經疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0002]
+	@"http://psi.iba-net.org/exp/hkb_0002"]
 [mhkb_0002 : man = "仁王經疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0002]
+	@"http://psi.iba-net.org/man/hkb_0002"]
 is-embodied-in(ehkb_0002 : exp, mhkb_0002 : man)
-{mhkb_0002, startpage [[Vol. 1, p. 16]]}
-{mhkb_0002, catpage [[p. 1]]}
+{mhkb_0002, startpage, [[Vol. 1, p. 16]]}
+{mhkb_0002, catpage, [[p. 1]]}
 
 [ehkb_0003 : exp = "解深密經疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0003]
+	@"http://psi.iba-net.org/exp/hkb_0003"]
 [mhkb_0003 : man = "解深密經疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0003]
+	@"http://psi.iba-net.org/man/hkb_0003"]
 is-embodied-in(ehkb_0003 : exp, mhkb_0003 : man)
-{mhkb_0003, startpage [[Vol. 1, p. 124]]}
-{mhkb_0003, catpage [[p. 1]]}
+{mhkb_0003, startpage, [[Vol. 1, p. 124]]}
+{mhkb_0003, catpage, [[p. 1]]}
 
 [ehkb_0004 : exp = "大乘大集地藏十輪經序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0004]
+	@"http://psi.iba-net.org/exp/hkb_0004"]
 [mhkb_0004 : man = "大乘大集地藏十輪經序" /zh toc
-	http://psi.iba-net.org/man/hkb_0004]
+	@"http://psi.iba-net.org/man/hkb_0004"]
 is-embodied-in(ehkb_0004 : exp, mhkb_0004 : man)
-{mhkb_0004, startpage [[Vol. 1, p. 479]]}
-{mhkb_0004, catpage [[p. 1]]}
+{mhkb_0004, startpage, [[Vol. 1, p. 479]]}
+{mhkb_0004, catpage, [[p. 1]]}
 
 [ehkb_0005 : exp = "大慧度經宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0005]
+	@"http://psi.iba-net.org/exp/hkb_0005"]
 [mhkb_0005 : man = "大慧度經宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0005]
+	@"http://psi.iba-net.org/man/hkb_0005"]
 is-embodied-in(ehkb_0005 : exp, mhkb_0005 : man)
-{mhkb_0005, startpage [[Vol. 1, p. 480]]}
-{mhkb_0005, catpage [[p. 1]]}
+{mhkb_0005, startpage, [[Vol. 1, p. 480]]}
+{mhkb_0005, catpage, [[p. 1]]}
 
 [ehkb_0006 : exp = "法華宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0006]
+	@"http://psi.iba-net.org/exp/hkb_0006"]
 [mhkb_0006 : man = "法華宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0006]
+	@"http://psi.iba-net.org/man/hkb_0006"]
 is-embodied-in(ehkb_0006 : exp, mhkb_0006 : man)
-{mhkb_0006, startpage [[Vol. 1, p. 488]]}
-{mhkb_0006, catpage [[p. 1]]}
+{mhkb_0006, startpage, [[Vol. 1, p. 488]]}
+{mhkb_0006, catpage, [[p. 1]]}
 
 [ehkb_0007 : exp = "花嚴經疏三巻" /zh toc
-	http://psi.iba-net.org/exp/hkb_0007]
+	@"http://psi.iba-net.org/exp/hkb_0007"]
 [mhkb_0007 : man = "花嚴經疏三巻" /zh toc
-	http://psi.iba-net.org/man/hkb_0007]
+	@"http://psi.iba-net.org/man/hkb_0007"]
 is-embodied-in(ehkb_0007 : exp, mhkb_0007 : man)
-{mhkb_0007, startpage [[Vol. 1, p. 495]]}
-{mhkb_0007, catpage [[p. 2]]}
+{mhkb_0007, startpage, [[Vol. 1, p. 495]]}
+{mhkb_0007, catpage, [[p. 2]]}
 
 [ehkb_0008 : exp = "本業經疏巻下" /zh toc
-	http://psi.iba-net.org/exp/hkb_0008]
+	@"http://psi.iba-net.org/exp/hkb_0008"]
 [mhkb_0008 : man = "本業經疏巻下" /zh toc
-	http://psi.iba-net.org/man/hkb_0008]
+	@"http://psi.iba-net.org/man/hkb_0008"]
 is-embodied-in(ehkb_0008 : exp, mhkb_0008 : man)
-{mhkb_0008, startpage [[Vol. 1, p. 498]]}
-{mhkb_0008, catpage [[p. 2]]}
+{mhkb_0008, startpage, [[Vol. 1, p. 498]]}
+{mhkb_0008, catpage, [[p. 2]]}
 
 [ehkb_0009 : exp = "涅槃宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0009]
+	@"http://psi.iba-net.org/exp/hkb_0009"]
 [mhkb_0009 : man = "涅槃宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0009]
+	@"http://psi.iba-net.org/man/hkb_0009"]
 is-embodied-in(ehkb_0009 : exp, mhkb_0009 : man)
-{mhkb_0009, startpage [[Vol. 1, p. 524]]}
-{mhkb_0009, catpage [[p. 2]]}
+{mhkb_0009, startpage, [[Vol. 1, p. 524]]}
+{mhkb_0009, catpage, [[p. 2]]}
 
 [ehkb_0010 : exp = "彌勒上生經宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0010]
+	@"http://psi.iba-net.org/exp/hkb_0010"]
 [mhkb_0010 : man = "彌勒上生經宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0010]
+	@"http://psi.iba-net.org/man/hkb_0010"]
 is-embodied-in(ehkb_0010 : exp, mhkb_0010 : man)
-{mhkb_0010, startpage [[Vol. 1, p. 548]]}
-{mhkb_0010, catpage [[p. 2]]}
+{mhkb_0010, startpage, [[Vol. 1, p. 548]]}
+{mhkb_0010, catpage, [[p. 2]]}
 
 [ehkb_0011 : exp = "解深密經疏序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0011]
+	@"http://psi.iba-net.org/exp/hkb_0011"]
 [mhkb_0011 : man = "解深密經疏序" /zh toc
-	http://psi.iba-net.org/man/hkb_0011]
+	@"http://psi.iba-net.org/man/hkb_0011"]
 is-embodied-in(ehkb_0011 : exp, mhkb_0011 : man)
-{mhkb_0011, startpage [[Vol. 1, p. 553]]}
-{mhkb_0011, catpage [[p. 2]]}
+{mhkb_0011, startpage, [[Vol. 1, p. 553]]}
+{mhkb_0011, catpage, [[p. 2]]}
 
 [ehkb_0012 : exp = "無量壽經宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0012]
+	@"http://psi.iba-net.org/exp/hkb_0012"]
 [mhkb_0012 : man = "無量壽經宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0012]
+	@"http://psi.iba-net.org/man/hkb_0012"]
 is-embodied-in(ehkb_0012 : exp, mhkb_0012 : man)
-{mhkb_0012, startpage [[Vol. 1, p. 554]]}
-{mhkb_0012, catpage [[p. 2]]}
+{mhkb_0012, startpage, [[Vol. 1, p. 554]]}
+{mhkb_0012, catpage, [[p. 2]]}
 
 [ehkb_0013 : exp = "佛說阿彌陀經疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0013]
+	@"http://psi.iba-net.org/exp/hkb_0013"]
 [mhkb_0013 : man = "佛說阿彌陀經疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0013]
+	@"http://psi.iba-net.org/man/hkb_0013"]
 is-embodied-in(ehkb_0013 : exp, mhkb_0013 : man)
-{mhkb_0013, startpage [[Vol. 1, p. 563]]}
-{mhkb_0013, catpage [[p. 2]]}
+{mhkb_0013, startpage, [[Vol. 1, p. 563]]}
+{mhkb_0013, catpage, [[p. 2]]}
 
 [ehkb_0014 : exp = "遊心安樂道" /zh toc
-	http://psi.iba-net.org/exp/hkb_0014]
+	@"http://psi.iba-net.org/exp/hkb_0014"]
 [mhkb_0014 : man = "遊心安樂道" /zh toc
-	http://psi.iba-net.org/man/hkb_0014]
+	@"http://psi.iba-net.org/man/hkb_0014"]
 is-embodied-in(ehkb_0014 : exp, mhkb_0014 : man)
-{mhkb_0014, startpage [[Vol. 1, p. 567]]}
-{mhkb_0014, catpage [[p. 2]]}
+{mhkb_0014, startpage, [[Vol. 1, p. 567]]}
+{mhkb_0014, catpage, [[p. 2]]}
 
 [ehkb_0015 : exp = "菩薩戒本持犯要記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0015]
+	@"http://psi.iba-net.org/exp/hkb_0015"]
 [mhkb_0015 : man = "菩薩戒本持犯要記" /zh toc
-	http://psi.iba-net.org/man/hkb_0015]
+	@"http://psi.iba-net.org/man/hkb_0015"]
 is-embodied-in(ehkb_0015 : exp, mhkb_0015 : man)
-{mhkb_0015, startpage [[Vol. 1, p. 581]]}
-{mhkb_0015, catpage [[p. 2]]}
+{mhkb_0015, startpage, [[Vol. 1, p. 581]]}
+{mhkb_0015, catpage, [[p. 2]]}
 
 [ehkb_0016 : exp = "梵綱經菩薩戒本私記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0016]
+	@"http://psi.iba-net.org/exp/hkb_0016"]
 [mhkb_0016 : man = "梵綱經菩薩戒本私記" /zh toc
-	http://psi.iba-net.org/man/hkb_0016]
+	@"http://psi.iba-net.org/man/hkb_0016"]
 is-embodied-in(ehkb_0016 : exp, mhkb_0016 : man)
-{mhkb_0016, startpage [[Vol. 1, p. 586]]}
-{mhkb_0016, catpage [[p. 2]]}
+{mhkb_0016, startpage, [[Vol. 1, p. 586]]}
+{mhkb_0016, catpage, [[p. 2]]}
 
 [ehkb_0017 : exp = "金剛三昧經論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0017]
+	@"http://psi.iba-net.org/exp/hkb_0017"]
 [mhkb_0017 : man = "金剛三昧經論" /zh toc
-	http://psi.iba-net.org/man/hkb_0017]
+	@"http://psi.iba-net.org/man/hkb_0017"]
 is-embodied-in(ehkb_0017 : exp, mhkb_0017 : man)
-{mhkb_0017, startpage [[Vol. 1, p. 605]]}
-{mhkb_0017, catpage [[p. 2]]}
+{mhkb_0017, startpage, [[Vol. 1, p. 605]]}
+{mhkb_0017, catpage, [[p. 2]]}
 
 [ehkb_0018 : exp = "大乘起信論別記本" /zh toc
-	http://psi.iba-net.org/exp/hkb_0018]
+	@"http://psi.iba-net.org/exp/hkb_0018"]
 [mhkb_0018 : man = "大乘起信論別記本" /zh toc
-	http://psi.iba-net.org/man/hkb_0018]
+	@"http://psi.iba-net.org/man/hkb_0018"]
 is-embodied-in(ehkb_0018 : exp, mhkb_0018 : man)
-{mhkb_0018, startpage [[Vol. 1, p. 677]]}
-{mhkb_0018, catpage [[p. 3]]}
+{mhkb_0018, startpage, [[Vol. 1, p. 677]]}
+{mhkb_0018, catpage, [[p. 3]]}
 
 [ehkb_0019 : exp = "起信論疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0019]
+	@"http://psi.iba-net.org/exp/hkb_0019"]
 [mhkb_0019 : man = "起信論疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0019]
+	@"http://psi.iba-net.org/man/hkb_0019"]
 is-embodied-in(ehkb_0019 : exp, mhkb_0019 : man)
-{mhkb_0019, startpage [[Vol. 1, p. 698]]}
-{mhkb_0019, catpage [[p. 3]]}
+{mhkb_0019, startpage, [[Vol. 1, p. 698]]}
+{mhkb_0019, catpage, [[p. 3]]}
 
 [ehkb_0020 : exp = "大乘起信論疏記會本" /zh toc
-	http://psi.iba-net.org/exp/hkb_0020]
+	@"http://psi.iba-net.org/exp/hkb_0020"]
 [mhkb_0020 : man = "大乘起信論疏記會本" /zh toc
-	http://psi.iba-net.org/man/hkb_0020]
+	@"http://psi.iba-net.org/man/hkb_0020"]
 is-embodied-in(ehkb_0020 : exp, mhkb_0020 : man)
-{mhkb_0020, startpage [[Vol. 1, p. 733]]}
-{mhkb_0020, catpage [[p. 3]]}
+{mhkb_0020, startpage, [[Vol. 1, p. 733]]}
+{mhkb_0020, catpage, [[p. 3]]}
 
 [ehkb_0021 : exp = "二障義" /zh toc
-	http://psi.iba-net.org/exp/hkb_0021]
+	@"http://psi.iba-net.org/exp/hkb_0021"]
 [mhkb_0021 : man = "二障義" /zh toc
-	http://psi.iba-net.org/man/hkb_0021]
+	@"http://psi.iba-net.org/man/hkb_0021"]
 is-embodied-in(ehkb_0021 : exp, mhkb_0021 : man)
-{mhkb_0021, startpage [[Vol. 1, p. 790]]}
-{mhkb_0021, catpage [[p. 3]]}
+{mhkb_0021, startpage, [[Vol. 1, p. 790]]}
+{mhkb_0021, catpage, [[p. 3]]}
 
 [ehkb_0022 : exp = "判比量論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0022]
+	@"http://psi.iba-net.org/exp/hkb_0022"]
 [mhkb_0022 : man = "判比量論" /zh toc
-	http://psi.iba-net.org/man/hkb_0022]
+	@"http://psi.iba-net.org/man/hkb_0022"]
 is-embodied-in(ehkb_0022 : exp, mhkb_0022 : man)
-{mhkb_0022, startpage [[Vol. 1, p. 815]]}
-{mhkb_0022, catpage [[p. 3]]}
+{mhkb_0022, startpage, [[Vol. 1, p. 815]]}
+{mhkb_0022, catpage, [[p. 3]]}
 
 [ehkb_0023 : exp = "中邊分別論疏巻三" /zh toc
-	http://psi.iba-net.org/exp/hkb_0023]
+	@"http://psi.iba-net.org/exp/hkb_0023"]
 [mhkb_0023 : man = "中邊分別論疏巻三" /zh toc
-	http://psi.iba-net.org/man/hkb_0023]
+	@"http://psi.iba-net.org/man/hkb_0023"]
 is-embodied-in(ehkb_0023 : exp, mhkb_0023 : man)
-{mhkb_0023, startpage [[Vol. 1, p. 818]]}
-{mhkb_0023, catpage [[p. 3]]}
+{mhkb_0023, startpage, [[Vol. 1, p. 818]]}
+{mhkb_0023, catpage, [[p. 3]]}
 
 [ehkb_0024 : exp = "十門和諍論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0024]
+	@"http://psi.iba-net.org/exp/hkb_0024"]
 [mhkb_0024 : man = "十門和諍論" /zh toc
-	http://psi.iba-net.org/man/hkb_0024]
+	@"http://psi.iba-net.org/man/hkb_0024"]
 is-embodied-in(ehkb_0024 : exp, mhkb_0024 : man)
-{mhkb_0024, startpage [[Vol. 1, p. 838]]}
-{mhkb_0024, catpage [[p. 3]]}
+{mhkb_0024, startpage, [[Vol. 1, p. 838]]}
+{mhkb_0024, catpage, [[p. 3]]}
 
 [ehkb_0025 : exp = "發心修行章" /zh toc
-	http://psi.iba-net.org/exp/hkb_0025]
+	@"http://psi.iba-net.org/exp/hkb_0025"]
 [mhkb_0025 : man = "發心修行章" /zh toc
-	http://psi.iba-net.org/man/hkb_0025]
+	@"http://psi.iba-net.org/man/hkb_0025"]
 is-embodied-in(ehkb_0025 : exp, mhkb_0025 : man)
-{mhkb_0025, startpage [[Vol. 1, p. 841]]}
-{mhkb_0025, catpage [[p. 3]]}
+{mhkb_0025, startpage, [[Vol. 1, p. 841]]}
+{mhkb_0025, catpage, [[p. 3]]}
 
 [ehkb_0026 : exp = "大乘六情懺悔" /zh toc
-	http://psi.iba-net.org/exp/hkb_0026]
+	@"http://psi.iba-net.org/exp/hkb_0026"]
 [mhkb_0026 : man = "大乘六情懺悔" /zh toc
-	http://psi.iba-net.org/man/hkb_0026]
+	@"http://psi.iba-net.org/man/hkb_0026"]
 is-embodied-in(ehkb_0026 : exp, mhkb_0026 : man)
-{mhkb_0026, startpage [[Vol. 1, p. 842]]}
-{mhkb_0026, catpage [[p. 3]]}
+{mhkb_0026, startpage, [[Vol. 1, p. 842]]}
+{mhkb_0026, catpage, [[p. 3]]}
 
 [ehkb_0027 : exp = "彌陀證性偈" /zh toc
-	http://psi.iba-net.org/exp/hkb_0027]
+	@"http://psi.iba-net.org/exp/hkb_0027"]
 [mhkb_0027 : man = "彌陀證性偈" /zh toc
-	http://psi.iba-net.org/man/hkb_0027]
+	@"http://psi.iba-net.org/man/hkb_0027"]
 is-embodied-in(ehkb_0027 : exp, mhkb_0027 : man)
-{mhkb_0027, startpage [[Vol. 1, p. 843]]}
-{mhkb_0027, catpage [[p. 3]]}
+{mhkb_0027, startpage, [[Vol. 1, p. 843]]}
+{mhkb_0027, catpage, [[p. 3]]}
 
 [ehkb_0028 : exp = "華嚴一乘法界圖" /zh toc
-	http://psi.iba-net.org/exp/hkb_0028]
+	@"http://psi.iba-net.org/exp/hkb_0028"]
 [mhkb_0028 : man = "華嚴一乘法界圖" /zh toc
-	http://psi.iba-net.org/man/hkb_0028]
+	@"http://psi.iba-net.org/man/hkb_0028"]
 is-embodied-in(ehkb_0028 : exp, mhkb_0028 : man)
-{mhkb_0028, startpage [[Vol. 2, p. 1]]}
-{mhkb_0028, catpage [[p. 4]]}
+{mhkb_0028, startpage, [[Vol. 2, p. 1]]}
+{mhkb_0028, catpage, [[p. 4]]}
 
 [ehkb_0029 : exp = "白花道場發願文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0029]
+	@"http://psi.iba-net.org/exp/hkb_0029"]
 [mhkb_0029 : man = "白花道場發願文" /zh toc
-	http://psi.iba-net.org/man/hkb_0029]
+	@"http://psi.iba-net.org/man/hkb_0029"]
 is-embodied-in(ehkb_0029 : exp, mhkb_0029 : man)
-{mhkb_0029, startpage [[Vol. 2, p. 9]]}
-{mhkb_0029, catpage [[p. 4]]}
+{mhkb_0029, startpage, [[Vol. 2, p. 9]]}
+{mhkb_0029, catpage, [[p. 4]]}
 
 [ehkb_0030 : exp = "無量壽經義疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0030]
+	@"http://psi.iba-net.org/exp/hkb_0030"]
 [mhkb_0030 : man = "無量壽經義疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0030]
+	@"http://psi.iba-net.org/man/hkb_0030"]
 is-embodied-in(ehkb_0030 : exp, mhkb_0030 : man)
-{mhkb_0030, startpage [[Vol. 2, p. 9]]}
-{mhkb_0030, catpage [[p. 4]]}
+{mhkb_0030, startpage, [[Vol. 2, p. 9]]}
+{mhkb_0030, catpage, [[p. 4]]}
 
 [ehkb_0031 : exp = "無量壽經連義述文贊" /zh toc
-	http://psi.iba-net.org/exp/hkb_0031]
+	@"http://psi.iba-net.org/exp/hkb_0031"]
 [mhkb_0031 : man = "無量壽經連義述文贊" /zh toc
-	http://psi.iba-net.org/man/hkb_0031]
+	@"http://psi.iba-net.org/man/hkb_0031"]
 is-embodied-in(ehkb_0031 : exp, mhkb_0031 : man)
-{mhkb_0031, startpage [[Vol. 2, p. 18]]}
-{mhkb_0031, catpage [[p. 4]]}
+{mhkb_0031, startpage, [[Vol. 2, p. 18]]}
+{mhkb_0031, catpage, [[p. 4]]}
 
 [ehkb_0032 : exp = "三彌勒生經疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0032]
+	@"http://psi.iba-net.org/exp/hkb_0032"]
 [mhkb_0032 : man = "三彌勒生經疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0032]
+	@"http://psi.iba-net.org/man/hkb_0032"]
 is-embodied-in(ehkb_0032 : exp, mhkb_0032 : man)
-{mhkb_0032, startpage [[Vol. 2, p. 77]]}
-{mhkb_0032, catpage [[p. 4]]}
+{mhkb_0032, startpage, [[Vol. 2, p. 77]]}
+{mhkb_0032, catpage, [[p. 4]]}
 
 [ehkb_0033 : exp = "梵網經述記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0033]
+	@"http://psi.iba-net.org/exp/hkb_0033"]
 [mhkb_0033 : man = "梵網經述記" /zh toc
-	http://psi.iba-net.org/man/hkb_0033]
+	@"http://psi.iba-net.org/man/hkb_0033"]
 is-embodied-in(ehkb_0033 : exp, mhkb_0033 : man)
-{mhkb_0033, startpage [[Vol. 2, p. 114]]}
-{mhkb_0033, catpage [[p. 4]]}
+{mhkb_0033, startpage, [[Vol. 2, p. 114]]}
+{mhkb_0033, catpage, [[p. 4]]}
 
 [ehkb_0034 : exp = "金光明最勝王經疏[輯逸]" /zh toc
-	http://psi.iba-net.org/exp/hkb_0034]
+	@"http://psi.iba-net.org/exp/hkb_0034"]
 [mhkb_0034 : man = "金光明最勝王經疏[輯逸]" /zh toc
-	http://psi.iba-net.org/man/hkb_0034]
+	@"http://psi.iba-net.org/man/hkb_0034"]
 is-embodied-in(ehkb_0034 : exp, mhkb_0034 : man)
-{mhkb_0034, startpage [[Vol. 2, p. 181]]}
-{mhkb_0034, catpage [[p. 4]]}
+{mhkb_0034, startpage, [[Vol. 2, p. 181]]}
+{mhkb_0034, catpage, [[p. 4]]}
 
 [ehkb_0035 : exp = "無量壽經記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0035]
+	@"http://psi.iba-net.org/exp/hkb_0035"]
 [mhkb_0035 : man = "無量壽經記" /zh toc
-	http://psi.iba-net.org/man/hkb_0035]
+	@"http://psi.iba-net.org/man/hkb_0035"]
 is-embodied-in(ehkb_0035 : exp, mhkb_0035 : man)
-{mhkb_0035, startpage [[Vol. 2, p. 232]]}
-{mhkb_0035, catpage [[p. 5]]}
+{mhkb_0035, startpage, [[Vol. 2, p. 232]]}
+{mhkb_0035, catpage, [[p. 5]]}
 
 [ehkb_0036 : exp = "菩薩戒本疏幷重刻序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0036]
+	@"http://psi.iba-net.org/exp/hkb_0036"]
 [mhkb_0036 : man = "菩薩戒本疏幷重刻序" /zh toc
-	http://psi.iba-net.org/man/hkb_0036]
+	@"http://psi.iba-net.org/man/hkb_0036"]
 is-embodied-in(ehkb_0036 : exp, mhkb_0036 : man)
-{mhkb_0036, startpage [[Vol. 2, p. 251]]}
-{mhkb_0036, catpage [[p. 5]]}
+{mhkb_0036, startpage, [[Vol. 2, p. 251]]}
+{mhkb_0036, catpage, [[p. 5]]}
 
 [ehkb_0037 : exp = "法華經論述記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0037]
+	@"http://psi.iba-net.org/exp/hkb_0037"]
 [mhkb_0037 : man = "法華經論述記" /zh toc
-	http://psi.iba-net.org/man/hkb_0037]
+	@"http://psi.iba-net.org/man/hkb_0037"]
 is-embodied-in(ehkb_0037 : exp, mhkb_0037 : man)
-{mhkb_0037, startpage [[Vol. 2, p. 300]]}
-{mhkb_0037, catpage [[p. 5]]}
+{mhkb_0037, startpage, [[Vol. 2, p. 300]]}
+{mhkb_0037, catpage, [[p. 5]]}
 
 [ehkb_0038 : exp = "無量壽經述義記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0038]
+	@"http://psi.iba-net.org/exp/hkb_0038"]
 [mhkb_0038 : man = "無量壽經述義記" /zh toc
-	http://psi.iba-net.org/man/hkb_0038]
+	@"http://psi.iba-net.org/man/hkb_0038"]
 is-embodied-in(ehkb_0038 : exp, mhkb_0038 : man)
-{mhkb_0038, startpage [[Vol. 2, p. 320]]}
-{mhkb_0038, catpage [[p. 5]]}
+{mhkb_0038, startpage, [[Vol. 2, p. 320]]}
+{mhkb_0038, catpage, [[p. 5]]}
 
 [ehkb_0039 : exp = "華嚴經文義要決問答" /zh toc
-	http://psi.iba-net.org/exp/hkb_0039]
+	@"http://psi.iba-net.org/exp/hkb_0039"]
 [mhkb_0039 : man = "華嚴經文義要決問答" /zh toc
-	http://psi.iba-net.org/man/hkb_0039]
+	@"http://psi.iba-net.org/man/hkb_0039"]
 is-embodied-in(ehkb_0039 : exp, mhkb_0039 : man)
-{mhkb_0039, startpage [[Vol. 2, p. 350]]}
-{mhkb_0039, catpage [[p. 5]]}
+{mhkb_0039, startpage, [[Vol. 2, p. 350]]}
+{mhkb_0039, catpage, [[p. 5]]}
 
 [ehkb_0040 : exp = "海印三昧論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0040]
+	@"http://psi.iba-net.org/exp/hkb_0040"]
 [mhkb_0040 : man = "海印三昧論" /zh toc
-	http://psi.iba-net.org/man/hkb_0040]
+	@"http://psi.iba-net.org/man/hkb_0040"]
 is-embodied-in(ehkb_0040 : exp, mhkb_0040 : man)
-{mhkb_0040, startpage [[Vol. 2, p. 397]]}
-{mhkb_0040, catpage [[p. 6]]}
+{mhkb_0040, startpage, [[Vol. 2, p. 397]]}
+{mhkb_0040, catpage, [[p. 6]]}
 
 [ehkb_0041 : exp = "瑜伽論記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0041]
+	@"http://psi.iba-net.org/exp/hkb_0041"]
 [mhkb_0041 : man = "瑜伽論記" /zh toc
-	http://psi.iba-net.org/man/hkb_0041]
+	@"http://psi.iba-net.org/man/hkb_0041"]
 is-embodied-in(ehkb_0041 : exp, mhkb_0041 : man)
-{mhkb_0041, startpage [[Vol. 2, p. 400]]}
-{mhkb_0041, catpage [[p. 6]]}
+{mhkb_0041, startpage, [[Vol. 2, p. 400]]}
+{mhkb_0041, catpage, [[p. 6]]}
 
 [ehkb_0042 : exp = "往五天竺國傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0042]
+	@"http://psi.iba-net.org/exp/hkb_0042"]
 [mhkb_0042 : man = "往五天竺國傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0042]
+	@"http://psi.iba-net.org/man/hkb_0042"]
 is-embodied-in(ehkb_0042 : exp, mhkb_0042 : man)
-{mhkb_0042, startpage [[Vol. 3, p. 374]]}
-{mhkb_0042, catpage [[p. 9]]}
+{mhkb_0042, startpage, [[Vol. 3, p. 374]]}
+{mhkb_0042, catpage, [[p. 9]]}
 
 [ehkb_0043 : exp = "大乘瑜伽金剛性海曼殊室利千臂千缽大敎王經序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0043]
+	@"http://psi.iba-net.org/exp/hkb_0043"]
 [mhkb_0043 : man = "大乘瑜伽金剛性海曼殊室利千臂千缽大敎王經序" /zh toc
-	http://psi.iba-net.org/man/hkb_0043]
+	@"http://psi.iba-net.org/man/hkb_0043"]
 is-embodied-in(ehkb_0043 : exp, mhkb_0043 : man)
-{mhkb_0043, startpage [[Vol. 3, p. 381]]}
-{mhkb_0043, catpage [[p. 9]]}
+{mhkb_0043, startpage, [[Vol. 3, p. 381]]}
+{mhkb_0043, catpage, [[p. 9]]}
 
 [ehkb_0044 : exp = "賀玉女潭祈雨表" /zh toc
-	http://psi.iba-net.org/exp/hkb_0044]
+	@"http://psi.iba-net.org/exp/hkb_0044"]
 [mhkb_0044 : man = "賀玉女潭祈雨表" /zh toc
-	http://psi.iba-net.org/man/hkb_0044]
+	@"http://psi.iba-net.org/man/hkb_0044"]
 is-embodied-in(ehkb_0044 : exp, mhkb_0044 : man)
-{mhkb_0044, startpage [[Vol. 3, p. 382]]}
-{mhkb_0044, catpage [[p. 9]]}
+{mhkb_0044, startpage, [[Vol. 3, p. 382]]}
+{mhkb_0044, catpage, [[p. 9]]}
 
 [ehkb_0045 : exp = "大毗盧遮那經供養次第法疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0045]
+	@"http://psi.iba-net.org/exp/hkb_0045"]
 [mhkb_0045 : man = "大毗盧遮那經供養次第法疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0045]
+	@"http://psi.iba-net.org/man/hkb_0045"]
 is-embodied-in(ehkb_0045 : exp, mhkb_0045 : man)
-{mhkb_0045, startpage [[Vol. 3, p. 383]]}
-{mhkb_0045, catpage [[p. 9]]}
+{mhkb_0045, startpage, [[Vol. 3, p. 383]]}
+{mhkb_0045, catpage, [[p. 9]]}
 
 [ehkb_0046 : exp = "本願藥師經古迹" /zh toc
-	http://psi.iba-net.org/exp/hkb_0046]
+	@"http://psi.iba-net.org/exp/hkb_0046"]
 [mhkb_0046 : man = "本願藥師經古迹" /zh toc
-	http://psi.iba-net.org/man/hkb_0046]
+	@"http://psi.iba-net.org/man/hkb_0046"]
 is-embodied-in(ehkb_0046 : exp, mhkb_0046 : man)
-{mhkb_0046, startpage [[Vol. 3, p. 409]]}
-{mhkb_0046, catpage [[p. 9]]}
+{mhkb_0046, startpage, [[Vol. 3, p. 409]]}
+{mhkb_0046, catpage, [[p. 9]]}
 
 [ehkb_0047 : exp = "梵網經古迹記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0047]
+	@"http://psi.iba-net.org/exp/hkb_0047"]
 [mhkb_0047 : man = "梵網經古迹記" /zh toc
-	http://psi.iba-net.org/man/hkb_0047]
+	@"http://psi.iba-net.org/man/hkb_0047"]
 is-embodied-in(ehkb_0047 : exp, mhkb_0047 : man)
-{mhkb_0047, startpage [[Vol. 3, p. 419]]}
-{mhkb_0047, catpage [[p. 10]]}
+{mhkb_0047, startpage, [[Vol. 3, p. 419]]}
+{mhkb_0047, catpage, [[p. 10]]}
 
 [ehkb_0048 : exp = "菩薩戒本宗要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0048]
+	@"http://psi.iba-net.org/exp/hkb_0048"]
 [mhkb_0048 : man = "菩薩戒本宗要" /zh toc
-	http://psi.iba-net.org/man/hkb_0048]
+	@"http://psi.iba-net.org/man/hkb_0048"]
 is-embodied-in(ehkb_0048 : exp, mhkb_0048 : man)
-{mhkb_0048, startpage [[Vol. 3, p. 478]]}
-{mhkb_0048, catpage [[p. 10]]}
+{mhkb_0048, startpage, [[Vol. 3, p. 478]]}
+{mhkb_0048, catpage, [[p. 10]]}
 
 [ehkb_0049 : exp = "成唯識論學記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0049]
+	@"http://psi.iba-net.org/exp/hkb_0049"]
 [mhkb_0049 : man = "成唯識論學記" /zh toc
-	http://psi.iba-net.org/man/hkb_0049]
+	@"http://psi.iba-net.org/man/hkb_0049"]
 is-embodied-in(ehkb_0049 : exp, mhkb_0049 : man)
-{mhkb_0049, startpage [[Vol. 3, p. 483]]}
-{mhkb_0049, catpage [[p. 10]]}
+{mhkb_0049, startpage, [[Vol. 3, p. 483]]}
+{mhkb_0049, catpage, [[p. 10]]}
 
 [ehkb_0050 : exp = "大乘起信論同異略集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0050]
+	@"http://psi.iba-net.org/exp/hkb_0050"]
 [mhkb_0050 : man = "大乘起信論同異略集" /zh toc
-	http://psi.iba-net.org/man/hkb_0050]
+	@"http://psi.iba-net.org/man/hkb_0050"]
 is-embodied-in(ehkb_0050 : exp, mhkb_0050 : man)
-{mhkb_0050, startpage [[Vol. 3, p. 691]]}
-{mhkb_0050, catpage [[p. 10]]}
+{mhkb_0050, startpage, [[Vol. 3, p. 691]]}
+{mhkb_0050, catpage, [[p. 10]]}
 
 [ehkb_0051 : exp = "華嚴一乘成佛妙義" /zh toc
-	http://psi.iba-net.org/exp/hkb_0051]
+	@"http://psi.iba-net.org/exp/hkb_0051"]
 [mhkb_0051 : man = "華嚴一乘成佛妙義" /zh toc
-	http://psi.iba-net.org/man/hkb_0051]
+	@"http://psi.iba-net.org/man/hkb_0051"]
 is-embodied-in(ehkb_0051 : exp, mhkb_0051 : man)
-{mhkb_0051, startpage [[Vol. 3, p. 719]]}
-{mhkb_0051, catpage [[p. 10]]}
+{mhkb_0051, startpage, [[Vol. 3, p. 719]]}
+{mhkb_0051, catpage, [[p. 10]]}
 
 [ehkb_0052 : exp = "大乘起信論內義略探記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0052]
+	@"http://psi.iba-net.org/exp/hkb_0052"]
 [mhkb_0052 : man = "大乘起信論內義略探記" /zh toc
-	http://psi.iba-net.org/man/hkb_0052]
+	@"http://psi.iba-net.org/man/hkb_0052"]
 is-embodied-in(ehkb_0052 : exp, mhkb_0052 : man)
-{mhkb_0052, startpage [[Vol. 3, p. 744]]}
-{mhkb_0052, catpage [[p. 10]]}
+{mhkb_0052, startpage, [[Vol. 3, p. 744]]}
+{mhkb_0052, catpage, [[p. 10]]}
 
 [ehkb_0053 : exp = "祖堂集所載順之和尙說" /zh toc
-	http://psi.iba-net.org/exp/hkb_0053]
+	@"http://psi.iba-net.org/exp/hkb_0053"]
 [mhkb_0053 : man = "祖堂集所載順之和尙說" /zh toc
-	http://psi.iba-net.org/man/hkb_0053]
+	@"http://psi.iba-net.org/man/hkb_0053"]
 is-embodied-in(ehkb_0053 : exp, mhkb_0053 : man)
-{mhkb_0053, startpage [[Vol. 3, p. 762]]}
-{mhkb_0053, catpage [[p. 10]]}
+{mhkb_0053, startpage, [[Vol. 3, p. 762]]}
+{mhkb_0053, catpage, [[p. 10]]}
 
 [ehkb_0054 : exp = "唐大薦福寺故寺主翻經大德法藏和尙傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0054]
+	@"http://psi.iba-net.org/exp/hkb_0054"]
 [mhkb_0054 : man = "唐大薦福寺故寺主翻經大德法藏和尙傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0054]
+	@"http://psi.iba-net.org/man/hkb_0054"]
 is-embodied-in(ehkb_0054 : exp, mhkb_0054 : man)
-{mhkb_0054, startpage [[Vol. 3, p. 768]]}
-{mhkb_0054, catpage [[p. 10]]}
+{mhkb_0054, startpage, [[Vol. 3, p. 768]]}
+{mhkb_0054, catpage, [[p. 10]]}
 
 [ehkb_0055 : exp = "一乘法界圖圓通記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0055]
+	@"http://psi.iba-net.org/exp/hkb_0055"]
 [mhkb_0055 : man = "一乘法界圖圓通記" /zh toc
-	http://psi.iba-net.org/man/hkb_0055]
+	@"http://psi.iba-net.org/man/hkb_0055"]
 is-embodied-in(ehkb_0055 : exp, mhkb_0055 : man)
-{mhkb_0055, startpage [[Vol. 4, p. 1]]}
-{mhkb_0055, catpage [[p. 11]]}
+{mhkb_0055, startpage, [[Vol. 4, p. 1]]}
+{mhkb_0055, catpage, [[p. 11]]}
 
 [ehkb_0056 : exp = "十句章圓通記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0056]
+	@"http://psi.iba-net.org/exp/hkb_0056"]
 [mhkb_0056 : man = "十句章圓通記" /zh toc
-	http://psi.iba-net.org/man/hkb_0056]
+	@"http://psi.iba-net.org/man/hkb_0056"]
 is-embodied-in(ehkb_0056 : exp, mhkb_0056 : man)
-{mhkb_0056, startpage [[Vol. 4, p. 39]]}
-{mhkb_0056, catpage [[p. 11]]}
+{mhkb_0056, startpage, [[Vol. 4, p. 39]]}
+{mhkb_0056, catpage, [[p. 11]]}
 
 [ehkb_0057 : exp = "釋華嚴旨歸章圓通鈔" /zh toc
-	http://psi.iba-net.org/exp/hkb_0057]
+	@"http://psi.iba-net.org/exp/hkb_0057"]
 [mhkb_0057 : man = "釋華嚴旨歸章圓通鈔" /zh toc
-	http://psi.iba-net.org/man/hkb_0057]
+	@"http://psi.iba-net.org/man/hkb_0057"]
 is-embodied-in(ehkb_0057 : exp, mhkb_0057 : man)
-{mhkb_0057, startpage [[Vol. 4, p. 81]]}
-{mhkb_0057, catpage [[p. 11]]}
+{mhkb_0057, startpage, [[Vol. 4, p. 81]]}
+{mhkb_0057, catpage, [[p. 11]]}
 
 [ehkb_0058 : exp = "華嚴經三寶章圓通記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0058]
+	@"http://psi.iba-net.org/exp/hkb_0058"]
 [mhkb_0058 : man = "華嚴經三寶章圓通記" /zh toc
-	http://psi.iba-net.org/man/hkb_0058]
+	@"http://psi.iba-net.org/man/hkb_0058"]
 is-embodied-in(ehkb_0058 : exp, mhkb_0058 : man)
-{mhkb_0058, startpage [[Vol. 4, p. 160]]}
-{mhkb_0058, catpage [[p. 11]]}
+{mhkb_0058, startpage, [[Vol. 4, p. 160]]}
+{mhkb_0058, catpage, [[p. 11]]}
 
 [ehkb_0059 : exp = "釋華嚴敎分記圓通鈔" /zh toc
-	http://psi.iba-net.org/exp/hkb_0059]
+	@"http://psi.iba-net.org/exp/hkb_0059"]
 [mhkb_0059 : man = "釋華嚴敎分記圓通鈔" /zh toc
-	http://psi.iba-net.org/man/hkb_0059]
+	@"http://psi.iba-net.org/man/hkb_0059"]
 is-embodied-in(ehkb_0059 : exp, mhkb_0059 : man)
-{mhkb_0059, startpage [[Vol. 4, p. 239]]}
-{mhkb_0059, catpage [[p. 11]]}
+{mhkb_0059, startpage, [[Vol. 4, p. 239]]}
+{mhkb_0059, catpage, [[p. 11]]}
 
 [ehkb_0060 : exp = "大華嚴首坐圓通兩重大師均如傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0060]
+	@"http://psi.iba-net.org/exp/hkb_0060"]
 [mhkb_0060 : man = "大華嚴首坐圓通兩重大師均如傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0060]
+	@"http://psi.iba-net.org/man/hkb_0060"]
 is-embodied-in(ehkb_0060 : exp, mhkb_0060 : man)
-{mhkb_0060, startpage [[Vol. 4, p. 511]]}
-{mhkb_0060, catpage [[p. 12]]}
+{mhkb_0060, startpage, [[Vol. 4, p. 511]]}
+{mhkb_0060, catpage, [[p. 12]]}
 
 [ehkb_0061 : exp = "天台四敎儀" /zh toc
-	http://psi.iba-net.org/exp/hkb_0061]
+	@"http://psi.iba-net.org/exp/hkb_0061"]
 [mhkb_0061 : man = "天台四敎儀" /zh toc
-	http://psi.iba-net.org/man/hkb_0061]
+	@"http://psi.iba-net.org/man/hkb_0061"]
 is-embodied-in(ehkb_0061 : exp, mhkb_0061 : man)
-{mhkb_0061, startpage [[Vol. 4, p. 518]]}
-{mhkb_0061, catpage [[p. 12]]}
+{mhkb_0061, startpage, [[Vol. 4, p. 518]]}
+{mhkb_0061, catpage, [[p. 12]]}
 
 [ehkb_0062 : exp = "大覺國師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0062]
+	@"http://psi.iba-net.org/exp/hkb_0062"]
 [mhkb_0062 : man = "大覺國師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0062]
+	@"http://psi.iba-net.org/man/hkb_0062"]
 is-embodied-in(ehkb_0062 : exp, mhkb_0062 : man)
-{mhkb_0062, startpage [[Vol. 4, p. 528]]}
-{mhkb_0062, catpage [[p. 12]]}
+{mhkb_0062, startpage, [[Vol. 4, p. 528]]}
+{mhkb_0062, catpage, [[p. 12]]}
 
 [ehkb_0063 : exp = "大覺國師外集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0063]
+	@"http://psi.iba-net.org/exp/hkb_0063"]
 [mhkb_0063 : man = "大覺國師外集" /zh toc
-	http://psi.iba-net.org/man/hkb_0063]
+	@"http://psi.iba-net.org/man/hkb_0063"]
 is-embodied-in(ehkb_0063 : exp, mhkb_0063 : man)
-{mhkb_0063, startpage [[Vol. 4, p. 567]]}
-{mhkb_0063, catpage [[p. 12]]}
+{mhkb_0063, startpage, [[Vol. 4, p. 567]]}
+{mhkb_0063, catpage, [[p. 12]]}
 
 [ehkb_0064 : exp = "圓宗文類" /zh toc
-	http://psi.iba-net.org/exp/hkb_0064]
+	@"http://psi.iba-net.org/exp/hkb_0064"]
 [mhkb_0064 : man = "圓宗文類" /zh toc
-	http://psi.iba-net.org/man/hkb_0064]
+	@"http://psi.iba-net.org/man/hkb_0064"]
 is-embodied-in(ehkb_0064 : exp, mhkb_0064 : man)
-{mhkb_0064, startpage [[Vol. 4, p. 597]]}
-{mhkb_0064, catpage [[p. 12]]}
+{mhkb_0064, startpage, [[Vol. 4, p. 597]]}
+{mhkb_0064, catpage, [[p. 12]]}
 
 [ehkb_0065 : exp = "釋苑詞林" /zh toc
-	http://psi.iba-net.org/exp/hkb_0065]
+	@"http://psi.iba-net.org/exp/hkb_0065"]
 [mhkb_0065 : man = "釋苑詞林" /zh toc
-	http://psi.iba-net.org/man/hkb_0065]
+	@"http://psi.iba-net.org/man/hkb_0065"]
 is-embodied-in(ehkb_0065 : exp, mhkb_0065 : man)
-{mhkb_0065, startpage [[Vol. 4, p. 648]]}
-{mhkb_0065, catpage [[p. 12]]}
+{mhkb_0065, startpage, [[Vol. 4, p. 648]]}
+{mhkb_0065, catpage, [[p. 12]]}
 
 [ehkb_0066 : exp = "新編諸宗敎藏總錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0066]
+	@"http://psi.iba-net.org/exp/hkb_0066"]
 [mhkb_0066 : man = "新編諸宗敎藏總錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0066]
+	@"http://psi.iba-net.org/man/hkb_0066"]
 is-embodied-in(ehkb_0066 : exp, mhkb_0066 : man)
-{mhkb_0066, startpage [[Vol. 4, p. 679]]}
-{mhkb_0066, catpage [[p. 12]]}
+{mhkb_0066, startpage, [[Vol. 4, p. 679]]}
+{mhkb_0066, catpage, [[p. 12]]}
 
 [ehkb_0067 : exp = "勸修定慧結社文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0067]
+	@"http://psi.iba-net.org/exp/hkb_0067"]
 [mhkb_0067 : man = "勸修定慧結社文" /zh toc
-	http://psi.iba-net.org/man/hkb_0067]
+	@"http://psi.iba-net.org/man/hkb_0067"]
 is-embodied-in(ehkb_0067 : exp, mhkb_0067 : man)
-{mhkb_0067, startpage [[Vol. 4, p. 698]]}
-{mhkb_0067, catpage [[p. 12]]}
+{mhkb_0067, startpage, [[Vol. 4, p. 698]]}
+{mhkb_0067, catpage, [[p. 12]]}
 
 [ehkb_0068 : exp = "牧牛子修心訣" /zh toc
-	http://psi.iba-net.org/exp/hkb_0068]
+	@"http://psi.iba-net.org/exp/hkb_0068"]
 [mhkb_0068 : man = "牧牛子修心訣" /zh toc
-	http://psi.iba-net.org/man/hkb_0068]
+	@"http://psi.iba-net.org/man/hkb_0068"]
 is-embodied-in(ehkb_0068 : exp, mhkb_0068 : man)
-{mhkb_0068, startpage [[Vol. 4, p. 708]]}
-{mhkb_0068, catpage [[p. 13]]}
+{mhkb_0068, startpage, [[Vol. 4, p. 708]]}
+{mhkb_0068, catpage, [[p. 13]]}
 
 [ehkb_0069 : exp = "眞心直說" /zh toc
-	http://psi.iba-net.org/exp/hkb_0069]
+	@"http://psi.iba-net.org/exp/hkb_0069"]
 [mhkb_0069 : man = "眞心直說" /zh toc
-	http://psi.iba-net.org/man/hkb_0069]
+	@"http://psi.iba-net.org/man/hkb_0069"]
 is-embodied-in(ehkb_0069 : exp, mhkb_0069 : man)
-{mhkb_0069, startpage [[Vol. 4, p. 715]]}
-{mhkb_0069, catpage [[p. 13]]}
+{mhkb_0069, startpage, [[Vol. 4, p. 715]]}
+{mhkb_0069, catpage, [[p. 13]]}
 
 [ehkb_0070 : exp = "圓頓成佛論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0070]
+	@"http://psi.iba-net.org/exp/hkb_0070"]
 [mhkb_0070 : man = "圓頓成佛論" /zh toc
-	http://psi.iba-net.org/man/hkb_0070]
+	@"http://psi.iba-net.org/man/hkb_0070"]
 is-embodied-in(ehkb_0070 : exp, mhkb_0070 : man)
-{mhkb_0070, startpage [[Vol. 4, p. 724]]}
-{mhkb_0070, catpage [[p. 13]]}
+{mhkb_0070, startpage, [[Vol. 4, p. 724]]}
+{mhkb_0070, catpage, [[p. 13]]}
 
 [ehkb_0071 : exp = "看話決疑論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0071]
+	@"http://psi.iba-net.org/exp/hkb_0071"]
 [mhkb_0071 : man = "看話決疑論" /zh toc
-	http://psi.iba-net.org/man/hkb_0071]
+	@"http://psi.iba-net.org/man/hkb_0071"]
 is-embodied-in(ehkb_0071 : exp, mhkb_0071 : man)
-{mhkb_0071, startpage [[Vol. 4, p. 732]]}
-{mhkb_0071, catpage [[p. 13]]}
+{mhkb_0071, startpage, [[Vol. 4, p. 732]]}
+{mhkb_0071, catpage, [[p. 13]]}
 
 [ehkb_0072 : exp = "誡初心學人文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0072]
+	@"http://psi.iba-net.org/exp/hkb_0072"]
 [mhkb_0072 : man = "誡初心學人文" /zh toc
-	http://psi.iba-net.org/man/hkb_0072]
+	@"http://psi.iba-net.org/man/hkb_0072"]
 is-embodied-in(ehkb_0072 : exp, mhkb_0072 : man)
-{mhkb_0072, startpage [[Vol. 4, p. 738]]}
-{mhkb_0072, catpage [[p. 13]]}
+{mhkb_0072, startpage, [[Vol. 4, p. 738]]}
+{mhkb_0072, catpage, [[p. 13]]}
 
 [ehkb_0073 : exp = "六祖法寶壇經跋" /zh toc
-	http://psi.iba-net.org/exp/hkb_0073]
+	@"http://psi.iba-net.org/exp/hkb_0073"]
 [mhkb_0073 : man = "六祖法寶壇經跋" /zh toc
-	http://psi.iba-net.org/man/hkb_0073]
+	@"http://psi.iba-net.org/man/hkb_0073"]
 is-embodied-in(ehkb_0073 : exp, mhkb_0073 : man)
-{mhkb_0073, startpage [[Vol. 4, p. 739]]}
-{mhkb_0073, catpage [[p. 13]]}
+{mhkb_0073, startpage, [[Vol. 4, p. 739]]}
+{mhkb_0073, catpage, [[p. 13]]}
 
 [ehkb_0074 : exp = "法集別行錄節要幷入私記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0074]
+	@"http://psi.iba-net.org/exp/hkb_0074"]
 [mhkb_0074 : man = "法集別行錄節要幷入私記" /zh toc
-	http://psi.iba-net.org/man/hkb_0074]
+	@"http://psi.iba-net.org/man/hkb_0074"]
 is-embodied-in(ehkb_0074 : exp, mhkb_0074 : man)
-{mhkb_0074, startpage [[Vol. 4, p. 740]]}
-{mhkb_0074, catpage [[p. 13]]}
+{mhkb_0074, startpage, [[Vol. 4, p. 740]]}
+{mhkb_0074, catpage, [[p. 13]]}
 
 [ehkb_0075 : exp = "華嚴論節要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0075]
+	@"http://psi.iba-net.org/exp/hkb_0075"]
 [mhkb_0075 : man = "華嚴論節要" /zh toc
-	http://psi.iba-net.org/man/hkb_0075]
+	@"http://psi.iba-net.org/man/hkb_0075"]
 is-embodied-in(ehkb_0075 : exp, mhkb_0075 : man)
-{mhkb_0075, startpage [[Vol. 4, p. 767]]}
-{mhkb_0075, catpage [[p. 13]]}
+{mhkb_0075, startpage, [[Vol. 4, p. 767]]}
+{mhkb_0075, catpage, [[p. 13]]}
 
 [ehkb_0076 : exp = "禪門拈頌拈頌說話會本" /zh toc
-	http://psi.iba-net.org/exp/hkb_0076]
+	@"http://psi.iba-net.org/exp/hkb_0076"]
 [mhkb_0076 : man = "禪門拈頌拈頌說話會本" /zh toc
-	http://psi.iba-net.org/man/hkb_0076]
+	@"http://psi.iba-net.org/man/hkb_0076"]
 is-embodied-in(ehkb_0076 : exp, mhkb_0076 : man)
-{mhkb_0076, startpage [[Vol. 5, p. 1]]}
-{mhkb_0076, catpage [[p. 14]]}
+{mhkb_0076, startpage, [[Vol. 5, p. 1]]}
+{mhkb_0076, catpage, [[p. 14]]}
 
 [ehkb_0077 : exp = "曹溪眞覺國師語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0077]
+	@"http://psi.iba-net.org/exp/hkb_0077"]
 [mhkb_0077 : man = "曹溪眞覺國師語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0077]
+	@"http://psi.iba-net.org/man/hkb_0077"]
 is-embodied-in(ehkb_0077 : exp, mhkb_0077 : man)
-{mhkb_0077, startpage [[Vol. 6, p. 1]]}
-{mhkb_0077, catpage [[p. 25]]}
+{mhkb_0077, startpage, [[Vol. 6, p. 1]]}
+{mhkb_0077, catpage, [[p. 25]]}
 
 [ehkb_0078 : exp = "無衣子詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0078]
+	@"http://psi.iba-net.org/exp/hkb_0078"]
 [mhkb_0078 : man = "無衣子詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0078]
+	@"http://psi.iba-net.org/man/hkb_0078"]
 is-embodied-in(ehkb_0078 : exp, mhkb_0078 : man)
-{mhkb_0078, startpage [[Vol. 6, p. 50]]}
-{mhkb_0078, catpage [[p. 25]]}
+{mhkb_0078, startpage, [[Vol. 6, p. 50]]}
+{mhkb_0078, catpage, [[p. 25]]}
 
 [ehkb_0079 : exp = "金剛般若波羅蜜經贊" /zh toc
-	http://psi.iba-net.org/exp/hkb_0079]
+	@"http://psi.iba-net.org/exp/hkb_0079"]
 [mhkb_0079 : man = "金剛般若波羅蜜經贊" /zh toc
-	http://psi.iba-net.org/man/hkb_0079]
+	@"http://psi.iba-net.org/man/hkb_0079"]
 is-embodied-in(ehkb_0079 : exp, mhkb_0079 : man)
-{mhkb_0079, startpage [[Vol. 6, p. 67]]}
-{mhkb_0079, catpage [[p. 25]]}
+{mhkb_0079, startpage, [[Vol. 6, p. 67]]}
+{mhkb_0079, catpage, [[p. 25]]}
 
 [ehkb_0080 : exp = "狗子無佛性話揀病論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0080]
+	@"http://psi.iba-net.org/exp/hkb_0080"]
 [mhkb_0080 : man = "狗子無佛性話揀病論" /zh toc
-	http://psi.iba-net.org/man/hkb_0080]
+	@"http://psi.iba-net.org/man/hkb_0080"]
 is-embodied-in(ehkb_0080 : exp, mhkb_0080 : man)
-{mhkb_0080, startpage [[Vol. 6, p. 69]]}
-{mhkb_0080, catpage [[p. 25]]}
+{mhkb_0080, startpage, [[Vol. 6, p. 69]]}
+{mhkb_0080, catpage, [[p. 25]]}
 
 [ehkb_0081 : exp = "宗門圓相集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0081]
+	@"http://psi.iba-net.org/exp/hkb_0081"]
 [mhkb_0081 : man = "宗門圓相集" /zh toc
-	http://psi.iba-net.org/man/hkb_0081]
+	@"http://psi.iba-net.org/man/hkb_0081"]
 is-embodied-in(ehkb_0081 : exp, mhkb_0081 : man)
-{mhkb_0081, startpage [[Vol. 6, p. 71]]}
-{mhkb_0081, catpage [[p. 25]]}
+{mhkb_0081, startpage, [[Vol. 6, p. 71]]}
+{mhkb_0081, catpage, [[p. 25]]}
 
 [ehkb_0082 : exp = "海東高僧傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0082]
+	@"http://psi.iba-net.org/exp/hkb_0082"]
 [mhkb_0082 : man = "海東高僧傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0082]
+	@"http://psi.iba-net.org/man/hkb_0082"]
 is-embodied-in(ehkb_0082 : exp, mhkb_0082 : man)
-{mhkb_0082, startpage [[Vol. 6, p. 89]]}
-{mhkb_0082, catpage [[p. 25]]}
+{mhkb_0082, startpage, [[Vol. 6, p. 89]]}
+{mhkb_0082, catpage, [[p. 25]]}
 
 [ehkb_0083 : exp = "南明泉和尙頌證道歌事實" /zh toc
-	http://psi.iba-net.org/exp/hkb_0083]
+	@"http://psi.iba-net.org/exp/hkb_0083"]
 [mhkb_0083 : man = "南明泉和尙頌證道歌事實" /zh toc
-	http://psi.iba-net.org/man/hkb_0083]
+	@"http://psi.iba-net.org/man/hkb_0083"]
 is-embodied-in(ehkb_0083 : exp, mhkb_0083 : man)
-{mhkb_0083, startpage [[Vol. 6, p. 102]]}
-{mhkb_0083, catpage [[p. 25]]}
+{mhkb_0083, startpage, [[Vol. 6, p. 102]]}
+{mhkb_0083, catpage, [[p. 25]]}
 
 [ehkb_0084 : exp = "大藏目錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0084]
+	@"http://psi.iba-net.org/exp/hkb_0084"]
 [mhkb_0084 : man = "大藏目錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0084]
+	@"http://psi.iba-net.org/man/hkb_0084"]
 is-embodied-in(ehkb_0084 : exp, mhkb_0084 : man)
-{mhkb_0084, startpage [[Vol. 6, p. 161]]}
-{mhkb_0084, catpage [[p. 25]]}
+{mhkb_0084, startpage, [[Vol. 6, p. 161]]}
+{mhkb_0084, catpage, [[p. 25]]}
 
 [ehkb_0085 : exp = "萬德山白蓮社第二代靜明國師後集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0085]
+	@"http://psi.iba-net.org/exp/hkb_0085"]
 [mhkb_0085 : man = "萬德山白蓮社第二代靜明國師後集" /zh toc
-	http://psi.iba-net.org/man/hkb_0085]
+	@"http://psi.iba-net.org/man/hkb_0085"]
 is-embodied-in(ehkb_0085 : exp, mhkb_0085 : man)
-{mhkb_0085, startpage [[Vol. 6, p. 195]]}
-{mhkb_0085, catpage [[p. 25]]}
+{mhkb_0085, startpage, [[Vol. 6, p. 195]]}
+{mhkb_0085, catpage, [[p. 25]]}
 
 [ehkb_0086 : exp = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0086]
+	@"http://psi.iba-net.org/exp/hkb_0086"]
 [mhkb_0086 : man = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0086]
+	@"http://psi.iba-net.org/man/hkb_0086"]
 is-embodied-in(ehkb_0086 : exp, mhkb_0086 : man)
-{mhkb_0086, startpage [[Vol. 6, p. 199]]}
-{mhkb_0086, catpage [[p. 25]]}
+{mhkb_0086, startpage, [[Vol. 6, p. 199]]}
+{mhkb_0086, catpage, [[p. 25]]}
 
 [ehkb_0087 : exp = "重編曺洞五位序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0087]
+	@"http://psi.iba-net.org/exp/hkb_0087"]
 [mhkb_0087 : man = "重編曺洞五位序" /zh toc
-	http://psi.iba-net.org/man/hkb_0087]
+	@"http://psi.iba-net.org/man/hkb_0087"]
 is-embodied-in(ehkb_0087 : exp, mhkb_0087 : man)
-{mhkb_0087, startpage [[Vol. 6, p. 216]]}
-{mhkb_0087, catpage [[p. 25]]}
+{mhkb_0087, startpage, [[Vol. 6, p. 216]]}
+{mhkb_0087, catpage, [[p. 25]]}
 
 [ehkb_0088 : exp = "三國遺事" /zh toc
-	http://psi.iba-net.org/exp/hkb_0088]
+	@"http://psi.iba-net.org/exp/hkb_0088"]
 [mhkb_0088 : man = "三國遺事" /zh toc
-	http://psi.iba-net.org/man/hkb_0088]
+	@"http://psi.iba-net.org/man/hkb_0088"]
 is-embodied-in(ehkb_0088 : exp, mhkb_0088 : man)
-{mhkb_0088, startpage [[Vol. 6, p. 245]]}
-{mhkb_0088, catpage [[p. 26]]}
+{mhkb_0088, startpage, [[Vol. 6, p. 245]]}
+{mhkb_0088, catpage, [[p. 26]]}
 
 [ehkb_0089 : exp = "海東曹溪第六世圓鑑國師歌頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0089]
+	@"http://psi.iba-net.org/exp/hkb_0089"]
 [mhkb_0089 : man = "海東曹溪第六世圓鑑國師歌頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0089]
+	@"http://psi.iba-net.org/man/hkb_0089"]
 is-embodied-in(ehkb_0089 : exp, mhkb_0089 : man)
-{mhkb_0089, startpage [[Vol. 6, p. 370]]}
-{mhkb_0089, catpage [[p. 26]]}
+{mhkb_0089, startpage, [[Vol. 6, p. 370]]}
+{mhkb_0089, catpage, [[p. 26]]}
 
 [ehkb_0090 : exp = "白衣解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0090]
+	@"http://psi.iba-net.org/exp/hkb_0090"]
 [mhkb_0090 : man = "白衣解" /zh toc
-	http://psi.iba-net.org/man/hkb_0090]
+	@"http://psi.iba-net.org/man/hkb_0090"]
 is-embodied-in(ehkb_0090 : exp, mhkb_0090 : man)
-{mhkb_0090, startpage [[Vol. 6, p. 411]]}
-{mhkb_0090, catpage [[p. 26]]}
+{mhkb_0090, startpage, [[Vol. 6, p. 411]]}
+{mhkb_0090, catpage, [[p. 26]]}
 
 [ehkb_0091 : exp = "首楞嚴經環解删補記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0091]
+	@"http://psi.iba-net.org/exp/hkb_0091"]
 [mhkb_0091 : man = "首楞嚴經環解删補記" /zh toc
-	http://psi.iba-net.org/man/hkb_0091]
+	@"http://psi.iba-net.org/man/hkb_0091"]
 is-embodied-in(ehkb_0091 : exp, mhkb_0091 : man)
-{mhkb_0091, startpage [[Vol. 6, p. 417]]}
-{mhkb_0091, catpage [[p. 26]]}
+{mhkb_0091, startpage, [[Vol. 6, p. 417]]}
+{mhkb_0091, catpage, [[p. 26]]}
 
 [ehkb_0092 : exp = "禪門寶藏錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0092]
+	@"http://psi.iba-net.org/exp/hkb_0092"]
 [mhkb_0092 : man = "禪門寶藏錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0092]
+	@"http://psi.iba-net.org/man/hkb_0092"]
 is-embodied-in(ehkb_0092 : exp, mhkb_0092 : man)
-{mhkb_0092, startpage [[Vol. 6, p. 469]]}
-{mhkb_0092, catpage [[p. 26]]}
+{mhkb_0092, startpage, [[Vol. 6, p. 469]]}
+{mhkb_0092, catpage, [[p. 26]]}
 
 [ehkb_0093 : exp = "釋迦如來行蹟頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0093]
+	@"http://psi.iba-net.org/exp/hkb_0093"]
 [mhkb_0093 : man = "釋迦如來行蹟頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0093]
+	@"http://psi.iba-net.org/man/hkb_0093"]
 is-embodied-in(ehkb_0093 : exp, mhkb_0093 : man)
-{mhkb_0093, startpage [[Vol. 6, p. 484]]}
-{mhkb_0093, catpage [[p. 27]]}
+{mhkb_0093, startpage, [[Vol. 6, p. 484]]}
+{mhkb_0093, catpage, [[p. 27]]}
 
 [ehkb_0094 : exp = "天台末學雲默和尙警策" /zh toc
-	http://psi.iba-net.org/exp/hkb_0094]
+	@"http://psi.iba-net.org/exp/hkb_0094"]
 [mhkb_0094 : man = "天台末學雲默和尙警策" /zh toc
-	http://psi.iba-net.org/man/hkb_0094]
+	@"http://psi.iba-net.org/man/hkb_0094"]
 is-embodied-in(ehkb_0094 : exp, mhkb_0094 : man)
-{mhkb_0094, startpage [[Vol. 6, p. 541]]}
-{mhkb_0094, catpage [[p. 27]]}
+{mhkb_0094, startpage, [[Vol. 6, p. 541]]}
+{mhkb_0094, catpage, [[p. 27]]}
 
 [ehkb_0095 : exp = "法華靈驗傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0095]
+	@"http://psi.iba-net.org/exp/hkb_0095"]
 [mhkb_0095 : man = "法華靈驗傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0095]
+	@"http://psi.iba-net.org/man/hkb_0095"]
 is-embodied-in(ehkb_0095 : exp, mhkb_0095 : man)
-{mhkb_0095, startpage [[Vol. 6, p. 542]]}
-{mhkb_0095, catpage [[p. 27]]}
+{mhkb_0095, startpage, [[Vol. 6, p. 542]]}
+{mhkb_0095, catpage, [[p. 27]]}
 
 [ehkb_0096 : exp = "白花道場發願文略解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0096]
+	@"http://psi.iba-net.org/exp/hkb_0096"]
 [mhkb_0096 : man = "白花道場發願文略解" /zh toc
-	http://psi.iba-net.org/man/hkb_0096]
+	@"http://psi.iba-net.org/man/hkb_0096"]
 is-embodied-in(ehkb_0096 : exp, mhkb_0096 : man)
-{mhkb_0096, startpage [[Vol. 6, p. 570]]}
-{mhkb_0096, catpage [[p. 27]]}
+{mhkb_0096, startpage, [[Vol. 6, p. 570]]}
+{mhkb_0096, catpage, [[p. 27]]}
 
 [ehkb_0097 : exp = "華嚴經觀自在菩薩所說法門別行䟽" /zh toc
-	http://psi.iba-net.org/exp/hkb_0097]
+	@"http://psi.iba-net.org/exp/hkb_0097"]
 [mhkb_0097 : man = "華嚴經觀自在菩薩所說法門別行䟽" /zh toc
-	http://psi.iba-net.org/man/hkb_0097]
+	@"http://psi.iba-net.org/man/hkb_0097"]
 is-embodied-in(ehkb_0097 : exp, mhkb_0097 : man)
-{mhkb_0097, startpage [[Vol. 6, p. 577]]}
-{mhkb_0097, catpage [[p. 27]]}
+{mhkb_0097, startpage, [[Vol. 6, p. 577]]}
+{mhkb_0097, catpage, [[p. 27]]}
 
 [ehkb_0098 : exp = "華嚴經觀音知識品" /zh toc
-	http://psi.iba-net.org/exp/hkb_0098]
+	@"http://psi.iba-net.org/exp/hkb_0098"]
 [mhkb_0098 : man = "華嚴經觀音知識品" /zh toc
-	http://psi.iba-net.org/man/hkb_0098]
+	@"http://psi.iba-net.org/man/hkb_0098"]
 is-embodied-in(ehkb_0098 : exp, mhkb_0098 : man)
-{mhkb_0098, startpage [[Vol. 6, p. 602]]}
-{mhkb_0098, catpage [[p. 27]]}
+{mhkb_0098, startpage, [[Vol. 6, p. 602]]}
+{mhkb_0098, catpage, [[p. 27]]}
 
 [ehkb_0099 : exp = "三十八分功德䟽經跋文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0099]
+	@"http://psi.iba-net.org/exp/hkb_0099"]
 [mhkb_0099 : man = "三十八分功德䟽經跋文" /zh toc
-	http://psi.iba-net.org/man/hkb_0099]
+	@"http://psi.iba-net.org/man/hkb_0099"]
 is-embodied-in(ehkb_0099 : exp, mhkb_0099 : man)
-{mhkb_0099, startpage [[Vol. 6, p. 604]]}
-{mhkb_0099, catpage [[p. 27]]}
+{mhkb_0099, startpage, [[Vol. 6, p. 604]]}
+{mhkb_0099, catpage, [[p. 27]]}
 
 [ehkb_0100 : exp = "白雲和尙抄錄佛祖直指心體要節" /zh toc
-	http://psi.iba-net.org/exp/hkb_0100]
+	@"http://psi.iba-net.org/exp/hkb_0100"]
 [mhkb_0100 : man = "白雲和尙抄錄佛祖直指心體要節" /zh toc
-	http://psi.iba-net.org/man/hkb_0100]
+	@"http://psi.iba-net.org/man/hkb_0100"]
 is-embodied-in(ehkb_0100 : exp, mhkb_0100 : man)
-{mhkb_0100, startpage [[Vol. 6, p. 604]]}
-{mhkb_0100, catpage [[p. 27]]}
+{mhkb_0100, startpage, [[Vol. 6, p. 604]]}
+{mhkb_0100, catpage, [[p. 27]]}
 
 [ehkb_0101 : exp = "白雲和尙語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0101]
+	@"http://psi.iba-net.org/exp/hkb_0101"]
 [mhkb_0101 : man = "白雲和尙語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0101]
+	@"http://psi.iba-net.org/man/hkb_0101"]
 is-embodied-in(ehkb_0101 : exp, mhkb_0101 : man)
-{mhkb_0101, startpage [[Vol. 6, p. 637]]}
-{mhkb_0101, catpage [[p. 27]]}
+{mhkb_0101, startpage, [[Vol. 6, p. 637]]}
+{mhkb_0101, catpage, [[p. 27]]}
 
 [ehkb_0102 : exp = "太古和尙語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0102]
+	@"http://psi.iba-net.org/exp/hkb_0102"]
 [mhkb_0102 : man = "太古和尙語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0102]
+	@"http://psi.iba-net.org/man/hkb_0102"]
 is-embodied-in(ehkb_0102 : exp, mhkb_0102 : man)
-{mhkb_0102, startpage [[Vol. 6, p. 669]]}
-{mhkb_0102, catpage [[p. 27]]}
+{mhkb_0102, startpage, [[Vol. 6, p. 669]]}
+{mhkb_0102, catpage, [[p. 27]]}
 
 [ehkb_0103 : exp = "普濟尊者語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0103]
+	@"http://psi.iba-net.org/exp/hkb_0103"]
 [mhkb_0103 : man = "普濟尊者語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0103]
+	@"http://psi.iba-net.org/man/hkb_0103"]
 is-embodied-in(ehkb_0103 : exp, mhkb_0103 : man)
-{mhkb_0103, startpage [[Vol. 6, p. 702]]}
-{mhkb_0103, catpage [[p. 28]]}
+{mhkb_0103, startpage, [[Vol. 6, p. 702]]}
+{mhkb_0103, catpage, [[p. 28]]}
 
 [ehkb_0104 : exp = "懶翁和尙歌頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0104]
+	@"http://psi.iba-net.org/exp/hkb_0104"]
 [mhkb_0104 : man = "懶翁和尙歌頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0104]
+	@"http://psi.iba-net.org/man/hkb_0104"]
 is-embodied-in(ehkb_0104 : exp, mhkb_0104 : man)
-{mhkb_0104, startpage [[Vol. 6, p. 730]]}
-{mhkb_0104, catpage [[p. 28]]}
+{mhkb_0104, startpage, [[Vol. 6, p. 730]]}
+{mhkb_0104, catpage, [[p. 28]]}
 
 [ehkb_0105 : exp = "普濟尊者三种歌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0105]
+	@"http://psi.iba-net.org/exp/hkb_0105"]
 [mhkb_0105 : man = "普濟尊者三种歌" /zh toc
-	http://psi.iba-net.org/man/hkb_0105]
+	@"http://psi.iba-net.org/man/hkb_0105"]
 is-embodied-in(ehkb_0105 : exp, mhkb_0105 : man)
-{mhkb_0105, startpage [[Vol. 6, p. 753]]}
-{mhkb_0105, catpage [[p. 28]]}
+{mhkb_0105, startpage, [[Vol. 6, p. 753]]}
+{mhkb_0105, catpage, [[p. 28]]}
 
 [ehkb_0106 : exp = "自警序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0106]
+	@"http://psi.iba-net.org/exp/hkb_0106"]
 [mhkb_0106 : man = "自警序" /zh toc
-	http://psi.iba-net.org/man/hkb_0106]
+	@"http://psi.iba-net.org/man/hkb_0106"]
 is-embodied-in(ehkb_0106 : exp, mhkb_0106 : man)
-{mhkb_0106, startpage [[Vol. 6, p. 765]]}
-{mhkb_0106, catpage [[p. 28]]}
+{mhkb_0106, startpage, [[Vol. 6, p. 765]]}
+{mhkb_0106, catpage, [[p. 28]]}
 
 [ehkb_0107 : exp = "法界圖記叢髓錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0107]
+	@"http://psi.iba-net.org/exp/hkb_0107"]
 [mhkb_0107 : man = "法界圖記叢髓錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0107]
+	@"http://psi.iba-net.org/man/hkb_0107"]
 is-embodied-in(ehkb_0107 : exp, mhkb_0107 : man)
-{mhkb_0107, startpage [[Vol. 6, p. 768]]}
-{mhkb_0107, catpage [[p. 28]]}
+{mhkb_0107, startpage, [[Vol. 6, p. 768]]}
+{mhkb_0107, catpage, [[p. 28]]}
 
 [ehkb_0108 : exp = "禪門綱要集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0108]
+	@"http://psi.iba-net.org/exp/hkb_0108"]
 [mhkb_0108 : man = "禪門綱要集" /zh toc
-	http://psi.iba-net.org/man/hkb_0108]
+	@"http://psi.iba-net.org/man/hkb_0108"]
 is-embodied-in(ehkb_0108 : exp, mhkb_0108 : man)
-{mhkb_0108, startpage [[Vol. 6, p. 850]]}
-{mhkb_0108, catpage [[p. 28]]}
+{mhkb_0108, startpage, [[Vol. 6, p. 850]]}
+{mhkb_0108, catpage, [[p. 28]]}
 
 [ehkb_0109 : exp = "現行西方經" /zh toc
-	http://psi.iba-net.org/exp/hkb_0109]
+	@"http://psi.iba-net.org/exp/hkb_0109"]
 [mhkb_0109 : man = "現行西方經" /zh toc
-	http://psi.iba-net.org/man/hkb_0109]
+	@"http://psi.iba-net.org/man/hkb_0109"]
 is-embodied-in(ehkb_0109 : exp, mhkb_0109 : man)
-{mhkb_0109, startpage [[Vol. 6, p. 860]]}
-{mhkb_0109, catpage [[p. 28]]}
+{mhkb_0109, startpage, [[Vol. 6, p. 860]]}
+{mhkb_0109, catpage, [[p. 28]]}
 
 [ehkb_0110 : exp = "念佛因由經" /zh toc
-	http://psi.iba-net.org/exp/hkb_0110]
+	@"http://psi.iba-net.org/exp/hkb_0110"]
 [mhkb_0110 : man = "念佛因由經" /zh toc
-	http://psi.iba-net.org/man/hkb_0110]
+	@"http://psi.iba-net.org/man/hkb_0110"]
 is-embodied-in(ehkb_0110 : exp, mhkb_0110 : man)
-{mhkb_0110, startpage [[Vol. 6, p. 877]]}
-{mhkb_0110, catpage [[p. 28]]}
+{mhkb_0110, startpage, [[Vol. 6, p. 877]]}
+{mhkb_0110, catpage, [[p. 28]]}
 
 [ehkb_0111 : exp = "三十八分功德䟽經" /zh toc
-	http://psi.iba-net.org/exp/hkb_0111]
+	@"http://psi.iba-net.org/exp/hkb_0111"]
 [mhkb_0111 : man = "三十八分功德䟽經" /zh toc
-	http://psi.iba-net.org/man/hkb_0111]
+	@"http://psi.iba-net.org/man/hkb_0111"]
 is-embodied-in(ehkb_0111 : exp, mhkb_0111 : man)
-{mhkb_0111, startpage [[Vol. 6, p. 879]]}
-{mhkb_0111, catpage [[p. 28]]}
+{mhkb_0111, startpage, [[Vol. 6, p. 879]]}
+{mhkb_0111, catpage, [[p. 28]]}
 
 [ehkb_0112 : exp = "東文選所載麗代僧侶詩文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0112]
+	@"http://psi.iba-net.org/exp/hkb_0112"]
 [mhkb_0112 : man = "東文選所載麗代僧侶詩文" /zh toc
-	http://psi.iba-net.org/man/hkb_0112]
+	@"http://psi.iba-net.org/man/hkb_0112"]
 is-embodied-in(ehkb_0112 : exp, mhkb_0112 : man)
-{mhkb_0112, startpage [[Vol. 6, p. 881]]}
-{mhkb_0112, catpage [[p. 28]]}
+{mhkb_0112, startpage, [[Vol. 6, p. 881]]}
+{mhkb_0112, catpage, [[p. 28]]}
 
 [ehkb_0113 : exp = "佛祖宗派之圖" /zh toc
-	http://psi.iba-net.org/exp/hkb_0113]
+	@"http://psi.iba-net.org/exp/hkb_0113"]
 [mhkb_0113 : man = "佛祖宗派之圖" /zh toc
-	http://psi.iba-net.org/man/hkb_0113]
+	@"http://psi.iba-net.org/man/hkb_0113"]
 is-embodied-in(ehkb_0113 : exp, mhkb_0113 : man)
-{mhkb_0113, startpage [[Vol. 7, p. 1]]}
-{mhkb_0113, catpage [[p. 29]]}
+{mhkb_0113, startpage, [[Vol. 7, p. 1]]}
+{mhkb_0113, catpage, [[p. 29]]}
 
 [ehkb_0114 : exp = "金剛般若波羅蜜經五家解說誼" /zh toc
-	http://psi.iba-net.org/exp/hkb_0114]
+	@"http://psi.iba-net.org/exp/hkb_0114"]
 [mhkb_0114 : man = "金剛般若波羅蜜經五家解說誼" /zh toc
-	http://psi.iba-net.org/man/hkb_0114]
+	@"http://psi.iba-net.org/man/hkb_0114"]
 is-embodied-in(ehkb_0114 : exp, mhkb_0114 : man)
-{mhkb_0114, startpage [[Vol. 7, p. 10]]}
-{mhkb_0114, catpage [[p. 29]]}
+{mhkb_0114, startpage, [[Vol. 7, p. 10]]}
+{mhkb_0114, catpage, [[p. 29]]}
 
 [ehkb_0115 : exp = "金剛般若波羅蜜經綸貫" /zh toc
-	http://psi.iba-net.org/exp/hkb_0115]
+	@"http://psi.iba-net.org/exp/hkb_0115"]
 [mhkb_0115 : man = "金剛般若波羅蜜經綸貫" /zh toc
-	http://psi.iba-net.org/man/hkb_0115]
+	@"http://psi.iba-net.org/man/hkb_0115"]
 is-embodied-in(ehkb_0115 : exp, mhkb_0115 : man)
-{mhkb_0115, startpage [[Vol. 7, p. 116]]}
-{mhkb_0115, catpage [[p. 30]]}
+{mhkb_0115, startpage, [[Vol. 7, p. 116]]}
+{mhkb_0115, catpage, [[p. 30]]}
 
 [ehkb_0116 : exp = "大方廣圓覺修多羅了義經說誼" /zh toc
-	http://psi.iba-net.org/exp/hkb_0116]
+	@"http://psi.iba-net.org/exp/hkb_0116"]
 [mhkb_0116 : man = "大方廣圓覺修多羅了義經說誼" /zh toc
-	http://psi.iba-net.org/man/hkb_0116]
+	@"http://psi.iba-net.org/man/hkb_0116"]
 is-embodied-in(ehkb_0116 : exp, mhkb_0116 : man)
-{mhkb_0116, startpage [[Vol. 7, p. 122]]}
-{mhkb_0116, catpage [[p. 30]]}
+{mhkb_0116, startpage, [[Vol. 7, p. 122]]}
+{mhkb_0116, catpage, [[p. 30]]}
 
 [ehkb_0117 : exp = "禪宗永嘉集科註誼" /zh toc
-	http://psi.iba-net.org/exp/hkb_0117]
+	@"http://psi.iba-net.org/exp/hkb_0117"]
 [mhkb_0117 : man = "禪宗永嘉集科註誼" /zh toc
-	http://psi.iba-net.org/man/hkb_0117]
+	@"http://psi.iba-net.org/man/hkb_0117"]
 is-embodied-in(ehkb_0117 : exp, mhkb_0117 : man)
-{mhkb_0117, startpage [[Vol. 7, p. 170]]}
-{mhkb_0117, catpage [[p. 30]]}
+{mhkb_0117, startpage, [[Vol. 7, p. 170]]}
+{mhkb_0117, catpage, [[p. 30]]}
 
 [ehkb_0118 : exp = "顯正論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0118]
+	@"http://psi.iba-net.org/exp/hkb_0118"]
 [mhkb_0118 : man = "顯正論" /zh toc
-	http://psi.iba-net.org/man/hkb_0118]
+	@"http://psi.iba-net.org/man/hkb_0118"]
 is-embodied-in(ehkb_0118 : exp, mhkb_0118 : man)
-{mhkb_0118, startpage [[Vol. 7, p. 217]]}
-{mhkb_0118, catpage [[p. 31]]}
+{mhkb_0118, startpage, [[Vol. 7, p. 217]]}
+{mhkb_0118, catpage, [[p. 31]]}
 
 [ehkb_0119 : exp = "涵虛堂得通和尙語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0119]
+	@"http://psi.iba-net.org/exp/hkb_0119"]
 [mhkb_0119 : man = "涵虛堂得通和尙語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0119]
+	@"http://psi.iba-net.org/man/hkb_0119"]
 is-embodied-in(ehkb_0119 : exp, mhkb_0119 : man)
-{mhkb_0119, startpage [[Vol. 7, p. 226]]}
-{mhkb_0119, catpage [[p. 31]]}
+{mhkb_0119, startpage, [[Vol. 7, p. 226]]}
+{mhkb_0119, catpage, [[p. 31]]}
 
 [ehkb_0120 : exp = "儒釋質疑論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0120]
+	@"http://psi.iba-net.org/exp/hkb_0120"]
 [mhkb_0120 : man = "儒釋質疑論" /zh toc
-	http://psi.iba-net.org/man/hkb_0120]
+	@"http://psi.iba-net.org/man/hkb_0120"]
 is-embodied-in(ehkb_0120 : exp, mhkb_0120 : man)
-{mhkb_0120, startpage [[Vol. 7, p. 252]]}
-{mhkb_0120, catpage [[p. 31]]}
+{mhkb_0120, startpage, [[Vol. 7, p. 252]]}
+{mhkb_0120, catpage, [[p. 31]]}
 
 [ehkb_0121 : exp = "寂滅示眾論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0121]
+	@"http://psi.iba-net.org/exp/hkb_0121"]
 [mhkb_0121 : man = "寂滅示眾論" /zh toc
-	http://psi.iba-net.org/man/hkb_0121]
+	@"http://psi.iba-net.org/man/hkb_0121"]
 is-embodied-in(ehkb_0121 : exp, mhkb_0121 : man)
-{mhkb_0121, startpage [[Vol. 7, p. 280]]}
-{mhkb_0121, catpage [[p. 31]]}
+{mhkb_0121, startpage, [[Vol. 7, p. 280]]}
+{mhkb_0121, catpage, [[p. 31]]}
 
 [ehkb_0122 : exp = "蓮經別讃" /zh toc
-	http://psi.iba-net.org/exp/hkb_0122]
+	@"http://psi.iba-net.org/exp/hkb_0122"]
 [mhkb_0122 : man = "蓮經別讃" /zh toc
-	http://psi.iba-net.org/man/hkb_0122]
+	@"http://psi.iba-net.org/man/hkb_0122"]
 is-embodied-in(ehkb_0122 : exp, mhkb_0122 : man)
-{mhkb_0122, startpage [[Vol. 7, p. 287]]}
-{mhkb_0122, catpage [[p. 31]]}
+{mhkb_0122, startpage, [[Vol. 7, p. 287]]}
+{mhkb_0122, catpage, [[p. 31]]}
 
 [ehkb_0123 : exp = "華嚴釋題" /zh toc
-	http://psi.iba-net.org/exp/hkb_0123]
+	@"http://psi.iba-net.org/exp/hkb_0123"]
 [mhkb_0123 : man = "華嚴釋題" /zh toc
-	http://psi.iba-net.org/man/hkb_0123]
+	@"http://psi.iba-net.org/man/hkb_0123"]
 is-embodied-in(ehkb_0123 : exp, mhkb_0123 : man)
-{mhkb_0123, startpage [[Vol. 7, p. 295]]}
-{mhkb_0123, catpage [[p. 31]]}
+{mhkb_0123, startpage, [[Vol. 7, p. 295]]}
+{mhkb_0123, catpage, [[p. 31]]}
 
 [ehkb_0124 : exp = "大華嚴法界圖註(并序)" /zh toc
-	http://psi.iba-net.org/exp/hkb_0124]
+	@"http://psi.iba-net.org/exp/hkb_0124"]
 [mhkb_0124 : man = "大華嚴法界圖註(并序)" /zh toc
-	http://psi.iba-net.org/man/hkb_0124]
+	@"http://psi.iba-net.org/man/hkb_0124"]
 is-embodied-in(ehkb_0124 : exp, mhkb_0124 : man)
-{mhkb_0124, startpage [[Vol. 7, p. 301]]}
-{mhkb_0124, catpage [[p. 31]]}
+{mhkb_0124, startpage, [[Vol. 7, p. 301]]}
+{mhkb_0124, catpage, [[p. 31]]}
 
 [ehkb_0125 : exp = "十玄談要解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0125]
+	@"http://psi.iba-net.org/exp/hkb_0125"]
 [mhkb_0125 : man = "十玄談要解" /zh toc
-	http://psi.iba-net.org/man/hkb_0125]
+	@"http://psi.iba-net.org/man/hkb_0125"]
 is-embodied-in(ehkb_0125 : exp, mhkb_0125 : man)
-{mhkb_0125, startpage [[Vol. 7, p. 309]]}
-{mhkb_0125, catpage [[p. 31]]}
+{mhkb_0125, startpage, [[Vol. 7, p. 309]]}
+{mhkb_0125, catpage, [[p. 31]]}
 
 [ehkb_0126 : exp = "梅月堂詩四遊錄後" /zh toc
-	http://psi.iba-net.org/exp/hkb_0126]
+	@"http://psi.iba-net.org/exp/hkb_0126"]
 [mhkb_0126 : man = "梅月堂詩四遊錄後" /zh toc
-	http://psi.iba-net.org/man/hkb_0126]
+	@"http://psi.iba-net.org/man/hkb_0126"]
 is-embodied-in(ehkb_0126 : exp, mhkb_0126 : man)
-{mhkb_0126, startpage [[Vol. 7, p. 324]]}
-{mhkb_0126, catpage [[p. 31]]}
+{mhkb_0126, startpage, [[Vol. 7, p. 324]]}
+{mhkb_0126, catpage, [[p. 31]]}
 
 [ehkb_0127 : exp = "梅月堂詩四遊錄別集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0127]
+	@"http://psi.iba-net.org/exp/hkb_0127"]
 [mhkb_0127 : man = "梅月堂詩四遊錄別集" /zh toc
-	http://psi.iba-net.org/man/hkb_0127]
+	@"http://psi.iba-net.org/man/hkb_0127"]
 is-embodied-in(ehkb_0127 : exp, mhkb_0127 : man)
-{mhkb_0127, startpage [[Vol. 7, p. 344]]}
-{mhkb_0127, catpage [[p. 32]]}
+{mhkb_0127, startpage, [[Vol. 7, p. 344]]}
+{mhkb_0127, catpage, [[p. 32]]}
 
 [ehkb_0128 : exp = "梅月堂全集佛敎關係詩文抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0128]
+	@"http://psi.iba-net.org/exp/hkb_0128"]
 [mhkb_0128 : man = "梅月堂全集佛敎關係詩文抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0128]
+	@"http://psi.iba-net.org/man/hkb_0128"]
 is-embodied-in(ehkb_0128 : exp, mhkb_0128 : man)
-{mhkb_0128, startpage [[Vol. 7, p. 346]]}
-{mhkb_0128, catpage [[p. 32]]}
+{mhkb_0128, startpage, [[Vol. 7, p. 346]]}
+{mhkb_0128, catpage, [[p. 32]]}
 
 [ehkb_0129 : exp = "碧松堂埜老頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0129]
+	@"http://psi.iba-net.org/exp/hkb_0129"]
 [mhkb_0129 : man = "碧松堂埜老頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0129]
+	@"http://psi.iba-net.org/man/hkb_0129"]
 is-embodied-in(ehkb_0129 : exp, mhkb_0129 : man)
-{mhkb_0129, startpage [[Vol. 7, p. 384]]}
-{mhkb_0129, catpage [[p. 32]]}
+{mhkb_0129, startpage, [[Vol. 7, p. 384]]}
+{mhkb_0129, catpage, [[p. 32]]}
 
 [ehkb_0130 : exp = "訓蒙要鈔" /zh toc
-	http://psi.iba-net.org/exp/hkb_0130]
+	@"http://psi.iba-net.org/exp/hkb_0130"]
 [mhkb_0130 : man = "訓蒙要鈔" /zh toc
-	http://psi.iba-net.org/man/hkb_0130]
+	@"http://psi.iba-net.org/man/hkb_0130"]
 is-embodied-in(ehkb_0130 : exp, mhkb_0130 : man)
-{mhkb_0130, startpage [[Vol. 7, p. 385]]}
-{mhkb_0130, catpage [[p. 32]]}
+{mhkb_0130, startpage, [[Vol. 7, p. 385]]}
+{mhkb_0130, catpage, [[p. 32]]}
 
 [ehkb_0131 : exp = "拈頌說話節錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0131]
+	@"http://psi.iba-net.org/exp/hkb_0131"]
 [mhkb_0131 : man = "拈頌說話節錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0131]
+	@"http://psi.iba-net.org/man/hkb_0131"]
 is-embodied-in(ehkb_0131 : exp, mhkb_0131 : man)
-{mhkb_0131, startpage [[Vol. 7, p. 388]]}
-{mhkb_0131, catpage [[p. 32]]}
+{mhkb_0131, startpage, [[Vol. 7, p. 388]]}
+{mhkb_0131, catpage, [[p. 32]]}
 
 [ehkb_0132 : exp = "虛應堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0132]
+	@"http://psi.iba-net.org/exp/hkb_0132"]
 [mhkb_0132 : man = "虛應堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0132]
+	@"http://psi.iba-net.org/man/hkb_0132"]
 is-embodied-in(ehkb_0132 : exp, mhkb_0132 : man)
-{mhkb_0132, startpage [[Vol. 7, p. 529]]}
-{mhkb_0132, catpage [[p. 32]]}
+{mhkb_0132, startpage, [[Vol. 7, p. 529]]}
+{mhkb_0132, catpage, [[p. 32]]}
 
 [ehkb_0133 : exp = "懶庵雜著" /zh toc
-	http://psi.iba-net.org/exp/hkb_0133]
+	@"http://psi.iba-net.org/exp/hkb_0133"]
 [mhkb_0133 : man = "懶庵雜著" /zh toc
-	http://psi.iba-net.org/man/hkb_0133]
+	@"http://psi.iba-net.org/man/hkb_0133"]
 is-embodied-in(ehkb_0133 : exp, mhkb_0133 : man)
-{mhkb_0133, startpage [[Vol. 7, p. 576]]}
-{mhkb_0133, catpage [[p. 32]]}
+{mhkb_0133, startpage, [[Vol. 7, p. 576]]}
+{mhkb_0133, catpage, [[p. 32]]}
 
 [ehkb_0134 : exp = "水月道場空花佛事如幻賔主夢中問答" /zh toc
-	http://psi.iba-net.org/exp/hkb_0134]
+	@"http://psi.iba-net.org/exp/hkb_0134"]
 [mhkb_0134 : man = "水月道場空花佛事如幻賔主夢中問答" /zh toc
-	http://psi.iba-net.org/man/hkb_0134]
+	@"http://psi.iba-net.org/man/hkb_0134"]
 is-embodied-in(ehkb_0134 : exp, mhkb_0134 : man)
-{mhkb_0134, startpage [[Vol. 7, p. 594]]}
-{mhkb_0134, catpage [[p. 32]]}
+{mhkb_0134, startpage, [[Vol. 7, p. 594]]}
+{mhkb_0134, catpage, [[p. 32]]}
 
 [ehkb_0135 : exp = "勸念要錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0135]
+	@"http://psi.iba-net.org/exp/hkb_0135"]
 [mhkb_0135 : man = "勸念要錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0135]
+	@"http://psi.iba-net.org/man/hkb_0135"]
 is-embodied-in(ehkb_0135 : exp, mhkb_0135 : man)
-{mhkb_0135, startpage [[Vol. 7, p. 609]]}
-{mhkb_0135, catpage [[p. 32]]}
+{mhkb_0135, startpage, [[Vol. 7, p. 609]]}
+{mhkb_0135, catpage, [[p. 32]]}
 
 [ehkb_0136 : exp = "三家龜鑑" /zh toc
-	http://psi.iba-net.org/exp/hkb_0136]
+	@"http://psi.iba-net.org/exp/hkb_0136"]
 [mhkb_0136 : man = "三家龜鑑" /zh toc
-	http://psi.iba-net.org/man/hkb_0136]
+	@"http://psi.iba-net.org/man/hkb_0136"]
 is-embodied-in(ehkb_0136 : exp, mhkb_0136 : man)
-{mhkb_0136, startpage [[Vol. 7, p. 616]]}
-{mhkb_0136, catpage [[p. 32]]}
+{mhkb_0136, startpage, [[Vol. 7, p. 616]]}
+{mhkb_0136, catpage, [[p. 32]]}
 
 [ehkb_0137 : exp = "三家龜鑑(異本)" /zh toc
-	http://psi.iba-net.org/exp/hkb_0137]
+	@"http://psi.iba-net.org/exp/hkb_0137"]
 [mhkb_0137 : man = "三家龜鑑(異本)" /zh toc
-	http://psi.iba-net.org/man/hkb_0137]
+	@"http://psi.iba-net.org/man/hkb_0137"]
 is-embodied-in(ehkb_0137 : exp, mhkb_0137 : man)
-{mhkb_0137, startpage [[Vol. 7, p. 625]]}
-{mhkb_0137, catpage [[p. 33]]}
+{mhkb_0137, startpage, [[Vol. 7, p. 625]]}
+{mhkb_0137, catpage, [[p. 33]]}
 
 [ehkb_0138 : exp = "禪家龜鑑" /zh toc
-	http://psi.iba-net.org/exp/hkb_0138]
+	@"http://psi.iba-net.org/exp/hkb_0138"]
 [mhkb_0138 : man = "禪家龜鑑" /zh toc
-	http://psi.iba-net.org/man/hkb_0138]
+	@"http://psi.iba-net.org/man/hkb_0138"]
 is-embodied-in(ehkb_0138 : exp, mhkb_0138 : man)
-{mhkb_0138, startpage [[Vol. 7, p. 634]]}
-{mhkb_0138, catpage [[p. 33]]}
+{mhkb_0138, startpage, [[Vol. 7, p. 634]]}
+{mhkb_0138, catpage, [[p. 33]]}
 
 [ehkb_0139 : exp = "心法要抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0139]
+	@"http://psi.iba-net.org/exp/hkb_0139"]
 [mhkb_0139 : man = "心法要抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0139]
+	@"http://psi.iba-net.org/man/hkb_0139"]
 is-embodied-in(ehkb_0139 : exp, mhkb_0139 : man)
-{mhkb_0139, startpage [[Vol. 7, p. 647]]}
-{mhkb_0139, catpage [[p. 33]]}
+{mhkb_0139, startpage, [[Vol. 7, p. 647]]}
+{mhkb_0139, catpage, [[p. 33]]}
 
 [ehkb_0140 : exp = "禪敎釋" /zh toc
-	http://psi.iba-net.org/exp/hkb_0140]
+	@"http://psi.iba-net.org/exp/hkb_0140"]
 [mhkb_0140 : man = "禪敎釋" /zh toc
-	http://psi.iba-net.org/man/hkb_0140]
+	@"http://psi.iba-net.org/man/hkb_0140"]
 is-embodied-in(ehkb_0140 : exp, mhkb_0140 : man)
-{mhkb_0140, startpage [[Vol. 7, p. 654]]}
-{mhkb_0140, catpage [[p. 33]]}
+{mhkb_0140, startpage, [[Vol. 7, p. 654]]}
+{mhkb_0140, catpage, [[p. 33]]}
 
 [ehkb_0141 : exp = "禪敎訣" /zh toc
-	http://psi.iba-net.org/exp/hkb_0141]
+	@"http://psi.iba-net.org/exp/hkb_0141"]
 [mhkb_0141 : man = "禪敎訣" /zh toc
-	http://psi.iba-net.org/man/hkb_0141]
+	@"http://psi.iba-net.org/man/hkb_0141"]
 is-embodied-in(ehkb_0141 : exp, mhkb_0141 : man)
-{mhkb_0141, startpage [[Vol. 7, p. 657]]}
-{mhkb_0141, catpage [[p. 33]]}
+{mhkb_0141, startpage, [[Vol. 7, p. 657]]}
+{mhkb_0141, catpage, [[p. 33]]}
 
 [ehkb_0142 : exp = "淸虛堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0142]
+	@"http://psi.iba-net.org/exp/hkb_0142"]
 [mhkb_0142 : man = "淸虛堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0142]
+	@"http://psi.iba-net.org/man/hkb_0142"]
 is-embodied-in(ehkb_0142 : exp, mhkb_0142 : man)
-{mhkb_0142, startpage [[Vol. 7, p. 658]]}
-{mhkb_0142, catpage [[p. 33]]}
+{mhkb_0142, startpage, [[Vol. 7, p. 658]]}
+{mhkb_0142, catpage, [[p. 33]]}
 
 [ehkb_0143 : exp = "說禪儀" /zh toc
-	http://psi.iba-net.org/exp/hkb_0143]
+	@"http://psi.iba-net.org/exp/hkb_0143"]
 [mhkb_0143 : man = "說禪儀" /zh toc
-	http://psi.iba-net.org/man/hkb_0143]
+	@"http://psi.iba-net.org/man/hkb_0143"]
 is-embodied-in(ehkb_0143 : exp, mhkb_0143 : man)
-{mhkb_0143, startpage [[Vol. 7, p. 737]]}
-{mhkb_0143, catpage [[p. 33]]}
+{mhkb_0143, startpage, [[Vol. 7, p. 737]]}
+{mhkb_0143, catpage, [[p. 33]]}
 
 [ehkb_0144 : exp = "雲水壇謌詞" /zh toc
-	http://psi.iba-net.org/exp/hkb_0144]
+	@"http://psi.iba-net.org/exp/hkb_0144"]
 [mhkb_0144 : man = "雲水壇謌詞" /zh toc
-	http://psi.iba-net.org/man/hkb_0144]
+	@"http://psi.iba-net.org/man/hkb_0144"]
 is-embodied-in(ehkb_0144 : exp, mhkb_0144 : man)
-{mhkb_0144, startpage [[Vol. 7, p. 743]]}
-{mhkb_0144, catpage [[p. 33]]}
+{mhkb_0144, startpage, [[Vol. 7, p. 743]]}
+{mhkb_0144, catpage, [[p. 33]]}
 
 [ehkb_0145 : exp = "三老行蹟" /zh toc
-	http://psi.iba-net.org/exp/hkb_0145]
+	@"http://psi.iba-net.org/exp/hkb_0145"]
 [mhkb_0145 : man = "三老行蹟" /zh toc
-	http://psi.iba-net.org/man/hkb_0145]
+	@"http://psi.iba-net.org/man/hkb_0145"]
 is-embodied-in(ehkb_0145 : exp, mhkb_0145 : man)
-{mhkb_0145, startpage [[Vol. 7, p. 752]]}
-{mhkb_0145, catpage [[p. 34]]}
+{mhkb_0145, startpage, [[Vol. 7, p. 752]]}
+{mhkb_0145, catpage, [[p. 34]]}
 
 [ehkb_0146 : exp = "釋迦如來行迹頌撮要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0146]
+	@"http://psi.iba-net.org/exp/hkb_0146"]
 [mhkb_0146 : man = "釋迦如來行迹頌撮要" /zh toc
-	http://psi.iba-net.org/man/hkb_0146]
+	@"http://psi.iba-net.org/man/hkb_0146"]
 is-embodied-in(ehkb_0146 : exp, mhkb_0146 : man)
-{mhkb_0146, startpage [[Vol. 7, p. 757]]}
-{mhkb_0146, catpage [[p. 34]]}
+{mhkb_0146, startpage, [[Vol. 7, p. 757]]}
+{mhkb_0146, catpage, [[p. 34]]}
 
 [ehkb_0147 : exp = "通錄撮要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0147]
+	@"http://psi.iba-net.org/exp/hkb_0147"]
 [mhkb_0147 : man = "通錄撮要" /zh toc
-	http://psi.iba-net.org/man/hkb_0147]
+	@"http://psi.iba-net.org/man/hkb_0147"]
 is-embodied-in(ehkb_0147 : exp, mhkb_0147 : man)
-{mhkb_0147, startpage [[Vol. 7, p. 767]]}
-{mhkb_0147, catpage [[p. 34]]}
+{mhkb_0147, startpage, [[Vol. 7, p. 767]]}
+{mhkb_0147, catpage, [[p. 34]]}
 
 [ehkb_0148 : exp = "禪家金屑錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0148]
+	@"http://psi.iba-net.org/exp/hkb_0148"]
 [mhkb_0148 : man = "禪家金屑錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0148]
+	@"http://psi.iba-net.org/man/hkb_0148"]
 is-embodied-in(ehkb_0148 : exp, mhkb_0148 : man)
-{mhkb_0148, startpage [[Vol. 7, p. 828]]}
-{mhkb_0148, catpage [[p. 34]]}
+{mhkb_0148, startpage, [[Vol. 7, p. 828]]}
+{mhkb_0148, catpage, [[p. 34]]}
 
 [ehkb_0149 : exp = "浮休堂大師集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0149]
+	@"http://psi.iba-net.org/exp/hkb_0149"]
 [mhkb_0149 : man = "浮休堂大師集" /zh toc
-	http://psi.iba-net.org/man/hkb_0149]
+	@"http://psi.iba-net.org/man/hkb_0149"]
 is-embodied-in(ehkb_0149 : exp, mhkb_0149 : man)
-{mhkb_0149, startpage [[Vol. 8, p. 1]]}
-{mhkb_0149, catpage [[p. 35]]}
+{mhkb_0149, startpage, [[Vol. 8, p. 1]]}
+{mhkb_0149, catpage, [[p. 35]]}
 
 [ehkb_0150 : exp = "靜觀集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0150]
+	@"http://psi.iba-net.org/exp/hkb_0150"]
 [mhkb_0150 : man = "靜觀集" /zh toc
-	http://psi.iba-net.org/man/hkb_0150]
+	@"http://psi.iba-net.org/man/hkb_0150"]
 is-embodied-in(ehkb_0150 : exp, mhkb_0150 : man)
-{mhkb_0150, startpage [[Vol. 8, p. 23]]}
-{mhkb_0150, catpage [[p. 35]]}
+{mhkb_0150, startpage, [[Vol. 8, p. 23]]}
+{mhkb_0150, catpage, [[p. 35]]}
 
 [ehkb_0151 : exp = "暎虛集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0151]
+	@"http://psi.iba-net.org/exp/hkb_0151"]
 [mhkb_0151 : man = "暎虛集" /zh toc
-	http://psi.iba-net.org/man/hkb_0151]
+	@"http://psi.iba-net.org/man/hkb_0151"]
 is-embodied-in(ehkb_0151 : exp, mhkb_0151 : man)
-{mhkb_0151, startpage [[Vol. 8, p. 34]]}
-{mhkb_0151, catpage [[p. 35]]}
+{mhkb_0151, startpage, [[Vol. 8, p. 34]]}
+{mhkb_0151, catpage, [[p. 35]]}
 
 [ehkb_0152 : exp = "四溟堂大師集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0152]
+	@"http://psi.iba-net.org/exp/hkb_0152"]
 [mhkb_0152 : man = "四溟堂大師集" /zh toc
-	http://psi.iba-net.org/man/hkb_0152]
+	@"http://psi.iba-net.org/man/hkb_0152"]
 is-embodied-in(ehkb_0152 : exp, mhkb_0152 : man)
-{mhkb_0152, startpage [[Vol. 8, p. 45]]}
-{mhkb_0152, catpage [[p. 35]]}
+{mhkb_0152, startpage, [[Vol. 8, p. 45]]}
+{mhkb_0152, catpage, [[p. 35]]}
 
 [ehkb_0153 : exp = "松雲大師奮忠紓難錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0153]
+	@"http://psi.iba-net.org/exp/hkb_0153"]
 [mhkb_0153 : man = "松雲大師奮忠紓難錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0153]
+	@"http://psi.iba-net.org/man/hkb_0153"]
 is-embodied-in(ehkb_0153 : exp, mhkb_0153 : man)
-{mhkb_0153, startpage [[Vol. 8, p. 78]]}
-{mhkb_0153, catpage [[p. 35]]}
+{mhkb_0153, startpage, [[Vol. 8, p. 78]]}
+{mhkb_0153, catpage, [[p. 35]]}
 
 [ehkb_0154 : exp = "霽月堂大師集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0154]
+	@"http://psi.iba-net.org/exp/hkb_0154"]
 [mhkb_0154 : man = "霽月堂大師集" /zh toc
-	http://psi.iba-net.org/man/hkb_0154]
+	@"http://psi.iba-net.org/man/hkb_0154"]
 is-embodied-in(ehkb_0154 : exp, mhkb_0154 : man)
-{mhkb_0154, startpage [[Vol. 8, p. 113]]}
-{mhkb_0154, catpage [[p. 35]]}
+{mhkb_0154, startpage, [[Vol. 8, p. 113]]}
+{mhkb_0154, catpage, [[p. 35]]}
 
 [ehkb_0155 : exp = "靑梅集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0155]
+	@"http://psi.iba-net.org/exp/hkb_0155"]
 [mhkb_0155 : man = "靑梅集" /zh toc
-	http://psi.iba-net.org/man/hkb_0155]
+	@"http://psi.iba-net.org/man/hkb_0155"]
 is-embodied-in(ehkb_0155 : exp, mhkb_0155 : man)
-{mhkb_0155, startpage [[Vol. 8, p. 128]]}
-{mhkb_0155, catpage [[p. 36]]}
+{mhkb_0155, startpage, [[Vol. 8, p. 128]]}
+{mhkb_0155, catpage, [[p. 36]]}
 
 [ehkb_0156 : exp = "奇巖集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0156]
+	@"http://psi.iba-net.org/exp/hkb_0156"]
 [mhkb_0156 : man = "奇巖集" /zh toc
-	http://psi.iba-net.org/man/hkb_0156]
+	@"http://psi.iba-net.org/man/hkb_0156"]
 is-embodied-in(ehkb_0156 : exp, mhkb_0156 : man)
-{mhkb_0156, startpage [[Vol. 8, p. 157]]}
-{mhkb_0156, catpage [[p. 36]]}
+{mhkb_0156, startpage, [[Vol. 8, p. 157]]}
+{mhkb_0156, catpage, [[p. 36]]}
 
 [ehkb_0157 : exp = "逍遙堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0157]
+	@"http://psi.iba-net.org/exp/hkb_0157"]
 [mhkb_0157 : man = "逍遙堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0157]
+	@"http://psi.iba-net.org/man/hkb_0157"]
 is-embodied-in(ehkb_0157 : exp, mhkb_0157 : man)
-{mhkb_0157, startpage [[Vol. 8, p. 185]]}
-{mhkb_0157, catpage [[p. 36]]}
+{mhkb_0157, startpage, [[Vol. 8, p. 185]]}
+{mhkb_0157, catpage, [[p. 36]]}
 
 [ehkb_0158 : exp = "中觀大師遺稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0158]
+	@"http://psi.iba-net.org/exp/hkb_0158"]
 [mhkb_0158 : man = "中觀大師遺稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0158]
+	@"http://psi.iba-net.org/man/hkb_0158"]
 is-embodied-in(ehkb_0158 : exp, mhkb_0158 : man)
-{mhkb_0158, startpage [[Vol. 8, p. 200]]}
-{mhkb_0158, catpage [[p. 36]]}
+{mhkb_0158, startpage, [[Vol. 8, p. 200]]}
+{mhkb_0158, catpage, [[p. 36]]}
 
 [ehkb_0159 : exp = "詠月堂大師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0159]
+	@"http://psi.iba-net.org/exp/hkb_0159"]
 [mhkb_0159 : man = "詠月堂大師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0159]
+	@"http://psi.iba-net.org/man/hkb_0159"]
 is-embodied-in(ehkb_0159 : exp, mhkb_0159 : man)
-{mhkb_0159, startpage [[Vol. 8, p. 221]]}
-{mhkb_0159, catpage [[p. 36]]}
+{mhkb_0159, startpage, [[Vol. 8, p. 221]]}
+{mhkb_0159, catpage, [[p. 36]]}
 
 [ehkb_0160 : exp = "釋門喪儀抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0160]
+	@"http://psi.iba-net.org/exp/hkb_0160"]
 [mhkb_0160 : man = "釋門喪儀抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0160]
+	@"http://psi.iba-net.org/man/hkb_0160"]
 is-embodied-in(ehkb_0160 : exp, mhkb_0160 : man)
-{mhkb_0160, startpage [[Vol. 8, p. 237]]}
-{mhkb_0160, catpage [[p. 36]]}
+{mhkb_0160, startpage, [[Vol. 8, p. 237]]}
+{mhkb_0160, catpage, [[p. 36]]}
 
 [ehkb_0161 : exp = "鞭羊堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0161]
+	@"http://psi.iba-net.org/exp/hkb_0161"]
 [mhkb_0161 : man = "鞭羊堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0161]
+	@"http://psi.iba-net.org/man/hkb_0161"]
 is-embodied-in(ehkb_0161 : exp, mhkb_0161 : man)
-{mhkb_0161, startpage [[Vol. 8, p. 244]]}
-{mhkb_0161, catpage [[p. 36]]}
+{mhkb_0161, startpage, [[Vol. 8, p. 244]]}
+{mhkb_0161, catpage, [[p. 36]]}
 
 [ehkb_0162 : exp = "雲谷集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0162]
+	@"http://psi.iba-net.org/exp/hkb_0162"]
 [mhkb_0162 : man = "雲谷集" /zh toc
-	http://psi.iba-net.org/man/hkb_0162]
+	@"http://psi.iba-net.org/man/hkb_0162"]
 is-embodied-in(ehkb_0162 : exp, mhkb_0162 : man)
-{mhkb_0162, startpage [[Vol. 8, p. 264]]}
-{mhkb_0162, catpage [[p. 36]]}
+{mhkb_0162, startpage, [[Vol. 8, p. 264]]}
+{mhkb_0162, catpage, [[p. 36]]}
 
 [ehkb_0163 : exp = "釋門家禮抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0163]
+	@"http://psi.iba-net.org/exp/hkb_0163"]
 [mhkb_0163 : man = "釋門家禮抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0163]
+	@"http://psi.iba-net.org/man/hkb_0163"]
 is-embodied-in(ehkb_0163 : exp, mhkb_0163 : man)
-{mhkb_0163, startpage [[Vol. 8, p. 277]]}
-{mhkb_0163, catpage [[p. 37]]}
+{mhkb_0163, startpage, [[Vol. 8, p. 277]]}
+{mhkb_0163, catpage, [[p. 37]]}
 
 [ehkb_0164 : exp = "翠微大師詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0164]
+	@"http://psi.iba-net.org/exp/hkb_0164"]
 [mhkb_0164 : man = "翠微大師詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0164]
+	@"http://psi.iba-net.org/man/hkb_0164"]
 is-embodied-in(ehkb_0164 : exp, mhkb_0164 : man)
-{mhkb_0164, startpage [[Vol. 8, p. 289]]}
-{mhkb_0164, catpage [[p. 37]]}
+{mhkb_0164, startpage, [[Vol. 8, p. 289]]}
+{mhkb_0164, catpage, [[p. 37]]}
 
 [ehkb_0165 : exp = "大覺登階集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0165]
+	@"http://psi.iba-net.org/exp/hkb_0165"]
 [mhkb_0165 : man = "大覺登階集" /zh toc
-	http://psi.iba-net.org/man/hkb_0165]
+	@"http://psi.iba-net.org/man/hkb_0165"]
 is-embodied-in(ehkb_0165 : exp, mhkb_0165 : man)
-{mhkb_0165, startpage [[Vol. 8, p. 307]]}
-{mhkb_0165, catpage [[p. 37]]}
+{mhkb_0165, startpage, [[Vol. 8, p. 307]]}
+{mhkb_0165, catpage, [[p. 37]]}
 
 [ehkb_0166 : exp = "任性堂大師行狀" /zh toc
-	http://psi.iba-net.org/exp/hkb_0166]
+	@"http://psi.iba-net.org/exp/hkb_0166"]
 [mhkb_0166 : man = "任性堂大師行狀" /zh toc
-	http://psi.iba-net.org/man/hkb_0166]
+	@"http://psi.iba-net.org/man/hkb_0166"]
 is-embodied-in(ehkb_0166 : exp, mhkb_0166 : man)
-{mhkb_0166, startpage [[Vol. 8, p. 343]]}
-{mhkb_0166, catpage [[p. 37]]}
+{mhkb_0166, startpage, [[Vol. 8, p. 343]]}
+{mhkb_0166, catpage, [[p. 37]]}
 
 [ehkb_0167 : exp = "枕肱集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0167]
+	@"http://psi.iba-net.org/exp/hkb_0167"]
 [mhkb_0167 : man = "枕肱集" /zh toc
-	http://psi.iba-net.org/man/hkb_0167]
+	@"http://psi.iba-net.org/man/hkb_0167"]
 is-embodied-in(ehkb_0167 : exp, mhkb_0167 : man)
-{mhkb_0167, startpage [[Vol. 8, p. 345]]}
-{mhkb_0167, catpage [[p. 37]]}
+{mhkb_0167, startpage, [[Vol. 8, p. 345]]}
+{mhkb_0167, catpage, [[p. 37]]}
 
 [ehkb_0168 : exp = "大方廣佛華嚴經七處九會品目之圖??" /zh toc
-	http://psi.iba-net.org/exp/hkb_0168]
+	@"http://psi.iba-net.org/exp/hkb_0168"]
 [mhkb_0168 : man = "大方廣佛華嚴經七處九會品目之圖??" /zh toc
-	http://psi.iba-net.org/man/hkb_0168]
+	@"http://psi.iba-net.org/man/hkb_0168"]
 is-embodied-in(ehkb_0168 : exp, mhkb_0168 : man)
-{mhkb_0168, startpage [[Vol. 8, p. 371]]}
-{mhkb_0168, catpage [[p. 37]]}
+{mhkb_0168, startpage, [[Vol. 8, p. 371]]}
+{mhkb_0168, catpage, [[p. 37]]}
 
 [ehkb_0169 : exp = "虛白集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0169]
+	@"http://psi.iba-net.org/exp/hkb_0169"]
 [mhkb_0169 : man = "虛白集" /zh toc
-	http://psi.iba-net.org/man/hkb_0169]
+	@"http://psi.iba-net.org/man/hkb_0169"]
 is-embodied-in(ehkb_0169 : exp, mhkb_0169 : man)
-{mhkb_0169, startpage [[Vol. 8, p. 379]]}
-{mhkb_0169, catpage [[p. 37]]}
+{mhkb_0169, startpage, [[Vol. 8, p. 379]]}
+{mhkb_0169, catpage, [[p. 37]]}
 
 [ehkb_0170 : exp = "僧家禮儀文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0170]
+	@"http://psi.iba-net.org/exp/hkb_0170"]
 [mhkb_0170 : man = "僧家禮儀文" /zh toc
-	http://psi.iba-net.org/man/hkb_0170]
+	@"http://psi.iba-net.org/man/hkb_0170"]
 is-embodied-in(ehkb_0170 : exp, mhkb_0170 : man)
-{mhkb_0170, startpage [[Vol. 8, p. 397]]}
-{mhkb_0170, catpage [[p. 38]]}
+{mhkb_0170, startpage, [[Vol. 8, p. 397]]}
+{mhkb_0170, catpage, [[p. 38]]}
 
 [ehkb_0171 : exp = "禪源諸詮集都序分科" /zh toc
-	http://psi.iba-net.org/exp/hkb_0171]
+	@"http://psi.iba-net.org/exp/hkb_0171"]
 [mhkb_0171 : man = "禪源諸詮集都序分科" /zh toc
-	http://psi.iba-net.org/man/hkb_0171]
+	@"http://psi.iba-net.org/man/hkb_0171"]
 is-embodied-in(ehkb_0171 : exp, mhkb_0171 : man)
-{mhkb_0171, startpage [[Vol. 8, p. 404]]}
-{mhkb_0171, catpage [[p. 38]]}
+{mhkb_0171, startpage, [[Vol. 8, p. 404]]}
+{mhkb_0171, catpage, [[p. 38]]}
 
 [ehkb_0172 : exp = "栢庵集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0172]
+	@"http://psi.iba-net.org/exp/hkb_0172"]
 [mhkb_0172 : man = "栢庵集" /zh toc
-	http://psi.iba-net.org/man/hkb_0172]
+	@"http://psi.iba-net.org/man/hkb_0172"]
 is-embodied-in(ehkb_0172 : exp, mhkb_0172 : man)
-{mhkb_0172, startpage [[Vol. 8, p. 440]]}
-{mhkb_0172, catpage [[p. 38]]}
+{mhkb_0172, startpage, [[Vol. 8, p. 440]]}
+{mhkb_0172, catpage, [[p. 38]]}
 
 [ehkb_0173 : exp = "淨土寶書" /zh toc
-	http://psi.iba-net.org/exp/hkb_0173]
+	@"http://psi.iba-net.org/exp/hkb_0173"]
 [mhkb_0173 : man = "淨土寶書" /zh toc
-	http://psi.iba-net.org/man/hkb_0173]
+	@"http://psi.iba-net.org/man/hkb_0173"]
 is-embodied-in(ehkb_0173 : exp, mhkb_0173 : man)
-{mhkb_0173, startpage [[Vol. 8, p. 484]]}
-{mhkb_0173, catpage [[p. 38]]}
+{mhkb_0173, startpage, [[Vol. 8, p. 484]]}
+{mhkb_0173, catpage, [[p. 38]]}
 
 [ehkb_0174 : exp = "栢庵淨土讃" /zh toc
-	http://psi.iba-net.org/exp/hkb_0174]
+	@"http://psi.iba-net.org/exp/hkb_0174"]
 [mhkb_0174 : man = "栢庵淨土讃" /zh toc
-	http://psi.iba-net.org/man/hkb_0174]
+	@"http://psi.iba-net.org/man/hkb_0174"]
 is-embodied-in(ehkb_0174 : exp, mhkb_0174 : man)
-{mhkb_0174, startpage [[Vol. 8, p. 511]]}
-{mhkb_0174, catpage [[p. 38]]}
+{mhkb_0174, startpage, [[Vol. 8, p. 511]]}
+{mhkb_0174, catpage, [[p. 38]]}
 
 [ehkb_0175 : exp = "四經持驗紀" /zh toc
-	http://psi.iba-net.org/exp/hkb_0175]
+	@"http://psi.iba-net.org/exp/hkb_0175"]
 [mhkb_0175 : man = "四經持驗紀" /zh toc
-	http://psi.iba-net.org/man/hkb_0175]
+	@"http://psi.iba-net.org/man/hkb_0175"]
 is-embodied-in(ehkb_0175 : exp, mhkb_0175 : man)
-{mhkb_0175, startpage [[Vol. 8, p. 518]]}
-{mhkb_0175, catpage [[p. 38]]}
+{mhkb_0175, startpage, [[Vol. 8, p. 518]]}
+{mhkb_0175, catpage, [[p. 38]]}
 
 [ehkb_0176 : exp = "緇門警訓註" /zh toc
-	http://psi.iba-net.org/exp/hkb_0176]
+	@"http://psi.iba-net.org/exp/hkb_0176"]
 [mhkb_0176 : man = "緇門警訓註" /zh toc
-	http://psi.iba-net.org/man/hkb_0176]
+	@"http://psi.iba-net.org/man/hkb_0176"]
 is-embodied-in(ehkb_0176 : exp, mhkb_0176 : man)
-{mhkb_0176, startpage [[Vol. 8, p. 552]]}
-{mhkb_0176, catpage [[p. 38]]}
+{mhkb_0176, startpage, [[Vol. 8, p. 552]]}
+{mhkb_0176, catpage, [[p. 38]]}
 
 [ehkb_0177 : exp = "大乘起信論䟽筆削記會編" /zh toc
-	http://psi.iba-net.org/exp/hkb_0177]
+	@"http://psi.iba-net.org/exp/hkb_0177"]
 [mhkb_0177 : man = "大乘起信論䟽筆削記會編" /zh toc
-	http://psi.iba-net.org/man/hkb_0177]
+	@"http://psi.iba-net.org/man/hkb_0177"]
 is-embodied-in(ehkb_0177 : exp, mhkb_0177 : man)
-{mhkb_0177, startpage [[Vol. 8, p. 654]]}
-{mhkb_0177, catpage [[p. 38]]}
+{mhkb_0177, startpage, [[Vol. 8, p. 654]]}
+{mhkb_0177, catpage, [[p. 38]]}
 
 [ehkb_0178 : exp = "雲峯禪師心性論" /zh toc
-	http://psi.iba-net.org/exp/hkb_0178]
+	@"http://psi.iba-net.org/exp/hkb_0178"]
 [mhkb_0178 : man = "雲峯禪師心性論" /zh toc
-	http://psi.iba-net.org/man/hkb_0178]
+	@"http://psi.iba-net.org/man/hkb_0178"]
 is-embodied-in(ehkb_0178 : exp, mhkb_0178 : man)
-{mhkb_0178, startpage [[Vol. 9, p. 1]]}
-{mhkb_0178, catpage [[p. 39]]}
+{mhkb_0178, startpage, [[Vol. 9, p. 1]]}
+{mhkb_0178, catpage, [[p. 39]]}
 
 [ehkb_0179 : exp = "月峯集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0179]
+	@"http://psi.iba-net.org/exp/hkb_0179"]
 [mhkb_0179 : man = "月峯集" /zh toc
-	http://psi.iba-net.org/man/hkb_0179]
+	@"http://psi.iba-net.org/man/hkb_0179"]
 is-embodied-in(ehkb_0179 : exp, mhkb_0179 : man)
-{mhkb_0179, startpage [[Vol. 9, p. 17]]}
-{mhkb_0179, catpage [[p. 39]]}
+{mhkb_0179, startpage, [[Vol. 9, p. 17]]}
+{mhkb_0179, catpage, [[p. 39]]}
 
 [ehkb_0180 : exp = "念佛普勸文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0180]
+	@"http://psi.iba-net.org/exp/hkb_0180"]
 [mhkb_0180 : man = "念佛普勸文" /zh toc
-	http://psi.iba-net.org/man/hkb_0180]
+	@"http://psi.iba-net.org/man/hkb_0180"]
 is-embodied-in(ehkb_0180 : exp, mhkb_0180 : man)
-{mhkb_0180, startpage [[Vol. 9, p. 44]]}
-{mhkb_0180, catpage [[p. 39]]}
+{mhkb_0180, startpage, [[Vol. 9, p. 44]]}
+{mhkb_0180, catpage, [[p. 39]]}
 
 [ehkb_0181 : exp = "月渚堂大師集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0181]
+	@"http://psi.iba-net.org/exp/hkb_0181"]
 [mhkb_0181 : man = "月渚堂大師集" /zh toc
-	http://psi.iba-net.org/man/hkb_0181]
+	@"http://psi.iba-net.org/man/hkb_0181"]
 is-embodied-in(ehkb_0181 : exp, mhkb_0181 : man)
-{mhkb_0181, startpage [[Vol. 9, p. 79]]}
-{mhkb_0181, catpage [[p. 39]]}
+{mhkb_0181, startpage, [[Vol. 9, p. 79]]}
+{mhkb_0181, catpage, [[p. 39]]}
 
 [ehkb_0182 : exp = "楓溪集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0182]
+	@"http://psi.iba-net.org/exp/hkb_0182"]
 [mhkb_0182 : man = "楓溪集" /zh toc
-	http://psi.iba-net.org/man/hkb_0182]
+	@"http://psi.iba-net.org/man/hkb_0182"]
 is-embodied-in(ehkb_0182 : exp, mhkb_0182 : man)
-{mhkb_0182, startpage [[Vol. 9, p. 122]]}
-{mhkb_0182, catpage [[p. 39]]}
+{mhkb_0182, startpage, [[Vol. 9, p. 122]]}
+{mhkb_0182, catpage, [[p. 39]]}
 
 [ehkb_0183 : exp = "百愚隨筆" /zh toc
-	http://psi.iba-net.org/exp/hkb_0183]
+	@"http://psi.iba-net.org/exp/hkb_0183"]
 [mhkb_0183 : man = "百愚隨筆" /zh toc
-	http://psi.iba-net.org/man/hkb_0183]
+	@"http://psi.iba-net.org/man/hkb_0183"]
 is-embodied-in(ehkb_0183 : exp, mhkb_0183 : man)
-{mhkb_0183, startpage [[Vol. 9, p. 161]]}
-{mhkb_0183, catpage [[p. 39]]}
+{mhkb_0183, startpage, [[Vol. 9, p. 161]]}
+{mhkb_0183, catpage, [[p. 39]]}
 
 [ehkb_0184 : exp = "般若波羅蜜多心經略疏連珠記會編" /zh toc
-	http://psi.iba-net.org/exp/hkb_0184]
+	@"http://psi.iba-net.org/exp/hkb_0184"]
 [mhkb_0184 : man = "般若波羅蜜多心經略疏連珠記會編" /zh toc
-	http://psi.iba-net.org/man/hkb_0184]
+	@"http://psi.iba-net.org/man/hkb_0184"]
 is-embodied-in(ehkb_0184 : exp, mhkb_0184 : man)
-{mhkb_0184, startpage [[Vol. 9, p. 169]]}
-{mhkb_0184, catpage [[p. 40]]}
+{mhkb_0184, startpage, [[Vol. 9, p. 169]]}
+{mhkb_0184, catpage, [[p. 40]]}
 
 [ehkb_0185 : exp = "現行法會禮懺儀式" /zh toc
-	http://psi.iba-net.org/exp/hkb_0185]
+	@"http://psi.iba-net.org/exp/hkb_0185"]
 [mhkb_0185 : man = "現行法會禮懺儀式" /zh toc
-	http://psi.iba-net.org/man/hkb_0185]
+	@"http://psi.iba-net.org/man/hkb_0185"]
 is-embodied-in(ehkb_0185 : exp, mhkb_0185 : man)
-{mhkb_0185, startpage [[Vol. 9, p. 201]]}
-{mhkb_0185, catpage [[p. 40]]}
+{mhkb_0185, startpage, [[Vol. 9, p. 201]]}
+{mhkb_0185, catpage, [[p. 40]]}
 
 [ehkb_0186 : exp = "禪源諸詮集都序科評" /zh toc
-	http://psi.iba-net.org/exp/hkb_0186]
+	@"http://psi.iba-net.org/exp/hkb_0186"]
 [mhkb_0186 : man = "禪源諸詮集都序科評" /zh toc
-	http://psi.iba-net.org/man/hkb_0186]
+	@"http://psi.iba-net.org/man/hkb_0186"]
 is-embodied-in(ehkb_0186 : exp, mhkb_0186 : man)
-{mhkb_0186, startpage [[Vol. 9, p. 204]]}
-{mhkb_0186, catpage [[p. 40]]}
+{mhkb_0186, startpage, [[Vol. 9, p. 204]]}
+{mhkb_0186, catpage, [[p. 40]]}
 
 [ehkb_0187 : exp = "雪巖雜著" /zh toc
-	http://psi.iba-net.org/exp/hkb_0187]
+	@"http://psi.iba-net.org/exp/hkb_0187"]
 [mhkb_0187 : man = "雪巖雜著" /zh toc
-	http://psi.iba-net.org/man/hkb_0187]
+	@"http://psi.iba-net.org/man/hkb_0187"]
 is-embodied-in(ehkb_0187 : exp, mhkb_0187 : man)
-{mhkb_0187, startpage [[Vol. 9, p. 236]]}
-{mhkb_0187, catpage [[p. 40]]}
+{mhkb_0187, startpage, [[Vol. 9, p. 236]]}
+{mhkb_0187, catpage, [[p. 40]]}
 
 [ehkb_0188 : exp = "雪巖禪師亂藁" /zh toc
-	http://psi.iba-net.org/exp/hkb_0188]
+	@"http://psi.iba-net.org/exp/hkb_0188"]
 [mhkb_0188 : man = "雪巖禪師亂藁" /zh toc
-	http://psi.iba-net.org/man/hkb_0188]
+	@"http://psi.iba-net.org/man/hkb_0188"]
 is-embodied-in(ehkb_0188 : exp, mhkb_0188 : man)
-{mhkb_0188, startpage [[Vol. 9, p. 330]]}
-{mhkb_0188, catpage [[p. 40]]}
+{mhkb_0188, startpage, [[Vol. 9, p. 330]]}
+{mhkb_0188, catpage, [[p. 40]]}
 
 [ehkb_0189 : exp = "無用堂遺稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0189]
+	@"http://psi.iba-net.org/exp/hkb_0189"]
 [mhkb_0189 : man = "無用堂遺稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0189]
+	@"http://psi.iba-net.org/man/hkb_0189"]
 is-embodied-in(ehkb_0189 : exp, mhkb_0189 : man)
-{mhkb_0189, startpage [[Vol. 9, p. 342]]}
-{mhkb_0189, catpage [[p. 40]]}
+{mhkb_0189, startpage, [[Vol. 9, p. 342]]}
+{mhkb_0189, catpage, [[p. 40]]}
 
 [ehkb_0190 : exp = "無竟集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0190]
+	@"http://psi.iba-net.org/exp/hkb_0190"]
 [mhkb_0190 : man = "無竟集" /zh toc
-	http://psi.iba-net.org/man/hkb_0190]
+	@"http://psi.iba-net.org/man/hkb_0190"]
 is-embodied-in(ehkb_0190 : exp, mhkb_0190 : man)
-{mhkb_0190, startpage [[Vol. 9, p. 366]]}
-{mhkb_0190, catpage [[p. 40]]}
+{mhkb_0190, startpage, [[Vol. 9, p. 366]]}
+{mhkb_0190, catpage, [[p. 40]]}
 
 [ehkb_0191 : exp = "無竟室中語錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0191]
+	@"http://psi.iba-net.org/exp/hkb_0191"]
 [mhkb_0191 : man = "無竟室中語錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0191]
+	@"http://psi.iba-net.org/man/hkb_0191"]
 is-embodied-in(ehkb_0191 : exp, mhkb_0191 : man)
-{mhkb_0191, startpage [[Vol. 9, p. 421]]}
-{mhkb_0191, catpage [[p. 40]]}
+{mhkb_0191, startpage, [[Vol. 9, p. 421]]}
+{mhkb_0191, catpage, [[p. 40]]}
 
 [ehkb_0192 : exp = "佛祖眞心禪格抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0192]
+	@"http://psi.iba-net.org/exp/hkb_0192"]
 [mhkb_0192 : man = "佛祖眞心禪格抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0192]
+	@"http://psi.iba-net.org/man/hkb_0192"]
 is-embodied-in(ehkb_0192 : exp, mhkb_0192 : man)
-{mhkb_0192, startpage [[Vol. 9, p. 443]]}
-{mhkb_0192, catpage [[p. 40]]}
+{mhkb_0192, startpage, [[Vol. 9, p. 443]]}
+{mhkb_0192, catpage, [[p. 40]]}
 
 [ehkb_0193 : exp = "禪門五宗綱要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0193]
+	@"http://psi.iba-net.org/exp/hkb_0193"]
 [mhkb_0193 : man = "禪門五宗綱要" /zh toc
-	http://psi.iba-net.org/man/hkb_0193]
+	@"http://psi.iba-net.org/man/hkb_0193"]
 is-embodied-in(ehkb_0193 : exp, mhkb_0193 : man)
-{mhkb_0193, startpage [[Vol. 9, p. 459]]}
-{mhkb_0193, catpage [[p. 40]]}
+{mhkb_0193, startpage, [[Vol. 9, p. 459]]}
+{mhkb_0193, catpage, [[p. 40]]}
 
 [ehkb_0194 : exp = "喚惺詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0194]
+	@"http://psi.iba-net.org/exp/hkb_0194"]
 [mhkb_0194 : man = "喚惺詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0194]
+	@"http://psi.iba-net.org/man/hkb_0194"]
 is-embodied-in(ehkb_0194 : exp, mhkb_0194 : man)
-{mhkb_0194, startpage [[Vol. 9, p. 467]]}
-{mhkb_0194, catpage [[p. 40]]}
+{mhkb_0194, startpage, [[Vol. 9, p. 467]]}
+{mhkb_0194, catpage, [[p. 40]]}
 
 [ehkb_0195 : exp = "影海大師詩集抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0195]
+	@"http://psi.iba-net.org/exp/hkb_0195"]
 [mhkb_0195 : man = "影海大師詩集抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0195]
+	@"http://psi.iba-net.org/man/hkb_0195"]
 is-embodied-in(ehkb_0195 : exp, mhkb_0195 : man)
-{mhkb_0195, startpage [[Vol. 9, p. 477]]}
-{mhkb_0195, catpage [[p. 41]]}
+{mhkb_0195, startpage, [[Vol. 9, p. 477]]}
+{mhkb_0195, catpage, [[p. 41]]}
 
 [ehkb_0196 : exp = "虛靜集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0196]
+	@"http://psi.iba-net.org/exp/hkb_0196"]
 [mhkb_0196 : man = "虛靜集" /zh toc
-	http://psi.iba-net.org/man/hkb_0196]
+	@"http://psi.iba-net.org/man/hkb_0196"]
 is-embodied-in(ehkb_0196 : exp, mhkb_0196 : man)
-{mhkb_0196, startpage [[Vol. 9, p. 488]]}
-{mhkb_0196, catpage [[p. 41]]}
+{mhkb_0196, startpage, [[Vol. 9, p. 488]]}
+{mhkb_0196, catpage, [[p. 41]]}
 
 [ehkb_0197 : exp = "禪源集都序科記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0197]
+	@"http://psi.iba-net.org/exp/hkb_0197"]
 [mhkb_0197 : man = "禪源集都序科記" /zh toc
-	http://psi.iba-net.org/man/hkb_0197]
+	@"http://psi.iba-net.org/man/hkb_0197"]
 is-embodied-in(ehkb_0197 : exp, mhkb_0197 : man)
-{mhkb_0197, startpage [[Vol. 9, p. 528]]}
-{mhkb_0197, catpage [[p. 41]]}
+{mhkb_0197, startpage, [[Vol. 9, p. 528]]}
+{mhkb_0197, catpage, [[p. 41]]}
 
 [ehkb_0198 : exp = "法集別行錄節要私記解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0198]
+	@"http://psi.iba-net.org/exp/hkb_0198"]
 [mhkb_0198 : man = "法集別行錄節要私記解" /zh toc
-	http://psi.iba-net.org/man/hkb_0198]
+	@"http://psi.iba-net.org/man/hkb_0198"]
 is-embodied-in(ehkb_0198 : exp, mhkb_0198 : man)
-{mhkb_0198, startpage [[Vol. 9, p. 546]]}
-{mhkb_0198, catpage [[p. 41]]}
+{mhkb_0198, startpage, [[Vol. 9, p. 546]]}
+{mhkb_0198, catpage, [[p. 41]]}
 
 [ehkb_0199 : exp = "南嶽集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0199]
+	@"http://psi.iba-net.org/exp/hkb_0199"]
 [mhkb_0199 : man = "南嶽集" /zh toc
-	http://psi.iba-net.org/man/hkb_0199]
+	@"http://psi.iba-net.org/man/hkb_0199"]
 is-embodied-in(ehkb_0199 : exp, mhkb_0199 : man)
-{mhkb_0199, startpage [[Vol. 9, p. 561]]}
-{mhkb_0199, catpage [[p. 41]]}
+{mhkb_0199, startpage, [[Vol. 9, p. 561]]}
+{mhkb_0199, catpage, [[p. 41]]}
 
 [ehkb_0200 : exp = "松桂大禪師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0200]
+	@"http://psi.iba-net.org/exp/hkb_0200"]
 [mhkb_0200 : man = "松桂大禪師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0200]
+	@"http://psi.iba-net.org/man/hkb_0200"]
 is-embodied-in(ehkb_0200 : exp, mhkb_0200 : man)
-{mhkb_0200, startpage [[Vol. 9, p. 570]]}
-{mhkb_0200, catpage [[p. 41]]}
+{mhkb_0200, startpage, [[Vol. 9, p. 570]]}
+{mhkb_0200, catpage, [[p. 41]]}
 
 [ehkb_0201 : exp = "霜月大師詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0201]
+	@"http://psi.iba-net.org/exp/hkb_0201"]
 [mhkb_0201 : man = "霜月大師詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0201]
+	@"http://psi.iba-net.org/man/hkb_0201"]
 is-embodied-in(ehkb_0201 : exp, mhkb_0201 : man)
-{mhkb_0201, startpage [[Vol. 9, p. 591]]}
-{mhkb_0201, catpage [[p. 41]]}
+{mhkb_0201, startpage, [[Vol. 9, p. 591]]}
+{mhkb_0201, catpage, [[p. 41]]}
 
 [ehkb_0202 : exp = "天鏡集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0202]
+	@"http://psi.iba-net.org/exp/hkb_0202"]
 [mhkb_0202 : man = "天鏡集" /zh toc
-	http://psi.iba-net.org/man/hkb_0202]
+	@"http://psi.iba-net.org/man/hkb_0202"]
 is-embodied-in(ehkb_0202 : exp, mhkb_0202 : man)
-{mhkb_0202, startpage [[Vol. 9, p. 600]]}
-{mhkb_0202, catpage [[p. 41]]}
+{mhkb_0202, startpage, [[Vol. 9, p. 600]]}
+{mhkb_0202, catpage, [[p. 41]]}
 
 [ehkb_0203 : exp = "請擇法報恩文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0203]
+	@"http://psi.iba-net.org/exp/hkb_0203"]
 [mhkb_0203 : man = "請擇法報恩文" /zh toc
-	http://psi.iba-net.org/man/hkb_0203]
+	@"http://psi.iba-net.org/man/hkb_0203"]
 is-embodied-in(ehkb_0203 : exp, mhkb_0203 : man)
-{mhkb_0203, startpage [[Vol. 9, p. 633]]}
-{mhkb_0203, catpage [[p. 42]]}
+{mhkb_0203, startpage, [[Vol. 9, p. 633]]}
+{mhkb_0203, catpage, [[p. 42]]}
 
 [ehkb_0204 : exp = "箕城大師念佛還鄕曲" /zh toc
-	http://psi.iba-net.org/exp/hkb_0204]
+	@"http://psi.iba-net.org/exp/hkb_0204"]
 [mhkb_0204 : man = "箕城大師念佛還鄕曲" /zh toc
-	http://psi.iba-net.org/man/hkb_0204]
+	@"http://psi.iba-net.org/man/hkb_0204"]
 is-embodied-in(ehkb_0204 : exp, mhkb_0204 : man)
-{mhkb_0204, startpage [[Vol. 9, p. 650]]}
-{mhkb_0204, catpage [[p. 42]]}
+{mhkb_0204, startpage, [[Vol. 9, p. 650]]}
+{mhkb_0204, catpage, [[p. 42]]}
 
 [ehkb_0205 : exp = "月波集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0205]
+	@"http://psi.iba-net.org/exp/hkb_0205"]
 [mhkb_0205 : man = "月波集" /zh toc
-	http://psi.iba-net.org/man/hkb_0205]
+	@"http://psi.iba-net.org/man/hkb_0205"]
 is-embodied-in(ehkb_0205 : exp, mhkb_0205 : man)
-{mhkb_0205, startpage [[Vol. 9, p. 660]]}
-{mhkb_0205, catpage [[p. 42]]}
+{mhkb_0205, startpage, [[Vol. 9, p. 660]]}
+{mhkb_0205, catpage, [[p. 42]]}
 
 [ehkb_0206 : exp = "龍潭集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0206]
+	@"http://psi.iba-net.org/exp/hkb_0206"]
 [mhkb_0206 : man = "龍潭集" /zh toc
-	http://psi.iba-net.org/man/hkb_0206]
+	@"http://psi.iba-net.org/man/hkb_0206"]
 is-embodied-in(ehkb_0206 : exp, mhkb_0206 : man)
-{mhkb_0206, startpage [[Vol. 9, p. 677]]}
-{mhkb_0206, catpage [[p. 42]]}
+{mhkb_0206, startpage, [[Vol. 9, p. 677]]}
+{mhkb_0206, catpage, [[p. 42]]}
 
 [ehkb_0207 : exp = "新編普勸文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0207]
+	@"http://psi.iba-net.org/exp/hkb_0207"]
 [mhkb_0207 : man = "新編普勸文" /zh toc
-	http://psi.iba-net.org/man/hkb_0207]
+	@"http://psi.iba-net.org/man/hkb_0207"]
 is-embodied-in(ehkb_0207 : exp, mhkb_0207 : man)
-{mhkb_0207, startpage [[Vol. 9, p. 695]]}
-{mhkb_0207, catpage [[p. 42]]}
+{mhkb_0207, startpage, [[Vol. 9, p. 695]]}
+{mhkb_0207, catpage, [[p. 42]]}
 
 [ehkb_0208 : exp = "好隱集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0208]
+	@"http://psi.iba-net.org/exp/hkb_0208"]
 [mhkb_0208 : man = "好隱集" /zh toc
-	http://psi.iba-net.org/man/hkb_0208]
+	@"http://psi.iba-net.org/man/hkb_0208"]
 is-embodied-in(ehkb_0208 : exp, mhkb_0208 : man)
-{mhkb_0208, startpage [[Vol. 9, p. 704]]}
-{mhkb_0208, catpage [[p. 42]]}
+{mhkb_0208, startpage, [[Vol. 9, p. 704]]}
+{mhkb_0208, catpage, [[p. 42]]}
 
 [ehkb_0209 : exp = "雪潭集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0209]
+	@"http://psi.iba-net.org/exp/hkb_0209"]
 [mhkb_0209 : man = "雪潭集" /zh toc
-	http://psi.iba-net.org/man/hkb_0209]
+	@"http://psi.iba-net.org/man/hkb_0209"]
 is-embodied-in(ehkb_0209 : exp, mhkb_0209 : man)
-{mhkb_0209, startpage [[Vol. 9, p. 728]]}
-{mhkb_0209, catpage [[p. 42]]}
+{mhkb_0209, startpage, [[Vol. 9, p. 728]]}
+{mhkb_0209, catpage, [[p. 42]]}
 
 [ehkb_0210 : exp = "野雲大禪師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0210]
+	@"http://psi.iba-net.org/exp/hkb_0210"]
 [mhkb_0210 : man = "野雲大禪師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0210]
+	@"http://psi.iba-net.org/man/hkb_0210"]
 is-embodied-in(ehkb_0210 : exp, mhkb_0210 : man)
-{mhkb_0210, startpage [[Vol. 9, p. 748]]}
-{mhkb_0210, catpage [[p. 43]]}
+{mhkb_0210, startpage, [[Vol. 9, p. 748]]}
+{mhkb_0210, catpage, [[p. 43]]}
 
 [ehkb_0211 : exp = "鰲巖集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0211]
+	@"http://psi.iba-net.org/exp/hkb_0211"]
 [mhkb_0211 : man = "鰲巖集" /zh toc
-	http://psi.iba-net.org/man/hkb_0211]
+	@"http://psi.iba-net.org/man/hkb_0211"]
 is-embodied-in(ehkb_0211 : exp, mhkb_0211 : man)
-{mhkb_0211, startpage [[Vol. 9, p. 759]]}
-{mhkb_0211, catpage [[p. 43]]}
+{mhkb_0211, startpage, [[Vol. 9, p. 759]]}
+{mhkb_0211, catpage, [[p. 43]]}
 
 [ehkb_0212 : exp = "龍巖堂遺稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0212]
+	@"http://psi.iba-net.org/exp/hkb_0212"]
 [mhkb_0212 : man = "龍巖堂遺稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0212]
+	@"http://psi.iba-net.org/man/hkb_0212"]
 is-embodied-in(ehkb_0212 : exp, mhkb_0212 : man)
-{mhkb_0212, startpage [[Vol. 9, p. 783]]}
-{mhkb_0212, catpage [[p. 43]]}
+{mhkb_0212, startpage, [[Vol. 9, p. 783]]}
+{mhkb_0212, catpage, [[p. 43]]}
 
 [ehkb_0213 : exp = "大圓集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0213]
+	@"http://psi.iba-net.org/exp/hkb_0213"]
 [mhkb_0213 : man = "大圓集" /zh toc
-	http://psi.iba-net.org/man/hkb_0213]
+	@"http://psi.iba-net.org/man/hkb_0213"]
 is-embodied-in(ehkb_0213 : exp, mhkb_0213 : man)
-{mhkb_0213, startpage [[Vol. 9, p. 791]]}
-{mhkb_0213, catpage [[p. 43]]}
+{mhkb_0213, startpage, [[Vol. 9, p. 791]]}
+{mhkb_0213, catpage, [[p. 43]]}
 
 [ehkb_0214 : exp = "默奄大師詩抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0214]
+	@"http://psi.iba-net.org/exp/hkb_0214"]
 [mhkb_0214 : man = "默奄大師詩抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0214]
+	@"http://psi.iba-net.org/man/hkb_0214"]
 is-embodied-in(ehkb_0214 : exp, mhkb_0214 : man)
-{mhkb_0214, startpage [[Vol. 10, p. 1]]}
-{mhkb_0214, catpage [[p. 44]]}
+{mhkb_0214, startpage, [[Vol. 10, p. 1]]}
+{mhkb_0214, catpage, [[p. 44]]}
 
 [ehkb_0215 : exp = "諸經會要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0215]
+	@"http://psi.iba-net.org/exp/hkb_0215"]
 [mhkb_0215 : man = "諸經會要" /zh toc
-	http://psi.iba-net.org/man/hkb_0215]
+	@"http://psi.iba-net.org/man/hkb_0215"]
 is-embodied-in(ehkb_0215 : exp, mhkb_0215 : man)
-{mhkb_0215, startpage [[Vol. 10, p. 26]]}
-{mhkb_0215, catpage [[p. 44]]}
+{mhkb_0215, startpage, [[Vol. 10, p. 26]]}
+{mhkb_0215, catpage, [[p. 44]]}
 
 [ehkb_0216 : exp = "秋波集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0216]
+	@"http://psi.iba-net.org/exp/hkb_0216"]
 [mhkb_0216 : man = "秋波集" /zh toc
-	http://psi.iba-net.org/man/hkb_0216]
+	@"http://psi.iba-net.org/man/hkb_0216"]
 is-embodied-in(ehkb_0216 : exp, mhkb_0216 : man)
-{mhkb_0216, startpage [[Vol. 10, p. 58]]}
-{mhkb_0216, catpage [[p. 44]]}
+{mhkb_0216, startpage, [[Vol. 10, p. 58]]}
+{mhkb_0216, catpage, [[p. 44]]}
 
 [ehkb_0217 : exp = "秋波手柬" /zh toc
-	http://psi.iba-net.org/exp/hkb_0217]
+	@"http://psi.iba-net.org/exp/hkb_0217"]
 [mhkb_0217 : man = "秋波手柬" /zh toc
-	http://psi.iba-net.org/man/hkb_0217]
+	@"http://psi.iba-net.org/man/hkb_0217"]
 is-embodied-in(ehkb_0217 : exp, mhkb_0217 : man)
-{mhkb_0217, startpage [[Vol. 10, p. 82]]}
-{mhkb_0217, catpage [[p. 44]]}
+{mhkb_0217, startpage, [[Vol. 10, p. 82]]}
+{mhkb_0217, catpage, [[p. 44]]}
 
 [ehkb_0218 : exp = "西域中華海東佛祖源流" /zh toc
-	http://psi.iba-net.org/exp/hkb_0218]
+	@"http://psi.iba-net.org/exp/hkb_0218"]
 [mhkb_0218 : man = "西域中華海東佛祖源流" /zh toc
-	http://psi.iba-net.org/man/hkb_0218]
+	@"http://psi.iba-net.org/man/hkb_0218"]
 is-embodied-in(ehkb_0218 : exp, mhkb_0218 : man)
-{mhkb_0218, startpage [[Vol. 10, p. 97]]}
-{mhkb_0218, catpage [[p. 44]]}
+{mhkb_0218, startpage, [[Vol. 10, p. 97]]}
+{mhkb_0218, catpage, [[p. 44]]}
 
 [ehkb_0219 : exp = "四溟堂枝派根源錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0219]
+	@"http://psi.iba-net.org/exp/hkb_0219"]
 [mhkb_0219 : man = "四溟堂枝派根源錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0219]
+	@"http://psi.iba-net.org/man/hkb_0219"]
 is-embodied-in(ehkb_0219 : exp, mhkb_0219 : man)
-{mhkb_0219, startpage [[Vol. 10, p. 135]]}
-{mhkb_0219, catpage [[p. 44]]}
+{mhkb_0219, startpage, [[Vol. 10, p. 135]]}
+{mhkb_0219, catpage, [[p. 44]]}
 
 [ehkb_0220 : exp = "三門直指" /zh toc
-	http://psi.iba-net.org/exp/hkb_0220]
+	@"http://psi.iba-net.org/exp/hkb_0220"]
 [mhkb_0220 : man = "三門直指" /zh toc
-	http://psi.iba-net.org/man/hkb_0220]
+	@"http://psi.iba-net.org/man/hkb_0220"]
 is-embodied-in(ehkb_0220 : exp, mhkb_0220 : man)
-{mhkb_0220, startpage [[Vol. 10, p. 138]]}
-{mhkb_0220, catpage [[p. 44]]}
+{mhkb_0220, startpage, [[Vol. 10, p. 138]]}
+{mhkb_0220, catpage, [[p. 44]]}
 
 [ehkb_0221 : exp = "振虛集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0221]
+	@"http://psi.iba-net.org/exp/hkb_0221"]
 [mhkb_0221 : man = "振虛集" /zh toc
-	http://psi.iba-net.org/man/hkb_0221]
+	@"http://psi.iba-net.org/man/hkb_0221"]
 is-embodied-in(ehkb_0221 : exp, mhkb_0221 : man)
-{mhkb_0221, startpage [[Vol. 10, p. 167]]}
-{mhkb_0221, catpage [[p. 45]]}
+{mhkb_0221, startpage, [[Vol. 10, p. 167]]}
+{mhkb_0221, catpage, [[p. 45]]}
 
 [ehkb_0222 : exp = "都序科目幷入私記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0222]
+	@"http://psi.iba-net.org/exp/hkb_0222"]
 [mhkb_0222 : man = "都序科目幷入私記" /zh toc
-	http://psi.iba-net.org/man/hkb_0222]
+	@"http://psi.iba-net.org/man/hkb_0222"]
 is-embodied-in(ehkb_0222 : exp, mhkb_0222 : man)
-{mhkb_0222, startpage [[Vol. 10, p. 178]]}
-{mhkb_0222, catpage [[p. 45]]}
+{mhkb_0222, startpage, [[Vol. 10, p. 178]]}
+{mhkb_0222, catpage, [[p. 45]]}
 
 [ehkb_0223 : exp = "法集別行錄節要科目幷入私記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0223]
+	@"http://psi.iba-net.org/exp/hkb_0223"]
 [mhkb_0223 : man = "法集別行錄節要科目幷入私記" /zh toc
-	http://psi.iba-net.org/man/hkb_0223]
+	@"http://psi.iba-net.org/man/hkb_0223"]
 is-embodied-in(ehkb_0223 : exp, mhkb_0223 : man)
-{mhkb_0223, startpage [[Vol. 10, p. 196]]}
-{mhkb_0223, catpage [[p. 45]]}
+{mhkb_0223, startpage, [[Vol. 10, p. 196]]}
+{mhkb_0223, catpage, [[p. 45]]}
 
 [ehkb_0224 : exp = "蓮潭大師林下錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0224]
+	@"http://psi.iba-net.org/exp/hkb_0224"]
 [mhkb_0224 : man = "蓮潭大師林下錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0224]
+	@"http://psi.iba-net.org/man/hkb_0224"]
 is-embodied-in(ehkb_0224 : exp, mhkb_0224 : man)
-{mhkb_0224, startpage [[Vol. 10, p. 213]]}
-{mhkb_0224, catpage [[p. 45]]}
+{mhkb_0224, startpage, [[Vol. 10, p. 213]]}
+{mhkb_0224, catpage, [[p. 45]]}
 
 [ehkb_0225 : exp = "釋典類解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0225]
+	@"http://psi.iba-net.org/exp/hkb_0225"]
 [mhkb_0225 : man = "釋典類解" /zh toc
-	http://psi.iba-net.org/man/hkb_0225]
+	@"http://psi.iba-net.org/man/hkb_0225"]
 is-embodied-in(ehkb_0225 : exp, mhkb_0225 : man)
-{mhkb_0225, startpage [[Vol. 10, p. 287]]}
-{mhkb_0225, catpage [[p. 45]]}
+{mhkb_0225, startpage, [[Vol. 10, p. 287]]}
+{mhkb_0225, catpage, [[p. 45]]}
 
 [ehkb_0226 : exp = "括虛集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0226]
+	@"http://psi.iba-net.org/exp/hkb_0226"]
 [mhkb_0226 : man = "括虛集" /zh toc
-	http://psi.iba-net.org/man/hkb_0226]
+	@"http://psi.iba-net.org/man/hkb_0226"]
 is-embodied-in(ehkb_0226 : exp, mhkb_0226 : man)
-{mhkb_0226, startpage [[Vol. 10, p. 302]]}
-{mhkb_0226, catpage [[p. 45]]}
+{mhkb_0226, startpage, [[Vol. 10, p. 302]]}
+{mhkb_0226, catpage, [[p. 45]]}
 
 [ehkb_0227 : exp = "冲虛大師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0227]
+	@"http://psi.iba-net.org/exp/hkb_0227"]
 [mhkb_0227 : man = "冲虛大師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0227]
+	@"http://psi.iba-net.org/man/hkb_0227"]
 is-embodied-in(ehkb_0227 : exp, mhkb_0227 : man)
-{mhkb_0227, startpage [[Vol. 10, p. 324]]}
-{mhkb_0227, catpage [[p. 45]]}
+{mhkb_0227, startpage, [[Vol. 10, p. 324]]}
+{mhkb_0227, catpage, [[p. 45]]}
 
 [ehkb_0228 : exp = "蒙庵大師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0228]
+	@"http://psi.iba-net.org/exp/hkb_0228"]
 [mhkb_0228 : man = "蒙庵大師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0228]
+	@"http://psi.iba-net.org/man/hkb_0228"]
 is-embodied-in(ehkb_0228 : exp, mhkb_0228 : man)
-{mhkb_0228, startpage [[Vol. 10, p. 358]]}
-{mhkb_0228, catpage [[p. 46]]}
+{mhkb_0228, startpage, [[Vol. 10, p. 358]]}
+{mhkb_0228, catpage, [[p. 46]]}
 
 [ehkb_0229 : exp = "大方廣佛華嚴經義湘法師法性偈科註" /zh toc
-	http://psi.iba-net.org/exp/hkb_0229]
+	@"http://psi.iba-net.org/exp/hkb_0229"]
 [mhkb_0229 : man = "大方廣佛華嚴經義湘法師法性偈科註" /zh toc
-	http://psi.iba-net.org/man/hkb_0229]
+	@"http://psi.iba-net.org/man/hkb_0229"]
 is-embodied-in(ehkb_0229 : exp, mhkb_0229 : man)
-{mhkb_0229, startpage [[Vol. 10, p. 386]]}
-{mhkb_0229, catpage [[p. 46]]}
+{mhkb_0229, startpage, [[Vol. 10, p. 386]]}
+{mhkb_0229, catpage, [[p. 46]]}
 
 [ehkb_0230 : exp = "月城集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0230]
+	@"http://psi.iba-net.org/exp/hkb_0230"]
 [mhkb_0230 : man = "月城集" /zh toc
-	http://psi.iba-net.org/man/hkb_0230]
+	@"http://psi.iba-net.org/man/hkb_0230"]
 is-embodied-in(ehkb_0230 : exp, mhkb_0230 : man)
-{mhkb_0230, startpage [[Vol. 10, p. 389]]}
-{mhkb_0230, catpage [[p. 46]]}
+{mhkb_0230, startpage, [[Vol. 10, p. 389]]}
+{mhkb_0230, catpage, [[p. 46]]}
 
 [ehkb_0231 : exp = "仁嶽集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0231]
+	@"http://psi.iba-net.org/exp/hkb_0231"]
 [mhkb_0231 : man = "仁嶽集" /zh toc
-	http://psi.iba-net.org/man/hkb_0231]
+	@"http://psi.iba-net.org/man/hkb_0231"]
 is-embodied-in(ehkb_0231 : exp, mhkb_0231 : man)
-{mhkb_0231, startpage [[Vol. 10, p. 400]]}
-{mhkb_0231, catpage [[p. 46]]}
+{mhkb_0231, startpage, [[Vol. 10, p. 400]]}
+{mhkb_0231, catpage, [[p. 46]]}
 
 [ehkb_0232 : exp = "鏡巖集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0232]
+	@"http://psi.iba-net.org/exp/hkb_0232"]
 [mhkb_0232 : man = "鏡巖集" /zh toc
-	http://psi.iba-net.org/man/hkb_0232]
+	@"http://psi.iba-net.org/man/hkb_0232"]
 is-embodied-in(ehkb_0232 : exp, mhkb_0232 : man)
-{mhkb_0232, startpage [[Vol. 10, p. 424]]}
-{mhkb_0232, catpage [[p. 46]]}
+{mhkb_0232, startpage, [[Vol. 10, p. 424]]}
+{mhkb_0232, catpage, [[p. 46]]}
 
 [ehkb_0233 : exp = "三峯集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0233]
+	@"http://psi.iba-net.org/exp/hkb_0233"]
 [mhkb_0233 : man = "三峯集" /zh toc
-	http://psi.iba-net.org/man/hkb_0233]
+	@"http://psi.iba-net.org/man/hkb_0233"]
 is-embodied-in(ehkb_0233 : exp, mhkb_0233 : man)
-{mhkb_0233, startpage [[Vol. 10, p. 456]]}
-{mhkb_0233, catpage [[p. 46]]}
+{mhkb_0233, startpage, [[Vol. 10, p. 456]]}
+{mhkb_0233, catpage, [[p. 46]]}
 
 [ehkb_0234 : exp = "澄月大師詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0234]
+	@"http://psi.iba-net.org/exp/hkb_0234"]
 [mhkb_0234 : man = "澄月大師詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0234]
+	@"http://psi.iba-net.org/man/hkb_0234"]
 is-embodied-in(ehkb_0234 : exp, mhkb_0234 : man)
-{mhkb_0234, startpage [[Vol. 10, p. 486]]}
-{mhkb_0234, catpage [[p. 47]]}
+{mhkb_0234, startpage, [[Vol. 10, p. 486]]}
+{mhkb_0234, catpage, [[p. 47]]}
 
 [ehkb_0235 : exp = "大東禪敎考" /zh toc
-	http://psi.iba-net.org/exp/hkb_0235]
+	@"http://psi.iba-net.org/exp/hkb_0235"]
 [mhkb_0235 : man = "大東禪敎考" /zh toc
-	http://psi.iba-net.org/man/hkb_0235]
+	@"http://psi.iba-net.org/man/hkb_0235"]
 is-embodied-in(ehkb_0235 : exp, mhkb_0235 : man)
-{mhkb_0235, startpage [[Vol. 10, p. 505]]}
-{mhkb_0235, catpage [[p. 47]]}
+{mhkb_0235, startpage, [[Vol. 10, p. 505]]}
+{mhkb_0235, catpage, [[p. 47]]}
 
 [ehkb_0236 : exp = "禪文手鏡" /zh toc
-	http://psi.iba-net.org/exp/hkb_0236]
+	@"http://psi.iba-net.org/exp/hkb_0236"]
 [mhkb_0236 : man = "禪文手鏡" /zh toc
-	http://psi.iba-net.org/man/hkb_0236]
+	@"http://psi.iba-net.org/man/hkb_0236"]
 is-embodied-in(ehkb_0236 : exp, mhkb_0236 : man)
-{mhkb_0236, startpage [[Vol. 10, p. 514]]}
-{mhkb_0236, catpage [[p. 47]]}
+{mhkb_0236, startpage, [[Vol. 10, p. 514]]}
+{mhkb_0236, catpage, [[p. 47]]}
 
 [ehkb_0237 : exp = "修禪結社文科釋" /zh toc
-	http://psi.iba-net.org/exp/hkb_0237]
+	@"http://psi.iba-net.org/exp/hkb_0237"]
 [mhkb_0237 : man = "修禪結社文科釋" /zh toc
-	http://psi.iba-net.org/man/hkb_0237]
+	@"http://psi.iba-net.org/man/hkb_0237"]
 is-embodied-in(ehkb_0237 : exp, mhkb_0237 : man)
-{mhkb_0237, startpage [[Vol. 10, p. 528]]}
-{mhkb_0237, catpage [[p. 47]]}
+{mhkb_0237, startpage, [[Vol. 10, p. 528]]}
+{mhkb_0237, catpage, [[p. 47]]}
 
 [ehkb_0238 : exp = "作法龜鑑" /zh toc
-	http://psi.iba-net.org/exp/hkb_0238]
+	@"http://psi.iba-net.org/exp/hkb_0238"]
 [mhkb_0238 : man = "作法龜鑑" /zh toc
-	http://psi.iba-net.org/man/hkb_0238]
+	@"http://psi.iba-net.org/man/hkb_0238"]
 is-embodied-in(ehkb_0238 : exp, mhkb_0238 : man)
-{mhkb_0238, startpage [[Vol. 10, p. 552]]}
-{mhkb_0238, catpage [[p. 47]]}
+{mhkb_0238, startpage, [[Vol. 10, p. 552]]}
+{mhkb_0238, catpage, [[p. 47]]}
 
 [ehkb_0239 : exp = "無住警策" /zh toc
-	http://psi.iba-net.org/exp/hkb_0239]
+	@"http://psi.iba-net.org/exp/hkb_0239"]
 [mhkb_0239 : man = "無住警策" /zh toc
-	http://psi.iba-net.org/man/hkb_0239]
+	@"http://psi.iba-net.org/man/hkb_0239"]
 is-embodied-in(ehkb_0239 : exp, mhkb_0239 : man)
-{mhkb_0239, startpage [[Vol. 10, p. 609]]}
-{mhkb_0239, catpage [[p. 47]]}
+{mhkb_0239, startpage, [[Vol. 10, p. 609]]}
+{mhkb_0239, catpage, [[p. 47]]}
 
 [ehkb_0240 : exp = "少林通方正眼" /zh toc
-	http://psi.iba-net.org/exp/hkb_0240]
+	@"http://psi.iba-net.org/exp/hkb_0240"]
 [mhkb_0240 : man = "少林通方正眼" /zh toc
-	http://psi.iba-net.org/man/hkb_0240]
+	@"http://psi.iba-net.org/man/hkb_0240"]
 is-embodied-in(ehkb_0240 : exp, mhkb_0240 : man)
-{mhkb_0240, startpage [[Vol. 10, p. 626]]}
-{mhkb_0240, catpage [[p. 47]]}
+{mhkb_0240, startpage, [[Vol. 10, p. 626]]}
+{mhkb_0240, catpage, [[p. 47]]}
 
 [ehkb_0241 : exp = "禪源溯流" /zh toc
-	http://psi.iba-net.org/exp/hkb_0241]
+	@"http://psi.iba-net.org/exp/hkb_0241"]
 [mhkb_0241 : man = "禪源溯流" /zh toc
-	http://psi.iba-net.org/man/hkb_0241]
+	@"http://psi.iba-net.org/man/hkb_0241"]
 is-embodied-in(ehkb_0241 : exp, mhkb_0241 : man)
-{mhkb_0241, startpage [[Vol. 10, p. 653]]}
-{mhkb_0241, catpage [[p. 47]]}
+{mhkb_0241, startpage, [[Vol. 10, p. 653]]}
+{mhkb_0241, catpage, [[p. 47]]}
 
 [ehkb_0242 : exp = "山史畧抄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0242]
+	@"http://psi.iba-net.org/exp/hkb_0242"]
 [mhkb_0242 : man = "山史畧抄" /zh toc
-	http://psi.iba-net.org/man/hkb_0242]
+	@"http://psi.iba-net.org/man/hkb_0242"]
 is-embodied-in(ehkb_0242 : exp, mhkb_0242 : man)
-{mhkb_0242, startpage [[Vol. 10, p. 678]]}
-{mhkb_0242, catpage [[p. 47]]}
+{mhkb_0242, startpage, [[Vol. 10, p. 678]]}
+{mhkb_0242, catpage, [[p. 47]]}
 
 [ehkb_0243 : exp = "兒菴遺集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0243]
+	@"http://psi.iba-net.org/exp/hkb_0243"]
 [mhkb_0243 : man = "兒菴遺集" /zh toc
-	http://psi.iba-net.org/man/hkb_0243]
+	@"http://psi.iba-net.org/man/hkb_0243"]
 is-embodied-in(ehkb_0243 : exp, mhkb_0243 : man)
-{mhkb_0243, startpage [[Vol. 10, p. 690]]}
-{mhkb_0243, catpage [[p. 47]]}
+{mhkb_0243, startpage, [[Vol. 10, p. 690]]}
+{mhkb_0243, catpage, [[p. 47]]}
 
 [ehkb_0244 : exp = "日本漂海錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0244]
+	@"http://psi.iba-net.org/exp/hkb_0244"]
 [mhkb_0244 : man = "日本漂海錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0244]
+	@"http://psi.iba-net.org/man/hkb_0244"]
 is-embodied-in(ehkb_0244 : exp, mhkb_0244 : man)
-{mhkb_0244, startpage [[Vol. 10, p. 710]]}
-{mhkb_0244, catpage [[p. 48]]}
+{mhkb_0244, startpage, [[Vol. 10, p. 710]]}
+{mhkb_0244, catpage, [[p. 48]]}
 
 [ehkb_0245 : exp = "應雲空如大師遺忘錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0245]
+	@"http://psi.iba-net.org/exp/hkb_0245"]
 [mhkb_0245 : man = "應雲空如大師遺忘錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0245]
+	@"http://psi.iba-net.org/man/hkb_0245"]
 is-embodied-in(ehkb_0245 : exp, mhkb_0245 : man)
-{mhkb_0245, startpage [[Vol. 10, p. 719]]}
-{mhkb_0245, catpage [[p. 48]]}
+{mhkb_0245, startpage, [[Vol. 10, p. 719]]}
+{mhkb_0245, catpage, [[p. 48]]}
 
 [ehkb_0246 : exp = "伽山藁" /zh toc
-	http://psi.iba-net.org/exp/hkb_0246]
+	@"http://psi.iba-net.org/exp/hkb_0246"]
 [mhkb_0246 : man = "伽山藁" /zh toc
-	http://psi.iba-net.org/man/hkb_0246]
+	@"http://psi.iba-net.org/man/hkb_0246"]
 is-embodied-in(ehkb_0246 : exp, mhkb_0246 : man)
-{mhkb_0246, startpage [[Vol. 10, p. 758]]}
-{mhkb_0246, catpage [[p. 48]]}
+{mhkb_0246, startpage, [[Vol. 10, p. 758]]}
+{mhkb_0246, catpage, [[p. 48]]}
 
 [ehkb_0247 : exp = "佛說天地八陽神呪經註" /zh toc
-	http://psi.iba-net.org/exp/hkb_0247]
+	@"http://psi.iba-net.org/exp/hkb_0247"]
 [mhkb_0247 : man = "佛說天地八陽神呪經註" /zh toc
-	http://psi.iba-net.org/man/hkb_0247]
+	@"http://psi.iba-net.org/man/hkb_0247"]
 is-embodied-in(ehkb_0247 : exp, mhkb_0247 : man)
-{mhkb_0247, startpage [[Vol. 10, p. 795]]}
-{mhkb_0247, catpage [[p. 48]]}
+{mhkb_0247, startpage, [[Vol. 10, p. 795]]}
+{mhkb_0247, catpage, [[p. 48]]}
 
 [ehkb_0248 : exp = "禪門四辨漫語" /zh toc
-	http://psi.iba-net.org/exp/hkb_0248]
+	@"http://psi.iba-net.org/exp/hkb_0248"]
 [mhkb_0248 : man = "禪門四辨漫語" /zh toc
-	http://psi.iba-net.org/man/hkb_0248]
+	@"http://psi.iba-net.org/man/hkb_0248"]
 is-embodied-in(ehkb_0248 : exp, mhkb_0248 : man)
-{mhkb_0248, startpage [[Vol. 10, p. 820]]}
-{mhkb_0248, catpage [[p. 48]]}
+{mhkb_0248, startpage, [[Vol. 10, p. 820]]}
+{mhkb_0248, catpage, [[p. 48]]}
 
 [ehkb_0249 : exp = "艸衣詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0249]
+	@"http://psi.iba-net.org/exp/hkb_0249"]
 [mhkb_0249 : man = "艸衣詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0249]
+	@"http://psi.iba-net.org/man/hkb_0249"]
 is-embodied-in(ehkb_0249 : exp, mhkb_0249 : man)
-{mhkb_0249, startpage [[Vol. 10, p. 830]]}
-{mhkb_0249, catpage [[p. 48]]}
+{mhkb_0249, startpage, [[Vol. 10, p. 830]]}
+{mhkb_0249, catpage, [[p. 48]]}
 
 [ehkb_0250 : exp = "茶神傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0250]
+	@"http://psi.iba-net.org/exp/hkb_0250"]
 [mhkb_0250 : man = "茶神傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0250]
+	@"http://psi.iba-net.org/man/hkb_0250"]
 is-embodied-in(ehkb_0250 : exp, mhkb_0250 : man)
-{mhkb_0250, startpage [[Vol. 10, p. 871]]}
-{mhkb_0250, catpage [[p. 48]]}
+{mhkb_0250, startpage, [[Vol. 10, p. 871]]}
+{mhkb_0250, catpage, [[p. 48]]}
 
 [ehkb_0251 : exp = "東茶頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0251]
+	@"http://psi.iba-net.org/exp/hkb_0251"]
 [mhkb_0251 : man = "東茶頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0251]
+	@"http://psi.iba-net.org/man/hkb_0251"]
 is-embodied-in(ehkb_0251 : exp, mhkb_0251 : man)
-{mhkb_0251, startpage [[Vol. 10, p. 873]]}
-{mhkb_0251, catpage [[p. 48]]}
+{mhkb_0251, startpage, [[Vol. 10, p. 873]]}
+{mhkb_0251, catpage, [[p. 48]]}
 
 [ehkb_0252 : exp = "震默禪師遺蹟攷" /zh toc
-	http://psi.iba-net.org/exp/hkb_0252]
+	@"http://psi.iba-net.org/exp/hkb_0252"]
 [mhkb_0252 : man = "震默禪師遺蹟攷" /zh toc
-	http://psi.iba-net.org/man/hkb_0252]
+	@"http://psi.iba-net.org/man/hkb_0252"]
 is-embodied-in(ehkb_0252 : exp, mhkb_0252 : man)
-{mhkb_0252, startpage [[Vol. 10, p. 876]]}
-{mhkb_0252, catpage [[p. 48]]}
+{mhkb_0252, startpage, [[Vol. 10, p. 876]]}
+{mhkb_0252, catpage, [[p. 48]]}
 
 [ehkb_0253 : exp = "鐵船小艸" /zh toc
-	http://psi.iba-net.org/exp/hkb_0253]
+	@"http://psi.iba-net.org/exp/hkb_0253"]
 [mhkb_0253 : man = "鐵船小艸" /zh toc
-	http://psi.iba-net.org/man/hkb_0253]
+	@"http://psi.iba-net.org/man/hkb_0253"]
 is-embodied-in(ehkb_0253 : exp, mhkb_0253 : man)
-{mhkb_0253, startpage [[Vol. 10, p. 885]]}
-{mhkb_0253, catpage [[p. 49]]}
+{mhkb_0253, startpage, [[Vol. 10, p. 885]]}
+{mhkb_0253, catpage, [[p. 49]]}
 
 [ehkb_0254 : exp = "禪學入門" /zh toc
-	http://psi.iba-net.org/exp/hkb_0254]
+	@"http://psi.iba-net.org/exp/hkb_0254"]
 [mhkb_0254 : man = "禪學入門" /zh toc
-	http://psi.iba-net.org/man/hkb_0254]
+	@"http://psi.iba-net.org/man/hkb_0254"]
 is-embodied-in(ehkb_0254 : exp, mhkb_0254 : man)
-{mhkb_0254, startpage [[Vol. 10, p. 893]]}
-{mhkb_0254, catpage [[p. 49]]}
+{mhkb_0254, startpage, [[Vol. 10, p. 893]]}
+{mhkb_0254, catpage, [[p. 49]]}
 
 [ehkb_0255 : exp = "述夢瑣言" /zh toc
-	http://psi.iba-net.org/exp/hkb_0255]
+	@"http://psi.iba-net.org/exp/hkb_0255"]
 [mhkb_0255 : man = "述夢瑣言" /zh toc
-	http://psi.iba-net.org/man/hkb_0255]
+	@"http://psi.iba-net.org/man/hkb_0255"]
 is-embodied-in(ehkb_0255 : exp, mhkb_0255 : man)
-{mhkb_0255, startpage [[Vol. 10, p. 927]]}
-{mhkb_0255, catpage [[p. 49]]}
+{mhkb_0255, startpage, [[Vol. 10, p. 927]]}
+{mhkb_0255, catpage, [[p. 49]]}
 
 [ehkb_0256 : exp = "櫟山集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0256]
+	@"http://psi.iba-net.org/exp/hkb_0256"]
 [mhkb_0256 : man = "櫟山集" /zh toc
-	http://psi.iba-net.org/man/hkb_0256]
+	@"http://psi.iba-net.org/man/hkb_0256"]
 is-embodied-in(ehkb_0256 : exp, mhkb_0256 : man)
-{mhkb_0256, startpage [[Vol. 10, p. 940]]}
-{mhkb_0256, catpage [[p. 49]]}
+{mhkb_0256, startpage, [[Vol. 10, p. 940]]}
+{mhkb_0256, catpage, [[p. 49]]}
 
 [ehkb_0257 : exp = "涵弘堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0257]
+	@"http://psi.iba-net.org/exp/hkb_0257"]
 [mhkb_0257 : man = "涵弘堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0257]
+	@"http://psi.iba-net.org/man/hkb_0257"]
 is-embodied-in(ehkb_0257 : exp, mhkb_0257 : man)
-{mhkb_0257, startpage [[Vol. 10, p. 968]]}
-{mhkb_0257, catpage [[p. 49]]}
+{mhkb_0257, startpage, [[Vol. 10, p. 968]]}
+{mhkb_0257, catpage, [[p. 49]]}
 
 [ehkb_0258 : exp = "東師列傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0258]
+	@"http://psi.iba-net.org/exp/hkb_0258"]
 [mhkb_0258 : man = "東師列傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0258]
+	@"http://psi.iba-net.org/man/hkb_0258"]
 is-embodied-in(ehkb_0258 : exp, mhkb_0258 : man)
-{mhkb_0258, startpage [[Vol. 10, p. 995]]}
-{mhkb_0258, catpage [[p. 49]]}
+{mhkb_0258, startpage, [[Vol. 10, p. 995]]}
+{mhkb_0258, catpage, [[p. 49]]}
 
 [ehkb_0259 : exp = "梵海禪師文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0259]
+	@"http://psi.iba-net.org/exp/hkb_0259"]
 [mhkb_0259 : man = "梵海禪師文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0259]
+	@"http://psi.iba-net.org/man/hkb_0259"]
 is-embodied-in(ehkb_0259 : exp, mhkb_0259 : man)
-{mhkb_0259, startpage [[Vol. 10, p. 1075]]}
-{mhkb_0259, catpage [[p. 49]]}
+{mhkb_0259, startpage, [[Vol. 10, p. 1075]]}
+{mhkb_0259, catpage, [[p. 49]]}
 
 [ehkb_0260 : exp = "梵海禪師詩集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0260]
+	@"http://psi.iba-net.org/exp/hkb_0260"]
 [mhkb_0260 : man = "梵海禪師詩集" /zh toc
-	http://psi.iba-net.org/man/hkb_0260]
+	@"http://psi.iba-net.org/man/hkb_0260"]
 is-embodied-in(ehkb_0260 : exp, mhkb_0260 : man)
-{mhkb_0260, startpage [[Vol. 10, p. 1099]]}
-{mhkb_0260, catpage [[p. 49]]}
+{mhkb_0260, startpage, [[Vol. 10, p. 1099]]}
+{mhkb_0260, catpage, [[p. 49]]}
 
 [ehkb_0261 : exp = "優曇林下錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0261]
+	@"http://psi.iba-net.org/exp/hkb_0261"]
 [mhkb_0261 : man = "優曇林下錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0261]
+	@"http://psi.iba-net.org/man/hkb_0261"]
 is-embodied-in(ehkb_0261 : exp, mhkb_0261 : man)
-{mhkb_0261, startpage [[Vol. 10, p. 1126]]}
-{mhkb_0261, catpage [[p. 50]]}
+{mhkb_0261, startpage, [[Vol. 10, p. 1126]]}
+{mhkb_0261, catpage, [[p. 50]]}
 
 [ehkb_0262 : exp = "禪門證正錄(幷序)" /zh toc
-	http://psi.iba-net.org/exp/hkb_0262]
+	@"http://psi.iba-net.org/exp/hkb_0262"]
 [mhkb_0262 : man = "禪門證正錄(幷序)" /zh toc
-	http://psi.iba-net.org/man/hkb_0262]
+	@"http://psi.iba-net.org/man/hkb_0262"]
 is-embodied-in(ehkb_0262 : exp, mhkb_0262 : man)
-{mhkb_0262, startpage [[Vol. 10, p. 1136]]}
-{mhkb_0262, catpage [[p. 50]]}
+{mhkb_0262, startpage, [[Vol. 10, p. 1136]]}
+{mhkb_0262, catpage, [[p. 50]]}
 
 [ehkb_0263 : exp = "解深密經疏" /zh toc
-	http://psi.iba-net.org/exp/hkb_0263]
+	@"http://psi.iba-net.org/exp/hkb_0263"]
 [mhkb_0263 : man = "解深密經疏" /zh toc
-	http://psi.iba-net.org/man/hkb_0263]
+	@"http://psi.iba-net.org/man/hkb_0263"]
 is-embodied-in(ehkb_0263 : exp, mhkb_0263 : man)
-{mhkb_0263, startpage [[Vol. 11, p. 1]]}
-{mhkb_0263, catpage [[p. 51]]}
+{mhkb_0263, startpage, [[Vol. 11, p. 1]]}
+{mhkb_0263, catpage, [[p. 51]]}
 
 [ehkb_0264 : exp = "義湘和尙投師禮" /zh toc
-	http://psi.iba-net.org/exp/hkb_0264]
+	@"http://psi.iba-net.org/exp/hkb_0264"]
 [mhkb_0264 : man = "義湘和尙投師禮" /zh toc
-	http://psi.iba-net.org/man/hkb_0264]
+	@"http://psi.iba-net.org/man/hkb_0264"]
 is-embodied-in(ehkb_0264 : exp, mhkb_0264 : man)
-{mhkb_0264, startpage [[Vol. 11, p. 43]]}
-{mhkb_0264, catpage [[p. 51]]}
+{mhkb_0264, startpage, [[Vol. 11, p. 43]]}
+{mhkb_0264, catpage, [[p. 51]]}
 
 [ehkb_0265 : exp = "義相和尙一乘發願文" /zh toc
-	http://psi.iba-net.org/exp/hkb_0265]
+	@"http://psi.iba-net.org/exp/hkb_0265"]
 [mhkb_0265 : man = "義相和尙一乘發願文" /zh toc
-	http://psi.iba-net.org/man/hkb_0265]
+	@"http://psi.iba-net.org/man/hkb_0265"]
 is-embodied-in(ehkb_0265 : exp, mhkb_0265 : man)
-{mhkb_0265, startpage [[Vol. 11, p. 44]]}
-{mhkb_0265, catpage [[p. 51]]}
+{mhkb_0265, startpage, [[Vol. 11, p. 44]]}
+{mhkb_0265, catpage, [[p. 51]]}
 
 [ehkb_0266 : exp = "菩薩戒本記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0266]
+	@"http://psi.iba-net.org/exp/hkb_0266"]
 [mhkb_0266 : man = "菩薩戒本記" /zh toc
-	http://psi.iba-net.org/man/hkb_0266]
+	@"http://psi.iba-net.org/man/hkb_0266"]
 is-embodied-in(ehkb_0266 : exp, mhkb_0266 : man)
-{mhkb_0266, startpage [[Vol. 11, p. 44]]}
-{mhkb_0266, catpage [[p. 51]]}
+{mhkb_0266, startpage, [[Vol. 11, p. 44]]}
+{mhkb_0266, catpage, [[p. 51]]}
 
 [ehkb_0267 : exp = "菩薩戒羯磨記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0267]
+	@"http://psi.iba-net.org/exp/hkb_0267"]
 [mhkb_0267 : man = "菩薩戒羯磨記" /zh toc
-	http://psi.iba-net.org/man/hkb_0267]
+	@"http://psi.iba-net.org/man/hkb_0267"]
 is-embodied-in(ehkb_0267 : exp, mhkb_0267 : man)
-{mhkb_0267, startpage [[Vol. 11, p. 55]]}
-{mhkb_0267, catpage [[p. 51]]}
+{mhkb_0267, startpage, [[Vol. 11, p. 55]]}
+{mhkb_0267, catpage, [[p. 51]]}
 
 [ehkb_0268 : exp = "高麗國新雕大藏校正別錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0268]
+	@"http://psi.iba-net.org/exp/hkb_0268"]
 [mhkb_0268 : man = "高麗國新雕大藏校正別錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0268]
+	@"http://psi.iba-net.org/man/hkb_0268"]
 is-embodied-in(ehkb_0268 : exp, mhkb_0268 : man)
-{mhkb_0268, startpage [[Vol. 11, p. 60]]}
-{mhkb_0268, catpage [[p. 51]]}
+{mhkb_0268, startpage, [[Vol. 11, p. 60]]}
+{mhkb_0268, catpage, [[p. 51]]}
 
 [ehkb_0269 : exp = "禪門雪竇天童圜悟三家拈頌集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0269]
+	@"http://psi.iba-net.org/exp/hkb_0269"]
 [mhkb_0269 : man = "禪門雪竇天童圜悟三家拈頌集" /zh toc
-	http://psi.iba-net.org/man/hkb_0269]
+	@"http://psi.iba-net.org/man/hkb_0269"]
 is-embodied-in(ehkb_0269 : exp, mhkb_0269 : man)
-{mhkb_0269, startpage [[Vol. 11, p. 271]]}
-{mhkb_0269, catpage [[p. 51]]}
+{mhkb_0269, startpage, [[Vol. 11, p. 271]]}
+{mhkb_0269, catpage, [[p. 51]]}
 
 [ehkb_0270 : exp = "海東曹溪宓庵和尙雜著" /zh toc
-	http://psi.iba-net.org/exp/hkb_0270]
+	@"http://psi.iba-net.org/exp/hkb_0270"]
 [mhkb_0270 : man = "海東曹溪宓庵和尙雜著" /zh toc
-	http://psi.iba-net.org/man/hkb_0270]
+	@"http://psi.iba-net.org/man/hkb_0270"]
 is-embodied-in(ehkb_0270 : exp, mhkb_0270 : man)
-{mhkb_0270, startpage [[Vol. 11, p. 369]]}
-{mhkb_0270, catpage [[p. 51]]}
+{mhkb_0270, startpage, [[Vol. 11, p. 369]]}
+{mhkb_0270, catpage, [[p. 51]]}
 
 [ehkb_0271 : exp = "求生行門要出" /zh toc
-	http://psi.iba-net.org/exp/hkb_0271]
+	@"http://psi.iba-net.org/exp/hkb_0271"]
 [mhkb_0271 : man = "求生行門要出" /zh toc
-	http://psi.iba-net.org/man/hkb_0271]
+	@"http://psi.iba-net.org/man/hkb_0271"]
 is-embodied-in(ehkb_0271 : exp, mhkb_0271 : man)
-{mhkb_0271, startpage [[Vol. 11, p. 385]]}
-{mhkb_0271, catpage [[p. 52]]}
+{mhkb_0271, startpage, [[Vol. 11, p. 385]]}
+{mhkb_0271, catpage, [[p. 52]]}
 
 [ehkb_0272 : exp = "江西馬祖四家錄草" /zh toc
-	http://psi.iba-net.org/exp/hkb_0272]
+	@"http://psi.iba-net.org/exp/hkb_0272"]
 [mhkb_0272 : man = "江西馬祖四家錄草" /zh toc
-	http://psi.iba-net.org/man/hkb_0272]
+	@"http://psi.iba-net.org/man/hkb_0272"]
 is-embodied-in(ehkb_0272 : exp, mhkb_0272 : man)
-{mhkb_0272, startpage [[Vol. 11, p. 388]]}
-{mhkb_0272, catpage [[p. 52]]}
+{mhkb_0272, startpage, [[Vol. 11, p. 388]]}
+{mhkb_0272, catpage, [[p. 52]]}
 
 [ehkb_0273 : exp = "精選四家錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0273]
+	@"http://psi.iba-net.org/exp/hkb_0273"]
 [mhkb_0273 : man = "精選四家錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0273]
+	@"http://psi.iba-net.org/man/hkb_0273"]
 is-embodied-in(ehkb_0273 : exp, mhkb_0273 : man)
-{mhkb_0273, startpage [[Vol. 11, p. 424]]}
-{mhkb_0273, catpage [[p. 52]]}
+{mhkb_0273, startpage, [[Vol. 11, p. 424]]}
+{mhkb_0273, catpage, [[p. 52]]}
 
 [ehkb_0274 : exp = "續眞實珠集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0274]
+	@"http://psi.iba-net.org/exp/hkb_0274"]
 [mhkb_0274 : man = "續眞實珠集" /zh toc
-	http://psi.iba-net.org/man/hkb_0274]
+	@"http://psi.iba-net.org/man/hkb_0274"]
 is-embodied-in(ehkb_0274 : exp, mhkb_0274 : man)
-{mhkb_0274, startpage [[Vol. 11, p. 425]]}
-{mhkb_0274, catpage [[p. 52]]}
+{mhkb_0274, startpage, [[Vol. 11, p. 425]]}
+{mhkb_0274, catpage, [[p. 52]]}
 
 [ehkb_0275 : exp = "預修十王生七齋儀纂要" /zh toc
-	http://psi.iba-net.org/exp/hkb_0275]
+	@"http://psi.iba-net.org/exp/hkb_0275"]
 [mhkb_0275 : man = "預修十王生七齋儀纂要" /zh toc
-	http://psi.iba-net.org/man/hkb_0275]
+	@"http://psi.iba-net.org/man/hkb_0275"]
 is-embodied-in(ehkb_0275 : exp, mhkb_0275 : man)
-{mhkb_0275, startpage [[Vol. 11, p. 427]]}
-{mhkb_0275, catpage [[p. 52]]}
+{mhkb_0275, startpage, [[Vol. 11, p. 427]]}
+{mhkb_0275, catpage, [[p. 52]]}
 
 [ehkb_0276 : exp = "寒溪集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0276]
+	@"http://psi.iba-net.org/exp/hkb_0276"]
 [mhkb_0276 : man = "寒溪集" /zh toc
-	http://psi.iba-net.org/man/hkb_0276]
+	@"http://psi.iba-net.org/man/hkb_0276"]
 is-embodied-in(ehkb_0276 : exp, mhkb_0276 : man)
-{mhkb_0276, startpage [[Vol. 11, p. 445]]}
-{mhkb_0276, catpage [[p. 52]]}
+{mhkb_0276, startpage, [[Vol. 11, p. 445]]}
+{mhkb_0276, catpage, [[p. 52]]}
 
 [ehkb_0277 : exp = "天地冥陽水陸齋儀梵音删補集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0277]
+	@"http://psi.iba-net.org/exp/hkb_0277"]
 [mhkb_0277 : man = "天地冥陽水陸齋儀梵音删補集" /zh toc
-	http://psi.iba-net.org/man/hkb_0277]
+	@"http://psi.iba-net.org/man/hkb_0277"]
 is-embodied-in(ehkb_0277 : exp, mhkb_0277 : man)
-{mhkb_0277, startpage [[Vol. 11, p. 458]]}
-{mhkb_0277, catpage [[p. 52]]}
+{mhkb_0277, startpage, [[Vol. 11, p. 458]]}
+{mhkb_0277, catpage, [[p. 52]]}
 
 [ehkb_0278 : exp = "仔蘷文節次條列" /zh toc
-	http://psi.iba-net.org/exp/hkb_0278]
+	@"http://psi.iba-net.org/exp/hkb_0278"]
 [mhkb_0278 : man = "仔蘷文節次條列" /zh toc
-	http://psi.iba-net.org/man/hkb_0278]
+	@"http://psi.iba-net.org/man/hkb_0278"]
 is-embodied-in(ehkb_0278 : exp, mhkb_0278 : man)
-{mhkb_0278, startpage [[Vol. 11, p. 523]]}
-{mhkb_0278, catpage [[p. 52]]}
+{mhkb_0278, startpage, [[Vol. 11, p. 523]]}
+{mhkb_0278, catpage, [[p. 52]]}
 
 [ehkb_0279 : exp = "般若波羅密多心經註解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0279]
+	@"http://psi.iba-net.org/exp/hkb_0279"]
 [mhkb_0279 : man = "般若波羅密多心經註解" /zh toc
-	http://psi.iba-net.org/man/hkb_0279]
+	@"http://psi.iba-net.org/man/hkb_0279"]
 is-embodied-in(ehkb_0279 : exp, mhkb_0279 : man)
-{mhkb_0279, startpage [[Vol. 11, p. 529]]}
-{mhkb_0279, catpage [[p. 52]]}
+{mhkb_0279, startpage, [[Vol. 11, p. 529]]}
+{mhkb_0279, catpage, [[p. 52]]}
 
 [ehkb_0280 : exp = "草堂集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0280]
+	@"http://psi.iba-net.org/exp/hkb_0280"]
 [mhkb_0280 : man = "草堂集" /zh toc
-	http://psi.iba-net.org/man/hkb_0280]
+	@"http://psi.iba-net.org/man/hkb_0280"]
 is-embodied-in(ehkb_0280 : exp, mhkb_0280 : man)
-{mhkb_0280, startpage [[Vol. 11, p. 531]]}
-{mhkb_0280, catpage [[p. 52]]}
+{mhkb_0280, startpage, [[Vol. 11, p. 531]]}
+{mhkb_0280, catpage, [[p. 52]]}
 
 [ehkb_0281 : exp = "龍岳堂私藁集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0281]
+	@"http://psi.iba-net.org/exp/hkb_0281"]
 [mhkb_0281 : man = "龍岳堂私藁集" /zh toc
-	http://psi.iba-net.org/man/hkb_0281]
+	@"http://psi.iba-net.org/man/hkb_0281"]
 is-embodied-in(ehkb_0281 : exp, mhkb_0281 : man)
-{mhkb_0281, startpage [[Vol. 11, p. 538]]}
-{mhkb_0281, catpage [[p. 53]]}
+{mhkb_0281, startpage, [[Vol. 11, p. 538]]}
+{mhkb_0281, catpage, [[p. 53]]}
 
 [ehkb_0282 : exp = "克庵集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0282]
+	@"http://psi.iba-net.org/exp/hkb_0282"]
 [mhkb_0282 : man = "克庵集" /zh toc
-	http://psi.iba-net.org/man/hkb_0282]
+	@"http://psi.iba-net.org/man/hkb_0282"]
 is-embodied-in(ehkb_0282 : exp, mhkb_0282 : man)
-{mhkb_0282, startpage [[Vol. 11, p. 564]]}
-{mhkb_0282, catpage [[p. 53]]}
+{mhkb_0282, startpage, [[Vol. 11, p. 564]]}
+{mhkb_0282, catpage, [[p. 53]]}
 
 [ehkb_0283 : exp = "鏡虛集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0283]
+	@"http://psi.iba-net.org/exp/hkb_0283"]
 [mhkb_0283 : man = "鏡虛集" /zh toc
-	http://psi.iba-net.org/man/hkb_0283]
+	@"http://psi.iba-net.org/man/hkb_0283"]
 is-embodied-in(ehkb_0283 : exp, mhkb_0283 : man)
-{mhkb_0283, startpage [[Vol. 11, p. 587]]}
-{mhkb_0283, catpage [[p. 53]]}
+{mhkb_0283, startpage, [[Vol. 11, p. 587]]}
+{mhkb_0283, catpage, [[p. 53]]}
 
 [ehkb_0284 : exp = "聾默集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0284]
+	@"http://psi.iba-net.org/exp/hkb_0284"]
 [mhkb_0284 : man = "聾默集" /zh toc
-	http://psi.iba-net.org/man/hkb_0284]
+	@"http://psi.iba-net.org/man/hkb_0284"]
 is-embodied-in(ehkb_0284 : exp, mhkb_0284 : man)
-{mhkb_0284, startpage [[Vol. 11, p. 702]]}
-{mhkb_0284, catpage [[p. 53]]}
+{mhkb_0284, startpage, [[Vol. 11, p. 702]]}
+{mhkb_0284, catpage, [[p. 53]]}
 
 [ehkb_0285 : exp = "混元集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0285]
+	@"http://psi.iba-net.org/exp/hkb_0285"]
 [mhkb_0285 : man = "混元集" /zh toc
-	http://psi.iba-net.org/man/hkb_0285]
+	@"http://psi.iba-net.org/man/hkb_0285"]
 is-embodied-in(ehkb_0285 : exp, mhkb_0285 : man)
-{mhkb_0285, startpage [[Vol. 11, p. 712]]}
-{mhkb_0285, catpage [[p. 53]]}
+{mhkb_0285, startpage, [[Vol. 11, p. 712]]}
+{mhkb_0285, catpage, [[p. 53]]}
 
 [ehkb_0286 : exp = "淸珠集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0286]
+	@"http://psi.iba-net.org/exp/hkb_0286"]
 [mhkb_0286 : man = "淸珠集" /zh toc
-	http://psi.iba-net.org/man/hkb_0286]
+	@"http://psi.iba-net.org/man/hkb_0286"]
 is-embodied-in(ehkb_0286 : exp, mhkb_0286 : man)
-{mhkb_0286, startpage [[Vol. 11, p. 734]]}
-{mhkb_0286, catpage [[p. 53]]}
+{mhkb_0286, startpage, [[Vol. 11, p. 734]]}
+{mhkb_0286, catpage, [[p. 53]]}
 
 [ehkb_0287 : exp = "觀世音菩薩妙應示現" /zh toc
-	http://psi.iba-net.org/exp/hkb_0287]
+	@"http://psi.iba-net.org/exp/hkb_0287"]
 [mhkb_0287 : man = "觀世音菩薩妙應示現" /zh toc
-	http://psi.iba-net.org/man/hkb_0287]
+	@"http://psi.iba-net.org/man/hkb_0287"]
 is-embodied-in(ehkb_0287 : exp, mhkb_0287 : man)
-{mhkb_0287, startpage [[Vol. 11, p. 776]]}
-{mhkb_0287, catpage [[p. 54]]}
+{mhkb_0287, startpage, [[Vol. 11, p. 776]]}
+{mhkb_0287, catpage, [[p. 54]]}
 
 [ehkb_0288 : exp = "淨土紺珠" /zh toc
-	http://psi.iba-net.org/exp/hkb_0288]
+	@"http://psi.iba-net.org/exp/hkb_0288"]
 [mhkb_0288 : man = "淨土紺珠" /zh toc
-	http://psi.iba-net.org/man/hkb_0288]
+	@"http://psi.iba-net.org/man/hkb_0288"]
 is-embodied-in(ehkb_0288 : exp, mhkb_0288 : man)
-{mhkb_0288, startpage [[Vol. 11, p. 826]]}
-{mhkb_0288, catpage [[p. 54]]}
+{mhkb_0288, startpage, [[Vol. 11, p. 826]]}
+{mhkb_0288, catpage, [[p. 54]]}
 
 [ehkb_0289 : exp = "禪文再正錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0289]
+	@"http://psi.iba-net.org/exp/hkb_0289"]
 [mhkb_0289 : man = "禪文再正錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0289]
+	@"http://psi.iba-net.org/man/hkb_0289"]
 is-embodied-in(ehkb_0289 : exp, mhkb_0289 : man)
-{mhkb_0289, startpage [[Vol. 11, p. 868]]}
-{mhkb_0289, catpage [[p. 54]]}
+{mhkb_0289, startpage, [[Vol. 11, p. 868]]}
+{mhkb_0289, catpage, [[p. 54]]}
 
 [ehkb_0290 : exp = "造塔功德經序" /zh toc
-	http://psi.iba-net.org/exp/hkb_0290]
+	@"http://psi.iba-net.org/exp/hkb_0290"]
 [mhkb_0290 : man = "造塔功德經序" /zh toc
-	http://psi.iba-net.org/man/hkb_0290]
+	@"http://psi.iba-net.org/man/hkb_0290"]
 is-embodied-in(ehkb_0290 : exp, mhkb_0290 : man)
-{mhkb_0290, startpage [[Vol. 12, p. 1]]}
-{mhkb_0290, catpage [[p. 55]]}
+{mhkb_0290, startpage, [[Vol. 12, p. 1]]}
+{mhkb_0290, catpage, [[p. 55]]}
 
 [ehkb_0291 : exp = "圓宗文類集解卷中" /zh toc
-	http://psi.iba-net.org/exp/hkb_0291]
+	@"http://psi.iba-net.org/exp/hkb_0291"]
 [mhkb_0291 : man = "圓宗文類集解卷中" /zh toc
-	http://psi.iba-net.org/man/hkb_0291]
+	@"http://psi.iba-net.org/man/hkb_0291"]
 is-embodied-in(ehkb_0291 : exp, mhkb_0291 : man)
-{mhkb_0291, startpage [[Vol. 12, p. 1]]}
-{mhkb_0291, catpage [[p. 55]]}
+{mhkb_0291, startpage, [[Vol. 12, p. 1]]}
+{mhkb_0291, catpage, [[p. 55]]}
 
 [ehkb_0292 : exp = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0292]
+	@"http://psi.iba-net.org/exp/hkb_0292"]
 [mhkb_0292 : man = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0292]
+	@"http://psi.iba-net.org/man/hkb_0292"]
 is-embodied-in(ehkb_0292 : exp, mhkb_0292 : man)
-{mhkb_0292, startpage [[Vol. 12, p. 19]]}
-{mhkb_0292, catpage [[p. 55]]}
+{mhkb_0292, startpage, [[Vol. 12, p. 19]]}
+{mhkb_0292, catpage, [[p. 55]]}
 
 [ehkb_0293 : exp = "慈悲道場懺法集解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0293]
+	@"http://psi.iba-net.org/exp/hkb_0293"]
 [mhkb_0293 : man = "慈悲道場懺法集解" /zh toc
-	http://psi.iba-net.org/man/hkb_0293]
+	@"http://psi.iba-net.org/man/hkb_0293"]
 is-embodied-in(ehkb_0293 : exp, mhkb_0293 : man)
-{mhkb_0293, startpage [[Vol. 12, p. 45]]}
-{mhkb_0293, catpage [[p. 55]]}
+{mhkb_0293, startpage, [[Vol. 12, p. 45]]}
+{mhkb_0293, catpage, [[p. 55]]}
 
 [ehkb_0294 : exp = "五種梵音集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0294]
+	@"http://psi.iba-net.org/exp/hkb_0294"]
 [mhkb_0294 : man = "五種梵音集" /zh toc
-	http://psi.iba-net.org/man/hkb_0294]
+	@"http://psi.iba-net.org/man/hkb_0294"]
 is-embodied-in(ehkb_0294 : exp, mhkb_0294 : man)
-{mhkb_0294, startpage [[Vol. 12, p. 156]]}
-{mhkb_0294, catpage [[p. 55]]}
+{mhkb_0294, startpage, [[Vol. 12, p. 156]]}
+{mhkb_0294, catpage, [[p. 55]]}
 
 [ehkb_0295 : exp = "東溪集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0295]
+	@"http://psi.iba-net.org/exp/hkb_0295"]
 [mhkb_0295 : man = "東溪集" /zh toc
-	http://psi.iba-net.org/man/hkb_0295]
+	@"http://psi.iba-net.org/man/hkb_0295"]
 is-embodied-in(ehkb_0295 : exp, mhkb_0295 : man)
-{mhkb_0295, startpage [[Vol. 12, p. 188]]}
-{mhkb_0295, catpage [[p. 55]]}
+{mhkb_0295, startpage, [[Vol. 12, p. 188]]}
+{mhkb_0295, catpage, [[p. 55]]}
 
 [ehkb_0296 : exp = "權實敎菩薩留惑度生之義" /zh toc
-	http://psi.iba-net.org/exp/hkb_0296]
+	@"http://psi.iba-net.org/exp/hkb_0296"]
 [mhkb_0296 : man = "權實敎菩薩留惑度生之義" /zh toc
-	http://psi.iba-net.org/man/hkb_0296]
+	@"http://psi.iba-net.org/man/hkb_0296"]
 is-embodied-in(ehkb_0296 : exp, mhkb_0296 : man)
-{mhkb_0296, startpage [[Vol. 12, p. 230]]}
-{mhkb_0296, catpage [[p. 56]]}
+{mhkb_0296, startpage, [[Vol. 12, p. 230]]}
+{mhkb_0296, catpage, [[p. 56]]}
 
 [ehkb_0297 : exp = "御製花山龍珠寺奉佛祈福偈" /zh toc
-	http://psi.iba-net.org/exp/hkb_0297]
+	@"http://psi.iba-net.org/exp/hkb_0297"]
 [mhkb_0297 : man = "御製花山龍珠寺奉佛祈福偈" /zh toc
-	http://psi.iba-net.org/man/hkb_0297]
+	@"http://psi.iba-net.org/man/hkb_0297"]
 is-embodied-in(ehkb_0297 : exp, mhkb_0297 : man)
-{mhkb_0297, startpage [[Vol. 12, p. 231]]}
-{mhkb_0297, catpage [[p. 56]]}
+{mhkb_0297, startpage, [[Vol. 12, p. 231]]}
+{mhkb_0297, catpage, [[p. 56]]}
 
 [ehkb_0298 : exp = "海鵬集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0298]
+	@"http://psi.iba-net.org/exp/hkb_0298"]
 [mhkb_0298 : man = "海鵬集" /zh toc
-	http://psi.iba-net.org/man/hkb_0298]
+	@"http://psi.iba-net.org/man/hkb_0298"]
 is-embodied-in(ehkb_0298 : exp, mhkb_0298 : man)
-{mhkb_0298, startpage [[Vol. 12, p. 233]]}
-{mhkb_0298, catpage [[p. 56]]}
+{mhkb_0298, startpage, [[Vol. 12, p. 233]]}
+{mhkb_0298, catpage, [[p. 56]]}
 
 [ehkb_0299 : exp = "茶毗說" /zh toc
-	http://psi.iba-net.org/exp/hkb_0299]
+	@"http://psi.iba-net.org/exp/hkb_0299"]
 [mhkb_0299 : man = "茶毗說" /zh toc
-	http://psi.iba-net.org/man/hkb_0299]
+	@"http://psi.iba-net.org/man/hkb_0299"]
 is-embodied-in(ehkb_0299 : exp, mhkb_0299 : man)
-{mhkb_0299, startpage [[Vol. 12, p. 253]]}
-{mhkb_0299, catpage [[p. 56]]}
+{mhkb_0299, startpage, [[Vol. 12, p. 253]]}
+{mhkb_0299, catpage, [[p. 56]]}
 
 [ehkb_0300 : exp = "一枝庵文集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0300]
+	@"http://psi.iba-net.org/exp/hkb_0300"]
 [mhkb_0300 : man = "一枝庵文集" /zh toc
-	http://psi.iba-net.org/man/hkb_0300]
+	@"http://psi.iba-net.org/man/hkb_0300"]
 is-embodied-in(ehkb_0300 : exp, mhkb_0300 : man)
-{mhkb_0300, startpage [[Vol. 12, p. 258]]}
-{mhkb_0300, catpage [[p. 56]]}
+{mhkb_0300, startpage, [[Vol. 12, p. 258]]}
+{mhkb_0300, catpage, [[p. 56]]}
 
 [ehkb_0301 : exp = "山志錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0301]
+	@"http://psi.iba-net.org/exp/hkb_0301"]
 [mhkb_0301 : man = "山志錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0301]
+	@"http://psi.iba-net.org/man/hkb_0301"]
 is-embodied-in(ehkb_0301 : exp, mhkb_0301 : man)
-{mhkb_0301, startpage [[Vol. 12, p. 273]]}
-{mhkb_0301, catpage [[p. 56]]}
+{mhkb_0301, startpage, [[Vol. 12, p. 273]]}
+{mhkb_0301, catpage, [[p. 56]]}
 
 [ehkb_0302 : exp = "甘露法會" /zh toc
-	http://psi.iba-net.org/exp/hkb_0302]
+	@"http://psi.iba-net.org/exp/hkb_0302"]
 [mhkb_0302 : man = "甘露法會" /zh toc
-	http://psi.iba-net.org/man/hkb_0302]
+	@"http://psi.iba-net.org/man/hkb_0302"]
 is-embodied-in(ehkb_0302 : exp, mhkb_0302 : man)
-{mhkb_0302, startpage [[Vol. 12, p. 279]]}
-{mhkb_0302, catpage [[p. 56]]}
+{mhkb_0302, startpage, [[Vol. 12, p. 279]]}
+{mhkb_0302, catpage, [[p. 56]]}
 
 [ehkb_0303 : exp = "義龍集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0303]
+	@"http://psi.iba-net.org/exp/hkb_0303"]
 [mhkb_0303 : man = "義龍集" /zh toc
-	http://psi.iba-net.org/man/hkb_0303]
+	@"http://psi.iba-net.org/man/hkb_0303"]
 is-embodied-in(ehkb_0303 : exp, mhkb_0303 : man)
-{mhkb_0303, startpage [[Vol. 12, p. 281]]}
-{mhkb_0303, catpage [[p. 56]]}
+{mhkb_0303, startpage, [[Vol. 12, p. 281]]}
+{mhkb_0303, catpage, [[p. 56]]}
 
 [ehkb_0304 : exp = "草广遺稿敍" /zh toc
-	http://psi.iba-net.org/exp/hkb_0304]
+	@"http://psi.iba-net.org/exp/hkb_0304"]
 [mhkb_0304 : man = "草广遺稿敍" /zh toc
-	http://psi.iba-net.org/man/hkb_0304]
+	@"http://psi.iba-net.org/man/hkb_0304"]
 is-embodied-in(ehkb_0304 : exp, mhkb_0304 : man)
-{mhkb_0304, startpage [[Vol. 12, p. 304]]}
-{mhkb_0304, catpage [[p. 56]]}
+{mhkb_0304, startpage, [[Vol. 12, p. 304]]}
+{mhkb_0304, catpage, [[p. 56]]}
 
 [ehkb_0305 : exp = "佛祖錄贊頌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0305]
+	@"http://psi.iba-net.org/exp/hkb_0305"]
 [mhkb_0305 : man = "佛祖錄贊頌" /zh toc
-	http://psi.iba-net.org/man/hkb_0305]
+	@"http://psi.iba-net.org/man/hkb_0305"]
 is-embodied-in(ehkb_0305 : exp, mhkb_0305 : man)
-{mhkb_0305, startpage [[Vol. 12, p. 316]]}
-{mhkb_0305, catpage [[p. 56]]}
+{mhkb_0305, startpage, [[Vol. 12, p. 316]]}
+{mhkb_0305, catpage, [[p. 56]]}
 
 [ehkb_0306 : exp = "淨土讃百詠" /zh toc
-	http://psi.iba-net.org/exp/hkb_0306]
+	@"http://psi.iba-net.org/exp/hkb_0306"]
 [mhkb_0306 : man = "淨土讃百詠" /zh toc
-	http://psi.iba-net.org/man/hkb_0306]
+	@"http://psi.iba-net.org/man/hkb_0306"]
 is-embodied-in(ehkb_0306 : exp, mhkb_0306 : man)
-{mhkb_0306, startpage [[Vol. 12, p. 356]]}
-{mhkb_0306, catpage [[p. 57]]}
+{mhkb_0306, startpage, [[Vol. 12, p. 356]]}
+{mhkb_0306, catpage, [[p. 57]]}
 
 [ehkb_0307 : exp = "菩薩降生時天主護法錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0307]
+	@"http://psi.iba-net.org/exp/hkb_0307"]
 [mhkb_0307 : man = "菩薩降生時天主護法錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0307]
+	@"http://psi.iba-net.org/man/hkb_0307"]
 is-embodied-in(ehkb_0307 : exp, mhkb_0307 : man)
-{mhkb_0307, startpage [[Vol. 12, p. 364]]}
-{mhkb_0307, catpage [[p. 57]]}
+{mhkb_0307, startpage, [[Vol. 12, p. 364]]}
+{mhkb_0307, catpage, [[p. 57]]}
 
 [ehkb_0308 : exp = "質疑錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0308]
+	@"http://psi.iba-net.org/exp/hkb_0308"]
 [mhkb_0308 : man = "質疑錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0308]
+	@"http://psi.iba-net.org/man/hkb_0308"]
 is-embodied-in(ehkb_0308 : exp, mhkb_0308 : man)
-{mhkb_0308, startpage [[Vol. 12, p. 368]]}
-{mhkb_0308, catpage [[p. 57]]}
+{mhkb_0308, startpage, [[Vol. 12, p. 368]]}
+{mhkb_0308, catpage, [[p. 57]]}
 
 [ehkb_0309 : exp = "曹溪高僧傳" /zh toc
-	http://psi.iba-net.org/exp/hkb_0309]
+	@"http://psi.iba-net.org/exp/hkb_0309"]
 [mhkb_0309 : man = "曹溪高僧傳" /zh toc
-	http://psi.iba-net.org/man/hkb_0309]
+	@"http://psi.iba-net.org/man/hkb_0309"]
 is-embodied-in(ehkb_0309 : exp, mhkb_0309 : man)
-{mhkb_0309, startpage [[Vol. 12, p. 381]]}
-{mhkb_0309, catpage [[p. 57]]}
+{mhkb_0309, startpage, [[Vol. 12, p. 381]]}
+{mhkb_0309, catpage, [[p. 57]]}
 
 [ehkb_0310 : exp = "念佛要門科解" /zh toc
-	http://psi.iba-net.org/exp/hkb_0310]
+	@"http://psi.iba-net.org/exp/hkb_0310"]
 [mhkb_0310 : man = "念佛要門科解" /zh toc
-	http://psi.iba-net.org/man/hkb_0310]
+	@"http://psi.iba-net.org/man/hkb_0310"]
 is-embodied-in(ehkb_0310 : exp, mhkb_0310 : man)
-{mhkb_0310, startpage [[Vol. 12, p. 426]]}
-{mhkb_0310, catpage [[p. 57]]}
+{mhkb_0310, startpage, [[Vol. 12, p. 426]]}
+{mhkb_0310, catpage, [[p. 57]]}
 
 [ehkb_0311 : exp = "著譯叢譜" /zh toc
-	http://psi.iba-net.org/exp/hkb_0311]
+	@"http://psi.iba-net.org/exp/hkb_0311"]
 [mhkb_0311 : man = "著譯叢譜" /zh toc
-	http://psi.iba-net.org/man/hkb_0311]
+	@"http://psi.iba-net.org/man/hkb_0311"]
 is-embodied-in(ehkb_0311 : exp, mhkb_0311 : man)
-{mhkb_0311, startpage [[Vol. 12, p. 435]]}
-{mhkb_0311, catpage [[p. 57]]}
+{mhkb_0311, startpage, [[Vol. 12, p. 435]]}
+{mhkb_0311, catpage, [[p. 57]]}
 
 [ehkb_0312 : exp = "栢悅錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0312]
+	@"http://psi.iba-net.org/exp/hkb_0312"]
 [mhkb_0312 : man = "栢悅錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0312]
+	@"http://psi.iba-net.org/man/hkb_0312"]
 is-embodied-in(ehkb_0312 : exp, mhkb_0312 : man)
-{mhkb_0312, startpage [[Vol. 12, p. 511]]}
-{mhkb_0312, catpage [[p. 57]]}
+{mhkb_0312, startpage, [[Vol. 12, p. 511]]}
+{mhkb_0312, catpage, [[p. 57]]}
 
 [ehkb_0313 : exp = "大東詠選" /zh toc
-	http://psi.iba-net.org/exp/hkb_0313]
+	@"http://psi.iba-net.org/exp/hkb_0313"]
 [mhkb_0313 : man = "大東詠選" /zh toc
-	http://psi.iba-net.org/man/hkb_0313]
+	@"http://psi.iba-net.org/man/hkb_0313"]
 is-embodied-in(ehkb_0313 : exp, mhkb_0313 : man)
-{mhkb_0313, startpage [[Vol. 12, p. 547]]}
-{mhkb_0313, catpage [[p. 57]]}
+{mhkb_0313, startpage, [[Vol. 12, p. 547]]}
+{mhkb_0313, catpage, [[p. 57]]}
 
 [ehkb_0314 : exp = "茶松詩稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0314]
+	@"http://psi.iba-net.org/exp/hkb_0314"]
 [mhkb_0314 : man = "茶松詩稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0314]
+	@"http://psi.iba-net.org/man/hkb_0314"]
 is-embodied-in(ehkb_0314 : exp, mhkb_0314 : man)
-{mhkb_0314, startpage [[Vol. 12, p. 574]]}
-{mhkb_0314, catpage [[p. 57]]}
+{mhkb_0314, startpage, [[Vol. 12, p. 574]]}
+{mhkb_0314, catpage, [[p. 57]]}
 
 [ehkb_0315 : exp = "茶松文稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0315]
+	@"http://psi.iba-net.org/exp/hkb_0315"]
 [mhkb_0315 : man = "茶松文稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0315]
+	@"http://psi.iba-net.org/man/hkb_0315"]
 is-embodied-in(ehkb_0315 : exp, mhkb_0315 : man)
-{mhkb_0315, startpage [[Vol. 12, p. 676]]}
-{mhkb_0315, catpage [[p. 57]]}
+{mhkb_0315, startpage, [[Vol. 12, p. 676]]}
+{mhkb_0315, catpage, [[p. 57]]}
 
 [ehkb_0316 : exp = "曾谷集" /zh toc
-	http://psi.iba-net.org/exp/hkb_0316]
+	@"http://psi.iba-net.org/exp/hkb_0316"]
 [mhkb_0316 : man = "曾谷集" /zh toc
-	http://psi.iba-net.org/man/hkb_0316]
+	@"http://psi.iba-net.org/man/hkb_0316"]
 is-embodied-in(ehkb_0316 : exp, mhkb_0316 : man)
-{mhkb_0316, startpage [[Vol. 12, p. 784]]}
-{mhkb_0316, catpage [[p. 57]]}
+{mhkb_0316, startpage, [[Vol. 12, p. 784]]}
+{mhkb_0316, catpage, [[p. 57]]}
 
 [ehkb_0317 : exp = "東溟遺稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0317]
+	@"http://psi.iba-net.org/exp/hkb_0317"]
 [mhkb_0317 : man = "東溟遺稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0317]
+	@"http://psi.iba-net.org/man/hkb_0317"]
 is-embodied-in(ehkb_0317 : exp, mhkb_0317 : man)
-{mhkb_0317, startpage [[Vol. 12, p. 806]]}
-{mhkb_0317, catpage [[p. 58]]}
+{mhkb_0317, startpage, [[Vol. 12, p. 806]]}
+{mhkb_0317, catpage, [[p. 58]]}
 
 [ehkb_0318 : exp = "藕堂詩稿" /zh toc
-	http://psi.iba-net.org/exp/hkb_0318]
+	@"http://psi.iba-net.org/exp/hkb_0318"]
 [mhkb_0318 : man = "藕堂詩稿" /zh toc
-	http://psi.iba-net.org/man/hkb_0318]
+	@"http://psi.iba-net.org/man/hkb_0318"]
 is-embodied-in(ehkb_0318 : exp, mhkb_0318 : man)
-{mhkb_0318, startpage [[Vol. 12, p. 816]]}
-{mhkb_0318, catpage [[p. 58]]}
+{mhkb_0318, startpage, [[Vol. 12, p. 816]]}
+{mhkb_0318, catpage, [[p. 58]]}
 
 [ehkb_0319 : exp = "淳溪禪師弄我歌" /zh toc
-	http://psi.iba-net.org/exp/hkb_0319]
+	@"http://psi.iba-net.org/exp/hkb_0319"]
 [mhkb_0319 : man = "淳溪禪師弄我歌" /zh toc
-	http://psi.iba-net.org/man/hkb_0319]
+	@"http://psi.iba-net.org/man/hkb_0319"]
 is-embodied-in(ehkb_0319 : exp, mhkb_0319 : man)
-{mhkb_0319, startpage [[Vol. 12, p. 830]]}
-{mhkb_0319, catpage [[p. 58]]}
+{mhkb_0319, startpage, [[Vol. 12, p. 830]]}
+{mhkb_0319, catpage, [[p. 58]]}
 
 [ehkb_0320 : exp = "起信本末五重" /zh toc
-	http://psi.iba-net.org/exp/hkb_0320]
+	@"http://psi.iba-net.org/exp/hkb_0320"]
 [mhkb_0320 : man = "起信本末五重" /zh toc
-	http://psi.iba-net.org/man/hkb_0320]
+	@"http://psi.iba-net.org/man/hkb_0320"]
 is-embodied-in(ehkb_0320 : exp, mhkb_0320 : man)
-{mhkb_0320, startpage [[Vol. 12, p. 850]]}
-{mhkb_0320, catpage [[p. 58]]}
+{mhkb_0320, startpage, [[Vol. 12, p. 850]]}
+{mhkb_0320, catpage, [[p. 58]]}
 
 [ehkb_0321 : exp = "禪敎摠判門" /zh toc
-	http://psi.iba-net.org/exp/hkb_0321]
+	@"http://psi.iba-net.org/exp/hkb_0321"]
 [mhkb_0321 : man = "禪敎摠判門" /zh toc
-	http://psi.iba-net.org/man/hkb_0321]
+	@"http://psi.iba-net.org/man/hkb_0321"]
 is-embodied-in(ehkb_0321 : exp, mhkb_0321 : man)
-{mhkb_0321, startpage [[Vol. 12, p. 853]]}
-{mhkb_0321, catpage [[p. 58]]}
+{mhkb_0321, startpage, [[Vol. 12, p. 853]]}
+{mhkb_0321, catpage, [[p. 58]]}
 
 [ehkb_0322 : exp = "參禪念佛文(一篇)" /zh toc
-	http://psi.iba-net.org/exp/hkb_0322]
+	@"http://psi.iba-net.org/exp/hkb_0322"]
 [mhkb_0322 : man = "參禪念佛文(一篇)" /zh toc
-	http://psi.iba-net.org/man/hkb_0322]
+	@"http://psi.iba-net.org/man/hkb_0322"]
 is-embodied-in(ehkb_0322 : exp, mhkb_0322 : man)
-{mhkb_0322, startpage [[Vol. 12, p. 856]]}
-{mhkb_0322, catpage [[p. 58]]}
+{mhkb_0322, startpage, [[Vol. 12, p. 856]]}
+{mhkb_0322, catpage, [[p. 58]]}
 
 [ehkb_0323 : exp = "東國僧尼錄" /zh toc
-	http://psi.iba-net.org/exp/hkb_0323]
+	@"http://psi.iba-net.org/exp/hkb_0323"]
 [mhkb_0323 : man = "東國僧尼錄" /zh toc
-	http://psi.iba-net.org/man/hkb_0323]
+	@"http://psi.iba-net.org/man/hkb_0323"]
 is-embodied-in(ehkb_0323 : exp, mhkb_0323 : man)
-{mhkb_0323, startpage [[Vol. 12, p. 857]]}
-{mhkb_0323, catpage [[p. 58]]}
+{mhkb_0323, startpage, [[Vol. 12, p. 857]]}
+{mhkb_0323, catpage, [[p. 58]]}
 
 [ehkb_0324 : exp = "瑜伽論記" /zh toc
-	http://psi.iba-net.org/exp/hkb_0324]
+	@"http://psi.iba-net.org/exp/hkb_0324"]
 [mhkb_0324 : man = "瑜伽論記" /zh toc
-	http://psi.iba-net.org/man/hkb_0324]
+	@"http://psi.iba-net.org/man/hkb_0324"]
 is-embodied-in(ehkb_0324 : exp, mhkb_0324 : man)
-{mhkb_0324, startpage [[Vol. 13, p. 1]]}
-{mhkb_0324, catpage [[p. 59]]}
+{mhkb_0324, startpage, [[Vol. 13, p. 1]]}
+{mhkb_0324, catpage, [[p. 59]]}
