@@ -1,0 +1,975 @@
+@"utf-8"
+#VERSION "1.3"
+#INCLUDE "ontology.ltm"
+
+[whkb_0001 : work = "佛說般若波羅蜜多心經贊" /zh toc
+	http://psi.iba-net.org/work/hkb_0001]
+
+[whkb_0002 : work = "仁王經疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0002]
+
+[whkb_0003 : work = "解深密經疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0003]
+
+[whkb_0004 : work = "大乘大集地藏十輪經序" /zh toc
+	http://psi.iba-net.org/work/hkb_0004]
+
+[whkb_0005 : work = "大慧度經宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0005]
+
+[whkb_0006 : work = "法華宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0006]
+
+[whkb_0007 : work = "花嚴經疏三巻" /zh toc
+	http://psi.iba-net.org/work/hkb_0007]
+
+[whkb_0008 : work = "本業經疏巻下" /zh toc
+	http://psi.iba-net.org/work/hkb_0008]
+
+[whkb_0009 : work = "涅槃宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0009]
+
+[whkb_0010 : work = "彌勒上生經宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0010]
+
+[whkb_0011 : work = "解深密經疏序" /zh toc
+	http://psi.iba-net.org/work/hkb_0011]
+
+[whkb_0012 : work = "無量壽經宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0012]
+
+[whkb_0013 : work = "佛說阿彌陀經疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0013]
+
+[whkb_0014 : work = "遊心安樂道" /zh toc
+	http://psi.iba-net.org/work/hkb_0014]
+
+[whkb_0015 : work = "菩薩戒本持犯要記" /zh toc
+	http://psi.iba-net.org/work/hkb_0015]
+
+[whkb_0016 : work = "梵綱經菩薩戒本私記" /zh toc
+	http://psi.iba-net.org/work/hkb_0016]
+
+[whkb_0017 : work = "金剛三昧經論" /zh toc
+	http://psi.iba-net.org/work/hkb_0017]
+
+[whkb_0018 : work = "大乘起信論別記本" /zh toc
+	http://psi.iba-net.org/work/hkb_0018]
+
+[whkb_0019 : work = "起信論疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0019]
+
+[whkb_0020 : work = "大乘起信論疏記會本" /zh toc
+	http://psi.iba-net.org/work/hkb_0020]
+
+[whkb_0021 : work = "二障義" /zh toc
+	http://psi.iba-net.org/work/hkb_0021]
+
+[whkb_0022 : work = "判比量論" /zh toc
+	http://psi.iba-net.org/work/hkb_0022]
+
+[whkb_0023 : work = "中邊分別論疏巻三" /zh toc
+	http://psi.iba-net.org/work/hkb_0023]
+
+[whkb_0024 : work = "十門和諍論" /zh toc
+	http://psi.iba-net.org/work/hkb_0024]
+
+[whkb_0025 : work = "發心修行章" /zh toc
+	http://psi.iba-net.org/work/hkb_0025]
+
+[whkb_0026 : work = "大乘六情懺悔" /zh toc
+	http://psi.iba-net.org/work/hkb_0026]
+
+[whkb_0027 : work = "彌陀證性偈" /zh toc
+	http://psi.iba-net.org/work/hkb_0027]
+
+[whkb_0028 : work = "華嚴一乘法界圖" /zh toc
+	http://psi.iba-net.org/work/hkb_0028]
+
+[whkb_0029 : work = "白花道場發願文" /zh toc
+	http://psi.iba-net.org/work/hkb_0029]
+
+[whkb_0030 : work = "無量壽經義疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0030]
+
+[whkb_0031 : work = "無量壽經連義述文贊" /zh toc
+	http://psi.iba-net.org/work/hkb_0031]
+
+[whkb_0032 : work = "三彌勒生經疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0032]
+
+[whkb_0033 : work = "梵網經述記" /zh toc
+	http://psi.iba-net.org/work/hkb_0033]
+
+[whkb_0034 : work = "金光明最勝王經疏[輯逸]" /zh toc
+	http://psi.iba-net.org/work/hkb_0034]
+
+[whkb_0035 : work = "無量壽經記" /zh toc
+	http://psi.iba-net.org/work/hkb_0035]
+
+[whkb_0036 : work = "菩薩戒本疏幷重刻序" /zh toc
+	http://psi.iba-net.org/work/hkb_0036]
+
+[whkb_0037 : work = "法華經論述記" /zh toc
+	http://psi.iba-net.org/work/hkb_0037]
+
+[whkb_0038 : work = "無量壽經述義記" /zh toc
+	http://psi.iba-net.org/work/hkb_0038]
+
+[whkb_0039 : work = "華嚴經文義要決問答" /zh toc
+	http://psi.iba-net.org/work/hkb_0039]
+
+[whkb_0040 : work = "海印三昧論" /zh toc
+	http://psi.iba-net.org/work/hkb_0040]
+
+[whkb_0041 : work = "瑜伽論記" /zh toc
+	http://psi.iba-net.org/work/hkb_0041]
+
+[whkb_0042 : work = "往五天竺國傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0042]
+
+[whkb_0043 : work = "大乘瑜伽金剛性海曼殊室利千臂千缽大敎王經序" /zh toc
+	http://psi.iba-net.org/work/hkb_0043]
+
+[whkb_0044 : work = "賀玉女潭祈雨表" /zh toc
+	http://psi.iba-net.org/work/hkb_0044]
+
+[whkb_0045 : work = "大毗盧遮那經供養次第法疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0045]
+
+[whkb_0046 : work = "本願藥師經古迹" /zh toc
+	http://psi.iba-net.org/work/hkb_0046]
+
+[whkb_0047 : work = "梵網經古迹記" /zh toc
+	http://psi.iba-net.org/work/hkb_0047]
+
+[whkb_0048 : work = "菩薩戒本宗要" /zh toc
+	http://psi.iba-net.org/work/hkb_0048]
+
+[whkb_0049 : work = "成唯識論學記" /zh toc
+	http://psi.iba-net.org/work/hkb_0049]
+
+[whkb_0050 : work = "大乘起信論同異略集" /zh toc
+	http://psi.iba-net.org/work/hkb_0050]
+
+[whkb_0051 : work = "華嚴一乘成佛妙義" /zh toc
+	http://psi.iba-net.org/work/hkb_0051]
+
+[whkb_0052 : work = "大乘起信論內義略探記" /zh toc
+	http://psi.iba-net.org/work/hkb_0052]
+
+[whkb_0053 : work = "祖堂集所載順之和尙說" /zh toc
+	http://psi.iba-net.org/work/hkb_0053]
+
+[whkb_0054 : work = "唐大薦福寺故寺主翻經大德法藏和尙傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0054]
+
+[whkb_0055 : work = "一乘法界圖圓通記" /zh toc
+	http://psi.iba-net.org/work/hkb_0055]
+
+[whkb_0056 : work = "十句章圓通記" /zh toc
+	http://psi.iba-net.org/work/hkb_0056]
+
+[whkb_0057 : work = "釋華嚴旨歸章圓通鈔" /zh toc
+	http://psi.iba-net.org/work/hkb_0057]
+
+[whkb_0058 : work = "華嚴經三寶章圓通記" /zh toc
+	http://psi.iba-net.org/work/hkb_0058]
+
+[whkb_0059 : work = "釋華嚴敎分記圓通鈔" /zh toc
+	http://psi.iba-net.org/work/hkb_0059]
+
+[whkb_0060 : work = "大華嚴首坐圓通兩重大師均如傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0060]
+
+[whkb_0061 : work = "天台四敎儀" /zh toc
+	http://psi.iba-net.org/work/hkb_0061]
+
+[whkb_0062 : work = "大覺國師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0062]
+
+[whkb_0063 : work = "大覺國師外集" /zh toc
+	http://psi.iba-net.org/work/hkb_0063]
+
+[whkb_0064 : work = "圓宗文類" /zh toc
+	http://psi.iba-net.org/work/hkb_0064]
+
+[whkb_0065 : work = "釋苑詞林" /zh toc
+	http://psi.iba-net.org/work/hkb_0065]
+
+[whkb_0066 : work = "新編諸宗敎藏總錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0066]
+
+[whkb_0067 : work = "勸修定慧結社文" /zh toc
+	http://psi.iba-net.org/work/hkb_0067]
+
+[whkb_0068 : work = "牧牛子修心訣" /zh toc
+	http://psi.iba-net.org/work/hkb_0068]
+
+[whkb_0069 : work = "眞心直說" /zh toc
+	http://psi.iba-net.org/work/hkb_0069]
+
+[whkb_0070 : work = "圓頓成佛論" /zh toc
+	http://psi.iba-net.org/work/hkb_0070]
+
+[whkb_0071 : work = "看話決疑論" /zh toc
+	http://psi.iba-net.org/work/hkb_0071]
+
+[whkb_0072 : work = "誡初心學人文" /zh toc
+	http://psi.iba-net.org/work/hkb_0072]
+
+[whkb_0073 : work = "六祖法寶壇經跋" /zh toc
+	http://psi.iba-net.org/work/hkb_0073]
+
+[whkb_0074 : work = "法集別行錄節要幷入私記" /zh toc
+	http://psi.iba-net.org/work/hkb_0074]
+
+[whkb_0075 : work = "華嚴論節要" /zh toc
+	http://psi.iba-net.org/work/hkb_0075]
+
+[whkb_0076 : work = "禪門拈頌拈頌說話會本" /zh toc
+	http://psi.iba-net.org/work/hkb_0076]
+
+[whkb_0077 : work = "曹溪眞覺國師語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0077]
+
+[whkb_0078 : work = "無衣子詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0078]
+
+[whkb_0079 : work = "金剛般若波羅蜜經贊" /zh toc
+	http://psi.iba-net.org/work/hkb_0079]
+
+[whkb_0080 : work = "狗子無佛性話揀病論" /zh toc
+	http://psi.iba-net.org/work/hkb_0080]
+
+[whkb_0081 : work = "宗門圓相集" /zh toc
+	http://psi.iba-net.org/work/hkb_0081]
+
+[whkb_0082 : work = "海東高僧傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0082]
+
+[whkb_0083 : work = "南明泉和尙頌證道歌事實" /zh toc
+	http://psi.iba-net.org/work/hkb_0083]
+
+[whkb_0084 : work = "大藏目錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0084]
+
+[whkb_0085 : work = "萬德山白蓮社第二代靜明國師後集" /zh toc
+	http://psi.iba-net.org/work/hkb_0085]
+
+[whkb_0086 : work = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0086]
+
+[whkb_0087 : work = "重編曺洞五位序" /zh toc
+	http://psi.iba-net.org/work/hkb_0087]
+
+[whkb_0088 : work = "三國遺事" /zh toc
+	http://psi.iba-net.org/work/hkb_0088]
+
+[whkb_0089 : work = "海東曹溪第六世圓鑑國師歌頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0089]
+
+[whkb_0090 : work = "白衣解" /zh toc
+	http://psi.iba-net.org/work/hkb_0090]
+
+[whkb_0091 : work = "首楞嚴經環解删補記" /zh toc
+	http://psi.iba-net.org/work/hkb_0091]
+
+[whkb_0092 : work = "禪門寶藏錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0092]
+
+[whkb_0093 : work = "釋迦如來行蹟頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0093]
+
+[whkb_0094 : work = "天台末學雲默和尙警策" /zh toc
+	http://psi.iba-net.org/work/hkb_0094]
+
+[whkb_0095 : work = "法華靈驗傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0095]
+
+[whkb_0096 : work = "白花道場發願文略解" /zh toc
+	http://psi.iba-net.org/work/hkb_0096]
+
+[whkb_0097 : work = "華嚴經觀自在菩薩所說法門別行䟽" /zh toc
+	http://psi.iba-net.org/work/hkb_0097]
+
+[whkb_0098 : work = "華嚴經觀音知識品" /zh toc
+	http://psi.iba-net.org/work/hkb_0098]
+
+[whkb_0099 : work = "三十八分功德䟽經跋文" /zh toc
+	http://psi.iba-net.org/work/hkb_0099]
+
+[whkb_0100 : work = "白雲和尙抄錄佛祖直指心體要節" /zh toc
+	http://psi.iba-net.org/work/hkb_0100]
+
+[whkb_0101 : work = "白雲和尙語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0101]
+
+[whkb_0102 : work = "太古和尙語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0102]
+
+[whkb_0103 : work = "普濟尊者語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0103]
+
+[whkb_0104 : work = "懶翁和尙歌頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0104]
+
+[whkb_0105 : work = "普濟尊者三种歌" /zh toc
+	http://psi.iba-net.org/work/hkb_0105]
+
+[whkb_0106 : work = "自警序" /zh toc
+	http://psi.iba-net.org/work/hkb_0106]
+
+[whkb_0107 : work = "法界圖記叢髓錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0107]
+
+[whkb_0108 : work = "禪門綱要集" /zh toc
+	http://psi.iba-net.org/work/hkb_0108]
+
+[whkb_0109 : work = "現行西方經" /zh toc
+	http://psi.iba-net.org/work/hkb_0109]
+
+[whkb_0110 : work = "念佛因由經" /zh toc
+	http://psi.iba-net.org/work/hkb_0110]
+
+[whkb_0111 : work = "三十八分功德䟽經" /zh toc
+	http://psi.iba-net.org/work/hkb_0111]
+
+[whkb_0112 : work = "東文選所載麗代僧侶詩文" /zh toc
+	http://psi.iba-net.org/work/hkb_0112]
+
+[whkb_0113 : work = "佛祖宗派之圖" /zh toc
+	http://psi.iba-net.org/work/hkb_0113]
+
+[whkb_0114 : work = "金剛般若波羅蜜經五家解說誼" /zh toc
+	http://psi.iba-net.org/work/hkb_0114]
+
+[whkb_0115 : work = "金剛般若波羅蜜經綸貫" /zh toc
+	http://psi.iba-net.org/work/hkb_0115]
+
+[whkb_0116 : work = "大方廣圓覺修多羅了義經說誼" /zh toc
+	http://psi.iba-net.org/work/hkb_0116]
+
+[whkb_0117 : work = "禪宗永嘉集科註誼" /zh toc
+	http://psi.iba-net.org/work/hkb_0117]
+
+[whkb_0118 : work = "顯正論" /zh toc
+	http://psi.iba-net.org/work/hkb_0118]
+
+[whkb_0119 : work = "涵虛堂得通和尙語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0119]
+
+[whkb_0120 : work = "儒釋質疑論" /zh toc
+	http://psi.iba-net.org/work/hkb_0120]
+
+[whkb_0121 : work = "寂滅示眾論" /zh toc
+	http://psi.iba-net.org/work/hkb_0121]
+
+[whkb_0122 : work = "蓮經別讃" /zh toc
+	http://psi.iba-net.org/work/hkb_0122]
+
+[whkb_0123 : work = "華嚴釋題" /zh toc
+	http://psi.iba-net.org/work/hkb_0123]
+
+[whkb_0124 : work = "大華嚴法界圖註(并序)" /zh toc
+	http://psi.iba-net.org/work/hkb_0124]
+
+[whkb_0125 : work = "十玄談要解" /zh toc
+	http://psi.iba-net.org/work/hkb_0125]
+
+[whkb_0126 : work = "梅月堂詩四遊錄後" /zh toc
+	http://psi.iba-net.org/work/hkb_0126]
+
+[whkb_0127 : work = "梅月堂詩四遊錄別集" /zh toc
+	http://psi.iba-net.org/work/hkb_0127]
+
+[whkb_0128 : work = "梅月堂全集佛敎關係詩文抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0128]
+
+[whkb_0129 : work = "碧松堂埜老頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0129]
+
+[whkb_0130 : work = "訓蒙要鈔" /zh toc
+	http://psi.iba-net.org/work/hkb_0130]
+
+[whkb_0131 : work = "拈頌說話節錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0131]
+
+[whkb_0132 : work = "虛應堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0132]
+
+[whkb_0133 : work = "懶庵雜著" /zh toc
+	http://psi.iba-net.org/work/hkb_0133]
+
+[whkb_0134 : work = "水月道場空花佛事如幻賔主夢中問答" /zh toc
+	http://psi.iba-net.org/work/hkb_0134]
+
+[whkb_0135 : work = "勸念要錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0135]
+
+[whkb_0136 : work = "三家龜鑑" /zh toc
+	http://psi.iba-net.org/work/hkb_0136]
+
+[whkb_0137 : work = "三家龜鑑(異本)" /zh toc
+	http://psi.iba-net.org/work/hkb_0137]
+
+[whkb_0138 : work = "禪家龜鑑" /zh toc
+	http://psi.iba-net.org/work/hkb_0138]
+
+[whkb_0139 : work = "心法要抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0139]
+
+[whkb_0140 : work = "禪敎釋" /zh toc
+	http://psi.iba-net.org/work/hkb_0140]
+
+[whkb_0141 : work = "禪敎訣" /zh toc
+	http://psi.iba-net.org/work/hkb_0141]
+
+[whkb_0142 : work = "淸虛堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0142]
+
+[whkb_0143 : work = "說禪儀" /zh toc
+	http://psi.iba-net.org/work/hkb_0143]
+
+[whkb_0144 : work = "雲水壇謌詞" /zh toc
+	http://psi.iba-net.org/work/hkb_0144]
+
+[whkb_0145 : work = "三老行蹟" /zh toc
+	http://psi.iba-net.org/work/hkb_0145]
+
+[whkb_0146 : work = "釋迦如來行迹頌撮要" /zh toc
+	http://psi.iba-net.org/work/hkb_0146]
+
+[whkb_0147 : work = "通錄撮要" /zh toc
+	http://psi.iba-net.org/work/hkb_0147]
+
+[whkb_0148 : work = "禪家金屑錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0148]
+
+[whkb_0149 : work = "浮休堂大師集" /zh toc
+	http://psi.iba-net.org/work/hkb_0149]
+
+[whkb_0150 : work = "靜觀集" /zh toc
+	http://psi.iba-net.org/work/hkb_0150]
+
+[whkb_0151 : work = "暎虛集" /zh toc
+	http://psi.iba-net.org/work/hkb_0151]
+
+[whkb_0152 : work = "四溟堂大師集" /zh toc
+	http://psi.iba-net.org/work/hkb_0152]
+
+[whkb_0153 : work = "松雲大師奮忠紓難錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0153]
+
+[whkb_0154 : work = "霽月堂大師集" /zh toc
+	http://psi.iba-net.org/work/hkb_0154]
+
+[whkb_0155 : work = "靑梅集" /zh toc
+	http://psi.iba-net.org/work/hkb_0155]
+
+[whkb_0156 : work = "奇巖集" /zh toc
+	http://psi.iba-net.org/work/hkb_0156]
+
+[whkb_0157 : work = "逍遙堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0157]
+
+[whkb_0158 : work = "中觀大師遺稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0158]
+
+[whkb_0159 : work = "詠月堂大師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0159]
+
+[whkb_0160 : work = "釋門喪儀抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0160]
+
+[whkb_0161 : work = "鞭羊堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0161]
+
+[whkb_0162 : work = "雲谷集" /zh toc
+	http://psi.iba-net.org/work/hkb_0162]
+
+[whkb_0163 : work = "釋門家禮抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0163]
+
+[whkb_0164 : work = "翠微大師詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0164]
+
+[whkb_0165 : work = "大覺登階集" /zh toc
+	http://psi.iba-net.org/work/hkb_0165]
+
+[whkb_0166 : work = "任性堂大師行狀" /zh toc
+	http://psi.iba-net.org/work/hkb_0166]
+
+[whkb_0167 : work = "枕肱集" /zh toc
+	http://psi.iba-net.org/work/hkb_0167]
+
+[whkb_0168 : work = "大方廣佛華嚴經七處九會品目之圖??" /zh toc
+	http://psi.iba-net.org/work/hkb_0168]
+
+[whkb_0169 : work = "虛白集" /zh toc
+	http://psi.iba-net.org/work/hkb_0169]
+
+[whkb_0170 : work = "僧家禮儀文" /zh toc
+	http://psi.iba-net.org/work/hkb_0170]
+
+[whkb_0171 : work = "禪源諸詮集都序分科" /zh toc
+	http://psi.iba-net.org/work/hkb_0171]
+
+[whkb_0172 : work = "栢庵集" /zh toc
+	http://psi.iba-net.org/work/hkb_0172]
+
+[whkb_0173 : work = "淨土寶書" /zh toc
+	http://psi.iba-net.org/work/hkb_0173]
+
+[whkb_0174 : work = "栢庵淨土讃" /zh toc
+	http://psi.iba-net.org/work/hkb_0174]
+
+[whkb_0175 : work = "四經持驗紀" /zh toc
+	http://psi.iba-net.org/work/hkb_0175]
+
+[whkb_0176 : work = "緇門警訓註" /zh toc
+	http://psi.iba-net.org/work/hkb_0176]
+
+[whkb_0177 : work = "大乘起信論䟽筆削記會編" /zh toc
+	http://psi.iba-net.org/work/hkb_0177]
+
+[whkb_0178 : work = "雲峯禪師心性論" /zh toc
+	http://psi.iba-net.org/work/hkb_0178]
+
+[whkb_0179 : work = "月峯集" /zh toc
+	http://psi.iba-net.org/work/hkb_0179]
+
+[whkb_0180 : work = "念佛普勸文" /zh toc
+	http://psi.iba-net.org/work/hkb_0180]
+
+[whkb_0181 : work = "月渚堂大師集" /zh toc
+	http://psi.iba-net.org/work/hkb_0181]
+
+[whkb_0182 : work = "楓溪集" /zh toc
+	http://psi.iba-net.org/work/hkb_0182]
+
+[whkb_0183 : work = "百愚隨筆" /zh toc
+	http://psi.iba-net.org/work/hkb_0183]
+
+[whkb_0184 : work = "般若波羅蜜多心經略疏連珠記會編" /zh toc
+	http://psi.iba-net.org/work/hkb_0184]
+
+[whkb_0185 : work = "現行法會禮懺儀式" /zh toc
+	http://psi.iba-net.org/work/hkb_0185]
+
+[whkb_0186 : work = "禪源諸詮集都序科評" /zh toc
+	http://psi.iba-net.org/work/hkb_0186]
+
+[whkb_0187 : work = "雪巖雜著" /zh toc
+	http://psi.iba-net.org/work/hkb_0187]
+
+[whkb_0188 : work = "雪巖禪師亂藁" /zh toc
+	http://psi.iba-net.org/work/hkb_0188]
+
+[whkb_0189 : work = "無用堂遺稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0189]
+
+[whkb_0190 : work = "無竟集" /zh toc
+	http://psi.iba-net.org/work/hkb_0190]
+
+[whkb_0191 : work = "無竟室中語錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0191]
+
+[whkb_0192 : work = "佛祖眞心禪格抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0192]
+
+[whkb_0193 : work = "禪門五宗綱要" /zh toc
+	http://psi.iba-net.org/work/hkb_0193]
+
+[whkb_0194 : work = "喚惺詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0194]
+
+[whkb_0195 : work = "影海大師詩集抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0195]
+
+[whkb_0196 : work = "虛靜集" /zh toc
+	http://psi.iba-net.org/work/hkb_0196]
+
+[whkb_0197 : work = "禪源集都序科記" /zh toc
+	http://psi.iba-net.org/work/hkb_0197]
+
+[whkb_0198 : work = "法集別行錄節要私記解" /zh toc
+	http://psi.iba-net.org/work/hkb_0198]
+
+[whkb_0199 : work = "南嶽集" /zh toc
+	http://psi.iba-net.org/work/hkb_0199]
+
+[whkb_0200 : work = "松桂大禪師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0200]
+
+[whkb_0201 : work = "霜月大師詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0201]
+
+[whkb_0202 : work = "天鏡集" /zh toc
+	http://psi.iba-net.org/work/hkb_0202]
+
+[whkb_0203 : work = "請擇法報恩文" /zh toc
+	http://psi.iba-net.org/work/hkb_0203]
+
+[whkb_0204 : work = "箕城大師念佛還鄕曲" /zh toc
+	http://psi.iba-net.org/work/hkb_0204]
+
+[whkb_0205 : work = "月波集" /zh toc
+	http://psi.iba-net.org/work/hkb_0205]
+
+[whkb_0206 : work = "龍潭集" /zh toc
+	http://psi.iba-net.org/work/hkb_0206]
+
+[whkb_0207 : work = "新編普勸文" /zh toc
+	http://psi.iba-net.org/work/hkb_0207]
+
+[whkb_0208 : work = "好隱集" /zh toc
+	http://psi.iba-net.org/work/hkb_0208]
+
+[whkb_0209 : work = "雪潭集" /zh toc
+	http://psi.iba-net.org/work/hkb_0209]
+
+[whkb_0210 : work = "野雲大禪師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0210]
+
+[whkb_0211 : work = "鰲巖集" /zh toc
+	http://psi.iba-net.org/work/hkb_0211]
+
+[whkb_0212 : work = "龍巖堂遺稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0212]
+
+[whkb_0213 : work = "大圓集" /zh toc
+	http://psi.iba-net.org/work/hkb_0213]
+
+[whkb_0214 : work = "默奄大師詩抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0214]
+
+[whkb_0215 : work = "諸經會要" /zh toc
+	http://psi.iba-net.org/work/hkb_0215]
+
+[whkb_0216 : work = "秋波集" /zh toc
+	http://psi.iba-net.org/work/hkb_0216]
+
+[whkb_0217 : work = "秋波手柬" /zh toc
+	http://psi.iba-net.org/work/hkb_0217]
+
+[whkb_0218 : work = "西域中華海東佛祖源流" /zh toc
+	http://psi.iba-net.org/work/hkb_0218]
+
+[whkb_0219 : work = "四溟堂枝派根源錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0219]
+
+[whkb_0220 : work = "三門直指" /zh toc
+	http://psi.iba-net.org/work/hkb_0220]
+
+[whkb_0221 : work = "振虛集" /zh toc
+	http://psi.iba-net.org/work/hkb_0221]
+
+[whkb_0222 : work = "都序科目幷入私記" /zh toc
+	http://psi.iba-net.org/work/hkb_0222]
+
+[whkb_0223 : work = "法集別行錄節要科目幷入私記" /zh toc
+	http://psi.iba-net.org/work/hkb_0223]
+
+[whkb_0224 : work = "蓮潭大師林下錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0224]
+
+[whkb_0225 : work = "釋典類解" /zh toc
+	http://psi.iba-net.org/work/hkb_0225]
+
+[whkb_0226 : work = "括虛集" /zh toc
+	http://psi.iba-net.org/work/hkb_0226]
+
+[whkb_0227 : work = "冲虛大師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0227]
+
+[whkb_0228 : work = "蒙庵大師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0228]
+
+[whkb_0229 : work = "大方廣佛華嚴經義湘法師法性偈科註" /zh toc
+	http://psi.iba-net.org/work/hkb_0229]
+
+[whkb_0230 : work = "月城集" /zh toc
+	http://psi.iba-net.org/work/hkb_0230]
+
+[whkb_0231 : work = "仁嶽集" /zh toc
+	http://psi.iba-net.org/work/hkb_0231]
+
+[whkb_0232 : work = "鏡巖集" /zh toc
+	http://psi.iba-net.org/work/hkb_0232]
+
+[whkb_0233 : work = "三峯集" /zh toc
+	http://psi.iba-net.org/work/hkb_0233]
+
+[whkb_0234 : work = "澄月大師詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0234]
+
+[whkb_0235 : work = "大東禪敎考" /zh toc
+	http://psi.iba-net.org/work/hkb_0235]
+
+[whkb_0236 : work = "禪文手鏡" /zh toc
+	http://psi.iba-net.org/work/hkb_0236]
+
+[whkb_0237 : work = "修禪結社文科釋" /zh toc
+	http://psi.iba-net.org/work/hkb_0237]
+
+[whkb_0238 : work = "作法龜鑑" /zh toc
+	http://psi.iba-net.org/work/hkb_0238]
+
+[whkb_0239 : work = "無住警策" /zh toc
+	http://psi.iba-net.org/work/hkb_0239]
+
+[whkb_0240 : work = "少林通方正眼" /zh toc
+	http://psi.iba-net.org/work/hkb_0240]
+
+[whkb_0241 : work = "禪源溯流" /zh toc
+	http://psi.iba-net.org/work/hkb_0241]
+
+[whkb_0242 : work = "山史畧抄" /zh toc
+	http://psi.iba-net.org/work/hkb_0242]
+
+[whkb_0243 : work = "兒菴遺集" /zh toc
+	http://psi.iba-net.org/work/hkb_0243]
+
+[whkb_0244 : work = "日本漂海錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0244]
+
+[whkb_0245 : work = "應雲空如大師遺忘錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0245]
+
+[whkb_0246 : work = "伽山藁" /zh toc
+	http://psi.iba-net.org/work/hkb_0246]
+
+[whkb_0247 : work = "佛說天地八陽神呪經註" /zh toc
+	http://psi.iba-net.org/work/hkb_0247]
+
+[whkb_0248 : work = "禪門四辨漫語" /zh toc
+	http://psi.iba-net.org/work/hkb_0248]
+
+[whkb_0249 : work = "艸衣詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0249]
+
+[whkb_0250 : work = "茶神傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0250]
+
+[whkb_0251 : work = "東茶頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0251]
+
+[whkb_0252 : work = "震默禪師遺蹟攷" /zh toc
+	http://psi.iba-net.org/work/hkb_0252]
+
+[whkb_0253 : work = "鐵船小艸" /zh toc
+	http://psi.iba-net.org/work/hkb_0253]
+
+[whkb_0254 : work = "禪學入門" /zh toc
+	http://psi.iba-net.org/work/hkb_0254]
+
+[whkb_0255 : work = "述夢瑣言" /zh toc
+	http://psi.iba-net.org/work/hkb_0255]
+
+[whkb_0256 : work = "櫟山集" /zh toc
+	http://psi.iba-net.org/work/hkb_0256]
+
+[whkb_0257 : work = "涵弘堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0257]
+
+[whkb_0258 : work = "東師列傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0258]
+
+[whkb_0259 : work = "梵海禪師文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0259]
+
+[whkb_0260 : work = "梵海禪師詩集" /zh toc
+	http://psi.iba-net.org/work/hkb_0260]
+
+[whkb_0261 : work = "優曇林下錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0261]
+
+[whkb_0262 : work = "禪門證正錄(幷序)" /zh toc
+	http://psi.iba-net.org/work/hkb_0262]
+
+[whkb_0263 : work = "解深密經疏" /zh toc
+	http://psi.iba-net.org/work/hkb_0263]
+
+[whkb_0264 : work = "義湘和尙投師禮" /zh toc
+	http://psi.iba-net.org/work/hkb_0264]
+
+[whkb_0265 : work = "義相和尙一乘發願文" /zh toc
+	http://psi.iba-net.org/work/hkb_0265]
+
+[whkb_0266 : work = "菩薩戒本記" /zh toc
+	http://psi.iba-net.org/work/hkb_0266]
+
+[whkb_0267 : work = "菩薩戒羯磨記" /zh toc
+	http://psi.iba-net.org/work/hkb_0267]
+
+[whkb_0268 : work = "高麗國新雕大藏校正別錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0268]
+
+[whkb_0269 : work = "禪門雪竇天童圜悟三家拈頌集" /zh toc
+	http://psi.iba-net.org/work/hkb_0269]
+
+[whkb_0270 : work = "海東曹溪宓庵和尙雜著" /zh toc
+	http://psi.iba-net.org/work/hkb_0270]
+
+[whkb_0271 : work = "求生行門要出" /zh toc
+	http://psi.iba-net.org/work/hkb_0271]
+
+[whkb_0272 : work = "江西馬祖四家錄草" /zh toc
+	http://psi.iba-net.org/work/hkb_0272]
+
+[whkb_0273 : work = "精選四家錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0273]
+
+[whkb_0274 : work = "續眞實珠集" /zh toc
+	http://psi.iba-net.org/work/hkb_0274]
+
+[whkb_0275 : work = "預修十王生七齋儀纂要" /zh toc
+	http://psi.iba-net.org/work/hkb_0275]
+
+[whkb_0276 : work = "寒溪集" /zh toc
+	http://psi.iba-net.org/work/hkb_0276]
+
+[whkb_0277 : work = "天地冥陽水陸齋儀梵音删補集" /zh toc
+	http://psi.iba-net.org/work/hkb_0277]
+
+[whkb_0278 : work = "仔蘷文節次條列" /zh toc
+	http://psi.iba-net.org/work/hkb_0278]
+
+[whkb_0279 : work = "般若波羅密多心經註解" /zh toc
+	http://psi.iba-net.org/work/hkb_0279]
+
+[whkb_0280 : work = "草堂集" /zh toc
+	http://psi.iba-net.org/work/hkb_0280]
+
+[whkb_0281 : work = "龍岳堂私藁集" /zh toc
+	http://psi.iba-net.org/work/hkb_0281]
+
+[whkb_0282 : work = "克庵集" /zh toc
+	http://psi.iba-net.org/work/hkb_0282]
+
+[whkb_0283 : work = "鏡虛集" /zh toc
+	http://psi.iba-net.org/work/hkb_0283]
+
+[whkb_0284 : work = "聾默集" /zh toc
+	http://psi.iba-net.org/work/hkb_0284]
+
+[whkb_0285 : work = "混元集" /zh toc
+	http://psi.iba-net.org/work/hkb_0285]
+
+[whkb_0286 : work = "淸珠集" /zh toc
+	http://psi.iba-net.org/work/hkb_0286]
+
+[whkb_0287 : work = "觀世音菩薩妙應示現" /zh toc
+	http://psi.iba-net.org/work/hkb_0287]
+
+[whkb_0288 : work = "淨土紺珠" /zh toc
+	http://psi.iba-net.org/work/hkb_0288]
+
+[whkb_0289 : work = "禪文再正錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0289]
+
+[whkb_0290 : work = "造塔功德經序" /zh toc
+	http://psi.iba-net.org/work/hkb_0290]
+
+[whkb_0291 : work = "圓宗文類集解卷中" /zh toc
+	http://psi.iba-net.org/work/hkb_0291]
+
+[whkb_0292 : work = "萬德山白蓮社第四代眞靜國師湖山錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0292]
+
+[whkb_0293 : work = "慈悲道場懺法集解" /zh toc
+	http://psi.iba-net.org/work/hkb_0293]
+
+[whkb_0294 : work = "五種梵音集" /zh toc
+	http://psi.iba-net.org/work/hkb_0294]
+
+[whkb_0295 : work = "東溪集" /zh toc
+	http://psi.iba-net.org/work/hkb_0295]
+
+[whkb_0296 : work = "權實敎菩薩留惑度生之義" /zh toc
+	http://psi.iba-net.org/work/hkb_0296]
+
+[whkb_0297 : work = "御製花山龍珠寺奉佛祈福偈" /zh toc
+	http://psi.iba-net.org/work/hkb_0297]
+
+[whkb_0298 : work = "海鵬集" /zh toc
+	http://psi.iba-net.org/work/hkb_0298]
+
+[whkb_0299 : work = "茶毗說" /zh toc
+	http://psi.iba-net.org/work/hkb_0299]
+
+[whkb_0300 : work = "一枝庵文集" /zh toc
+	http://psi.iba-net.org/work/hkb_0300]
+
+[whkb_0301 : work = "山志錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0301]
+
+[whkb_0302 : work = "甘露法會" /zh toc
+	http://psi.iba-net.org/work/hkb_0302]
+
+[whkb_0303 : work = "義龍集" /zh toc
+	http://psi.iba-net.org/work/hkb_0303]
+
+[whkb_0304 : work = "草广遺稿敍" /zh toc
+	http://psi.iba-net.org/work/hkb_0304]
+
+[whkb_0305 : work = "佛祖錄贊頌" /zh toc
+	http://psi.iba-net.org/work/hkb_0305]
+
+[whkb_0306 : work = "淨土讃百詠" /zh toc
+	http://psi.iba-net.org/work/hkb_0306]
+
+[whkb_0307 : work = "菩薩降生時天主護法錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0307]
+
+[whkb_0308 : work = "質疑錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0308]
+
+[whkb_0309 : work = "曹溪高僧傳" /zh toc
+	http://psi.iba-net.org/work/hkb_0309]
+
+[whkb_0310 : work = "念佛要門科解" /zh toc
+	http://psi.iba-net.org/work/hkb_0310]
+
+[whkb_0311 : work = "著譯叢譜" /zh toc
+	http://psi.iba-net.org/work/hkb_0311]
+
+[whkb_0312 : work = "栢悅錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0312]
+
+[whkb_0313 : work = "大東詠選" /zh toc
+	http://psi.iba-net.org/work/hkb_0313]
+
+[whkb_0314 : work = "茶松詩稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0314]
+
+[whkb_0315 : work = "茶松文稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0315]
+
+[whkb_0316 : work = "曾谷集" /zh toc
+	http://psi.iba-net.org/work/hkb_0316]
+
+[whkb_0317 : work = "東溟遺稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0317]
+
+[whkb_0318 : work = "藕堂詩稿" /zh toc
+	http://psi.iba-net.org/work/hkb_0318]
+
+[whkb_0319 : work = "淳溪禪師弄我歌" /zh toc
+	http://psi.iba-net.org/work/hkb_0319]
+
+[whkb_0320 : work = "起信本末五重" /zh toc
+	http://psi.iba-net.org/work/hkb_0320]
+
+[whkb_0321 : work = "禪敎摠判門" /zh toc
+	http://psi.iba-net.org/work/hkb_0321]
+
+[whkb_0322 : work = "參禪念佛文(一篇)" /zh toc
+	http://psi.iba-net.org/work/hkb_0322]
+
+[whkb_0323 : work = "東國僧尼錄" /zh toc
+	http://psi.iba-net.org/work/hkb_0323]
+
+[whkb_0324 : work = "瑜伽論記" /zh toc
+	http://psi.iba-net.org/work/hkb_0324]

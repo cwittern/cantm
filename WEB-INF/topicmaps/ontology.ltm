@@ -12,7 +12,7 @@
 [hobogirin = "Hobogirin"]
 [hnx = "卍續編" /zh]
 [toc = "Table of contents"]
-{toc, desc [[If this is added to the scope of a title or other information item, it indicates that the title is taken from the table of contents, not from the beginning of the text.]]}
+{toc, desc, [[If this is added to the scope of a title or other information item, it indicates that the title is taken from the table of contents, not from the beginning of the text.]]}
 [zh : language = "Chinese"
           = "中文" /zh
 	  = "zh" / iso639-1
