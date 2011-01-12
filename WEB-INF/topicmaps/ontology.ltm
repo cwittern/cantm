@@ -11,7 +11,8 @@
 [hcl = "HCL Context"]
 [hobogirin = "Hobogirin"]
 [hnx = "卍續編" /zh]
-
+[toc = "Table of contents"]
+{toc, desc [[If this is added to the scope of a title or other information item, it indicates that the title is taken from the table of contents, not from the beginning of the text.]]}
 [zh : language = "Chinese"
           = "中文" /zh
 	  = "zh" / iso639-1
@@ -61,7 +62,7 @@
        @"http://purl.org/vocab/frbr/core#Expression"]
 
 [man  = "Manifestation"
-      = "載體表現" /zh 
+      = "載體表現" /zh
        @"http://purl.org/vocab/frbr/core#Manifestation"]
 
 [item = "Item"
@@ -75,9 +76,9 @@
 	       = "譯" /zh
 	       @"http://psi.iba-net.org/def/translated-by"]
 
-[is-embodied-in = "is embodied in" 
+[is-embodied-in = "is embodied in"
 		= "embodies" / man
-		= "被載體表現於" /zh 
+		= "被載體表現於" /zh
 		= "呈現" / zh man
 		@"http://psi.iba-net.org/def/is-embodied-in"]
 [location = "Location"
@@ -129,7 +130,7 @@
 	       @"http://psi.iba-net.org/def/creation-date"]
 [nanjio : catalog = "Nanjio's Catalog"
 @"http://psi.iba-net.org/def/nanjio"]
-[catalog : work = "A Catalog" 
+[catalog : work = "A Catalog"
 	 @"http://psi.iba-net.org/def/catalog"]
 /* association topic types */
 [part-of = "Part of" /part
@@ -198,9 +199,9 @@
     @"http://www.topicmaps.org/xtm/1.0/core.xtm#superclass-subclass"]
 
 /* additional topics */
-[taisho : canon = "大正新修大藏經" /zh 
+[taisho : canon = "大正新修大藏經" /zh
 	@"http://psi.iba-net.org/def/taisho"]
-[zokuzokyo : canon = "新纂大日本續蔵經" /zh 
+[zokuzokyo : canon = "新纂大日本續蔵經" /zh
 	   = "大日本續蔵經" / z
 	   @"http://psi.iba-net.org/def/zokuzokyo"]
 [jiaxingzang : canon = "嘉興大藏經" /zh
@@ -211,7 +212,7 @@
 		    @"http://psi.iba-net.org/def/koreanbudbooks"]
 [other : canon = "Other collection"
 	   @"http://psi.iba-net.org/def/other"]
-[toc = "Table of Contents" 
+[toc = "Table of Contents"
      @"http://psi.iba-net.org/def/toc"]
 [z = "Zokuzokyo"
        @"http://psi.iba-net.org/def/zokuzokyo"]
