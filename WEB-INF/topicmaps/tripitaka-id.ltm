@@ -4,7 +4,7 @@
 {HNT, id, [[HNT]]}
 {HNT, seq, [[1]]}
 [HKD = "高麗藏 東國大學校影印本" @"http://psi.iba-net.org/canons/hkw"]
-{HKD, id, [[HKW]]}
+{HKD, id, [[HKD]]}
 {HKD, seq, [[2]]}
 [HKW = "高麗藏 新文豐影印本" @"http://psi.iba-net.org/canons/hkw"]
 {HKW, id, [[HKW]]}
