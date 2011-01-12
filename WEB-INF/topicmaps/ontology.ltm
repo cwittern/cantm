@@ -81,6 +81,11 @@
 		= "被載體表現於" /zh
 		= "呈現" / zh man
 		@"http://psi.iba-net.org/def/is-embodied-in"]
+
+[is-realized-through = "is-realized-through"
+		     = "realizes" / exp
+		@"http://psi.iba-net.org/def/is-realized-through"]
+
 [location = "Location"
 	  = "出處" /zh
 	  @"http://psi.iba-net.org/def/location"]
