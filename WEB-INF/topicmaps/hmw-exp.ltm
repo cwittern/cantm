@@ -2083,7 +2083,7 @@ creation-date( eb112 : exp, date23 : dyn) / hmw
 
 [eb114 : exp = "紫柏老人集"
 @"http://psi.iba-net.org/exp/hmw_b114"
-@"http://psi.iba-net.org/exp/hnx_1452,0473-in"]
+@"http://psi.iba-net.org/exp/hnx_1452"]
 {eb114, extent, [[30]]} / hmw
 resp238( eb114 : exp, naut-627 : resp) / hmw
 creation-date( eb114 : exp, date23 : dyn) / hmw

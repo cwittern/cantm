@@ -13169,14 +13169,6 @@ is-realized-through(whnt_2131 : work, ehnt_2131: exp)
 	@"http://psi.iba-net.org/exp/hnt_1435"]
 is-realized-through(whnt_1435 : work, ehnt_1435: exp)
 
-[whnt_2081%E5%8D%B7 : work
-	="大毗盧遮那神變加持經大教相承傳法次第記" / hnx zh zh-Hant
-	="略敘金剛界大教王師資相承傳法次第記" / hnx zh zh-Hant
-	@"http://psi.iba-net.org/work/hnt_2081%E5%8D%B7"]
-[ehnt_2081%E5%8D%B7 : exp ="略敘金剛界大教王師資相承傳法次第記" /zh
-	@"http://psi.iba-net.org/exp/hnt_2081%E5%8D%B7"]
-is-realized-through(whnt_2081%E5%8D%B7 : work, ehnt_2081%E5%8D%B7: exp)
-
 [whnx_0583 : work
 	="法華經大意" / hnx zh zh-Hant
 	@"http://psi.iba-net.org/work/hnx_0583"]
@@ -38252,11 +38244,11 @@ is-realized-through(whnx_1456 : work, ehnx_1456: exp)
 	@"http://psi.iba-net.org/exp/hmw_b312"]
 is-realized-through(whmw_b312 : work, ehmw_b312: exp)
 
-[whnx_1452,0473-in : work
+[whnx_1452 : work
 	@"http://psi.iba-net.org/work/hnx_1452,0473-in"]
-[ehnx_1452,0473-in : exp ="" /zh
+[ehnx_1452 : exp ="" /zh
 	@"http://psi.iba-net.org/exp/hnx_1452,0473-in"]
-is-realized-through(whnx_1452,0473-in : work, ehnx_1452,0473-in: exp)
+is-realized-through(whnx_1452 : work, ehnx_1452: exp)
 
 [whnx_1033 : work
 	="華嚴原人論合解" / hnx zh zh-Hant
