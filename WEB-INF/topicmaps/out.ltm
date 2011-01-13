@@ -8376,11 +8376,11 @@ is-realized-through(whnt_0793 : work, ehnt_0793: exp)
 	@"http://psi.iba-net.org/exp/hnt_1834"]
 is-realized-through(whnt_1834 : work, ehnt_1834: exp)
 
-[whnx_1582,1583 : work
-	@"http://psi.iba-net.org/work/hnx_1582,1583"]
-[ehnx_1582,1583 : exp ="" /zh
-	@"http://psi.iba-net.org/exp/hnx_1582,1583"]
-is-realized-through(whnx_1582,1583 : work, ehnx_1582,1583: exp)
+[whnx_1583 : work
+	@"http://psi.iba-net.org/work/hnx_1583"]
+[ehnx_1583 : exp ="" /zh
+	@"http://psi.iba-net.org/exp/hnx_1583"]
+is-realized-through(whnx_1583 : work, ehnx_1583: exp)
 
 [whnt_1428 : work
 	="SHIBUN RITSU" / ja-rom
