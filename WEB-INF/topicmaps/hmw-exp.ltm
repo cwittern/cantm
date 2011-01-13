@@ -1,6 +1,6 @@
 @"utf-8"
 
-[ea001 : exp = "大方廣佛華嚴經"
+[ea001 : exp = "大方廣佛華嚴經" / zh
 @"http://psi.iba-net.org/exp/hmw_a001"
 @"http://psi.iba-net.org/exp/hnt_0293"
 ]
@@ -8,7 +8,7 @@
 resp2( ea001 : exp, aut-26 : resp) / hmw
 creation-date( ea001 : exp, date13 : dyn) / hmw
 
-[ea002 : exp = "金光明經"
+[ea002 : exp = "金光明經" / zh
 @"http://psi.iba-net.org/exp/hmw_a002"
 @"http://psi.iba-net.org/exp/hnt_0663"
 ]
@@ -16,7 +16,7 @@ creation-date( ea001 : exp, date13 : dyn) / hmw
 resp2( ea002 : exp, aut-14 : resp) / hmw
 creation-date( ea002 : exp, date9 : dyn) / hmw
 
-[ea003 : exp = "妙法蓮花經觀世音菩薩普門品經"
+[ea003 : exp = "妙法蓮花經觀世音菩薩普門品經" / zh
 @"http://psi.iba-net.org/exp/hmw_a003"
 @"http://psi.iba-net.org/exp/hnt_0262-p25"
 ]
@@ -26,7 +26,7 @@ creation-date( ea003 : exp, date16 : dyn) / hmw
 resp133( ea003 : exp, naut-1652 : resp) / hmw
 creation-date( ea003 : exp, date8 : dyn) / hmw
 
-[ea004 : exp = "佛說大阿彌陀經"
+[ea004 : exp = "佛說大阿彌陀經" / zh
 @"http://psi.iba-net.org/exp/hmw_a004"
 @"http://psi.iba-net.org/exp/hnt_0364"
 ]
@@ -34,7 +34,7 @@ creation-date( ea003 : exp, date8 : dyn) / hmw
 resp5( ea004 : exp, naut-1007 : resp) / hmw
 creation-date( ea004 : exp, date3 : dyn) / hmw
 
-[ea005 : exp = "千眼千臂觀世音菩薩陀羅尼神咒經"
+[ea005 : exp = "千眼千臂觀世音菩薩陀羅尼神咒經" / zh
 @"http://psi.iba-net.org/exp/hmw_a005"
 @"http://psi.iba-net.org/exp/hnt_1057b"
 ]
@@ -42,34 +42,34 @@ creation-date( ea004 : exp, date3 : dyn) / hmw
 resp2( ea005 : exp, aut-153 : resp) / hmw
 creation-date( ea005 : exp, date13 : dyn) / hmw
 
-[ea006 : exp = "番大悲神咒"
+[ea006 : exp = "番大悲神咒" / zh
 @"http://psi.iba-net.org/exp/hmw_a006"
 @"http://psi.iba-net.org/exp/hnt_1063"
 ]
 {ea006, extent, [[1]]} / hmw
 
-[ea007 : exp = "過去莊嚴劫千佛名經"
+[ea007 : exp = "過去莊嚴劫千佛名經" / zh
 @"http://psi.iba-net.org/exp/hmw_a007"
 @"http://psi.iba-net.org/exp/hnt_0446b"
 ]
 {ea007, extent, [[1]]} / hmw
 aut(ea007 : exp, aut-5 : resp) / hmw
 
-[ea008 : exp = "現在賢劫千佛名經"
+[ea008 : exp = "現在賢劫千佛名經" / zh
 @"http://psi.iba-net.org/exp/hmw_a008"
 @"http://psi.iba-net.org/exp/hnt_0447b"
 ]
 {ea008, extent, [[1]]} / hmw
 aut(ea008 : exp, naut-1653 : resp) / hmw
 
-[ea009 : exp = "未來星宿劫千佛名經"
+[ea009 : exp = "未來星宿劫千佛名經" / zh
 @"http://psi.iba-net.org/exp/hmw_a009"
 @"http://psi.iba-net.org/exp/hnt_0448b"
 ]
 {ea009, extent, [[1]]} / hmw
 aut(ea009 : exp, aut-5 : resp) / hmw
 
-[ea010 : exp = "佛說隨求即得大自在陀羅尼神咒經"
+[ea010 : exp = "佛說隨求即得大自在陀羅尼神咒經" / zh
 @"http://psi.iba-net.org/exp/hmw_a010"
 @"http://psi.iba-net.org/exp/hnt_1154"
 ]
@@ -77,7 +77,7 @@ aut(ea009 : exp, aut-5 : resp) / hmw
 resp2( ea010 : exp, aut-112 : resp) / hmw
 creation-date( ea010 : exp, date13 : dyn) / hmw
 
-[ea011 : exp = "佛說甘露經陀羅尼"
+[ea011 : exp = "佛說甘露經陀羅尼" / zh
 @"http://psi.iba-net.org/exp/hmw_a011"
 @"http://psi.iba-net.org/exp/hnt_1316"
 ]
@@ -85,7 +85,7 @@ creation-date( ea010 : exp, date13 : dyn) / hmw
 resp2( ea011 : exp, aut-291 : resp) / hmw
 creation-date( ea011 : exp, date13 : dyn) / hmw
 
-[ea012 : exp = "佛說四十二章經"
+[ea012 : exp = "佛說四十二章經" / zh
 @"http://psi.iba-net.org/exp/hmw_a012"
 @"http://psi.iba-net.org/exp/hnt_1794"
 ]
@@ -93,14 +93,14 @@ creation-date( ea011 : exp, date13 : dyn) / hmw
 resp21( ea012 : exp, naut-832 : resp) / hmw
 creation-date( ea012 : exp, date3 : dyn) / hmw
 
-[ea013 : exp = "佛說摩利支天陀羅尼咒經"
+[ea013 : exp = "佛說摩利支天陀羅尼咒經" / zh
 @"http://psi.iba-net.org/exp/hmw_a013"
 @"http://psi.iba-net.org/exp/hnt_1256"
 ]
 {ea013, extent, [[1]]} / hmw
 aut(ea013 : exp, aut-5 : resp) / hmw
 
-[ea014 : exp = "地藏菩薩本願經"
+[ea014 : exp = "地藏菩薩本願經" / zh
 @"http://psi.iba-net.org/exp/hmw_a014"
 @"http://psi.iba-net.org/exp/hnt_0412"
 ]
@@ -108,7 +108,7 @@ aut(ea013 : exp, aut-5 : resp) / hmw
 resp2( ea014 : exp, aut-291 : resp) / hmw
 creation-date( ea014 : exp, date13 : dyn) / hmw
 
-[ea015 : exp = "勝救度佛母二十一種禮讚經"
+[ea015 : exp = "勝救度佛母二十一種禮讚經" / zh
 @"http://psi.iba-net.org/exp/hmw_a015"
 @"http://psi.iba-net.org/exp/hnt_1108A"
 ]
@@ -116,7 +116,7 @@ creation-date( ea014 : exp, date13 : dyn) / hmw
 resp2( ea015 : exp, naut-1654 : resp) / hmw
 creation-date( ea015 : exp, date13 : dyn) / hmw
 
-[ea016 : exp = "蜜跡力士大權神王經偈頌"
+[ea016 : exp = "蜜跡力士大權神王經偈頌" / zh
 @"http://psi.iba-net.org/exp/hmw_a016"
 @"http://psi.iba-net.org/exp/hnt_1688"
 ]
@@ -124,7 +124,7 @@ creation-date( ea015 : exp, date13 : dyn) / hmw
 resp19( ea016 : exp, aut-296 : resp) / hmw
 creation-date( ea016 : exp, date25 : dyn) / hmw
 
-[ea017 : exp = "金鋼頂經觀自在王如來修行法"
+[ea017 : exp = "金鋼頂經觀自在王如來修行法" / zh
 @"http://psi.iba-net.org/exp/hmw_a017"
 @"http://psi.iba-net.org/exp/hnt_0931"
 ]
@@ -132,7 +132,7 @@ creation-date( ea016 : exp, date25 : dyn) / hmw
 resp2( ea017 : exp, aut-151 : resp) / hmw
 creation-date( ea017 : exp, date13 : dyn) / hmw
 
-[ea018 : exp = "瑜伽集要焰口施食儀"
+[ea018 : exp = "瑜伽集要焰口施食儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a018"
 @"http://psi.iba-net.org/exp/hnt_1320"
 ]
@@ -140,7 +140,7 @@ creation-date( ea017 : exp, date13 : dyn) / hmw
 resp2( ea018 : exp, aut-151 : resp) / hmw
 creation-date( ea018 : exp, date13 : dyn) / hmw
 
-[ea019 : exp = "密咒圓因往生集"
+[ea019 : exp = "密咒圓因往生集" / zh
 @"http://psi.iba-net.org/exp/hmw_a019"
 @"http://psi.iba-net.org/exp/hnt_1956"
 ]
@@ -148,7 +148,7 @@ creation-date( ea018 : exp, date13 : dyn) / hmw
 aut(ea019 : exp, naut-1655 : resp) / hmw
 aut(ea019 : exp, naut-1656 : resp) / hmw
 
-[ea020 : exp = "護法論"
+[ea020 : exp = "護法論" / zh
 @"http://psi.iba-net.org/exp/hmw_a020"
 @"http://psi.iba-net.org/exp/hnt_2114"
 ]
@@ -156,7 +156,7 @@ aut(ea019 : exp, naut-1656 : resp) / hmw
 resp9( ea020 : exp, naut-1648 : resp) / hmw
 creation-date( ea020 : exp, date3 : dyn) / hmw
 
-[ea021 : exp = "慈悲道場懺法"
+[ea021 : exp = "慈悲道場懺法" / zh
 @"http://psi.iba-net.org/exp/hmw_a021"
 @"http://psi.iba-net.org/exp/hnt_1909"
 ]
@@ -164,7 +164,7 @@ creation-date( ea020 : exp, date3 : dyn) / hmw
 resp103( ea021 : exp, naut-1657 : resp) / hmw
 creation-date( ea021 : exp, date15 : dyn) / hmw
 
-[ea022 : exp = "法華三昧懺儀"
+[ea022 : exp = "法華三昧懺儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a022"
 @"http://psi.iba-net.org/exp/hnt_1941"
 ]
@@ -172,7 +172,7 @@ creation-date( ea021 : exp, date15 : dyn) / hmw
 resp19( ea022 : exp, aut-307 : resp) / hmw
 creation-date( ea022 : exp, date8 : dyn) / hmw
 
-[ea023 : exp = "法華三昧行事運想補助儀"
+[ea023 : exp = "法華三昧行事運想補助儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a023"
 @"http://psi.iba-net.org/exp/hnt_1942"
 ]
@@ -180,7 +180,7 @@ creation-date( ea022 : exp, date8 : dyn) / hmw
 resp19( ea023 : exp, aut-308 : resp) / hmw
 creation-date( ea023 : exp, date13 : dyn) / hmw
 
-[ea024 : exp = "金光明懺法補助儀"
+[ea024 : exp = "金光明懺法補助儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a024"
 @"http://psi.iba-net.org/exp/hnt_1945"
 ]
@@ -188,7 +188,7 @@ creation-date( ea023 : exp, date13 : dyn) / hmw
 resp6( ea024 : exp, aut-351 : resp) / hmw
 creation-date( ea024 : exp, date3 : dyn) / hmw
 
-[ea025 : exp = "往生淨土懺願儀"
+[ea025 : exp = "往生淨土懺願儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a025"
 @"http://psi.iba-net.org/exp/hnt_1984"
 ]
@@ -196,7 +196,7 @@ creation-date( ea024 : exp, date3 : dyn) / hmw
 resp19( ea025 : exp, aut-351 : resp) / hmw
 creation-date( ea025 : exp, date3 : dyn) / hmw
 
-[ea026 : exp = "往生淨土決疑行願二門"
+[ea026 : exp = "往生淨土決疑行願二門" / zh
 @"http://psi.iba-net.org/exp/hmw_a026"
 @"http://psi.iba-net.org/exp/hnt_1968"
 ]
@@ -204,7 +204,7 @@ creation-date( ea025 : exp, date3 : dyn) / hmw
 resp19( ea026 : exp, aut-351 : resp) / hmw
 creation-date( ea026 : exp, date3 : dyn) / hmw
 
-[ea027 : exp = "請觀世音菩薩消伏毒害陀羅尼三昧儀"
+[ea027 : exp = "請觀世音菩薩消伏毒害陀羅尼三昧儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a027"
 @"http://psi.iba-net.org/exp/hnt_1949"
 ]
@@ -212,7 +212,7 @@ creation-date( ea026 : exp, date3 : dyn) / hmw
 resp6( ea027 : exp, aut-351 : resp) / hmw
 creation-date( ea027 : exp, date3 : dyn) / hmw
 
-[ea028 : exp = "金光明最勝懺儀"
+[ea028 : exp = "金光明最勝懺儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a028"
 @"http://psi.iba-net.org/exp/hnt_1946"
 ]
@@ -220,7 +220,7 @@ creation-date( ea027 : exp, date3 : dyn) / hmw
 resp6( ea028 : exp, aut-310 : resp) / hmw
 creation-date( ea028 : exp, date3 : dyn) / hmw
 
-[ea029 : exp = "千手眼大悲心咒行法"
+[ea029 : exp = "千手眼大悲心咒行法" / zh
 @"http://psi.iba-net.org/exp/hmw_a029"
 @"http://psi.iba-net.org/exp/hnt_1950"
 ]
@@ -228,14 +228,14 @@ creation-date( ea028 : exp, date3 : dyn) / hmw
 resp6( ea029 : exp, aut-310 : resp) / hmw
 creation-date( ea029 : exp, date3 : dyn) / hmw
 
-[ea030 : exp = "禮法華經儀式"
+[ea030 : exp = "禮法華經儀式" / zh
 @"http://psi.iba-net.org/exp/hmw_a030"
 @"http://psi.iba-net.org/exp/hnt_1944"
 ]
 {ea030, extent, [[1]]} / hmw
 aut(ea030 : exp, naut-1658 : resp) / hmw
 
-[ea031 : exp = "熾盛光道場念誦儀"
+[ea031 : exp = "熾盛光道場念誦儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a031"
 @"http://psi.iba-net.org/exp/hnt_1951"
 ]
@@ -243,7 +243,7 @@ aut(ea030 : exp, naut-1658 : resp) / hmw
 resp19( ea031 : exp, aut-351 : resp) / hmw
 creation-date( ea031 : exp, date3 : dyn) / hmw
 
-[ea032 : exp = "釋家如來涅槃禮讚文"
+[ea032 : exp = "釋家如來涅槃禮讚文" / zh
 @"http://psi.iba-net.org/exp/hmw_a032"
 @"http://psi.iba-net.org/exp/hnt_1947"
 ]
@@ -251,7 +251,7 @@ creation-date( ea031 : exp, date3 : dyn) / hmw
 resp19( ea032 : exp, aut-352 : resp) / hmw
 creation-date( ea032 : exp, date3 : dyn) / hmw
 
-[ea033 : exp = "天台智者大師齋忌禮讚文"
+[ea033 : exp = "天台智者大師齋忌禮讚文" / zh
 @"http://psi.iba-net.org/exp/hmw_a033"
 @"http://psi.iba-net.org/exp/hnt_1948"
 ]
@@ -259,7 +259,7 @@ creation-date( ea032 : exp, date3 : dyn) / hmw
 resp9( ea033 : exp, aut-351 : resp) / hmw
 creation-date( ea033 : exp, date3 : dyn) / hmw
 
-[ea034 : exp = "觀自在菩薩如意輪咒課法"
+[ea034 : exp = "觀自在菩薩如意輪咒課法" / zh
 @"http://psi.iba-net.org/exp/hmw_a034"
 @"http://psi.iba-net.org/exp/hnt_1952"
 ]
@@ -267,14 +267,14 @@ creation-date( ea033 : exp, date3 : dyn) / hmw
 resp19( ea034 : exp, aut-352 : resp) / hmw
 creation-date( ea034 : exp, date3 : dyn) / hmw
 
-[ea035 : exp = "慈悲水懺法"
+[ea035 : exp = "慈悲水懺法" / zh
 @"http://psi.iba-net.org/exp/hmw_a035"
 @"http://psi.iba-net.org/exp/hnt_1910"
 ]
 {ea035, extent, [[3]]} / hmw
 aut(ea035 : exp, naut-1659 : resp) / hmw
 
-[ea036 : exp = "六祖大師法寶壇經"
+[ea036 : exp = "六祖大師法寶壇經" / zh
 @"http://psi.iba-net.org/exp/hmw_a036"
 @"http://psi.iba-net.org/exp/hnt_2008"
 ]
@@ -282,7 +282,7 @@ aut(ea035 : exp, naut-1659 : resp) / hmw
 resp56( ea036 : exp, naut-1660 : resp) / hmw
 creation-date( ea036 : exp, date25 : dyn) / hmw
 
-[ea037 : exp = "宗門統要續集"
+[ea037 : exp = "宗門統要續集" / zh
 @"http://psi.iba-net.org/exp/hmw_a037"
 ]
 {ea037, extent, [[20]]} / hmw
@@ -291,7 +291,7 @@ creation-date( ea037 : exp, date3 : dyn) / hmw
 resp146( ea037 : exp, naut-1506 : resp) / hmw
 creation-date( ea037 : exp, date25 : dyn) / hmw
 
-[ea038 : exp = "明覺禪師語錄"
+[ea038 : exp = "明覺禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a038"
 @"http://psi.iba-net.org/exp/hnt_1996"
 ]
@@ -299,7 +299,7 @@ creation-date( ea037 : exp, date25 : dyn) / hmw
 resp56( ea038 : exp, naut-1661 : resp) / hmw
 creation-date( ea038 : exp, date3 : dyn) / hmw
 
-[ea039 : exp = "圓悟佛果禪師語錄"
+[ea039 : exp = "圓悟佛果禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a039"
 @"http://psi.iba-net.org/exp/hnt_1997"
 ]
@@ -307,7 +307,7 @@ creation-date( ea038 : exp, date3 : dyn) / hmw
 resp152( ea039 : exp, naut-1662 : resp) / hmw
 creation-date( ea039 : exp, date3 : dyn) / hmw
 
-[ea040 : exp = "大慧普覺禪師語錄"
+[ea040 : exp = "大慧普覺禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a040"
 @"http://psi.iba-net.org/exp/hnt_1998A"
 ]
@@ -315,7 +315,7 @@ creation-date( ea039 : exp, date3 : dyn) / hmw
 resp56( ea040 : exp, naut-1663 : resp) / hmw
 creation-date( ea040 : exp, date3 : dyn) / hmw
 
-[ea041 : exp = "大慧普覺禪師宗門武庫"
+[ea041 : exp = "大慧普覺禪師宗門武庫" / zh
 @"http://psi.iba-net.org/exp/hmw_a041"
 @"http://psi.iba-net.org/exp/hnt_1998B"
 ]
@@ -323,14 +323,14 @@ creation-date( ea040 : exp, date3 : dyn) / hmw
 resp56( ea041 : exp, naut-1187 : resp) / hmw
 creation-date( ea041 : exp, date3 : dyn) / hmw
 
-[ea042 : exp = "大慧普覺禪師年譜"
+[ea042 : exp = "大慧普覺禪師年譜" / zh
 @"http://psi.iba-net.org/exp/hmw_a042"
 ]
 {ea042, extent, [[1]]} / hmw
 resp96( ea042 : exp, naut-1664 : resp) / hmw
 creation-date( ea042 : exp, date3 : dyn) / hmw
 
-[ea043 : exp = "妙法蓮華經玄義"
+[ea043 : exp = "妙法蓮華經玄義" / zh
 @"http://psi.iba-net.org/exp/hmw_a043"
 @"http://psi.iba-net.org/exp/hnt_1716"
 ]
@@ -338,7 +338,7 @@ creation-date( ea042 : exp, date3 : dyn) / hmw
 resp32( ea043 : exp, aut-307 : resp) / hmw
 creation-date( ea043 : exp, date8 : dyn) / hmw
 
-[ea044 : exp = "法華玄義釋籤"
+[ea044 : exp = "法華玄義釋籤" / zh
 @"http://psi.iba-net.org/exp/hmw_a044"
 @"http://psi.iba-net.org/exp/hnt_1717"
 ]
@@ -346,7 +346,7 @@ creation-date( ea043 : exp, date8 : dyn) / hmw
 resp9( ea044 : exp, aut-308 : resp) / hmw
 creation-date( ea044 : exp, date13 : dyn) / hmw
 
-[ea045 : exp = "妙法蓮華經文句"
+[ea045 : exp = "妙法蓮華經文句" / zh
 @"http://psi.iba-net.org/exp/hmw_a045"
 @"http://psi.iba-net.org/exp/hnt_1718"
 ]
@@ -354,7 +354,7 @@ creation-date( ea044 : exp, date13 : dyn) / hmw
 resp32( ea045 : exp, aut-307 : resp) / hmw
 creation-date( ea045 : exp, date8 : dyn) / hmw
 
-[ea046 : exp = "法華文句記"
+[ea046 : exp = "法華文句記" / zh
 @"http://psi.iba-net.org/exp/hmw_a046"
 @"http://psi.iba-net.org/exp/hnt_1719"
 ]
@@ -362,7 +362,7 @@ creation-date( ea045 : exp, date8 : dyn) / hmw
 resp9( ea046 : exp, aut-308 : resp) / hmw
 creation-date( ea046 : exp, date13 : dyn) / hmw
 
-[ea047 : exp = "摩訶止觀"
+[ea047 : exp = "摩訶止觀" / zh
 @"http://psi.iba-net.org/exp/hmw_a047"
 @"http://psi.iba-net.org/exp/hnt_1911"
 ]
@@ -370,7 +370,7 @@ creation-date( ea046 : exp, date13 : dyn) / hmw
 resp32( ea047 : exp, aut-307 : resp) / hmw
 creation-date( ea047 : exp, date8 : dyn) / hmw
 
-[ea048 : exp = "止觀輔行傳弘決"
+[ea048 : exp = "止觀輔行傳弘決" / zh
 @"http://psi.iba-net.org/exp/hmw_a048"
 @"http://psi.iba-net.org/exp/hnt_1912"
 ]
@@ -378,7 +378,7 @@ creation-date( ea047 : exp, date8 : dyn) / hmw
 resp9( ea048 : exp, aut-308 : resp) / hmw
 creation-date( ea048 : exp, date13 : dyn) / hmw
 
-[ea049 : exp = "修習止觀坐禪法要"
+[ea049 : exp = "修習止觀坐禪法要" / zh
 @"http://psi.iba-net.org/exp/hmw_a049"
 @"http://psi.iba-net.org/exp/hnt_1915"
 ]
@@ -386,7 +386,7 @@ creation-date( ea048 : exp, date13 : dyn) / hmw
 resp9( ea049 : exp, aut-307 : resp) / hmw
 creation-date( ea049 : exp, date8 : dyn) / hmw
 
-[ea050 : exp = "止觀義例"
+[ea050 : exp = "止觀義例" / zh
 @"http://psi.iba-net.org/exp/hmw_a050"
 @"http://psi.iba-net.org/exp/hnt_1913"
 ]
@@ -394,7 +394,7 @@ creation-date( ea049 : exp, date8 : dyn) / hmw
 resp9( ea050 : exp, aut-308 : resp) / hmw
 creation-date( ea050 : exp, date13 : dyn) / hmw
 
-[ea051 : exp = "大乘止觀法門"
+[ea051 : exp = "大乘止觀法門" / zh
 @"http://psi.iba-net.org/exp/hmw_a051"
 @"http://psi.iba-net.org/exp/hnt_1924"
 ]
@@ -402,7 +402,7 @@ creation-date( ea050 : exp, date13 : dyn) / hmw
 resp32( ea051 : exp, aut-346 : resp) / hmw
 creation-date( ea051 : exp, date12 : dyn) / hmw
 
-[ea052 : exp = "諸法無諍三昧法門"
+[ea052 : exp = "諸法無諍三昧法門" / zh
 @"http://psi.iba-net.org/exp/hmw_a052"
 @"http://psi.iba-net.org/exp/hnt_1923"
 ]
@@ -410,7 +410,7 @@ creation-date( ea051 : exp, date12 : dyn) / hmw
 resp19( ea052 : exp, aut-346 : resp) / hmw
 creation-date( ea052 : exp, date12 : dyn) / hmw
 
-[ea053 : exp = "大般涅槃經疏"
+[ea053 : exp = "大般涅槃經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a053"
 @"http://psi.iba-net.org/exp/hnt_1767"
 ]
@@ -418,7 +418,7 @@ creation-date( ea052 : exp, date12 : dyn) / hmw
 resp19( ea053 : exp, aut-320 : resp) / hmw
 creation-date( ea053 : exp, date8 : dyn) / hmw
 
-[ea054 : exp = "大般涅槃經玄義"
+[ea054 : exp = "大般涅槃經玄義" / zh
 @"http://psi.iba-net.org/exp/hmw_a054"
 @"http://psi.iba-net.org/exp/hnt_1765"
 ]
@@ -426,7 +426,7 @@ creation-date( ea053 : exp, date8 : dyn) / hmw
 resp19( ea054 : exp, aut-320 : resp) / hmw
 creation-date( ea054 : exp, date8 : dyn) / hmw
 
-[ea055 : exp = "法華經安樂行義"
+[ea055 : exp = "法華經安樂行義" / zh
 @"http://psi.iba-net.org/exp/hmw_a055"
 @"http://psi.iba-net.org/exp/hnt_1926"
 ]
@@ -434,7 +434,7 @@ creation-date( ea054 : exp, date8 : dyn) / hmw
 resp32( ea055 : exp, aut-346 : resp) / hmw
 creation-date( ea055 : exp, date12 : dyn) / hmw
 
-[ea056 : exp = "涅槃經玄義發源機要"
+[ea056 : exp = "涅槃經玄義發源機要" / zh
 @"http://psi.iba-net.org/exp/hmw_a056"
 @"http://psi.iba-net.org/exp/hnt_1766"
 ]
@@ -442,7 +442,7 @@ creation-date( ea055 : exp, date12 : dyn) / hmw
 resp9( ea056 : exp, aut-318 : resp) / hmw
 creation-date( ea056 : exp, date3 : dyn) / hmw
 
-[ea057 : exp = "金光明經玄義"
+[ea057 : exp = "金光明經玄義" / zh
 @"http://psi.iba-net.org/exp/hmw_a057"
 @"http://psi.iba-net.org/exp/hnt_1783"
 ]
@@ -451,7 +451,7 @@ resp32( ea057 : exp, aut-307 : resp) / hmw
 creation-date( ea057 : exp, date8 : dyn) / hmw
 aut(ea057 : exp, naut-1665 : resp) / hmw
 
-[ea058 : exp = "金光明經玄義拾遺記"
+[ea058 : exp = "金光明經玄義拾遺記" / zh
 @"http://psi.iba-net.org/exp/hmw_a058"
 @"http://psi.iba-net.org/exp/hnt_1784"
 ]
@@ -459,7 +459,7 @@ aut(ea057 : exp, naut-1665 : resp) / hmw
 resp9( ea058 : exp, aut-310 : resp) / hmw
 creation-date( ea058 : exp, date3 : dyn) / hmw
 
-[ea059 : exp = "金剛般若經疏"
+[ea059 : exp = "金剛般若經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a059"
 @"http://psi.iba-net.org/exp/hnt_1698"
 ]
@@ -467,7 +467,7 @@ creation-date( ea058 : exp, date3 : dyn) / hmw
 resp32( ea059 : exp, aut-307 : resp) / hmw
 creation-date( ea059 : exp, date8 : dyn) / hmw
 
-[ea060 : exp = "天台四教儀"
+[ea060 : exp = "天台四教儀" / zh
 @"http://psi.iba-net.org/exp/hmw_a060"
 @"http://psi.iba-net.org/exp/hnt_1931"
 ]
@@ -475,7 +475,7 @@ creation-date( ea059 : exp, date8 : dyn) / hmw
 resp25( ea060 : exp, aut-347 : resp) / hmw
 creation-date( ea060 : exp, date39 : dyn) / hmw
 
-[ea061 : exp = "金光明經文句"
+[ea061 : exp = "金光明經文句" / zh
 @"http://psi.iba-net.org/exp/hmw_a061"
 @"http://psi.iba-net.org/exp/hnt_1785"
 ]
@@ -484,7 +484,7 @@ resp32( ea061 : exp, aut-307 : resp) / hmw
 creation-date( ea061 : exp, date8 : dyn) / hmw
 aut(ea061 : exp, naut-1665 : resp) / hmw
 
-[ea062 : exp = "金光明經文句記"
+[ea062 : exp = "金光明經文句記" / zh
 @"http://psi.iba-net.org/exp/hmw_a062"
 @"http://psi.iba-net.org/exp/hnt_1786"
 ]
@@ -492,7 +492,7 @@ aut(ea061 : exp, naut-1665 : resp) / hmw
 resp9( ea062 : exp, aut-310 : resp) / hmw
 creation-date( ea062 : exp, date3 : dyn) / hmw
 
-[ea063 : exp = "菩薩戒義疏"
+[ea063 : exp = "菩薩戒義疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a063"
 @"http://psi.iba-net.org/exp/hnt_1811"
 ]
@@ -501,7 +501,7 @@ resp32( ea063 : exp, aut-307 : resp) / hmw
 creation-date( ea063 : exp, date8 : dyn) / hmw
 aut(ea063 : exp, naut-707 : resp) / hmw
 
-[ea064 : exp = "觀音玄義"
+[ea064 : exp = "觀音玄義" / zh
 @"http://psi.iba-net.org/exp/hmw_a064"
 @"http://psi.iba-net.org/exp/hnt_1726"
 ]
@@ -511,7 +511,7 @@ creation-date( ea064 : exp, date8 : dyn) / hmw
 resp8( ea064 : exp, aut-320 : resp) / hmw
 creation-date( ea064 : exp, date8 : dyn) / hmw
 
-[ea065 : exp = "觀音玄義記"
+[ea065 : exp = "觀音玄義記" / zh
 @"http://psi.iba-net.org/exp/hmw_a065"
 @"http://psi.iba-net.org/exp/hnt_1727"
 ]
@@ -519,7 +519,7 @@ creation-date( ea064 : exp, date8 : dyn) / hmw
 resp9( ea065 : exp, aut-310 : resp) / hmw
 creation-date( ea065 : exp, date3 : dyn) / hmw
 
-[ea066 : exp = "觀音義疏"
+[ea066 : exp = "觀音義疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a066"
 @"http://psi.iba-net.org/exp/hnt_1728"
 ]
@@ -529,7 +529,7 @@ creation-date( ea066 : exp, date8 : dyn) / hmw
 resp8( ea066 : exp, aut-320 : resp) / hmw
 creation-date( ea066 : exp, date8 : dyn) / hmw
 
-[ea067 : exp = "觀音義疏記"
+[ea067 : exp = "觀音義疏記" / zh
 @"http://psi.iba-net.org/exp/hmw_a067"
 @"http://psi.iba-net.org/exp/hnt_1729"
 ]
@@ -537,7 +537,7 @@ creation-date( ea066 : exp, date8 : dyn) / hmw
 resp9( ea067 : exp, aut-310 : resp) / hmw
 creation-date( ea067 : exp, date3 : dyn) / hmw
 
-[ea068 : exp = "佛說觀無量壽佛經疏"
+[ea068 : exp = "佛說觀無量壽佛經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a068"
 @"http://psi.iba-net.org/exp/hnt_1750"
 ]
@@ -545,7 +545,7 @@ creation-date( ea067 : exp, date3 : dyn) / hmw
 resp32( ea068 : exp, aut-307 : resp) / hmw
 creation-date( ea068 : exp, date8 : dyn) / hmw
 
-[ea069 : exp = "觀無量壽佛經疏妙宗鈔"
+[ea069 : exp = "觀無量壽佛經疏妙宗鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a069"
 @"http://psi.iba-net.org/exp/hnt_1751"
 ]
@@ -553,7 +553,7 @@ creation-date( ea068 : exp, date8 : dyn) / hmw
 resp9( ea069 : exp, aut-310 : resp) / hmw
 creation-date( ea069 : exp, date3 : dyn) / hmw
 
-[ea070 : exp = "天台智者大師禪門口訣"
+[ea070 : exp = "天台智者大師禪門口訣" / zh
 @"http://psi.iba-net.org/exp/hmw_a070"
 @"http://psi.iba-net.org/exp/hnt_1919"
 ]
@@ -561,7 +561,7 @@ creation-date( ea069 : exp, date3 : dyn) / hmw
 resp32( ea070 : exp, aut-307 : resp) / hmw
 creation-date( ea070 : exp, date8 : dyn) / hmw
 
-[ea071 : exp = "請觀音經疏"
+[ea071 : exp = "請觀音經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a071"
 @"http://psi.iba-net.org/exp/hnt_1800"
 ]
@@ -570,7 +570,7 @@ resp32( ea071 : exp, aut-307 : resp) / hmw
 creation-date( ea071 : exp, date8 : dyn) / hmw
 aut(ea071 : exp, naut-707 : resp) / hmw
 
-[ea072 : exp = "請觀音經疏闡義鈔"
+[ea072 : exp = "請觀音經疏闡義鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a072"
 @"http://psi.iba-net.org/exp/hnt_1801"
 ]
@@ -578,7 +578,7 @@ aut(ea071 : exp, naut-707 : resp) / hmw
 resp9( ea072 : exp, aut-318 : resp) / hmw
 creation-date( ea072 : exp, date3 : dyn) / hmw
 
-[ea073 : exp = "釋摩訶般若波羅蜜經覺意三昧"
+[ea073 : exp = "釋摩訶般若波羅蜜經覺意三昧" / zh
 @"http://psi.iba-net.org/exp/hmw_a073"
 @"http://psi.iba-net.org/exp/hnt_1922"
 ]
@@ -586,7 +586,7 @@ creation-date( ea072 : exp, date3 : dyn) / hmw
 resp32( ea073 : exp, aut-307 : resp) / hmw
 creation-date( ea073 : exp, date8 : dyn) / hmw
 
-[ea074 : exp = "四念處"
+[ea074 : exp = "四念處" / zh
 @"http://psi.iba-net.org/exp/hmw_a074"
 @"http://psi.iba-net.org/exp/hnt_1918"
 ]
@@ -594,7 +594,7 @@ creation-date( ea073 : exp, date8 : dyn) / hmw
 resp32( ea074 : exp, aut-307 : resp) / hmw
 creation-date( ea074 : exp, date8 : dyn) / hmw
 
-[ea075 : exp = "仁王護國般若經疏"
+[ea075 : exp = "仁王護國般若經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a075"
 @"http://psi.iba-net.org/exp/hnt_1705"
 ]
@@ -603,7 +603,7 @@ resp32( ea075 : exp, aut-307 : resp) / hmw
 creation-date( ea075 : exp, date8 : dyn) / hmw
 aut(ea075 : exp, naut-707 : resp) / hmw
 
-[ea076 : exp = "佛說仁王護國般若波羅蜜經疏神寶記"
+[ea076 : exp = "佛說仁王護國般若波羅蜜經疏神寶記" / zh
 @"http://psi.iba-net.org/exp/hmw_a076"
 @"http://psi.iba-net.org/exp/hnt_1706"
 ]
@@ -611,7 +611,7 @@ aut(ea075 : exp, naut-707 : resp) / hmw
 resp9( ea076 : exp, aut-302 : resp) / hmw
 creation-date( ea076 : exp, date3 : dyn) / hmw
 
-[ea077 : exp = "天台八教大意"
+[ea077 : exp = "天台八教大意" / zh
 @"http://psi.iba-net.org/exp/hmw_a077"
 @"http://psi.iba-net.org/exp/hnt_1930"
 ]
@@ -619,7 +619,7 @@ creation-date( ea076 : exp, date3 : dyn) / hmw
 resp19( ea077 : exp, aut-320 : resp) / hmw
 creation-date( ea077 : exp, date8 : dyn) / hmw
 
-[ea078 : exp = "四教義"
+[ea078 : exp = "四教義" / zh
 @"http://psi.iba-net.org/exp/hmw_a078"
 @"http://psi.iba-net.org/exp/hnt_1929"
 ]
@@ -627,7 +627,7 @@ creation-date( ea077 : exp, date8 : dyn) / hmw
 resp19( ea078 : exp, aut-307 : resp) / hmw
 creation-date( ea078 : exp, date8 : dyn) / hmw
 
-[ea079 : exp = "國清百錄"
+[ea079 : exp = "國清百錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a079"
 @"http://psi.iba-net.org/exp/hnt_1934"
 ]
@@ -635,7 +635,7 @@ creation-date( ea078 : exp, date8 : dyn) / hmw
 resp59( ea079 : exp, aut-320 : resp) / hmw
 creation-date( ea079 : exp, date8 : dyn) / hmw
 
-[ea080 : exp = "釋禪波羅蜜次第法門"
+[ea080 : exp = "釋禪波羅蜜次第法門" / zh
 @"http://psi.iba-net.org/exp/hmw_a080"
 @"http://psi.iba-net.org/exp/hnt_1916"
 ]
@@ -643,7 +643,7 @@ creation-date( ea079 : exp, date8 : dyn) / hmw
 resp32( ea080 : exp, aut-307 : resp) / hmw
 creation-date( ea080 : exp, date8 : dyn) / hmw
 
-[ea081 : exp = "法界次第初門"
+[ea081 : exp = "法界次第初門" / zh
 @"http://psi.iba-net.org/exp/hmw_a081"
 @"http://psi.iba-net.org/exp/hnt_1925"
 ]
@@ -651,7 +651,7 @@ creation-date( ea080 : exp, date8 : dyn) / hmw
 resp19( ea081 : exp, aut-307 : resp) / hmw
 creation-date( ea081 : exp, date8 : dyn) / hmw
 
-[ea082 : exp = "方等三昧行法"
+[ea082 : exp = "方等三昧行法" / zh
 @"http://psi.iba-net.org/exp/hmw_a082"
 @"http://psi.iba-net.org/exp/hnt_1940"
 ]
@@ -659,7 +659,7 @@ creation-date( ea081 : exp, date8 : dyn) / hmw
 resp32( ea082 : exp, aut-307 : resp) / hmw
 creation-date( ea082 : exp, date8 : dyn) / hmw
 
-[ea083 : exp = "淨土十疑論"
+[ea083 : exp = "淨土十疑論" / zh
 @"http://psi.iba-net.org/exp/hmw_a083"
 @"http://psi.iba-net.org/exp/hnt_1961"
 ]
@@ -667,7 +667,7 @@ creation-date( ea082 : exp, date8 : dyn) / hmw
 resp32( ea083 : exp, aut-307 : resp) / hmw
 creation-date( ea083 : exp, date8 : dyn) / hmw
 
-[ea084 : exp = "觀心論疏"
+[ea084 : exp = "觀心論疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a084"
 @"http://psi.iba-net.org/exp/hnt_1921"
 ]
@@ -675,7 +675,7 @@ creation-date( ea083 : exp, date8 : dyn) / hmw
 resp19( ea084 : exp, aut-320 : resp) / hmw
 creation-date( ea084 : exp, date8 : dyn) / hmw
 
-[ea085 : exp = "南嶽思大禪師立誓願文"
+[ea085 : exp = "南嶽思大禪師立誓願文" / zh
 @"http://psi.iba-net.org/exp/hmw_a085"
 @"http://psi.iba-net.org/exp/hnt_1933"
 ]
@@ -683,7 +683,7 @@ creation-date( ea084 : exp, date8 : dyn) / hmw
 resp19( ea085 : exp, aut-346 : resp) / hmw
 creation-date( ea085 : exp, date12 : dyn) / hmw
 
-[ea086 : exp = "隋天台智者大師別傳"
+[ea086 : exp = "隋天台智者大師別傳" / zh
 @"http://psi.iba-net.org/exp/hmw_a086"
 @"http://psi.iba-net.org/exp/hnt_2050"
 ]
@@ -691,7 +691,7 @@ creation-date( ea085 : exp, date12 : dyn) / hmw
 resp19( ea086 : exp, aut-320 : resp) / hmw
 creation-date( ea086 : exp, date8 : dyn) / hmw
 
-[ea087 : exp = "止觀大意"
+[ea087 : exp = "止觀大意" / zh
 @"http://psi.iba-net.org/exp/hmw_a087"
 @"http://psi.iba-net.org/exp/hnt_1914"
 ]
@@ -699,7 +699,7 @@ creation-date( ea086 : exp, date8 : dyn) / hmw
 resp9( ea087 : exp, aut-308 : resp) / hmw
 creation-date( ea087 : exp, date13 : dyn) / hmw
 
-[ea088 : exp = "始終心要"
+[ea088 : exp = "始終心要" / zh
 @"http://psi.iba-net.org/exp/hmw_a088"
 @"http://psi.iba-net.org/exp/hnt_1915-t1"
 ]
@@ -707,7 +707,7 @@ creation-date( ea087 : exp, date13 : dyn) / hmw
 resp9( ea088 : exp, naut-1666 : resp) / hmw
 creation-date( ea088 : exp, date13 : dyn) / hmw
 
-[ea089 : exp = "修懺要旨"
+[ea089 : exp = "修懺要旨" / zh
 @"http://psi.iba-net.org/exp/hmw_a089"
 @"http://psi.iba-net.org/exp/hnt_1937-in"
 ]
@@ -715,7 +715,7 @@ creation-date( ea088 : exp, date13 : dyn) / hmw
 resp9( ea089 : exp, naut-1667 : resp) / hmw
 creation-date( ea089 : exp, date3 : dyn) / hmw
 
-[ea090 : exp = "十不二門"
+[ea090 : exp = "十不二門" / zh
 @"http://psi.iba-net.org/exp/hmw_a090"
 @"http://psi.iba-net.org/exp/hnt_1927"
 ]
@@ -723,7 +723,7 @@ creation-date( ea089 : exp, date3 : dyn) / hmw
 resp9( ea090 : exp, aut-308 : resp) / hmw
 creation-date( ea090 : exp, date13 : dyn) / hmw
 
-[ea091 : exp = "十不二門指要鈔"
+[ea091 : exp = "十不二門指要鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a091"
 @"http://psi.iba-net.org/exp/hnt_1928"
 ]
@@ -731,7 +731,7 @@ creation-date( ea090 : exp, date13 : dyn) / hmw
 resp9( ea091 : exp, aut-310 : resp) / hmw
 creation-date( ea091 : exp, date3 : dyn) / hmw
 
-[ea092 : exp = "科金剛錍"
+[ea092 : exp = "科金剛錍" / zh
 @"http://psi.iba-net.org/exp/hmw_a092"
 @"http://psi.iba-net.org/exp/hnt_1932"
 ]
@@ -739,7 +739,7 @@ creation-date( ea091 : exp, date3 : dyn) / hmw
 resp9( ea092 : exp, aut-308 : resp) / hmw
 creation-date( ea092 : exp, date13 : dyn) / hmw
 
-[ea093 : exp = "法智遺編觀心二百問"
+[ea093 : exp = "法智遺編觀心二百問" / zh
 @"http://psi.iba-net.org/exp/hmw_a093"
 @"http://psi.iba-net.org/exp/hnt_1935"
 ]
@@ -747,7 +747,7 @@ creation-date( ea092 : exp, date13 : dyn) / hmw
 resp6( ea093 : exp, aut-348 : resp) / hmw
 creation-date( ea093 : exp, date3 : dyn) / hmw
 
-[ea094 : exp = "天台傳佛心印記"
+[ea094 : exp = "天台傳佛心印記" / zh
 @"http://psi.iba-net.org/exp/hmw_a094"
 @"http://psi.iba-net.org/exp/hnt_1938"
 ]
@@ -755,7 +755,7 @@ creation-date( ea093 : exp, date3 : dyn) / hmw
 resp9( ea094 : exp, aut-350 : resp) / hmw
 creation-date( ea094 : exp, date25 : dyn) / hmw
 
-[ea095 : exp = "淨土境觀要門"
+[ea095 : exp = "淨土境觀要門" / zh
 @"http://psi.iba-net.org/exp/hmw_a095"
 @"http://psi.iba-net.org/exp/hnt_1971"
 ]
@@ -763,7 +763,7 @@ creation-date( ea094 : exp, date25 : dyn) / hmw
 resp9( ea095 : exp, aut-350 : resp) / hmw
 creation-date( ea095 : exp, date25 : dyn) / hmw
 
-[ea096 : exp = "禪宗永嘉集;證道歌"
+[ea096 : exp = "禪宗永嘉集;證道歌" / zh
 @"http://psi.iba-net.org/exp/hmw_a096"
 @"http://psi.iba-net.org/exp/hnt_2013"
 ]
@@ -772,7 +772,7 @@ resp19( ea096 : exp, aut-367 : resp) / hmw
 creation-date( ea096 : exp, date13 : dyn) / hmw
 {ea096-01, extent, [[1]]} / hmw
 
-[ea097 : exp = "首楞嚴經義海"
+[ea097 : exp = "首楞嚴經義海" / zh
 @"http://psi.iba-net.org/exp/hmw_a097"
 ]
 {ea097, extent, [[30]]} / hmw
@@ -791,7 +791,7 @@ creation-date( ea097 : exp, date3 : dyn) / hmw
 resp23( ea097 : exp, naut-1674 : resp) / hmw
 creation-date( ea097 : exp, date3 : dyn) / hmw
 
-[ea098 : exp = "大方廣佛華嚴經疏"
+[ea098 : exp = "大方廣佛華嚴經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a098"
 @"http://psi.iba-net.org/exp/hnt_1735"
 ]
@@ -799,7 +799,7 @@ creation-date( ea097 : exp, date3 : dyn) / hmw
 resp19( ea098 : exp, aut-311 : resp) / hmw
 creation-date( ea098 : exp, date13 : dyn) / hmw
 
-[ea099 : exp = "大方廣佛華嚴經隨疏演義鈔"
+[ea099 : exp = "大方廣佛華嚴經隨疏演義鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a099"
 @"http://psi.iba-net.org/exp/hnt_1736"
 ]
@@ -807,7 +807,7 @@ creation-date( ea098 : exp, date13 : dyn) / hmw
 resp9( ea099 : exp, aut-311 : resp) / hmw
 creation-date( ea099 : exp, date13 : dyn) / hmw
 
-[ea100 : exp = "華嚴一乘教義分齊章"
+[ea100 : exp = "華嚴一乘教義分齊章" / zh
 @"http://psi.iba-net.org/exp/hmw_a100"
 @"http://psi.iba-net.org/exp/hnt_1866"
 ]
@@ -815,7 +815,7 @@ creation-date( ea099 : exp, date13 : dyn) / hmw
 resp9( ea100 : exp, aut-305 : resp) / hmw
 creation-date( ea100 : exp, date13 : dyn) / hmw
 
-[ea101 : exp = "華嚴經明法品內立三寶章"
+[ea101 : exp = "華嚴經明法品內立三寶章" / zh
 @"http://psi.iba-net.org/exp/hmw_a101"
 @"http://psi.iba-net.org/exp/hnt_1874"
 ]
@@ -823,7 +823,7 @@ creation-date( ea100 : exp, date13 : dyn) / hmw
 resp9( ea101 : exp, aut-305 : resp) / hmw
 creation-date( ea101 : exp, date13 : dyn) / hmw
 
-[ea102 : exp = "修華嚴奧止妄盡還源觀"
+[ea102 : exp = "修華嚴奧止妄盡還源觀" / zh
 @"http://psi.iba-net.org/exp/hmw_a102"
 @"http://psi.iba-net.org/exp/hnt_1876"
 ]
@@ -831,7 +831,7 @@ creation-date( ea101 : exp, date13 : dyn) / hmw
 resp9( ea102 : exp, aut-305 : resp) / hmw
 creation-date( ea102 : exp, date13 : dyn) / hmw
 
-[ea103 : exp = "原人論"
+[ea103 : exp = "原人論" / zh
 @"http://psi.iba-net.org/exp/hmw_a103"
 @"http://psi.iba-net.org/exp/hnt_1886"
 ]
@@ -839,7 +839,7 @@ creation-date( ea102 : exp, date13 : dyn) / hmw
 resp9( ea103 : exp, aut-324 : resp) / hmw
 creation-date( ea103 : exp, date13 : dyn) / hmw
 
-[ea104 : exp = "華嚴經旨歸"
+[ea104 : exp = "華嚴經旨歸" / zh
 @"http://psi.iba-net.org/exp/hmw_a104"
 @"http://psi.iba-net.org/exp/hnt_1871"
 ]
@@ -847,7 +847,7 @@ creation-date( ea103 : exp, date13 : dyn) / hmw
 resp9( ea104 : exp, aut-305 : resp) / hmw
 creation-date( ea104 : exp, date13 : dyn) / hmw
 
-[ea105 : exp = "註華嚴法界觀門"
+[ea105 : exp = "註華嚴法界觀門" / zh
 @"http://psi.iba-net.org/exp/hmw_a105"
 @"http://psi.iba-net.org/exp/hnt_1884"
 ]
@@ -855,7 +855,7 @@ creation-date( ea104 : exp, date13 : dyn) / hmw
 resp21( ea105 : exp, aut-324 : resp) / hmw
 creation-date( ea105 : exp, date13 : dyn) / hmw
 
-[ea106 : exp = "華嚴法界玄鏡"
+[ea106 : exp = "華嚴法界玄鏡" / zh
 @"http://psi.iba-net.org/exp/hmw_a106"
 @"http://psi.iba-net.org/exp/hnt_1883"
 ]
@@ -863,7 +863,7 @@ creation-date( ea105 : exp, date13 : dyn) / hmw
 resp9( ea106 : exp, aut-311 : resp) / hmw
 creation-date( ea106 : exp, date13 : dyn) / hmw
 
-[ea107 : exp = "般若波羅蜜多心經略疏"
+[ea107 : exp = "般若波羅蜜多心經略疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a107"
 @"http://psi.iba-net.org/exp/hnt_1712"
 ]
@@ -871,7 +871,7 @@ creation-date( ea106 : exp, date13 : dyn) / hmw
 resp9( ea107 : exp, aut-305 : resp) / hmw
 creation-date( ea107 : exp, date13 : dyn) / hmw
 
-[ea108 : exp = "般若心經略疏連珠記"
+[ea108 : exp = "般若心經略疏連珠記" / zh
 @"http://psi.iba-net.org/exp/hmw_a108"
 @"http://psi.iba-net.org/exp/hnt_1713"
 ]
@@ -879,7 +879,7 @@ creation-date( ea107 : exp, date13 : dyn) / hmw
 resp9( ea108 : exp, aut-306 : resp) / hmw
 creation-date( ea108 : exp, date3 : dyn) / hmw
 
-[ea109 : exp = "佛說盂蘭盆經疏"
+[ea109 : exp = "佛說盂蘭盆經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a109"
 @"http://psi.iba-net.org/exp/hnt_1792"
 ]
@@ -887,7 +887,7 @@ creation-date( ea108 : exp, date3 : dyn) / hmw
 resp9( ea109 : exp, aut-324 : resp) / hmw
 creation-date( ea109 : exp, date13 : dyn) / hmw
 
-[ea110 : exp = "金師子章雲間類解"
+[ea110 : exp = "金師子章雲間類解" / zh
 @"http://psi.iba-net.org/exp/hmw_a110"
 @"http://psi.iba-net.org/exp/hnt_1880"
 ]
@@ -897,7 +897,7 @@ creation-date( ea110 : exp, date13 : dyn) / hmw
 resp7( ea110 : exp, naut-1675 : resp) / hmw
 creation-date( ea110 : exp, date13 : dyn) / hmw
 
-[ea111 : exp = "佛說阿彌陀經疏"
+[ea111 : exp = "佛說阿彌陀經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a111"
 @"http://psi.iba-net.org/exp/hnt_1759"
 ]
@@ -905,7 +905,7 @@ creation-date( ea110 : exp, date13 : dyn) / hmw
 resp9( ea111 : exp, aut-300 : resp) / hmw
 creation-date( ea111 : exp, date26 : dyn) / hmw
 
-[ea112 : exp = "楞伽阿跋多羅寶經註解"
+[ea112 : exp = "楞伽阿跋多羅寶經註解" / zh
 @"http://psi.iba-net.org/exp/hmw_a112"
 @"http://psi.iba-net.org/exp/hnt_1789"
 ]
@@ -915,7 +915,7 @@ creation-date( ea112 : exp, date23 : dyn) / hmw
 resp140( ea112 : exp, naut-1677 : resp) / hmw
 creation-date( ea112 : exp, date23 : dyn) / hmw
 
-[ea113 : exp = "般若波羅蜜多心經註解"
+[ea113 : exp = "般若波羅蜜多心經註解" / zh
 @"http://psi.iba-net.org/exp/hmw_a113"
 @"http://psi.iba-net.org/exp/hnt_1714"
 ]
@@ -925,7 +925,7 @@ creation-date( ea113 : exp, date23 : dyn) / hmw
 resp140( ea113 : exp, naut-1677 : resp) / hmw
 creation-date( ea113 : exp, date23 : dyn) / hmw
 
-[ea114 : exp = "金剛般若波羅蜜經註解"
+[ea114 : exp = "金剛般若波羅蜜經註解" / zh
 @"http://psi.iba-net.org/exp/hmw_a114"
 @"http://psi.iba-net.org/exp/hnt_1703"
 ]
@@ -935,7 +935,7 @@ creation-date( ea114 : exp, date23 : dyn) / hmw
 resp140( ea114 : exp, naut-1677 : resp) / hmw
 creation-date( ea114 : exp, date23 : dyn) / hmw
 
-[ea115 : exp = "大明太宗文皇帝御製序讚文"
+[ea115 : exp = "大明太宗文皇帝御製序讚文" / zh
 @"http://psi.iba-net.org/exp/hmw_a115"
 ]
 {ea115, extent, [[1]]} / hmw
@@ -943,46 +943,46 @@ resp19( ea115 : exp, naut-1678 : resp) / hmw
 creation-date( ea115 : exp, date23 : dyn) / hmw
 aut(ea115 : exp, naut-1679 : resp) / hmw
 
-[ea116 : exp = "諸佛世尊如來菩薩尊者神僧名經"
+[ea116 : exp = "諸佛世尊如來菩薩尊者神僧名經" / zh
 @"http://psi.iba-net.org/exp/hmw_a116"
 ]
 {ea116, extent, [[20]]} / hmw
 resp115( ea116 : exp, naut-1680 : resp) / hmw
 creation-date( ea116 : exp, date23 : dyn) / hmw
 
-[ea117 : exp = "諸佛世尊如來菩薩尊者名稱歌曲"
+[ea117 : exp = "諸佛世尊如來菩薩尊者名稱歌曲" / zh
 @"http://psi.iba-net.org/exp/hmw_a117"
 ]
 {ea117, extent, [[51]]} / hmw
 aut(ea117 : exp, naut-1681 : resp) / hmw
 
-[ea118 : exp = "神僧傳"
+[ea118 : exp = "神僧傳" / zh
 @"http://psi.iba-net.org/exp/hmw_a118"
 @"http://psi.iba-net.org/exp/hnt_2064"
 ]
 {ea118, extent, [[9]]} / hmw
 aut(ea118 : exp, naut-1679 : resp) / hmw
 
-[ea119 : exp = "大明三藏法數"
+[ea119 : exp = "大明三藏法數" / zh
 @"http://psi.iba-net.org/exp/hmw_a119"
 ]
 {ea119, extent, [[40]]} / hmw
 aut(ea119 : exp, naut-1682 : resp) / hmw
 
-[ea120 : exp = "華嚴懸談會玄記"
+[ea120 : exp = "華嚴懸談會玄記" / zh
 @"http://psi.iba-net.org/exp/hmw_a120"
 @"http://psi.iba-net.org/exp/hnx_0236"]
 {ea120, extent, [[40]]} / hmw
 resp6( ea120 : exp, naut-623 : resp) / hmw
 creation-date( ea120 : exp, date25 : dyn) / hmw
 
-[ea121 : exp = "妙法蓮華經要解"
+[ea121 : exp = "妙法蓮華經要解" / zh
 @"http://psi.iba-net.org/exp/hmw_a121"
 ]
 {ea121, extent, [[20]]} / hmw
 aut(ea121 : exp, naut-1683 : resp) / hmw
 
-[ea122 : exp = "大佛頂首楞嚴經會解"
+[ea122 : exp = "大佛頂首楞嚴經會解" / zh
 @"http://psi.iba-net.org/exp/hmw_a122"
 ]
 {ea122, extent, [[20]]} / hmw
@@ -991,13 +991,13 @@ aut(ea122 : exp, naut-1685 : resp) / hmw
 aut(ea122 : exp, naut-1686 : resp) / hmw
 aut(ea122 : exp, naut-1687 : resp) / hmw
 
-[ea123 : exp = "大乘起信論疏"
+[ea123 : exp = "大乘起信論疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a123"
 ]
 {ea123, extent, [[5]]} / hmw
 aut(ea123 : exp, naut-1688 : resp) / hmw
 
-[ea124 : exp = "起信論疏筆削記"
+[ea124 : exp = "起信論疏筆削記" / zh
 @"http://psi.iba-net.org/exp/hmw_a124"
 @"http://psi.iba-net.org/exp/hnt_1848"
 ]
@@ -1005,7 +1005,7 @@ aut(ea123 : exp, naut-1688 : resp) / hmw
 resp25( ea124 : exp, naut-644 : resp) / hmw
 creation-date( ea124 : exp, date3 : dyn) / hmw
 
-[ea125 : exp = "肇論新疏"
+[ea125 : exp = "肇論新疏" / zh
 @"http://psi.iba-net.org/exp/hmw_a125"
 @"http://psi.iba-net.org/exp/hnt_1860"
 ]
@@ -1013,14 +1013,14 @@ creation-date( ea124 : exp, date3 : dyn) / hmw
 resp9( ea125 : exp, aut-341 : resp) / hmw
 creation-date( ea125 : exp, date25 : dyn) / hmw
 
-[ea126 : exp = "肇論新疏游刃"
+[ea126 : exp = "肇論新疏游刃" / zh
 @"http://psi.iba-net.org/exp/hmw_a126"
 @"http://psi.iba-net.org/exp/hnx_0872"]
 {ea126, extent, [[3]]} / hmw
 resp9( ea126 : exp, aut-341 : resp) / hmw
 creation-date( ea126 : exp, date3 : dyn) / hmw
 
-[ea127 : exp = "圓覺略疏之鈔"
+[ea127 : exp = "圓覺略疏之鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a127"
 @"http://psi.iba-net.org/exp/hnx_0248"]
 {ea127, extent, [[12]]} / hmw
@@ -1029,7 +1029,7 @@ creation-date( ea127 : exp, date13 : dyn) / hmw
 {ea128, extent, [[2]]} / hmw
 {ea129, extent, [[7]]} / hmw
 
-[ea130 : exp = "維摩詰所說經註"
+[ea130 : exp = "維摩詰所說經註" / zh
 @"http://psi.iba-net.org/exp/hmw_a130"
 @"http://psi.iba-net.org/exp/hnt_1775"
 ]
@@ -1037,7 +1037,7 @@ creation-date( ea127 : exp, date13 : dyn) / hmw
 resp19( ea130 : exp, aut-322 : resp) / hmw
 creation-date( ea130 : exp, date2 : dyn) / hmw
 
-[ea131 : exp = "華嚴原人論解"
+[ea131 : exp = "華嚴原人論解" / zh
 @"http://psi.iba-net.org/exp/hmw_a131"
 @"http://psi.iba-net.org/exp/hnx_1032"]
 {ea131, extent, [[3]]} / hmw
@@ -1045,28 +1045,28 @@ resp9( ea131 : exp, naut-964 : resp) / hmw
 creation-date( ea131 : exp, date25 : dyn) / hmw
 {ea131-01, extent, [[1]]} / hmw
 
-[ea132 : exp = "折疑論"
+[ea132 : exp = "折疑論" / zh
 @"http://psi.iba-net.org/exp/hmw_a132"
 @"http://psi.iba-net.org/exp/hnt_2118"
 ]
 {ea132, extent, [[5]]} / hmw
 aut(ea132 : exp, naut-1689 : resp) / hmw
 
-[ea133 : exp = "天台四教儀集註"
+[ea133 : exp = "天台四教儀集註" / zh
 @"http://psi.iba-net.org/exp/hmw_a133"
 ]
 {ea133, extent, [[9]]} / hmw
 resp6( ea133 : exp, naut-946 : resp) / hmw
 creation-date( ea133 : exp, date44 : dyn) / hmw
 
-[ea134 : exp = "教乘法數"
+[ea134 : exp = "教乘法數" / zh
 @"http://psi.iba-net.org/exp/hmw_a134"
 ]
 {ea134, extent, [[30]]} / hmw
 resp6( ea134 : exp, naut-1690 : resp) / hmw
 creation-date( ea134 : exp, date23 : dyn) / hmw
 
-[ea135 : exp = "佛祖歷代通載"
+[ea135 : exp = "佛祖歷代通載" / zh
 @"http://psi.iba-net.org/exp/hmw_a135"
 @"http://psi.iba-net.org/exp/hnt_2036"
 ]
@@ -1074,7 +1074,7 @@ creation-date( ea134 : exp, date23 : dyn) / hmw
 resp6( ea135 : exp, aut-378 : resp) / hmw
 creation-date( ea135 : exp, date25 : dyn) / hmw
 
-[ea136 : exp = "禪林寶訓"
+[ea136 : exp = "禪林寶訓" / zh
 @"http://psi.iba-net.org/exp/hmw_a136"
 @"http://psi.iba-net.org/exp/hnt_2022"
 ]
@@ -1082,13 +1082,13 @@ creation-date( ea135 : exp, date25 : dyn) / hmw
 resp245( ea136 : exp, aut-371 : resp) / hmw
 creation-date( ea136 : exp, date3 : dyn) / hmw
 
-[ea137 : exp = "大方廣佛華嚴經疏演義鈔"
+[ea137 : exp = "大方廣佛華嚴經疏演義鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_a137"
 @"http://psi.iba-net.org/exp/hnx_0232"]
 {ea137, extent, [[30]]} / hmw
 aut(ea137 : exp, naut-1691 : resp) / hmw
 
-[ea138 : exp = "翻譯名義集"
+[ea138 : exp = "翻譯名義集" / zh
 @"http://psi.iba-net.org/exp/hmw_a138"
 @"http://psi.iba-net.org/exp/hnt_2131"
 ]
@@ -1096,14 +1096,14 @@ aut(ea137 : exp, naut-1691 : resp) / hmw
 resp56( ea138 : exp, naut-790 : resp) / hmw
 creation-date( ea138 : exp, date3 : dyn) / hmw
 
-[ea139 : exp = "禪宗正脈"
+[ea139 : exp = "禪宗正脈" / zh
 @"http://psi.iba-net.org/exp/hmw_a139"
 @"http://psi.iba-net.org/exp/hnx_1593"]
 {ea139, extent, [[10]]} / hmw
 resp6( ea139 : exp, naut-1608 : resp) / hmw
 creation-date( ea139 : exp, date23 : dyn) / hmw
 
-[ea140 : exp = "百丈清規"
+[ea140 : exp = "百丈清規" / zh
 @"http://psi.iba-net.org/exp/hmw_a140"
 @"http://psi.iba-net.org/exp/hnt_2025"
 ]
@@ -1111,7 +1111,7 @@ creation-date( ea139 : exp, date23 : dyn) / hmw
 resp165( ea140 : exp, naut-1070 : resp) / hmw
 creation-date( ea140 : exp, date25 : dyn) / hmw
 
-[ea141 : exp = "三教平心論"
+[ea141 : exp = "三教平心論" / zh
 @"http://psi.iba-net.org/exp/hmw_a141"
 @"http://psi.iba-net.org/exp/hnt_2117"
 ]
@@ -1119,7 +1119,7 @@ creation-date( ea140 : exp, date25 : dyn) / hmw
 resp19( ea141 : exp, naut-1692 : resp) / hmw
 creation-date( ea141 : exp, date25 : dyn) / hmw
 
-[ea142 : exp = "緇門警訓"
+[ea142 : exp = "緇門警訓" / zh
 @"http://psi.iba-net.org/exp/hmw_a142"
 @"http://psi.iba-net.org/exp/hnt_2023"
 ]
@@ -1127,7 +1127,7 @@ creation-date( ea141 : exp, date25 : dyn) / hmw
 resp224( ea142 : exp, naut-1608 : resp) / hmw
 creation-date( ea142 : exp, date23 : dyn) / hmw
 
-[ea143 : exp = "鐔津文集"
+[ea143 : exp = "鐔津文集" / zh
 @"http://psi.iba-net.org/exp/hmw_a143"
 @"http://psi.iba-net.org/exp/hnt_2115"
 ]
@@ -1135,7 +1135,7 @@ creation-date( ea142 : exp, date23 : dyn) / hmw
 resp19( ea143 : exp, aut-396 : resp) / hmw
 creation-date( ea143 : exp, date3 : dyn) / hmw
 
-[ea144 : exp = "禪源諸詮集都序"
+[ea144 : exp = "禪源諸詮集都序" / zh
 @"http://psi.iba-net.org/exp/hmw_a144"
 @"http://psi.iba-net.org/exp/hnt_2015"
 ]
@@ -1143,7 +1143,7 @@ creation-date( ea143 : exp, date3 : dyn) / hmw
 resp9( ea144 : exp, aut-324 : resp) / hmw
 creation-date( ea144 : exp, date13 : dyn) / hmw
 
-[ea145 : exp = "八識規矩補註"
+[ea145 : exp = "八識規矩補註" / zh
 @"http://psi.iba-net.org/exp/hmw_a145"
 @"http://psi.iba-net.org/exp/hnt_1865"
 ]
@@ -1151,7 +1151,7 @@ creation-date( ea144 : exp, date13 : dyn) / hmw
 resp85( ea145 : exp, aut-342 : resp) / hmw
 creation-date( ea145 : exp, date23 : dyn) / hmw
 
-[ea146 : exp = "大乘百法明門論解"
+[ea146 : exp = "大乘百法明門論解" / zh
 @"http://psi.iba-net.org/exp/hmw_a146"
 @"http://psi.iba-net.org/exp/hnt_1836"
 ]
@@ -1161,7 +1161,7 @@ creation-date( ea146 : exp, date13 : dyn) / hmw
 resp142( ea146 : exp, aut-342 : resp) / hmw
 creation-date( ea146 : exp, date23 : dyn) / hmw
 
-[ea147 : exp = "高麗國普照禪師修心訣"
+[ea147 : exp = "高麗國普照禪師修心訣" / zh
 @"http://psi.iba-net.org/exp/hmw_a147"
 @"http://psi.iba-net.org/exp/hnt_2020"
 ]
@@ -1169,7 +1169,7 @@ creation-date( ea146 : exp, date23 : dyn) / hmw
 resp19( ea147 : exp, aut-369 : resp) / hmw
 creation-date( ea147 : exp, date39 : dyn) / hmw
 
-[ea148 : exp = "真心直說"
+[ea148 : exp = "真心直說" / zh
 @"http://psi.iba-net.org/exp/hmw_a148"
 @"http://psi.iba-net.org/exp/hnt_2019A"
 ]
@@ -1177,7 +1177,7 @@ creation-date( ea147 : exp, date39 : dyn) / hmw
 resp19( ea148 : exp, aut-369 : resp) / hmw
 creation-date( ea148 : exp, date39 : dyn) / hmw
 
-[ea149 : exp = "寶藏論"
+[ea149 : exp = "寶藏論" / zh
 @"http://psi.iba-net.org/exp/hmw_a149"
 @"http://psi.iba-net.org/exp/hnt_1857"
 ]
@@ -1185,7 +1185,7 @@ creation-date( ea148 : exp, date39 : dyn) / hmw
 resp24( ea149 : exp, aut-322 : resp) / hmw
 creation-date( ea149 : exp, date2 : dyn) / hmw
 
-[ea150 : exp = "廬山蓮宗寶鑑"
+[ea150 : exp = "廬山蓮宗寶鑑" / zh
 @"http://psi.iba-net.org/exp/hmw_a150"
 @"http://psi.iba-net.org/exp/hnt_1973"
 ]
@@ -1193,7 +1193,7 @@ creation-date( ea149 : exp, date2 : dyn) / hmw
 resp56( ea150 : exp, aut-359 : resp) / hmw
 creation-date( ea150 : exp, date25 : dyn) / hmw
 
-[ea151 : exp = "永明智覺禪師唯心訣"
+[ea151 : exp = "永明智覺禪師唯心訣" / zh
 @"http://psi.iba-net.org/exp/hmw_a151"
 @"http://psi.iba-net.org/exp/hnt_2018"
 ]
@@ -1201,7 +1201,7 @@ creation-date( ea150 : exp, date25 : dyn) / hmw
 resp19( ea151 : exp, aut-368 : resp) / hmw
 creation-date( ea151 : exp, date3 : dyn) / hmw
 
-[ea152 : exp = "禪宗決疑集"
+[ea152 : exp = "禪宗決疑集" / zh
 @"http://psi.iba-net.org/exp/hmw_a152"
 @"http://psi.iba-net.org/exp/hnt_2021"
 ]
@@ -1209,7 +1209,7 @@ creation-date( ea151 : exp, date3 : dyn) / hmw
 resp9( ea152 : exp, aut-370 : resp) / hmw
 creation-date( ea152 : exp, date25 : dyn) / hmw
 
-[ea153 : exp = "斷際禪師傳心法要"
+[ea153 : exp = "斷際禪師傳心法要" / zh
 @"http://psi.iba-net.org/exp/hmw_a153"
 @"http://psi.iba-net.org/exp/hnt_2012A"
 ]
@@ -1218,7 +1218,7 @@ resp6( ea153 : exp, naut-958 : resp) / hmw
 creation-date( ea153 : exp, date13 : dyn) / hmw
 {ea153-01, extent, [[1]]} / hmw
 
-[ea154 : exp = "萬善同歸集"
+[ea154 : exp = "萬善同歸集" / zh
 @"http://psi.iba-net.org/exp/hmw_a154"
 @"http://psi.iba-net.org/exp/hnt_2017"
 ]
@@ -1226,7 +1226,7 @@ creation-date( ea153 : exp, date13 : dyn) / hmw
 resp9( ea154 : exp, aut-368 : resp) / hmw
 creation-date( ea154 : exp, date3 : dyn) / hmw
 
-[ea155 : exp = "華嚴七字經題法界觀三十門頌"
+[ea155 : exp = "華嚴七字經題法界觀三十門頌" / zh
 @"http://psi.iba-net.org/exp/hmw_a155"
 @"http://psi.iba-net.org/exp/hnt_1885"
 ]
@@ -1236,14 +1236,14 @@ creation-date( ea155 : exp, date3 : dyn) / hmw
 resp21( ea155 : exp, naut-1693 : resp) / hmw
 creation-date( ea155 : exp, date3 : dyn) / hmw
 
-[ea156 : exp = "大明仁孝皇后夢感佛說第一希有大功德經"
+[ea156 : exp = "大明仁孝皇后夢感佛說第一希有大功德經" / zh
 @"http://psi.iba-net.org/exp/hmw_a156"
 @"http://psi.iba-net.org/exp/hnx_0010"]
 {ea156, extent, [[2]]} / hmw
 resp9( ea156 : exp, naut-1694 : resp) / hmw
 creation-date( ea156 : exp, date23 : dyn) / hmw
 
-[ea157 : exp = "續傳燈錄"
+[ea157 : exp = "續傳燈錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a157"
 @"http://psi.iba-net.org/exp/hnt_2077"
 ]
@@ -1251,20 +1251,20 @@ creation-date( ea156 : exp, date23 : dyn) / hmw
 resp95( ea157 : exp, naut-1592 : resp) / hmw
 creation-date( ea157 : exp, date23 : dyn) / hmw
 
-[ea158 : exp = "密雲禪師語錄"
+[ea158 : exp = "密雲禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a158"
 ]
 {ea158, extent, [[10]]} / hmw
 aut(ea158 : exp, naut-1695 : resp) / hmw
 
-[ea159 : exp = "古尊宿語錄"
+[ea159 : exp = "古尊宿語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_a159"
 @"http://psi.iba-net.org/exp/hnx_1315"]
 {ea159, extent, [[48]]} / hmw
 resp6( ea159 : exp, naut-1139 : resp) / hmw
 creation-date( ea159 : exp, date3 : dyn) / hmw
 
-[ea160 : exp = "禪宗頌古聯珠通集"
+[ea160 : exp = "禪宗頌古聯珠通集" / zh
 @"http://psi.iba-net.org/exp/hmw_a160"
 @"http://psi.iba-net.org/exp/hnx_1295"]
 {ea160, extent, [[40]]} / hmw
@@ -1273,7 +1273,7 @@ creation-date( ea160 : exp, date3 : dyn) / hmw
 resp224( ea160 : exp, naut-1110 : resp) / hmw
 creation-date( ea160 : exp, date25 : dyn) / hmw
 
-[ea161 : exp = "佛祖統紀"
+[ea161 : exp = "佛祖統紀" / zh
 @"http://psi.iba-net.org/exp/hmw_a161"
 @"http://psi.iba-net.org/exp/hnt_2035"
 ]
@@ -1281,12 +1281,12 @@ creation-date( ea160 : exp, date25 : dyn) / hmw
 resp19( ea161 : exp, aut-377 : resp) / hmw
 creation-date( ea161 : exp, date3 : dyn) / hmw
 
-[eb001 : exp = "大方廣佛華嚴經疏鈔"
+[eb001 : exp = "大方廣佛華嚴經疏鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_b001"
 ]
 {eb001, extent, [[80]]} / hmw
 
-[eb002 : exp = "大方廣佛新華嚴經合論"
+[eb002 : exp = "大方廣佛新華嚴經合論" / zh
 @"http://psi.iba-net.org/exp/hmw_b002"
 @"http://psi.iba-net.org/exp/hnt_1739"
 ]
@@ -1294,7 +1294,7 @@ creation-date( ea161 : exp, date3 : dyn) / hmw
 resp19( eb002 : exp, naut-617 : resp) / hmw
 creation-date( eb002 : exp, date13 : dyn) / hmw
 
-[eb003 : exp = "大方廣佛華嚴經綱要"
+[eb003 : exp = "大方廣佛華嚴經綱要" / zh
 @"http://psi.iba-net.org/exp/hmw_b003"
 @"http://psi.iba-net.org/exp/hnx_0240"]
 {eb003, extent, [[80]]} / hmw
@@ -1303,13 +1303,13 @@ creation-date( eb003 : exp, date13 : dyn) / hmw
 resp18( eb003 : exp, naut-627 : resp) / hmw
 creation-date( eb003 : exp, date23 : dyn) / hmw
 
-[eb004 : exp = "大方廣佛華嚴經海印道場十重行願常遍禮懺儀"
+[eb004 : exp = "大方廣佛華嚴經海印道場十重行願常遍禮懺儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b004"
 ]
 {eb004, extent, [[42]]} / hmw
 {eb004-01, extent, [[1]]} / hmw
 
-[eb005 : exp = "大方廣佛華嚴經普賢行願品別行疏鈔"
+[eb005 : exp = "大方廣佛華嚴經普賢行願品別行疏鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_b005"
 @"http://psi.iba-net.org/exp/hnx_0229"]
 {eb005, extent, [[10]]} / hmw
@@ -1319,7 +1319,7 @@ resp15( eb005 : exp, aut-324 : resp) / hmw
 creation-date( eb005 : exp, date13 : dyn) / hmw
 {eb005-01, extent, [[1]]} / hmw
 
-[eb006 : exp = "略釋新華嚴經修行次第決疑論"
+[eb006 : exp = "略釋新華嚴經修行次第決疑論" / zh
 @"http://psi.iba-net.org/exp/hmw_b006"
 @"http://psi.iba-net.org/exp/hnt_1741"
 ]
@@ -1327,7 +1327,7 @@ creation-date( eb005 : exp, date13 : dyn) / hmw
 resp19( eb006 : exp, naut-617 : resp) / hmw
 creation-date( eb006 : exp, date13 : dyn) / hmw
 
-[eb007 : exp = "解迷顯智成悲十明論"
+[eb007 : exp = "解迷顯智成悲十明論" / zh
 @"http://psi.iba-net.org/exp/hmw_b007"
 @"http://psi.iba-net.org/exp/hnt_1888"
 ]
@@ -1335,35 +1335,35 @@ creation-date( eb006 : exp, date13 : dyn) / hmw
 resp19( eb007 : exp, naut-617 : resp) / hmw
 creation-date( eb007 : exp, date13 : dyn) / hmw
 
-[eb008 : exp = "大方廣佛華嚴經吞海集"
+[eb008 : exp = "大方廣佛華嚴經吞海集" / zh
 @"http://psi.iba-net.org/exp/hmw_b008"
 @"http://psi.iba-net.org/exp/hnx_0239"]
 {eb008, extent, [[3]]} / hmw
 resp9( eb008 : exp, naut-626 : resp) / hmw
 creation-date( eb008 : exp, date3 : dyn) / hmw
 
-[eb009 : exp = "法界觀披雲集"
+[eb009 : exp = "法界觀披雲集" / zh
 @"http://psi.iba-net.org/exp/hmw_b009"
 @"http://psi.iba-net.org/exp/hnx_1014"]
 {eb009, extent, [[1]]} / hmw
 resp9( eb009 : exp, naut-626 : resp) / hmw
 creation-date( eb009 : exp, date3 : dyn) / hmw
 
-[eb010 : exp = "妙法蓮華經台宗會義"
+[eb010 : exp = "妙法蓮華經台宗會義" / zh
 @"http://psi.iba-net.org/exp/hmw_b010"
 @"http://psi.iba-net.org/exp/hnx_0616"]
 {eb010, extent, [[16]]} / hmw
 resp9( eb010 : exp, aut-319 : resp) / hmw
 creation-date( eb010 : exp, date23 : dyn) / hmw
 
-[eb011 : exp = "妙法蓮華經通義"
+[eb011 : exp = "妙法蓮華經通義" / zh
 @"http://psi.iba-net.org/exp/hmw_b011"
 @"http://psi.iba-net.org/exp/hnx_0611"]
 {eb011, extent, [[7]]} / hmw
 resp9( eb011 : exp, naut-627 : resp) / hmw
 creation-date( eb011 : exp, date23 : dyn) / hmw
 
-[eb012 : exp = "妙法蓮華經合論"
+[eb012 : exp = "妙法蓮華經合論" / zh
 @"http://psi.iba-net.org/exp/hmw_b012"
 @"http://psi.iba-net.org/exp/hnx_0603"]
 {eb012, extent, [[7]]} / hmw
@@ -1371,14 +1371,14 @@ resp73( eb012 : exp, naut-797 : resp) / hmw
 creation-date( eb012 : exp, date3 : dyn) / hmw
 aut(eb012 : exp, naut-798 : resp) / hmw
 
-[eb013 : exp = "法華大意"
+[eb013 : exp = "法華大意" / zh
 @"http://psi.iba-net.org/exp/hmw_b013"
 @"http://psi.iba-net.org/exp/hnx_0609"]
 {eb013, extent, [[3]]} / hmw
 resp32( eb013 : exp, naut-804 : resp) / hmw
 creation-date( eb013 : exp, date23 : dyn) / hmw
 
-[eb014 : exp = "妙法蓮華經意語"
+[eb014 : exp = "妙法蓮華經意語" / zh
 @"http://psi.iba-net.org/exp/hmw_b014"
 @"http://psi.iba-net.org/exp/hnx_0613"]
 {eb014, extent, [[1]]} / hmw
@@ -1387,28 +1387,28 @@ creation-date( eb014 : exp, date23 : dyn) / hmw
 resp82( eb014 : exp, naut-805 : resp) / hmw
 creation-date( eb014 : exp, date23 : dyn) / hmw
 
-[eb015 : exp = "妙法蓮華經玄義節要"
+[eb015 : exp = "妙法蓮華經玄義節要" / zh
 @"http://psi.iba-net.org/exp/hmw_b015"
 @"http://psi.iba-net.org/exp/hnx_0589"]
 {eb015, extent, [[2]]} / hmw
 resp70( eb015 : exp, aut-319 : resp) / hmw
 creation-date( eb015 : exp, date23 : dyn) / hmw
 
-[eb016 : exp = "妙法蓮華經卓解"
+[eb016 : exp = "妙法蓮華經卓解" / zh
 @"http://psi.iba-net.org/exp/hmw_b016"
 @"http://psi.iba-net.org/exp/hnx_0617"]
 {eb016, extent, [[7]]} / hmw
 resp24( eb016 : exp, naut-746 : resp) / hmw
 creation-date( eb016 : exp, date27 : dyn) / hmw
 
-[eb017 : exp = "大佛頂首楞嚴經正脈疏"
+[eb017 : exp = "大佛頂首楞嚴經正脈疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b017"
 ]
 {eb017, extent, [[12]]} / hmw
 {eb017-01, extent, [[1]]} / hmw
 {eb017-02, extent, [[1]]} / hmw
 
-[eb018 : exp = "大佛頂首楞嚴經圓通疏"
+[eb018 : exp = "大佛頂首楞嚴經圓通疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b018"
 @"http://psi.iba-net.org/exp/hnx_0281"]
 {eb018, extent, [[10]]} / hmw
@@ -1417,7 +1417,7 @@ creation-date( eb018 : exp, date25 : dyn) / hmw
 resp31( eb018 : exp, aut-360 : resp) / hmw
 creation-date( eb018 : exp, date23 : dyn) / hmw
 
-[eb019 : exp = "大佛頂首楞嚴經文句"
+[eb019 : exp = "大佛頂首楞嚴經文句" / zh
 @"http://psi.iba-net.org/exp/hmw_b019"
 @"http://psi.iba-net.org/exp/hnx_0285"]
 {eb019, extent, [[10]]} / hmw
@@ -1426,14 +1426,14 @@ creation-date( eb019 : exp, date23 : dyn) / hmw
 aut(eb019 : exp, naut-654 : resp) / hmw
 {eb019-01, extent, [[2]]} / hmw
 
-[eb020 : exp = "大佛頂首楞嚴經要解"
+[eb020 : exp = "大佛頂首楞嚴經要解" / zh
 @"http://psi.iba-net.org/exp/hmw_b020"
 @"http://psi.iba-net.org/exp/hnx_0270"]
 {eb020, extent, [[20]]} / hmw
 resp22( eb020 : exp, naut-625 : resp) / hmw
 creation-date( eb020 : exp, date3 : dyn) / hmw
 
-[eb021 : exp = "首楞嚴義疏注經"
+[eb021 : exp = "首楞嚴義疏注經" / zh
 @"http://psi.iba-net.org/exp/hmw_b021"
 @"http://psi.iba-net.org/exp/hnt_1799"
 ]
@@ -1441,14 +1441,14 @@ creation-date( eb020 : exp, date3 : dyn) / hmw
 resp6( eb021 : exp, naut-644 : resp) / hmw
 creation-date( eb021 : exp, date3 : dyn) / hmw
 
-[eb022 : exp = "大佛頂首楞嚴經玄義"
+[eb022 : exp = "大佛頂首楞嚴經玄義" / zh
 @"http://psi.iba-net.org/exp/hmw_b022"
 @"http://psi.iba-net.org/exp/hnx_0282"]
 {eb022, extent, [[4]]} / hmw
 resp9( eb022 : exp, aut-360 : resp) / hmw
 creation-date( eb022 : exp, date23 : dyn) / hmw
 
-[eb023 : exp = "大佛頂首楞嚴經合論"
+[eb023 : exp = "大佛頂首楞嚴經合論" / zh
 @"http://psi.iba-net.org/exp/hmw_b023"
 @"http://psi.iba-net.org/exp/hnx_0272"]
 {eb023, extent, [[10]]} / hmw
@@ -1456,7 +1456,7 @@ resp10( eb023 : exp, naut-648 : resp) / hmw
 creation-date( eb023 : exp, date3 : dyn) / hmw
 aut(eb023 : exp, naut-649 : resp) / hmw
 
-[eb024 : exp = "大佛頂首楞嚴經疏解蒙鈔"
+[eb024 : exp = "大佛頂首楞嚴經疏解蒙鈔" / zh
 @"http://psi.iba-net.org/exp/hmw_b024"
 @"http://psi.iba-net.org/exp/hnx_0287"]
 {eb024, extent, [[28]]} / hmw
@@ -1464,14 +1464,14 @@ resp35( eb024 : exp, naut-656 : resp) / hmw
 creation-date( eb024 : exp, date23 : dyn) / hmw
 {eb024-01, extent, [[8]]} / hmw
 
-[eb025 : exp = "楞伽阿跋多羅寶經會譯"
+[eb025 : exp = "楞伽阿跋多羅寶經會譯" / zh
 @"http://psi.iba-net.org/exp/hmw_b025"
 @"http://psi.iba-net.org/exp/hnx_0008"]
 {eb025, extent, [[4]]} / hmw
 resp137( eb025 : exp, naut-576 : resp) / hmw
 creation-date( eb025 : exp, date23 : dyn) / hmw
 
-[eb026 : exp = "楞伽阿跋多羅寶經義疏"
+[eb026 : exp = "楞伽阿跋多羅寶經義疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b026"
 @"http://psi.iba-net.org/exp/hnx_0329"]
 {eb026, extent, [[9]]} / hmw
@@ -1479,84 +1479,84 @@ resp17( eb026 : exp, aut-319 : resp) / hmw
 creation-date( eb026 : exp, date23 : dyn) / hmw
 {eb026-01, extent, [[1]]} / hmw
 
-[eb027 : exp = "大方廣圓覺經大疏"
+[eb027 : exp = "大方廣圓覺經大疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b027"
 @"http://psi.iba-net.org/exp/hnx_0243"]
 {eb027, extent, [[12]]} / hmw
 resp9( eb027 : exp, aut-324 : resp) / hmw
 creation-date( eb027 : exp, date13 : dyn) / hmw
 
-[eb028 : exp = "大方廣圓覺修多羅了義經直解"
+[eb028 : exp = "大方廣圓覺修多羅了義經直解" / zh
 @"http://psi.iba-net.org/exp/hmw_b028"
 @"http://psi.iba-net.org/exp/hnx_0258"]
 {eb028, extent, [[2]]} / hmw
 resp22( eb028 : exp, naut-627 : resp) / hmw
 creation-date( eb028 : exp, date23 : dyn) / hmw
 
-[eb029 : exp = "大方廣圓覺修多羅了義經要解"
+[eb029 : exp = "大方廣圓覺修多羅了義經要解" / zh
 @"http://psi.iba-net.org/exp/hmw_b029"
 @"http://psi.iba-net.org/exp/hnx_0260"]
 {eb029, extent, [[2]]} / hmw
 resp124( eb029 : exp, naut-639 : resp) / hmw
 creation-date( eb029 : exp, date23 : dyn) / hmw
 
-[eb030 : exp = "大方廣圓覺修多羅了義經句釋正白"
+[eb030 : exp = "大方廣圓覺修多羅了義經句釋正白" / zh
 @"http://psi.iba-net.org/exp/hmw_b030"
 @"http://psi.iba-net.org/exp/hnx_0262"]
 {eb030, extent, [[6]]} / hmw
 resp24( eb030 : exp, naut-641 : resp) / hmw
 creation-date( eb030 : exp, date27 : dyn) / hmw
 
-[eb031 : exp = "金剛經筆記"
+[eb031 : exp = "金剛經筆記" / zh
 @"http://psi.iba-net.org/exp/hmw_b031"
 @"http://psi.iba-net.org/exp/hnx_0478"]
 {eb031, extent, [[1]]} / hmw
 resp21( eb031 : exp, naut-742 : resp) / hmw
 creation-date( eb031 : exp, date23 : dyn) / hmw
 
-[eb032 : exp = "金剛經大意心經大意附撮概"
+[eb032 : exp = "金剛經大意心經大意附撮概" / zh
 @"http://psi.iba-net.org/exp/hmw_b032"
 @"http://psi.iba-net.org/exp/hnx_0484"]
 {eb032, extent, [[1]]} / hmw
 resp9( eb032 : exp, naut-744 : resp) / hmw
 creation-date( eb032 : exp, date27 : dyn) / hmw
 
-[eb033 : exp = "心經解"
+[eb033 : exp = "心經解" / zh
 @"http://psi.iba-net.org/exp/hmw_b033"
 @"http://psi.iba-net.org/exp/hnx_0562"]
 {eb033, extent, [[1]]} / hmw
 resp22( eb033 : exp, naut-746 : resp) / hmw
 creation-date( eb033 : exp, date27 : dyn) / hmw
 
-[eb034 : exp = "金剛經會解了義"
+[eb034 : exp = "金剛經會解了義" / zh
 @"http://psi.iba-net.org/exp/hmw_b034"
 @"http://psi.iba-net.org/exp/hnx_0486"]
 {eb034, extent, [[1]]} / hmw
 resp59( eb034 : exp, naut-746 : resp) / hmw
 creation-date( eb034 : exp, date27 : dyn) / hmw
 
-[eb035 : exp = "金剛破空論"
+[eb035 : exp = "金剛破空論" / zh
 @"http://psi.iba-net.org/exp/hmw_b035"
 @"http://psi.iba-net.org/exp/hnx_0479"]
 {eb035, extent, [[1]]} / hmw
 resp10( eb035 : exp, aut-319 : resp) / hmw
 creation-date( eb035 : exp, date23 : dyn) / hmw
 
-[eb036 : exp = "心經釋要"
+[eb036 : exp = "心經釋要" / zh
 @"http://psi.iba-net.org/exp/hmw_b036"
 @"http://psi.iba-net.org/exp/hnx_0555"]
 {eb036, extent, [[1]]} / hmw
 resp9( eb036 : exp, aut-319 : resp) / hmw
 creation-date( eb036 : exp, date23 : dyn) / hmw
 
-[eb037 : exp = "金剛經觀心釋"
+[eb037 : exp = "金剛經觀心釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b037"
 @"http://psi.iba-net.org/exp/hnx_0480"]
 {eb037, extent, [[1]]} / hmw
 resp9( eb037 : exp, aut-319 : resp) / hmw
 creation-date( eb037 : exp, date23 : dyn) / hmw
 
-[eb038 : exp = "金剛經如是解"
+[eb038 : exp = "金剛經如是解" / zh
 @"http://psi.iba-net.org/exp/hmw_b038"
 @"http://psi.iba-net.org/exp/hnx_0485"]
 {eb038, extent, [[1]]} / hmw
@@ -1564,14 +1564,14 @@ resp58( eb038 : exp, naut-745 : resp) / hmw
 creation-date( eb038 : exp, date27 : dyn) / hmw
 {eb039, extent, [[3]]} / hmw
 
-[eb040 : exp = "金剛經新異錄"
+[eb040 : exp = "金剛經新異錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b040"
 @"http://psi.iba-net.org/exp/hnx_1633"]
 {eb040, extent, [[1]]} / hmw
 resp163( eb040 : exp, naut-744 : resp) / hmw
 creation-date( eb040 : exp, date23 : dyn) / hmw
 
-[eb041 : exp = "金剛經註釋"
+[eb041 : exp = "金剛經註釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b041"
 @"http://psi.iba-net.org/exp/hnx_0494"]
 {eb041, extent, [[1]]} / hmw
@@ -1579,32 +1579,32 @@ resp36( eb041 : exp, naut-754 : resp) / hmw
 creation-date( eb041 : exp, date27 : dyn) / hmw
 aut(eb041 : exp, naut-755 : resp) / hmw
 
-[eb042 : exp = "心經說"
+[eb042 : exp = "心經說" / zh
 @"http://psi.iba-net.org/exp/hmw_b042"
 @"http://psi.iba-net.org/exp/hnx_0546"]
 {eb042, extent, [[1]]} / hmw
 resp9( eb042 : exp, naut-780 : resp) / hmw
 creation-date( eb042 : exp, date23 : dyn) / hmw
 
-[eb043 : exp = "心經開度"
+[eb043 : exp = "心經開度" / zh
 @"http://psi.iba-net.org/exp/hmw_b043"
 @"http://psi.iba-net.org/exp/hnx_0550"]
 {eb043, extent, [[1]]} / hmw
 resp24( eb043 : exp, naut-641 : resp) / hmw
 creation-date( eb043 : exp, date23 : dyn) / hmw
 
-[eb044 : exp = "諸經日誦集要"
+[eb044 : exp = "諸經日誦集要" / zh
 @"http://psi.iba-net.org/exp/hmw_b044"
 ]
 {eb044, extent, [[1]]} / hmw
 
-[eb045 : exp = "佛遺教經註"
+[eb045 : exp = "佛遺教經註" / zh
 @"http://psi.iba-net.org/exp/hmw_b045"
 ]
 {eb045, extent, [[1]]} / hmw
 aut(eb045 : exp, naut-1696 : resp) / hmw
 
-[eb046 : exp = "佛說四十二章經註"
+[eb046 : exp = "佛說四十二章經註" / zh
 @"http://psi.iba-net.org/exp/hmw_b046"
 @"http://psi.iba-net.org/exp/hnx_0669"]
 {eb046, extent, [[1]]} / hmw
@@ -1613,54 +1613,54 @@ creation-date( eb046 : exp, date3 : dyn) / hmw
 resp85( eb046 : exp, naut-831 : resp) / hmw
 creation-date( eb046 : exp, date23 : dyn) / hmw
 
-[eb047 : exp = "瑜伽集要燄口施食儀"
+[eb047 : exp = "瑜伽集要燄口施食儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b047"
 ]
 {eb047, extent, [[]]} / hmw
 resp2( eb047 : exp, aut-151 : resp) / hmw
 creation-date( eb047 : exp, date13 : dyn) / hmw
 
-[eb048 : exp = "北京五大部直音會韻"
+[eb048 : exp = "北京五大部直音會韻" / zh
 @"http://psi.iba-net.org/exp/hmw_b048"
 ]
 {eb048, extent, [[]]} / hmw
 
-[eb049 : exp = "歷朝華嚴持驗紀"
+[eb049 : exp = "歷朝華嚴持驗紀" / zh
 @"http://psi.iba-net.org/exp/hmw_b049"
 @"http://psi.iba-net.org/exp/hnx_1534"]
 {eb049, extent, [[1]]} / hmw
 resp59( eb049 : exp, naut-1020 : resp) / hmw
 creation-date( eb049 : exp, date27 : dyn) / hmw
 
-[eb050 : exp = "歷朝法華持驗紀"
+[eb050 : exp = "歷朝法華持驗紀" / zh
 @"http://psi.iba-net.org/exp/hmw_b050"
 @"http://psi.iba-net.org/exp/hnx_1541"]
 {eb050, extent, [[2]]} / hmw
 resp59( eb050 : exp, naut-1020 : resp) / hmw
 creation-date( eb050 : exp, date27 : dyn) / hmw
 
-[eb051 : exp = "歷朝金剛持驗紀"
+[eb051 : exp = "歷朝金剛持驗紀" / zh
 @"http://psi.iba-net.org/exp/hmw_b051"
 @"http://psi.iba-net.org/exp/hnx_1635"]
 {eb051, extent, [[2]]} / hmw
 resp59( eb051 : exp, naut-1020 : resp) / hmw
 creation-date( eb051 : exp, date27 : dyn) / hmw
 
-[eb052 : exp = "觀世音持驗紀"
+[eb052 : exp = "觀世音持驗紀" / zh
 @"http://psi.iba-net.org/exp/hmw_b052"
 @"http://psi.iba-net.org/exp/hnx_1542"]
 {eb052, extent, [[2]]} / hmw
 resp6( eb052 : exp, naut-1020 : resp) / hmw
 creation-date( eb052 : exp, date27 : dyn) / hmw
 
-[eb053 : exp = "淨土晨鍾"
+[eb053 : exp = "淨土晨鍾" / zh
 @"http://psi.iba-net.org/exp/hmw_b053"
 @"http://psi.iba-net.org/exp/hnx_1172"]
 {eb053, extent, [[10]]} / hmw
 resp59( eb053 : exp, naut-1020 : resp) / hmw
 creation-date( eb053 : exp, date27 : dyn) / hmw
 
-[eb054 : exp = "大乘起信論疏略"
+[eb054 : exp = "大乘起信論疏略" / zh
 @"http://psi.iba-net.org/exp/hmw_b054"
 @"http://psi.iba-net.org/exp/hnx_0765"]
 {eb054, extent, [[4]]} / hmw
@@ -1669,47 +1669,47 @@ creation-date( eb054 : exp, date13 : dyn) / hmw
 resp72( eb054 : exp, naut-627 : resp) / hmw
 creation-date( eb054 : exp, date23 : dyn) / hmw
 
-[eb055 : exp = "依楞嚴究竟事懺"
+[eb055 : exp = "依楞嚴究竟事懺" / zh
 @"http://psi.iba-net.org/exp/hmw_b055"
 @"http://psi.iba-net.org/exp/hnx_1478"]
 {eb055, extent, [[2]]} / hmw
 resp9( eb055 : exp, naut-1551 : resp) / hmw
 creation-date( eb055 : exp, date23 : dyn) / hmw
 
-[eb056 : exp = "禮吳中石佛起止儀式"
+[eb056 : exp = "禮吳中石佛起止儀式" / zh
 @"http://psi.iba-net.org/exp/hmw_b056"
 @"http://psi.iba-net.org/exp/hnx_1489"]
 {eb056, extent, [[1]]} / hmw
 resp6( eb056 : exp, aut-360 : resp) / hmw
 creation-date( eb056 : exp, date23 : dyn) / hmw
 
-[eb057 : exp = "千手千眼大悲心咒行法"
+[eb057 : exp = "千手千眼大悲心咒行法" / zh
 @"http://psi.iba-net.org/exp/hmw_b057"
 ]
 {eb057, extent, [[]]} / hmw
 resp19( eb057 : exp, naut-643 : resp) / hmw
 creation-date( eb057 : exp, date13 : dyn) / hmw
 
-[eb058 : exp = "大准提菩薩焚修悉地懺悔玄文"
+[eb058 : exp = "大准提菩薩焚修悉地懺悔玄文" / zh
 @"http://psi.iba-net.org/exp/hmw_b058"
 ]
 {eb058, extent, [[1]]} / hmw
 
-[eb059 : exp = "得遇龍華修證懺儀"
+[eb059 : exp = "得遇龍華修證懺儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b059"
 @"http://psi.iba-net.org/exp/hnx_1488"]
 {eb059, extent, [[4]]} / hmw
 resp19( eb059 : exp, aut-389 : resp) / hmw
 creation-date( eb059 : exp, date23 : dyn) / hmw
 
-[eb060 : exp = "舍利懺法"
+[eb060 : exp = "舍利懺法" / zh
 @"http://psi.iba-net.org/exp/hmw_b060"
 @"http://psi.iba-net.org/exp/hnx_1490"]
 {eb060, extent, [[1]]} / hmw
 resp24( eb060 : exp, naut-1554 : resp) / hmw
 creation-date( eb060 : exp, date27 : dyn) / hmw
 
-[eb061 : exp = "金光明懺法補助儀"
+[eb061 : exp = "金光明懺法補助儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b061"
 ]
 {eb061, extent, [[1]]} / hmw
@@ -1717,7 +1717,7 @@ nresp-280( eb061 : exp, naut-1697 : resp) / hmw
 creation-date( eb061 : exp, date3 : dyn) / hmw
 {eb061-01, extent, [[1]]} / hmw
 
-[eb062 : exp = "占察善惡業報經行法"
+[eb062 : exp = "占察善惡業報經行法" / zh
 @"http://psi.iba-net.org/exp/hmw_b062"
 @"http://psi.iba-net.org/exp/hnx_1485"]
 {eb062, extent, [[1]]} / hmw
@@ -1725,12 +1725,12 @@ resp6( eb062 : exp, aut-319 : resp) / hmw
 creation-date( eb062 : exp, date23 : dyn) / hmw
 {eb062-01, extent, [[2]]} / hmw
 
-[eb063 : exp = "讚禮地藏菩薩懺願儀"
+[eb063 : exp = "讚禮地藏菩薩懺願儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b063"
 ]
 {eb063, extent, [[]]} / hmw
 
-[eb064 : exp = "菩薩戒本經箋要"
+[eb064 : exp = "菩薩戒本經箋要" / zh
 @"http://psi.iba-net.org/exp/hmw_b064"
 @"http://psi.iba-net.org/exp/hnx_0702"]
 {eb064, extent, [[1]]} / hmw
@@ -1738,42 +1738,42 @@ resp71( eb064 : exp, aut-319 : resp) / hmw
 creation-date( eb064 : exp, date23 : dyn) / hmw
 {eb064-01, extent, [[1]]} / hmw
 
-[eb065 : exp = "沙彌十戒威儀錄要"
+[eb065 : exp = "沙彌十戒威儀錄要" / zh
 @"http://psi.iba-net.org/exp/hmw_b065"
 @"http://psi.iba-net.org/exp/hnx_1121"]
 {eb065, extent, [[1]]} / hmw
 resp201( eb065 : exp, aut-319 : resp) / hmw
 creation-date( eb065 : exp, date23 : dyn) / hmw
 
-[eb066 : exp = "四分律藏大小持戒犍度略釋"
+[eb066 : exp = "四分律藏大小持戒犍度略釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b066"
 @"http://psi.iba-net.org/exp/hnx_0745"]
 {eb066, extent, [[1]]} / hmw
 resp36( eb066 : exp, aut-319 : resp) / hmw
 creation-date( eb066 : exp, date23 : dyn) / hmw
 
-[eb067 : exp = "大乘止觀法門釋要"
+[eb067 : exp = "大乘止觀法門釋要" / zh
 @"http://psi.iba-net.org/exp/hmw_b067"
 @"http://psi.iba-net.org/exp/hnx_0905"]
 {eb067, extent, [[6]]} / hmw
 resp9( eb067 : exp, aut-319 : resp) / hmw
 creation-date( eb067 : exp, date23 : dyn) / hmw
 
-[eb068 : exp = "占察善惡業報經義疏"
+[eb068 : exp = "占察善惡業報經義疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b068"
 ]
 {eb068, extent, [[]]} / hmw
 {eb068-01, extent, [[1]]} / hmw
 {eb068-02, extent, [[2]]} / hmw
 
-[eb069 : exp = "准提淨業"
+[eb069 : exp = "准提淨業" / zh
 @"http://psi.iba-net.org/exp/hmw_b069"
 @"http://psi.iba-net.org/exp/hnx_1077"]
 {eb069, extent, [[3]]} / hmw
 resp24( eb069 : exp, naut-976 : resp) / hmw
 creation-date( eb069 : exp, date23 : dyn) / hmw
 
-[eb070 : exp = "三經解"
+[eb070 : exp = "三經解" / zh
 @"http://psi.iba-net.org/exp/hmw_b070"
 ]
 {eb070, extent, [[]]} / hmw
@@ -1781,19 +1781,19 @@ creation-date( eb069 : exp, date23 : dyn) / hmw
 {eb070-02, extent, [[1]]} / hmw
 {eb070-03, extent, [[1]]} / hmw
 
-[eb071 : exp = "佛說齋經科註"
+[eb071 : exp = "佛說齋經科註" / zh
 @"http://psi.iba-net.org/exp/hmw_b071"
 @"http://psi.iba-net.org/exp/hnx_0749"]
 {eb071, extent, [[1]]} / hmw
 resp74( eb071 : exp, aut-319 : resp) / hmw
 creation-date( eb071 : exp, date23 : dyn) / hmw
 
-[eb072 : exp = "因明入正理論解"
+[eb072 : exp = "因明入正理論解" / zh
 @"http://psi.iba-net.org/exp/hmw_b072"
 ]
 {eb072, extent, [[]]} / hmw
 
-[eb073 : exp = "八識規矩百法明門纂釋"
+[eb073 : exp = "八識規矩百法明門纂釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b073"
 @"http://psi.iba-net.org/exp/hnx_0894"]
 {eb073, extent, [[1]]} / hmw
@@ -1802,35 +1802,35 @@ creation-date( eb073 : exp, date23 : dyn) / hmw
 {eb073-01, extent, [[1]]} / hmw
 {eb073-02, extent, [[1]]} / hmw
 
-[eb074 : exp = "相宗八要"
+[eb074 : exp = "相宗八要" / zh
 @"http://psi.iba-net.org/exp/hmw_b074"
 @"http://psi.iba-net.org/exp/hnx_0899"]
 {eb074, extent, [[8]]} / hmw
 resp95( eb074 : exp, naut-780 : resp) / hmw
 creation-date( eb074 : exp, date23 : dyn) / hmw
 
-[eb075 : exp = "八識規矩頌略說"
+[eb075 : exp = "八識規矩頌略說" / zh
 @"http://psi.iba-net.org/exp/hmw_b075"
 @"http://psi.iba-net.org/exp/hnx_0891"]
 {eb075, extent, [[1]]} / hmw
 resp178( eb075 : exp, naut-909 : resp) / hmw
 creation-date( eb075 : exp, date23 : dyn) / hmw
 
-[eb076 : exp = "相宗八要解"
+[eb076 : exp = "相宗八要解" / zh
 @"http://psi.iba-net.org/exp/hmw_b076"
 @"http://psi.iba-net.org/exp/hnx_0900"]
 {eb076, extent, [[8]]} / hmw
 resp24( eb076 : exp, naut-889 : resp) / hmw
 creation-date( eb076 : exp, date23 : dyn) / hmw
 
-[eb077 : exp = "相宗八要直解"
+[eb077 : exp = "相宗八要直解" / zh
 @"http://psi.iba-net.org/exp/hmw_b077"
 ]
 {eb077, extent, [[9]]} / hmw
 resp22( eb077 : exp, naut-1698 : resp) / hmw
 creation-date( eb077 : exp, date23 : dyn) / hmw
 
-[eb078 : exp = "淨土資糧全集"
+[eb078 : exp = "淨土資糧全集" / zh
 @"http://psi.iba-net.org/exp/hmw_b078"
 @"http://psi.iba-net.org/exp/hnx_1162"]
 {eb078, extent, [[8]]} / hmw
@@ -1838,7 +1838,7 @@ resp206( eb078 : exp, aut-361 : resp) / hmw
 creation-date( eb078 : exp, date23 : dyn) / hmw
 aut(eb078 : exp, naut-1011 : resp) / hmw
 
-[eb079 : exp = "彌陀要解"
+[eb079 : exp = "彌陀要解" / zh
 @"http://psi.iba-net.org/exp/hmw_b079"
 @"http://psi.iba-net.org/exp/hnt_1762"
 ]
@@ -1846,14 +1846,14 @@ aut(eb078 : exp, naut-1011 : resp) / hmw
 resp22( eb079 : exp, aut-319 : resp) / hmw
 creation-date( eb079 : exp, date23 : dyn) / hmw
 
-[eb080 : exp = "彌陀句解"
+[eb080 : exp = "彌陀句解" / zh
 @"http://psi.iba-net.org/exp/hmw_b080"
 @"http://psi.iba-net.org/exp/hnx_0421"]
 {eb080, extent, [[1]]} / hmw
 resp254( eb080 : exp, naut-709 : resp) / hmw
 creation-date( eb080 : exp, date25 : dyn) / hmw
 
-[eb081 : exp = "念佛直指"
+[eb081 : exp = "念佛直指" / zh
 @"http://psi.iba-net.org/exp/hmw_b081"
 @"http://psi.iba-net.org/exp/hnt_1974"
 ]
@@ -1861,14 +1861,14 @@ creation-date( eb080 : exp, date25 : dyn) / hmw
 resp6( eb081 : exp, naut-1699 : resp) / hmw
 creation-date( eb081 : exp, date23 : dyn) / hmw
 
-[eb082 : exp = "西方直指"
+[eb082 : exp = "西方直指" / zh
 @"http://psi.iba-net.org/exp/hmw_b082"
 @"http://psi.iba-net.org/exp/hnx_1163"]
 {eb082, extent, [[3]]} / hmw
 resp56( eb082 : exp, naut-1012 : resp) / hmw
 creation-date( eb082 : exp, date23 : dyn) / hmw
 
-[eb083 : exp = "淨土三論"
+[eb083 : exp = "淨土三論" / zh
 @"http://psi.iba-net.org/exp/hmw_b083"
 ]
 {eb083, extent, [[1]]} / hmw
@@ -1876,14 +1876,14 @@ creation-date( eb082 : exp, date23 : dyn) / hmw
 {eb083-02, extent, [[3]]} / hmw
 {eb083-03, extent, [[1]]} / hmw
 
-[eb084 : exp = "淨土指歸集"
+[eb084 : exp = "淨土指歸集" / zh
 @"http://psi.iba-net.org/exp/hmw_b084"
 @"http://psi.iba-net.org/exp/hnx_1154"]
 {eb084, extent, [[2]]} / hmw
 resp6( eb084 : exp, naut-710 : resp) / hmw
 creation-date( eb084 : exp, date23 : dyn) / hmw
 
-[eb085 : exp = "天如和尚淨土或問"
+[eb085 : exp = "天如和尚淨土或問" / zh
 @"http://psi.iba-net.org/exp/hmw_b085"
 @"http://psi.iba-net.org/exp/hnt_1972"
 ]
@@ -1891,7 +1891,7 @@ creation-date( eb084 : exp, date23 : dyn) / hmw
 resp24( eb085 : exp, naut-1700 : resp) / hmw
 creation-date( eb085 : exp, date25 : dyn) / hmw
 
-[eb086 : exp = "龍舒淨土文"
+[eb086 : exp = "龍舒淨土文" / zh
 @"http://psi.iba-net.org/exp/hmw_b086"
 @"http://psi.iba-net.org/exp/hnt_1970"
 ]
@@ -1899,14 +1899,14 @@ creation-date( eb085 : exp, date25 : dyn) / hmw
 resp19( eb086 : exp, naut-1007 : resp) / hmw
 creation-date( eb086 : exp, date3 : dyn) / hmw
 
-[eb087 : exp = "三時繫念"
+[eb087 : exp = "三時繫念" / zh
 @"http://psi.iba-net.org/exp/hmw_b087"
 @"http://psi.iba-net.org/exp/hnx_1464"]
 {eb087, extent, [[1]]} / hmw
 resp9( eb087 : exp, aut-368 : resp) / hmw
 creation-date( eb087 : exp, date3 : dyn) / hmw
 
-[eb088 : exp = "肇論"
+[eb088 : exp = "肇論" / zh
 @"http://psi.iba-net.org/exp/hmw_b088"
 @"http://psi.iba-net.org/exp/hnt_1858"
 ]
@@ -1914,7 +1914,7 @@ creation-date( eb087 : exp, date3 : dyn) / hmw
 resp28( eb088 : exp, aut-322 : resp) / hmw
 creation-date( eb088 : exp, date2 : dyn) / hmw
 
-[eb089 : exp = "大乘起信論裂網疏"
+[eb089 : exp = "大乘起信論裂網疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b089"
 @"http://psi.iba-net.org/exp/hnt_1850"
 ]
@@ -1922,32 +1922,32 @@ creation-date( eb088 : exp, date2 : dyn) / hmw
 resp9( eb089 : exp, aut-319 : resp) / hmw
 creation-date( eb089 : exp, date23 : dyn) / hmw
 
-[eb090 : exp = "續原教論"
+[eb090 : exp = "續原教論" / zh
 @"http://psi.iba-net.org/exp/hmw_b090"
 ]
 {eb090, extent, [[]]} / hmw
 aut(eb090 : exp, naut-1701 : resp) / hmw
 
-[eb091 : exp = "道餘錄"
+[eb091 : exp = "道餘錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b091"
 ]
 {eb091, extent, [[1]]} / hmw
 
-[eb092 : exp = "註心賦"
+[eb092 : exp = "註心賦" / zh
 @"http://psi.iba-net.org/exp/hmw_b092"
 @"http://psi.iba-net.org/exp/hnx_1231"]
 {eb092, extent, [[4]]} / hmw
 resp9( eb092 : exp, aut-368 : resp) / hmw
 creation-date( eb092 : exp, date3 : dyn) / hmw
 
-[eb093 : exp = "佛說盂蘭盆經新疏"
+[eb093 : exp = "佛說盂蘭盆經新疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b093"
 @"http://psi.iba-net.org/exp/hnx_0377"]
 {eb093, extent, [[1]]} / hmw
 resp31( eb093 : exp, aut-319 : resp) / hmw
 creation-date( eb093 : exp, date23 : dyn) / hmw
 
-[eb094 : exp = "三千有門頌略解"
+[eb094 : exp = "三千有門頌略解" / zh
 @"http://psi.iba-net.org/exp/hmw_b094"
 @"http://psi.iba-net.org/exp/hnx_0954"]
 {eb094, extent, [[1]]} / hmw
@@ -1956,33 +1956,33 @@ creation-date( eb094 : exp, date23 : dyn) / hmw
 resp208( eb094 : exp, aut-319 : resp) / hmw
 creation-date( eb094 : exp, date23 : dyn) / hmw
 
-[eb095 : exp = "蕅益三頌"
+[eb095 : exp = "蕅益三頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b095"
 ]
 {eb095, extent, [[1]]} / hmw
 
-[eb096 : exp = "周易禪解"
+[eb096 : exp = "周易禪解" / zh
 @"http://psi.iba-net.org/exp/hmw_b096"
 ]
 {eb096, extent, [[1]]} / hmw
 
-[eb097 : exp = "天樂鳴空集"
+[eb097 : exp = "天樂鳴空集" / zh
 @"http://psi.iba-net.org/exp/hmw_b097"
 ]
 {eb097, extent, [[1]]} / hmw
 
-[eb098 : exp = "黃蘗無念禪師復問"
+[eb098 : exp = "黃蘗無念禪師復問" / zh
 @"http://psi.iba-net.org/exp/hmw_b098"
 ]
 {eb098, extent, [[1]]} / hmw
 
-[eb099 : exp = "南宋江陰軍乾明院羅漢尊號碑"
+[eb099 : exp = "南宋江陰軍乾明院羅漢尊號碑" / zh
 @"http://psi.iba-net.org/exp/hmw_b099"
 ]
 {eb099, extent, [[1]]} / hmw
 aut(eb099 : exp, naut-1702 : resp) / hmw
 
-[eb100 : exp = "寂音尊者智證傳"
+[eb100 : exp = "寂音尊者智證傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b100"
 @"http://psi.iba-net.org/exp/hnx_1235"]
 {eb100, extent, [[1]]} / hmw
@@ -1990,14 +1990,14 @@ resp19( eb100 : exp, naut-797 : resp) / hmw
 creation-date( eb100 : exp, date3 : dyn) / hmw
 aut(eb100 : exp, naut-1063 : resp) / hmw
 
-[eb100-01 : exp = "雲巖寶鏡三昧"
+[eb100-01 : exp = "雲巖寶鏡三昧" / zh
 @"http://psi.iba-net.org/exp/hmw_b100-01"
 ]
 {eb100-01, extent, [[]]} / hmw
 resp2( eb100-01 : exp, aut-18 : resp) / hmw
 creation-date( eb100-01 : exp, date10 : dyn) / hmw
 
-[eb101 : exp = "禪林僧寶傳"
+[eb101 : exp = "禪林僧寶傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b101"
 @"http://psi.iba-net.org/exp/hnx_1560"]
 {eb101, extent, [[30]]} / hmw
@@ -2005,7 +2005,7 @@ resp19( eb101 : exp, naut-1585 : resp) / hmw
 creation-date( eb101 : exp, date3 : dyn) / hmw
 {eb101-01, extent, [[1]]} / hmw
 
-[eb102 : exp = "大明高僧傳"
+[eb102 : exp = "大明高僧傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b102"
 @"http://psi.iba-net.org/exp/hnt_2062"
 ]
@@ -2013,82 +2013,82 @@ creation-date( eb101 : exp, date3 : dyn) / hmw
 resp19( eb102 : exp, aut-389 : resp) / hmw
 creation-date( eb102 : exp, date23 : dyn) / hmw
 
-[eb103 : exp = "寒山子詩集"
+[eb103 : exp = "寒山子詩集" / zh
 @"http://psi.iba-net.org/exp/hmw_b103"
 ]
 {eb103, extent, [[1]]} / hmw
 
-[eb104 : exp = "教外別傳"
+[eb104 : exp = "教外別傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b104"
 @"http://psi.iba-net.org/exp/hnx_1580"]
 {eb104, extent, [[16]]} / hmw
 resp152( eb104 : exp, naut-1598 : resp) / hmw
 creation-date( eb104 : exp, date23 : dyn) / hmw
 
-[eb105 : exp = "成唯識論俗詮"
+[eb105 : exp = "成唯識論俗詮" / zh
 @"http://psi.iba-net.org/exp/hmw_b105"
 @"http://psi.iba-net.org/exp/hnx_0820"]
 {eb105, extent, [[10]]} / hmw
 resp106( eb105 : exp, naut-889 : resp) / hmw
 creation-date( eb105 : exp, date23 : dyn) / hmw
 
-[eb106 : exp = "佛祖綱目"
+[eb106 : exp = "佛祖綱目" / zh
 @"http://psi.iba-net.org/exp/hmw_b106"
 @"http://psi.iba-net.org/exp/hnx_1594"]
 {eb106, extent, [[41]]} / hmw
 resp24( eb106 : exp, naut-1609 : resp) / hmw
 creation-date( eb106 : exp, date23 : dyn) / hmw
 
-[eb107 : exp = "佛祖宗派世譜"
+[eb107 : exp = "佛祖宗派世譜" / zh
 @"http://psi.iba-net.org/exp/hmw_b107"
 ]
 {eb107, extent, [[1]]} / hmw
 
-[eb108 : exp = "居士分燈錄"
+[eb108 : exp = "居士分燈錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b108"
 @"http://psi.iba-net.org/exp/hnx_1607"]
 {eb108, extent, [[2]]} / hmw
 resp95( eb108 : exp, naut-1609 : resp) / hmw
 creation-date( eb108 : exp, date23 : dyn) / hmw
 
-[eb109 : exp = "大藏一覽"
+[eb109 : exp = "大藏一覽" / zh
 @"http://psi.iba-net.org/exp/hmw_b109"
 @"http://psi.iba-net.org/exp/hkw_1504"
 ]
 {eb109, extent, [[11]]} / hmw
 
-[eb110 : exp = "護法錄"
+[eb110 : exp = "護法錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b110"
 ]
 {eb110, extent, [[1]]} / hmw
 
-[eb111 : exp = "佛法金湯編"
+[eb111 : exp = "佛法金湯編" / zh
 @"http://psi.iba-net.org/exp/hmw_b111"
 @"http://psi.iba-net.org/exp/hnx_1628"]
 {eb111, extent, [[16]]} / hmw
 resp56( eb111 : exp, naut-1631 : resp) / hmw
 creation-date( eb111 : exp, date23 : dyn) / hmw
 
-[eb112 : exp = "歸元直指集"
+[eb112 : exp = "歸元直指集" / zh
 @"http://psi.iba-net.org/exp/hmw_b112"
 @"http://psi.iba-net.org/exp/hnx_1156"]
 {eb112, extent, [[2]]} / hmw
 resp6( eb112 : exp, naut-1009 : resp) / hmw
 creation-date( eb112 : exp, date23 : dyn) / hmw
 
-[eb113 : exp = "佛果圓悟禪師碧巖集"
+[eb113 : exp = "佛果圓悟禪師碧巖集" / zh
 @"http://psi.iba-net.org/exp/hmw_b113"
 ]
 {eb113, extent, [[]]} / hmw
 
-[eb114 : exp = "紫柏老人集"
+[eb114 : exp = "紫柏老人集" / zh
 @"http://psi.iba-net.org/exp/hmw_b114"
 @"http://psi.iba-net.org/exp/hnx_1452"]
 {eb114, extent, [[30]]} / hmw
 resp238( eb114 : exp, naut-627 : resp) / hmw
 creation-date( eb114 : exp, date23 : dyn) / hmw
 
-[eb115 : exp = "憨山大師全集"
+[eb115 : exp = "憨山大師全集" / zh
 @"http://psi.iba-net.org/exp/hmw_b115"
 @"http://psi.iba-net.org/exp/hnx_1456"]
 {eb115, extent, [[52]]} / hmw
@@ -2097,64 +2097,64 @@ role( naut-1539 : exp, role-46 : role) / hmw
 resp151( eb115 : exp, naut-1540 : resp) / hmw
 role( naut-1540 : exp, role-43 : role) / hmw
 
-[eb116 : exp = "憨山老人夢遊全集"
+[eb116 : exp = "憨山老人夢遊全集" / zh
 @"http://psi.iba-net.org/exp/hmw_b116"
 ]
 {eb116, extent, [[5]]} / hmw
 resp19( eb116 : exp, naut-627 : resp) / hmw
 creation-date( eb116 : exp, date23 : dyn) / hmw
 
-[eb117 : exp = "憨山老人年譜自敘實錄"
+[eb117 : exp = "憨山老人年譜自敘實錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b117"
 ]
 {eb117, extent, [[1]]} / hmw
 
-[eb118 : exp = "密藏開禪師遺稿"
+[eb118 : exp = "密藏開禪師遺稿" / zh
 @"http://psi.iba-net.org/exp/hmw_b118"
 ]
 {eb118, extent, [[1]]} / hmw
 
-[eb119 : exp = "見聞錄"
+[eb119 : exp = "見聞錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b119"
 @"http://psi.iba-net.org/exp/hnx_1641"]
 {eb119, extent, [[1]]} / hmw
 resp164( eb119 : exp, aut-319 : resp) / hmw
 creation-date( eb119 : exp, date23 : dyn) / hmw
 
-[eb120 : exp = "闢邪集"
+[eb120 : exp = "闢邪集" / zh
 @"http://psi.iba-net.org/exp/hmw_b120"
 ]
 {eb120, extent, [[1]]} / hmw
 resp24( eb120 : exp, naut-1703 : resp) / hmw
 creation-date( eb120 : exp, date23 : dyn) / hmw
 
-[eb121 : exp = "紫[木*百]尊者別集"
+[eb121 : exp = "紫[木*百]尊者別集" / zh
 @"http://psi.iba-net.org/exp/hmw_b121"
 @"http://psi.iba-net.org/exp/hnx_1453"]
 {eb121, extent, [[4]]} / hmw
 resp239( eb121 : exp, naut-656 : resp) / hmw
 creation-date( eb121 : exp, date23 : dyn) / hmw
 
-[eb122 : exp = "醒世錄"
+[eb122 : exp = "醒世錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b122"
 ]
 {eb122, extent, [[1]]} / hmw
 
-[eb123 : exp = "祖庭嫡傳指南"
+[eb123 : exp = "祖庭嫡傳指南" / zh
 @"http://psi.iba-net.org/exp/hmw_b123"
 @"http://psi.iba-net.org/exp/hnx_1618"]
 {eb123, extent, [[2]]} / hmw
 resp160( eb123 : exp, naut-746 : resp) / hmw
 creation-date( eb123 : exp, date27 : dyn) / hmw
 
-[eb124 : exp = "高僧摘要"
+[eb124 : exp = "高僧摘要" / zh
 @"http://psi.iba-net.org/exp/hmw_b124"
 @"http://psi.iba-net.org/exp/hnx_1626"]
 {eb124, extent, [[4]]} / hmw
 resp151( eb124 : exp, naut-746 : resp) / hmw
 creation-date( eb124 : exp, date27 : dyn) / hmw
 
-[eb125 : exp = "先覺宗乘"
+[eb125 : exp = "先覺宗乘" / zh
 @"http://psi.iba-net.org/exp/hmw_b125"
 @"http://psi.iba-net.org/exp/hnx_1620"]
 {eb125, extent, [[5]]} / hmw
@@ -2164,24 +2164,24 @@ aut(eb125 : exp, naut-1628 : resp) / hmw
 {eb125-01, extent, [[1]]} / hmw
 {eb125-02, extent, [[1]]} / hmw
 
-[eb126 : exp = "千松筆記"
+[eb126 : exp = "千松筆記" / zh
 @"http://psi.iba-net.org/exp/hmw_b126"
 @"http://psi.iba-net.org/exp/hnx_1287"]
 {eb126, extent, [[1]]} / hmw
 resp24( eb126 : exp, naut-659 : resp) / hmw
 creation-date( eb126 : exp, date23 : dyn) / hmw
 
-[eb127 : exp = "無依道人錄"
+[eb127 : exp = "無依道人錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b127"
 ]
 {eb127, extent, [[1]]} / hmw
 
-[eb128 : exp = "普明禪師牧牛圖頌"
+[eb128 : exp = "普明禪師牧牛圖頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b128"
 ]
 {eb128, extent, [[1]]} / hmw
 
-[eb129 : exp = "牧牛圖頌"
+[eb129 : exp = "牧牛圖頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b129"
 ]
 {eb129, extent, [[1]]} / hmw
@@ -2190,7 +2190,7 @@ creation-date( eb129 : exp, date23 : dyn) / hmw
 resp224( eb129 : exp, naut-1097 : resp) / hmw
 creation-date( eb129 : exp, date23 : dyn) / hmw
 
-[eb130 : exp = "頓悟入道要門論諸方門人參問語錄"
+[eb130 : exp = "頓悟入道要門論諸方門人參問語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b130"
 @"http://psi.iba-net.org/exp/hnx_1223"]
 {eb130, extent, [[1]]} / hmw
@@ -2199,14 +2199,14 @@ creation-date( eb130 : exp, date13 : dyn) / hmw
 {eb130-01, extent, [[1]]} / hmw
 {eb130-02, extent, [[1]]} / hmw
 
-[eb131 : exp = "正法眼藏"
+[eb131 : exp = "正法眼藏" / zh
 @"http://psi.iba-net.org/exp/hmw_b131"
 @"http://psi.iba-net.org/exp/hnx_1309"]
 {eb131, extent, [[3]]} / hmw
 resp169( eb131 : exp, naut-1130 : resp) / hmw
 creation-date( eb131 : exp, date3 : dyn) / hmw
 
-[eb132 : exp = "人天眼目"
+[eb132 : exp = "人天眼目" / zh
 @"http://psi.iba-net.org/exp/hmw_b132"
 @"http://psi.iba-net.org/exp/hnt_2006"
 ]
@@ -2214,38 +2214,38 @@ creation-date( eb131 : exp, date3 : dyn) / hmw
 resp6( eb132 : exp, naut-1090 : resp) / hmw
 creation-date( eb132 : exp, date3 : dyn) / hmw
 
-[eb133 : exp = "林間錄;後集一卷"
+[eb133 : exp = "林間錄;後集一卷" / zh
 @"http://psi.iba-net.org/exp/hmw_b133"
 @"http://psi.iba-net.org/exp/hnx_1624"]
 {eb133, extent, [[2]]} / hmw
 resp6( eb133 : exp, naut-797 : resp) / hmw
 creation-date( eb133 : exp, date3 : dyn) / hmw
 
-[eb134 : exp = "五家語錄"
+[eb134 : exp = "五家語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b134"
 ]
 {eb134, extent, [[]]} / hmw
 
-[eb135 : exp = "石門文字禪"
+[eb135 : exp = "石門文字禪" / zh
 @"http://psi.iba-net.org/exp/hmw_b135"
 ]
 {eb135, extent, [[]]} / hmw
 resp24( eb135 : exp, naut-797 : resp) / hmw
 creation-date( eb135 : exp, date3 : dyn) / hmw
 
-[eb136 : exp = "五燈會元"
+[eb136 : exp = "五燈會元" / zh
 @"http://psi.iba-net.org/exp/hmw_b136"
 @"http://psi.iba-net.org/exp/hnx_1565"]
 {eb136, extent, [[20]]} / hmw
 resp6( eb136 : exp, naut-1589 : resp) / hmw
 creation-date( eb136 : exp, date3 : dyn) / hmw
 
-[eb137 : exp = "趙州和尚語錄"
+[eb137 : exp = "趙州和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b137"
 ]
 {eb137, extent, [[1]]} / hmw
 
-[eb138 : exp = "雲門匡真禪師語錄"
+[eb138 : exp = "雲門匡真禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b138"
 @"http://psi.iba-net.org/exp/hnt_1988"
 ]
@@ -2253,7 +2253,7 @@ creation-date( eb136 : exp, date3 : dyn) / hmw
 resp6( eb138 : exp, naut-1705 : resp) / hmw
 creation-date( eb138 : exp, date3 : dyn) / hmw
 
-[eb139 : exp = "楚石禪師語錄"
+[eb139 : exp = "楚石禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b139"
 @"http://psi.iba-net.org/exp/hnx_1420"]
 {eb139, extent, [[20]]} / hmw
@@ -2288,26 +2288,26 @@ role( naut-1462 : exp, role-43 : role) / hmw
 resp7( eb139 : exp, naut-1463 : resp) / hmw
 role( naut-1463 : exp, role-43 : role) / hmw
 
-[eb140 : exp = "白雲守端禪師語錄"
+[eb140 : exp = "白雲守端禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b140"
 @"http://psi.iba-net.org/exp/hnx_1351"]
 {eb140, extent, [[2]]} / hmw
 
-[eb141 : exp = "虎丘隆和尚語錄"
+[eb141 : exp = "虎丘隆和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b141"
 @"http://psi.iba-net.org/exp/hnx_1358"]
 {eb141, extent, [[1]]} / hmw
 resp152( eb141 : exp, naut-1179 : resp) / hmw
 role( naut-1179 : exp, role-45 : role) / hmw
 
-[eb142 : exp = "應菴和尚語錄"
+[eb142 : exp = "應菴和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b142"
 @"http://psi.iba-net.org/exp/hnx_1359"]
 {eb142, extent, [[10]]} / hmw
 resp152( eb142 : exp, naut-1180 : resp) / hmw
 role( naut-1180 : exp, role-47 : role) / hmw
 
-[eb143 : exp = "密菴傑禪師語錄"
+[eb143 : exp = "密菴傑禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b143"
 @"http://psi.iba-net.org/exp/hnt_1999"
 ]
@@ -2317,12 +2317,12 @@ creation-date( eb143 : exp, date3 : dyn) / hmw
 resp152( eb143 : exp, naut-1242 : resp) / hmw
 creation-date( eb143 : exp, date3 : dyn) / hmw
 
-[eb144 : exp = "雲菴真淨禪師語錄"
+[eb144 : exp = "雲菴真淨禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b144"
 ]
 {eb144, extent, [[1]]} / hmw
 
-[eb145 : exp = "雪巖和尚語錄"
+[eb145 : exp = "雪巖和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b145"
 @"http://psi.iba-net.org/exp/hnx_1397"]
 {eb145, extent, [[4]]} / hmw
@@ -2331,14 +2331,14 @@ role( naut-1347 : exp, role-53 : role) / hmw
 resp7( eb145 : exp, naut-1348 : resp) / hmw
 role( naut-1348 : exp, role-53 : role) / hmw
 
-[eb146 : exp = "高峰大師語錄"
+[eb146 : exp = "高峰大師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b146"
 @"http://psi.iba-net.org/exp/hnx_1400"]
 {eb146, extent, [[1]]} / hmw
 resp56( eb146 : exp, naut-1353 : resp) / hmw
 role( naut-1353 : exp, role-48 : role) / hmw
 
-[eb147 : exp = "斷橋妙倫禪師語錄"
+[eb147 : exp = "斷橋妙倫禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b147"
 @"http://psi.iba-net.org/exp/hnx_1394"]
 {eb147, extent, [[2]]} / hmw
@@ -2347,7 +2347,7 @@ role( naut-1342 : exp, role-46 : role) / hmw
 resp7( eb147 : exp, naut-1343 : resp) / hmw
 role( naut-1343 : exp, role-46 : role) / hmw
 
-[eb148 : exp = "瑞巖方山寶禪師語錄"
+[eb148 : exp = "瑞巖方山寶禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b148"
 @"http://psi.iba-net.org/exp/hnx_1395"]
 {eb148, extent, [[1]]} / hmw
@@ -2358,7 +2358,7 @@ role( naut-1345 : exp, role-47 : role) / hmw
 resp56( eb148 : exp, naut-1346 : resp) / hmw
 role( naut-1346 : exp, role-55 : role) / hmw
 
-[eb149 : exp = "元叟端禪師語錄"
+[eb149 : exp = "元叟端禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b149"
 @"http://psi.iba-net.org/exp/hnx_1419"]
 {eb149, extent, [[8]]} / hmw
@@ -2371,50 +2371,50 @@ role( naut-1449 : exp, role-43 : role) / hmw
 resp7( eb149 : exp, naut-1450 : resp) / hmw
 role( naut-1450 : exp, role-43 : role) / hmw
 
-[eb150 : exp = "湖州吳山端禪師語錄"
+[eb150 : exp = "湖州吳山端禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b150"
 @"http://psi.iba-net.org/exp/hnx_1449"]
 {eb150, extent, [[2]]} / hmw
 resp165( eb150 : exp, naut-1528 : resp) / hmw
 role( naut-1528 : exp, role-55 : role) / hmw
 
-[eb151 : exp = "羅湖野錄"
+[eb151 : exp = "羅湖野錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b151"
 @"http://psi.iba-net.org/exp/hnx_1577"]
 {eb151, extent, [[2]]} / hmw
 resp6( eb151 : exp, naut-1595 : resp) / hmw
 creation-date( eb151 : exp, date3 : dyn) / hmw
 
-[eb152 : exp = "天台無見[者*見]禪師語錄"
+[eb152 : exp = "天台無見[者*見]禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b152"
 @"http://psi.iba-net.org/exp/hnx_1396"]
 {eb152, extent, [[2]]} / hmw
 resp152( eb152 : exp, naut-794 : resp) / hmw
 role( naut-794 : exp, role-53 : role) / hmw
 
-[eb153 : exp = "福源石屋珙禪師語錄"
+[eb153 : exp = "福源石屋珙禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b153"
 @"http://psi.iba-net.org/exp/hnx_1399"]
 {eb153, extent, [[2]]} / hmw
 resp152( eb153 : exp, naut-1352 : resp) / hmw
 role( naut-1352 : exp, role-48 : role) / hmw
 
-[eb154 : exp = "松隱唯菴然和尚語錄"
+[eb154 : exp = "松隱唯菴然和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b154"
 ]
 {eb154, extent, [[1]]} / hmw
 
-[eb155 : exp = "無趣老人語錄"
+[eb155 : exp = "無趣老人語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b155"
 ]
 {eb155, extent, [[1]]} / hmw
 
-[eb156 : exp = "無幻禪師語錄"
+[eb156 : exp = "無幻禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b156"
 ]
 {eb156, extent, [[1]]} / hmw
 
-[eb157 : exp = "愚菴及禪師語錄"
+[eb157 : exp = "愚菴及禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b157"
 @"http://psi.iba-net.org/exp/hnx_1421"]
 {eb157, extent, [[10]]} / hmw
@@ -2439,7 +2439,7 @@ role( naut-1472 : exp, role-43 : role) / hmw
 resp7( eb157 : exp, naut-1473 : resp) / hmw
 role( naut-1473 : exp, role-43 : role) / hmw
 
-[eb158 : exp = "恕中和尚語錄"
+[eb158 : exp = "恕中和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b158"
 @"http://psi.iba-net.org/exp/hnx_1416"]
 {eb158, extent, [[6]]} / hmw
@@ -2460,12 +2460,12 @@ role( naut-1425 : exp, role-57 : role) / hmw
 resp7( eb158 : exp, naut-1426 : resp) / hmw
 role( naut-1426 : exp, role-57 : role) / hmw
 
-[eb159 : exp = "天真毒峰善禪師要語"
+[eb159 : exp = "天真毒峰善禪師要語" / zh
 @"http://psi.iba-net.org/exp/hmw_b159"
 ]
 {eb159, extent, [[1]]} / hmw
 
-[eb160 : exp = "南石和尚語錄"
+[eb160 : exp = "南石和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b160"
 @"http://psi.iba-net.org/exp/hnx_1422"]
 {eb160, extent, [[4]]} / hmw
@@ -2480,7 +2480,7 @@ role( naut-1477 : exp, role-43 : role) / hmw
 resp7( eb160 : exp, naut-1478 : resp) / hmw
 role( naut-1478 : exp, role-43 : role) / hmw
 
-[eb161 : exp = "呆菴莊禪師語錄"
+[eb161 : exp = "呆菴莊禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b161"
 @"http://psi.iba-net.org/exp/hnx_1418"]
 {eb161, extent, [[8]]} / hmw
@@ -2497,7 +2497,7 @@ role( naut-1445 : exp, role-43 : role) / hmw
 resp7( eb161 : exp, naut-1446 : resp) / hmw
 role( naut-1446 : exp, role-43 : role) / hmw
 
-[eb162 : exp = "笑隱訢禪師語錄"
+[eb162 : exp = "笑隱訢禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b162"
 @"http://psi.iba-net.org/exp/hnx_1367"]
 {eb162, extent, [[4]]} / hmw
@@ -2510,12 +2510,12 @@ role( naut-1196 : exp, role-43 : role) / hmw
 resp7( eb162 : exp, naut-1197 : resp) / hmw
 role( naut-1197 : exp, role-43 : role) / hmw
 
-[eb163 : exp = "古庭禪師語錄輯略"
+[eb163 : exp = "古庭禪師語錄輯略" / zh
 @"http://psi.iba-net.org/exp/hmw_b163"
 ]
 {eb163, extent, [[1]]} / hmw
 
-[eb164 : exp = "曹溪一滴"
+[eb164 : exp = "曹溪一滴" / zh
 @"http://psi.iba-net.org/exp/hmw_b164"
 ]
 {eb164, extent, [[1]]} / hmw
@@ -2523,7 +2523,7 @@ resp56( eb164 : exp, naut-1706 : resp) / hmw
 creation-date( eb164 : exp, date23 : dyn) / hmw
 {eb164-01, extent, [[1]]} / hmw
 
-[eb165 : exp = "大巍禪師竹室集"
+[eb165 : exp = "大巍禪師竹室集" / zh
 @"http://psi.iba-net.org/exp/hmw_b165"
 ]
 {eb165, extent, [[1]]} / hmw
@@ -2532,14 +2532,14 @@ creation-date( eb165 : exp, date23 : dyn) / hmw
 resp95( eb165 : exp, naut-1706 : resp) / hmw
 creation-date( eb165 : exp, date23 : dyn) / hmw
 
-[eb166 : exp = "浮山法句"
+[eb166 : exp = "浮山法句" / zh
 @"http://psi.iba-net.org/exp/hmw_b166"
 ]
 {eb166, extent, [[1]]} / hmw
 resp19( eb166 : exp, naut-1708 : resp) / hmw
 creation-date( eb166 : exp, date23 : dyn) / hmw
 
-[eb167 : exp = "徹庸和尚谷響集"
+[eb167 : exp = "徹庸和尚谷響集" / zh
 @"http://psi.iba-net.org/exp/hmw_b167"
 ]
 {eb167, extent, [[2]]} / hmw
@@ -2548,7 +2548,7 @@ creation-date( eb167 : exp, date23 : dyn) / hmw
 resp25( eb167 : exp, naut-1710 : resp) / hmw
 creation-date( eb167 : exp, date23 : dyn) / hmw
 
-[eb168 : exp = "南堂了菴禪師語錄"
+[eb168 : exp = "南堂了菴禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b168"
 @"http://psi.iba-net.org/exp/hnx_1414"]
 {eb168, extent, [[9]]} / hmw
@@ -2593,25 +2593,25 @@ role( naut-1398 : exp, role-45 : role) / hmw
 resp7( eb168 : exp, naut-1416 : resp) / hmw
 role( naut-1416 : exp, role-45 : role) / hmw
 
-[eb169 : exp = "龍池幻有禪師語錄"
+[eb169 : exp = "龍池幻有禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b169"
 ]
 {eb169, extent, [[10]]} / hmw
 aut(eb169 : exp, naut-1711 : resp) / hmw
 
-[eb170 : exp = "雪嶠禪師語錄"
+[eb170 : exp = "雪嶠禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b170"
 ]
 {eb170, extent, [[10]]} / hmw
 aut(eb170 : exp, naut-1712 : resp) / hmw
 
-[eb171 : exp = "天隱和尚語錄"
+[eb171 : exp = "天隱和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b171"
 ]
 {eb171, extent, [[20]]} / hmw
 aut(eb171 : exp, naut-1713 : resp) / hmw
 
-[eb172 : exp = "會稽雲門湛然澄禪師語錄"
+[eb172 : exp = "會稽雲門湛然澄禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b172"
 @"http://psi.iba-net.org/exp/hnx_1444"]
 {eb172, extent, [[8]]} / hmw
@@ -2620,24 +2620,24 @@ role( naut-1522 : exp, role-43 : role) / hmw
 aut(eb172 : exp, naut-1523 : resp) / hmw
 aut(eb172 : exp, naut-1524 : resp) / hmw
 
-[eb173 : exp = "壽昌無明和尚語錄"
+[eb173 : exp = "壽昌無明和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b173"
 @"http://psi.iba-net.org/exp/hnx_1432"]
 {eb173, extent, [[4]]} / hmw
 resp165( eb173 : exp, naut-666 : resp) / hmw
 role( naut-666 : exp, role-47 : role) / hmw
 
-[eb174 : exp = "天界覺浪盛禪師語錄"
+[eb174 : exp = "天界覺浪盛禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b174"
 ]
 {eb174, extent, [[1]]} / hmw
 
-[eb175 : exp = "大溈五峰學禪師語錄"
+[eb175 : exp = "大溈五峰學禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b175"
 ]
 {eb175, extent, [[]]} / hmw
 
-[eb176 : exp = "大溈密印寺養拙明禪師語錄"
+[eb176 : exp = "大溈密印寺養拙明禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b176"
 ]
 {eb176, extent, [[1]]} / hmw
@@ -2647,25 +2647,25 @@ resp56( eb176 : exp, aut-620 : resp) / hmw
 creation-date( eb176 : exp, date27 : dyn) / hmw
 {eb176-01, extent, [[1]]} / hmw
 
-[eb177 : exp = "破山禪師語錄"
+[eb177 : exp = "破山禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b177"
 ]
 {eb177, extent, [[]]} / hmw
 {eb177-01, extent, [[1]]} / hmw
 
-[eb178 : exp = "費隱禪師語錄"
+[eb178 : exp = "費隱禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b178"
 ]
 {eb178, extent, [[1]]} / hmw
 {eb178-01, extent, [[2]]} / hmw
 
-[eb179 : exp = "天童弘覺忞禪師語錄"
+[eb179 : exp = "天童弘覺忞禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b179"
 ]
 {eb179, extent, [[20]]} / hmw
 aut(eb179 : exp, naut-1715 : resp) / hmw
 
-[eb180 : exp = "天童弘覺忞禪師北遊集"
+[eb180 : exp = "天童弘覺忞禪師北遊集" / zh
 @"http://psi.iba-net.org/exp/hmw_b180"
 ]
 {eb180, extent, [[6]]} / hmw
@@ -2674,100 +2674,100 @@ creation-date( eb180 : exp, date27 : dyn) / hmw
 resp56( eb180 : exp, naut-1716 : resp) / hmw
 creation-date( eb180 : exp, date27 : dyn) / hmw
 
-[eb181 : exp = "布水臺集"
+[eb181 : exp = "布水臺集" / zh
 @"http://psi.iba-net.org/exp/hmw_b181"
 ]
 {eb181, extent, [[32]]} / hmw
 resp19( eb181 : exp, naut-1615 : resp) / hmw
 creation-date( eb181 : exp, date27 : dyn) / hmw
 
-[eb182 : exp = "萬如禪師語錄"
+[eb182 : exp = "萬如禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b182"
 ]
 {eb182, extent, [[]]} / hmw
 
-[eb183 : exp = "雪竇石奇禪師語錄"
+[eb183 : exp = "雪竇石奇禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b183"
 ]
 {eb183, extent, [[]]} / hmw
 
-[eb184 : exp = "牧雲和尚七會語錄"
+[eb184 : exp = "牧雲和尚七會語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b184"
 ]
 {eb184, extent, [[1]]} / hmw
 
-[eb185 : exp = "浮石禪師語錄"
+[eb185 : exp = "浮石禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b185"
 ]
 {eb185, extent, [[]]} / hmw
 
-[eb186 : exp = "林野奇禪師語錄"
+[eb186 : exp = "林野奇禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b186"
 ]
 {eb186, extent, [[1]]} / hmw
 
-[eb187 : exp = "天岸昇禪師語錄"
+[eb187 : exp = "天岸昇禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b187"
 ]
 {eb187, extent, [[1]]} / hmw
 
-[eb188 : exp = "入就瑞白禪師語錄"
+[eb188 : exp = "入就瑞白禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b188"
 ]
 {eb188, extent, [[]]} / hmw
 
-[eb189 : exp = "三宜盂禪師語錄"
+[eb189 : exp = "三宜盂禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b189"
 ]
 {eb189, extent, [[1]]} / hmw
 
-[eb190 : exp = "石雨禪師法檀"
+[eb190 : exp = "石雨禪師法檀" / zh
 @"http://psi.iba-net.org/exp/hmw_b190"
 ]
 {eb190, extent, [[]]} / hmw
 
-[eb191 : exp = "象田即念禪師語錄"
+[eb191 : exp = "象田即念禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b191"
 ]
 {eb191, extent, [[1]]} / hmw
 
-[eb192 : exp = "大休珠禪師語錄"
+[eb192 : exp = "大休珠禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b192"
 ]
 {eb192, extent, [[1]]} / hmw
 
-[eb193 : exp = "隱元禪師語錄"
+[eb193 : exp = "隱元禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b193"
 ]
 {eb193, extent, [[1]]} / hmw
 
-[eb194 : exp = "昭覺丈雪醉禪師語錄"
+[eb194 : exp = "昭覺丈雪醉禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b194"
 ]
 {eb194, extent, [[1]]} / hmw
 
-[eb195 : exp = "南嶽山茨際禪師語錄"
+[eb195 : exp = "南嶽山茨際禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b195"
 ]
 {eb195, extent, [[4]]} / hmw
 aut(eb195 : exp, naut-1717 : resp) / hmw
 
-[eb196 : exp = "鴛湖用禪師語錄"
+[eb196 : exp = "鴛湖用禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b196"
 ]
 {eb196, extent, [[1]]} / hmw
 
-[eb197 : exp = "博山無異大師語錄集要"
+[eb197 : exp = "博山無異大師語錄集要" / zh
 @"http://psi.iba-net.org/exp/hmw_b197"
 ]
 {eb197, extent, [[1]]} / hmw
 
-[eb198 : exp = "雪關禪師語錄"
+[eb198 : exp = "雪關禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b198"
 ]
 {eb198, extent, [[1]]} / hmw
 
-[eb199 : exp = "雪關和尚語錄"
+[eb199 : exp = "雪關和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b199"
 ]
 {eb199, extent, [[6]]} / hmw
@@ -2776,82 +2776,82 @@ creation-date( eb199 : exp, date23 : dyn) / hmw
 resp95( eb199 : exp, naut-1719 : resp) / hmw
 creation-date( eb199 : exp, date23 : dyn) / hmw
 
-[eb200 : exp = "石霜爾瞻尊禪師語錄"
+[eb200 : exp = "石霜爾瞻尊禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b200"
 ]
 {eb200, extent, [[1]]} / hmw
 
-[eb201 : exp = "鼓山永覺和尚廣錄"
+[eb201 : exp = "鼓山永覺和尚廣錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b201"
 @"http://psi.iba-net.org/exp/hnx_1437"]
 {eb201, extent, [[30]]} / hmw
 resp165( eb201 : exp, naut-767 : resp) / hmw
 role( naut-767 : exp, role-47 : role) / hmw
 
-[eb202 : exp = "百癡禪師語錄"
+[eb202 : exp = "百癡禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b202"
 ]
 {eb202, extent, [[30]]} / hmw
 resp32( eb202 : exp, naut-1720 : resp) / hmw
 creation-date( eb202 : exp, date27 : dyn) / hmw
 
-[eb203 : exp = "雲[山/我]喜禪師語錄"
+[eb203 : exp = "雲[山/我]喜禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b203"
 ]
 {eb203, extent, [[1]]} / hmw
 
-[eb204 : exp = "斌雅禪師語錄"
+[eb204 : exp = "斌雅禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b204"
 ]
 {eb204, extent, [[]]} / hmw
 
-[eb205 : exp = "介為舟禪師語錄"
+[eb205 : exp = "介為舟禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b205"
 ]
 {eb205, extent, [[1]]} / hmw
 aut(eb205 : exp, naut-1721 : resp) / hmw
 
-[eb206 : exp = "笑堂和尚語錄"
+[eb206 : exp = "笑堂和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b206"
 ]
 {eb206, extent, [[1]]} / hmw
 
-[eb207 : exp = "古瓶山牧道者究心錄"
+[eb207 : exp = "古瓶山牧道者究心錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b207"
 ]
 {eb207, extent, [[1]]} / hmw
 
-[eb208 : exp = "古雪[吉*吉]禪師語錄"
+[eb208 : exp = "古雪[吉*吉]禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b208"
 ]
 {eb208, extent, [[1]]} / hmw
 
-[eb209 : exp = "永濟融禪師語錄"
+[eb209 : exp = "永濟融禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b209"
 ]
 {eb209, extent, [[1]]} / hmw
 
-[eb210 : exp = "伏獅祇園禪師語錄"
+[eb210 : exp = "伏獅祇園禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b210"
 ]
 {eb210, extent, [[1]]} / hmw
 
-[eb211 : exp = "季總徹禪師語錄"
+[eb211 : exp = "季總徹禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b211"
 ]
 {eb211, extent, [[1]]} / hmw
 
-[eb212 : exp = "二隱謐禪師語錄"
+[eb212 : exp = "二隱謐禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b212"
 ]
 {eb212, extent, [[1]]} / hmw
 
-[eb213 : exp = "芝巖秀禪師語錄"
+[eb213 : exp = "芝巖秀禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b213"
 ]
 {eb213, extent, [[1]]} / hmw
 
-[eb214 : exp = "蕅益大師佛學十種"
+[eb214 : exp = "蕅益大師佛學十種" / zh
 @"http://psi.iba-net.org/exp/hmw_b214"
 ]
 {eb214, extent, [[1]]} / hmw
@@ -2867,72 +2867,72 @@ aut(eb205 : exp, naut-1721 : resp) / hmw
 {eb214-10, extent, [[1]]} / hmw
 {eb214-11, extent, [[1]]} / hmw
 
-[eb215 : exp = "頌古合響集"
+[eb215 : exp = "頌古合響集" / zh
 @"http://psi.iba-net.org/exp/hmw_b215"
 ]
 {eb215, extent, [[]]} / hmw
 
-[eb216 : exp = "絕餘編"
+[eb216 : exp = "絕餘編" / zh
 @"http://psi.iba-net.org/exp/hmw_b216"
 ]
 {eb216, extent, [[1]]} / hmw
 
-[eb217 : exp = "禪林寶訓合註"
+[eb217 : exp = "禪林寶訓合註" / zh
 @"http://psi.iba-net.org/exp/hmw_b217"
 ]
 {eb217, extent, [[1]]} / hmw
 
-[eb218 : exp = "懶石聆禪師語錄"
+[eb218 : exp = "懶石聆禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b218"
 ]
 {eb218, extent, [[1]]} / hmw
 
-[eb219 : exp = "紫竹林顓愚衡和尚語錄"
+[eb219 : exp = "紫竹林顓愚衡和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b219"
 ]
 {eb219, extent, [[1]]} / hmw
 
-[eb220 : exp = "法璽印禪師語錄"
+[eb220 : exp = "法璽印禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b220"
 ]
 {eb220, extent, [[1]]} / hmw
 
-[eb221 : exp = "楞嚴法璽印禪師語錄"
+[eb221 : exp = "楞嚴法璽印禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b221"
 ]
 {eb221, extent, [[1]]} / hmw
 
-[eb222 : exp = "夔州臥龍字水禪師語錄"
+[eb222 : exp = "夔州臥龍字水禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b222"
 ]
 {eb222, extent, [[1]]} / hmw
 
-[eb223 : exp = "山暉禪師語錄"
+[eb223 : exp = "山暉禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b223"
 ]
 {eb223, extent, [[]]} / hmw
 
-[eb224 : exp = "嵩山懋竹禪師錄"
+[eb224 : exp = "嵩山懋竹禪師錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b224"
 ]
 {eb224, extent, [[]]} / hmw
 
-[eb225 : exp = "鄂州龍光達夫禪師雞肋集"
+[eb225 : exp = "鄂州龍光達夫禪師雞肋集" / zh
 @"http://psi.iba-net.org/exp/hmw_b225"
 ]
 {eb225, extent, [[1]]} / hmw
 
-[eb226 : exp = "頌古鉤鉅"
+[eb226 : exp = "頌古鉤鉅" / zh
 @"http://psi.iba-net.org/exp/hmw_b226"
 ]
 {eb226, extent, [[]]} / hmw
 
-[eb227 : exp = "集文字禪"
+[eb227 : exp = "集文字禪" / zh
 @"http://psi.iba-net.org/exp/hmw_b227"
 ]
 {eb227, extent, [[1]]} / hmw
 
-[eb228 : exp = "佛說仁王護國般若波羅蜜經疏"
+[eb228 : exp = "佛說仁王護國般若波羅蜜經疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b228"
 @"http://psi.iba-net.org/exp/hnx_0513"]
 {eb228, extent, [[3]]} / hmw
@@ -2942,18 +2942,18 @@ aut(eb228 : exp, naut-707 : resp) / hmw
 resp4( eb228 : exp, naut-767 : resp) / hmw
 creation-date( eb228 : exp, date23 : dyn) / hmw
 
-[eb229 : exp = "法瀾澂禪師語錄"
+[eb229 : exp = "法瀾澂禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b229"
 ]
 {eb229, extent, [[1]]} / hmw
 
-[eb230 : exp = "天王水鑑海和尚六會錄"
+[eb230 : exp = "天王水鑑海和尚六會錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b230"
 ]
 {eb230, extent, [[1]]} / hmw
 aut(eb230 : exp, aut-5 : resp) / hmw
 
-[eb231 : exp = "天王水鑑海和尚五會錄"
+[eb231 : exp = "天王水鑑海和尚五會錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b231"
 ]
 {eb231, extent, [[6]]} / hmw
@@ -2962,7 +2962,7 @@ creation-date( eb231 : exp, date27 : dyn) / hmw
 resp152( eb231 : exp, naut-1722 : resp) / hmw
 creation-date( eb231 : exp, date27 : dyn) / hmw
 
-[eb232 : exp = "天王水鑑海和尚住金粟語錄"
+[eb232 : exp = "天王水鑑海和尚住金粟語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b232"
 ]
 {eb232, extent, [[3]]} / hmw
@@ -2971,23 +2971,23 @@ creation-date( eb232 : exp, date27 : dyn) / hmw
 resp152( eb232 : exp, naut-1722 : resp) / hmw
 creation-date( eb232 : exp, date27 : dyn) / hmw
 
-[eb233 : exp = "介菴進禪師語錄"
+[eb233 : exp = "介菴進禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b233"
 ]
 {eb233, extent, [[1]]} / hmw
 {eb233-01, extent, [[1]]} / hmw
 
-[eb234 : exp = "一初元禪師語錄"
+[eb234 : exp = "一初元禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b234"
 ]
 {eb234, extent, [[1]]} / hmw
 
-[eb235 : exp = "蓮月禪師語錄"
+[eb235 : exp = "蓮月禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b235"
 ]
 {eb235, extent, [[1]]} / hmw
 
-[eb236 : exp = "玉泉蓮月正禪師語錄"
+[eb236 : exp = "玉泉蓮月正禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b236"
 ]
 {eb236, extent, [[2]]} / hmw
@@ -2996,17 +2996,17 @@ creation-date( eb236 : exp, date27 : dyn) / hmw
 resp152( eb236 : exp, naut-1724 : resp) / hmw
 creation-date( eb236 : exp, date27 : dyn) / hmw
 
-[eb237 : exp = "月幢了禪師語錄"
+[eb237 : exp = "月幢了禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b237"
 ]
 {eb237, extent, [[1]]} / hmw
 
-[eb238 : exp = "聚雲吹萬真禪師語錄"
+[eb238 : exp = "聚雲吹萬真禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b238"
 ]
 {eb238, extent, [[1]]} / hmw
 
-[eb239 : exp = "吹萬禪師語錄"
+[eb239 : exp = "吹萬禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b239"
 ]
 {eb239, extent, [[20]]} / hmw
@@ -3015,12 +3015,12 @@ creation-date( eb239 : exp, date23 : dyn) / hmw
 resp165( eb239 : exp, naut-1726 : resp) / hmw
 creation-date( eb239 : exp, date23 : dyn) / hmw
 
-[eb240 : exp = "慶忠鐵壁機禪師語錄"
+[eb240 : exp = "慶忠鐵壁機禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b240"
 ]
 {eb240, extent, [[1]]} / hmw
 
-[eb241 : exp = "慶忠鐵壁機禪師語錄"
+[eb241 : exp = "慶忠鐵壁機禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b241"
 ]
 {eb241, extent, [[20]]} / hmw
@@ -3029,7 +3029,7 @@ creation-date( eb241 : exp, date27 : dyn) / hmw
 resp165( eb241 : exp, naut-1728 : resp) / hmw
 creation-date( eb241 : exp, date27 : dyn) / hmw
 
-[eb242 : exp = "鐵眉三巴掌禪師語錄"
+[eb242 : exp = "鐵眉三巴掌禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b242"
 ]
 {eb242, extent, [[1]]} / hmw
@@ -3038,72 +3038,72 @@ creation-date( eb242 : exp, date23 : dyn) / hmw
 resp56( eb242 : exp, naut-1730 : resp) / hmw
 creation-date( eb242 : exp, date23 : dyn) / hmw
 
-[eb243 : exp = "耳庵嵩禪師語錄"
+[eb243 : exp = "耳庵嵩禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b243"
 ]
 {eb243, extent, [[1]]} / hmw
 
-[eb244 : exp = "三山來禪師語錄"
+[eb244 : exp = "三山來禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b244"
 ]
 {eb244, extent, [[16]]} / hmw
 
-[eb245 : exp = "高峰三山來禪師年譜"
+[eb245 : exp = "高峰三山來禪師年譜" / zh
 @"http://psi.iba-net.org/exp/hmw_b245"
 ]
 {eb245, extent, [[1]]} / hmw
 resp56( eb245 : exp, naut-1101 : resp) / hmw
 creation-date( eb245 : exp, date27 : dyn) / hmw
 
-[eb246 : exp = "嘉興退菴斷愚智禪師語錄"
+[eb246 : exp = "嘉興退菴斷愚智禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b246"
 ]
 {eb246, extent, [[1]]} / hmw
 
-[eb247 : exp = "普光坦菴禪師語錄"
+[eb247 : exp = "普光坦菴禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b247"
 ]
 {eb247, extent, [[1]]} / hmw
 
-[eb248 : exp = "達變權禪師語錄"
+[eb248 : exp = "達變權禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b248"
 ]
 {eb248, extent, [[1]]} / hmw
 
-[eb249 : exp = "方融璽禪師語錄"
+[eb249 : exp = "方融璽禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b249"
 ]
 {eb249, extent, [[1]]} / hmw
 
-[eb250 : exp = "弘戒法儀"
+[eb250 : exp = "弘戒法儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b250"
 @"http://psi.iba-net.org/exp/hnx_1126"]
 {eb250, extent, [[2]]} / hmw
 resp95( eb250 : exp, aut-305 : resp) / hmw
 creation-date( eb250 : exp, date23 : dyn) / hmw
 
-[eb251 : exp = "法華授手"
+[eb251 : exp = "法華授手" / zh
 @"http://psi.iba-net.org/exp/hmw_b251"
 @"http://psi.iba-net.org/exp/hnx_0622"]
 {eb251, extent, [[10]]} / hmw
 resp48( eb251 : exp, naut-809 : resp) / hmw
 creation-date( eb251 : exp, date27 : dyn) / hmw
 
-[eb252 : exp = "指月錄"
+[eb252 : exp = "指月錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b252"
 @"http://psi.iba-net.org/exp/hnx_1578"]
 {eb252, extent, [[32]]} / hmw
 resp6( eb252 : exp, naut-1596 : resp) / hmw
 creation-date( eb252 : exp, date23 : dyn) / hmw
 
-[eb253 : exp = "毘尼止持會集"
+[eb253 : exp = "毘尼止持會集" / zh
 @"http://psi.iba-net.org/exp/hmw_b253"
 @"http://psi.iba-net.org/exp/hnx_0709"]
 {eb253, extent, [[16]]} / hmw
 resp6( eb253 : exp, naut-850 : resp) / hmw
 creation-date( eb253 : exp, date27 : dyn) / hmw
 
-[eb254 : exp = "毘尼作持續釋"
+[eb254 : exp = "毘尼作持續釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b254"
 @"http://psi.iba-net.org/exp/hnx_0730"]
 {eb254, extent, [[15]]} / hmw
@@ -3112,70 +3112,70 @@ creation-date( eb254 : exp, date13 : dyn) / hmw
 resp98( eb254 : exp, naut-850 : resp) / hmw
 creation-date( eb254 : exp, date27 : dyn) / hmw
 
-[eb255 : exp = "梵網初津"
+[eb255 : exp = "梵網初津" / zh
 @"http://psi.iba-net.org/exp/hmw_b255"
 @"http://psi.iba-net.org/exp/hnx_0700"]
 {eb255, extent, [[8]]} / hmw
 resp9( eb255 : exp, naut-845 : resp) / hmw
 creation-date( eb255 : exp, date27 : dyn) / hmw
 
-[eb256 : exp = "羯磨儀式"
+[eb256 : exp = "羯磨儀式" / zh
 @"http://psi.iba-net.org/exp/hmw_b256"
 @"http://psi.iba-net.org/exp/hnx_1135"]
 {eb256, extent, [[2]]} / hmw
 resp56( eb256 : exp, naut-845 : resp) / hmw
 creation-date( eb256 : exp, date27 : dyn) / hmw
 
-[eb257 : exp = "毘尼日用切要香乳集"
+[eb257 : exp = "毘尼日用切要香乳集" / zh
 @"http://psi.iba-net.org/exp/hmw_b257"
 @"http://psi.iba-net.org/exp/hnx_1116"]
 {eb257, extent, [[2]]} / hmw
 resp197( eb257 : exp, naut-845 : resp) / hmw
 creation-date( eb257 : exp, date27 : dyn) / hmw
 
-[eb258 : exp = "沙彌律儀要略述義"
+[eb258 : exp = "沙彌律儀要略述義" / zh
 @"http://psi.iba-net.org/exp/hmw_b258"
 @"http://psi.iba-net.org/exp/hnx_1119"]
 {eb258, extent, [[2]]} / hmw
 resp198( eb258 : exp, naut-845 : resp) / hmw
 creation-date( eb258 : exp, date27 : dyn) / hmw
 
-[eb259 : exp = "怡山禮佛發願文略釋"
+[eb259 : exp = "怡山禮佛發願文略釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b259"
 ]
 {eb259, extent, [[1]]} / hmw
 resp36( eb259 : exp, naut-1731 : resp) / hmw
 creation-date( eb259 : exp, date27 : dyn) / hmw
 
-[eb260 : exp = "大懺悔文略解"
+[eb260 : exp = "大懺悔文略解" / zh
 @"http://psi.iba-net.org/exp/hmw_b260"
 ]
 {eb260, extent, [[1]]} / hmw
 resp114( eb260 : exp, naut-845 : resp) / hmw
 creation-date( eb260 : exp, date27 : dyn) / hmw
 
-[eb261 : exp = "二部僧授戒軌範"
+[eb261 : exp = "二部僧授戒軌範" / zh
 @"http://psi.iba-net.org/exp/hmw_b261"
 @"http://psi.iba-net.org/exp/hnx_1134"]
 {eb261, extent, [[2]]} / hmw
 resp9( eb261 : exp, naut-845 : resp) / hmw
 creation-date( eb261 : exp, date27 : dyn) / hmw
 
-[eb262 : exp = "首楞嚴經觀心定解"
+[eb262 : exp = "首楞嚴經觀心定解" / zh
 @"http://psi.iba-net.org/exp/hmw_b262"
 @"http://psi.iba-net.org/exp/hnx_0306"]
 {eb262, extent, [[10]]} / hmw
 resp9( eb262 : exp, naut-668 : resp) / hmw
 creation-date( eb262 : exp, date27 : dyn) / hmw
 
-[eb263 : exp = "楞嚴經貫攝"
+[eb263 : exp = "楞嚴經貫攝" / zh
 @"http://psi.iba-net.org/exp/hmw_b263"
 @"http://psi.iba-net.org/exp/hnx_0303"]
 {eb263, extent, [[10]]} / hmw
 resp37( eb263 : exp, naut-667 : resp) / hmw
 creation-date( eb263 : exp, date27 : dyn) / hmw
 
-[eb264 : exp = "八十八祖道影傳贊"
+[eb264 : exp = "八十八祖道影傳贊" / zh
 @"http://psi.iba-net.org/exp/hmw_b264"
 @"http://psi.iba-net.org/exp/hnx_1608"]
 {eb264, extent, [[4]]} / hmw
@@ -3183,7 +3183,7 @@ resp9( eb264 : exp, naut-627 : resp) / hmw
 creation-date( eb264 : exp, date23 : dyn) / hmw
 aut(eb264 : exp, naut-1619 : resp) / hmw
 
-[eb265 : exp = "西方合論"
+[eb265 : exp = "西方合論" / zh
 @"http://psi.iba-net.org/exp/hmw_b265"
 @"http://psi.iba-net.org/exp/hnt_1976"
 ]
@@ -3191,21 +3191,21 @@ aut(eb264 : exp, naut-1619 : resp) / hmw
 resp19( eb265 : exp, naut-1732 : resp) / hmw
 creation-date( eb265 : exp, date23 : dyn) / hmw
 
-[eb266 : exp = "莊子內篇註"
+[eb266 : exp = "莊子內篇註" / zh
 @"http://psi.iba-net.org/exp/hmw_b266"
 ]
 {eb266, extent, [[4]]} / hmw
 resp21( eb266 : exp, naut-1733 : resp) / hmw
 creation-date( eb266 : exp, date23 : dyn) / hmw
 
-[eb267 : exp = "牧雲和尚嬾齋別集"
+[eb267 : exp = "牧雲和尚嬾齋別集" / zh
 @"http://psi.iba-net.org/exp/hmw_b267"
 ]
 {eb267, extent, [[14]]} / hmw
 resp19( eb267 : exp, naut-1734 : resp) / hmw
 creation-date( eb267 : exp, date23 : dyn) / hmw
 
-[eb268 : exp = "牧雲和尚宗本投機頌"
+[eb268 : exp = "牧雲和尚宗本投機頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b268"
 ]
 {eb268, extent, [[1]]} / hmw
@@ -3216,21 +3216,21 @@ creation-date( eb268 : exp, date23 : dyn) / hmw
 {eb268-03, extent, [[1]]} / hmw
 {eb269, extent, [[10]]} / hmw
 
-[eb270 : exp = "大佛頂首楞嚴經臆說"
+[eb270 : exp = "大佛頂首楞嚴經臆說" / zh
 @"http://psi.iba-net.org/exp/hmw_b270"
 @"http://psi.iba-net.org/exp/hnx_0280"]
 {eb270, extent, [[1]]} / hmw
 resp21( eb270 : exp, naut-651 : resp) / hmw
 creation-date( eb270 : exp, date23 : dyn) / hmw
 
-[eb271 : exp = "閱藏知津"
+[eb271 : exp = "閱藏知津" / zh
 @"http://psi.iba-net.org/exp/hmw_b271"
 ]
 {eb271, extent, [[44]]} / hmw
 resp95( eb271 : exp, aut-319 : resp) / hmw
 creation-date( eb271 : exp, date23 : dyn) / hmw
 
-[eb272 : exp = "明州天童景德禪寺宏智覺禪師語錄"
+[eb272 : exp = "明州天童景德禪寺宏智覺禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b272"
 @"http://psi.iba-net.org/exp/hnt_2001"
 ]
@@ -3238,49 +3238,49 @@ creation-date( eb271 : exp, date23 : dyn) / hmw
 resp152( eb272 : exp, naut-1735 : resp) / hmw
 creation-date( eb272 : exp, date3 : dyn) / hmw
 
-[eb273 : exp = "千巖和尚語錄"
+[eb273 : exp = "千巖和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b273"
 ]
 {eb273, extent, [[1]]} / hmw
 
-[eb274 : exp = "明覺聰禪師語錄"
+[eb274 : exp = "明覺聰禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b274"
 ]
 {eb274, extent, [[20]]} / hmw
 aut(eb274 : exp, naut-1736 : resp) / hmw
 
-[eb275 : exp = "興善南明廣禪師語錄"
+[eb275 : exp = "興善南明廣禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b275"
 ]
 {eb275, extent, [[1]]} / hmw
 
-[eb276 : exp = "不會禪師語錄"
+[eb276 : exp = "不會禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b276"
 ]
 {eb276, extent, [[]]} / hmw
 
-[eb277 : exp = "雲棲法彙"
+[eb277 : exp = "雲棲法彙" / zh
 @"http://psi.iba-net.org/exp/hmw_b277"
 ]
 {eb277, extent, [[]]} / hmw
 resp19( eb277 : exp, aut-361 : resp) / hmw
 creation-date( eb277 : exp, date23 : dyn) / hmw
 
-[eb278 : exp = "增集續傳燈錄"
+[eb278 : exp = "增集續傳燈錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b278"
 @"http://psi.iba-net.org/exp/hnx_1574"]
 {eb278, extent, [[6]]} / hmw
 resp6( eb278 : exp, naut-1593 : resp) / hmw
 creation-date( eb278 : exp, date23 : dyn) / hmw
 
-[eb279 : exp = "虛舟禪師註八識規矩頌"
+[eb279 : exp = "虛舟禪師註八識規矩頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b279"
 ]
 {eb279, extent, [[1]]} / hmw
 resp9( eb279 : exp, naut-888 : resp) / hmw
 creation-date( eb279 : exp, date23 : dyn) / hmw
 
-[eb280 : exp = "神鼎雲外澤禪師語錄"
+[eb280 : exp = "神鼎雲外澤禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b280"
 ]
 {eb280, extent, [[1]]} / hmw
@@ -3289,12 +3289,12 @@ creation-date( eb280 : exp, date27 : dyn) / hmw
 resp56( eb280 : exp, naut-1738 : resp) / hmw
 creation-date( eb280 : exp, date27 : dyn) / hmw
 
-[eb281 : exp = "壇溪梓舟船禪師語錄"
+[eb281 : exp = "壇溪梓舟船禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b281"
 ]
 {eb281, extent, [[1]]} / hmw
 
-[eb282 : exp = "虛舟省禪師語錄"
+[eb282 : exp = "虛舟省禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b282"
 ]
 {eb282, extent, [[4]]} / hmw
@@ -3305,87 +3305,87 @@ creation-date( eb282 : exp, date27 : dyn) / hmw
 {eb282-01, extent, [[2]]} / hmw
 {eb282-02, extent, [[1]]} / hmw
 
-[eb283 : exp = "天台三聖詩集和韻"
+[eb283 : exp = "天台三聖詩集和韻" / zh
 @"http://psi.iba-net.org/exp/hmw_b283"
 ]
 {eb283, extent, [[1]]} / hmw
 
-[eb284 : exp = "益州嵩山野竹禪師後錄"
+[eb284 : exp = "益州嵩山野竹禪師後錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b284"
 ]
 {eb284, extent, [[]]} / hmw
 
-[eb285 : exp = "兜率不磷堅禪師語錄"
+[eb285 : exp = "兜率不磷堅禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b285"
 ]
 {eb285, extent, [[]]} / hmw
 resp9( eb285 : exp, naut-1741 : resp) / hmw
 creation-date( eb285 : exp, date3 : dyn) / hmw
 
-[eb286 : exp = "攖寧靜禪師語錄"
+[eb286 : exp = "攖寧靜禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b286"
 ]
 {eb286, extent, [[1]]} / hmw
 
-[eb287 : exp = "自閒覺禪師語錄"
+[eb287 : exp = "自閒覺禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b287"
 ]
 {eb287, extent, [[1]]} / hmw
 
-[eb288 : exp = "憨予暹禪師語錄"
+[eb288 : exp = "憨予暹禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b288"
 ]
 {eb288, extent, [[1]]} / hmw
 
-[eb289 : exp = "金剛經郢說"
+[eb289 : exp = "金剛經郢說" / zh
 @"http://psi.iba-net.org/exp/hmw_b289"
 @"http://psi.iba-net.org/exp/hnx_0488"]
 {eb289, extent, [[1]]} / hmw
 resp63( eb289 : exp, naut-749 : resp) / hmw
 creation-date( eb289 : exp, date27 : dyn) / hmw
 
-[eb290 : exp = "金剛經註正訛"
+[eb290 : exp = "金剛經註正訛" / zh
 @"http://psi.iba-net.org/exp/hmw_b290"
 @"http://psi.iba-net.org/exp/hnx_0489"]
 {eb290, extent, [[1]]} / hmw
 resp64( eb290 : exp, naut-750 : resp) / hmw
 creation-date( eb290 : exp, date27 : dyn) / hmw
 
-[eb291 : exp = "寶蓮淨土全書"
+[eb291 : exp = "寶蓮淨土全書" / zh
 @"http://psi.iba-net.org/exp/hmw_b291"
 @"http://psi.iba-net.org/exp/hnx_1176"]
 {eb291, extent, [[2]]} / hmw
 resp201( eb291 : exp, naut-1022 : resp) / hmw
 creation-date( eb291 : exp, date27 : dyn) / hmw
 
-[eb292 : exp = "注肇論疏"
+[eb292 : exp = "注肇論疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b292"
 @"http://psi.iba-net.org/exp/hnx_0870"]
 {eb292, extent, [[6]]} / hmw
 resp9( eb292 : exp, aut-351 : resp) / hmw
 creation-date( eb292 : exp, date3 : dyn) / hmw
 
-[eb293 : exp = "擬寒山詩"
+[eb293 : exp = "擬寒山詩" / zh
 @"http://psi.iba-net.org/exp/hmw_b293"
 ]
 {eb293, extent, [[]]} / hmw
 
-[eb294 : exp = "雲溪俍亭挺禪師語錄"
+[eb294 : exp = "雲溪俍亭挺禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b294"
 ]
 {eb294, extent, [[1]]} / hmw
 
-[eb295 : exp = "學佛考訓"
+[eb295 : exp = "學佛考訓" / zh
 @"http://psi.iba-net.org/exp/hmw_b295"
 ]
 {eb295, extent, [[1]]} / hmw
 
-[eb296 : exp = "漆園指通"
+[eb296 : exp = "漆園指通" / zh
 @"http://psi.iba-net.org/exp/hmw_b296"
 ]
 {eb296, extent, [[1]]} / hmw
 
-[eb297 : exp = "閱經十二種"
+[eb297 : exp = "閱經十二種" / zh
 @"http://psi.iba-net.org/exp/hmw_b297"
 @"http://psi.iba-net.org/exp/hnx_0674"]
 {eb297, extent, [[14]]} / hmw
@@ -3404,7 +3404,7 @@ creation-date( eb297 : exp, date27 : dyn) / hmw
 {eb297-11, extent, [[1]]} / hmw
 {eb297-12, extent, [[1]]} / hmw
 
-[eb298 : exp = "艸峰憲禪師語錄"
+[eb298 : exp = "艸峰憲禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b298"
 ]
 {eb298, extent, [[10]]} / hmw
@@ -3413,43 +3413,43 @@ creation-date( eb298 : exp, date27 : dyn) / hmw
 resp152( eb298 : exp, naut-1743 : resp) / hmw
 creation-date( eb298 : exp, date27 : dyn) / hmw
 
-[eb299 : exp = "三峰藏和尚語錄"
+[eb299 : exp = "三峰藏和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b299"
 ]
 {eb299, extent, [[]]} / hmw
 {eb299-01, extent, [[1]]} / hmw
 {eb299-02, extent, [[1]]} / hmw
 
-[eb300 : exp = "朝宗禪師語錄"
+[eb300 : exp = "朝宗禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b300"
 ]
 {eb300, extent, [[]]} / hmw
 
-[eb301 : exp = "南嶽繼起和尚語錄"
+[eb301 : exp = "南嶽繼起和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b301"
 ]
 {eb301, extent, [[1]]} / hmw
 
-[eb302 : exp = "南嶽單傳記"
+[eb302 : exp = "南嶽單傳記" / zh
 @"http://psi.iba-net.org/exp/hmw_b302"
 @"http://psi.iba-net.org/exp/hnx_1596"]
 {eb302, extent, [[1]]} / hmw
 resp156( eb302 : exp, naut-1611 : resp) / hmw
 creation-date( eb302 : exp, date27 : dyn) / hmw
 
-[eb303 : exp = "燮雲璣禪師國清無畏堂語錄"
+[eb303 : exp = "燮雲璣禪師國清無畏堂語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b303"
 ]
 {eb303, extent, [[1]]} / hmw
 
-[eb304 : exp = "靈樹遠禪師雲喦集"
+[eb304 : exp = "靈樹遠禪師雲喦集" / zh
 @"http://psi.iba-net.org/exp/hmw_b304"
 ]
 {eb304, extent, [[1]]} / hmw
 {eb304-01, extent, [[1]]} / hmw
 {eb304-02, extent, [[1]]} / hmw
 
-[eb305 : exp = "國清大庾韜禪師語錄"
+[eb305 : exp = "國清大庾韜禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b305"
 ]
 {eb305, extent, [[1]]} / hmw
@@ -3458,35 +3458,35 @@ creation-date( eb305 : exp, date27 : dyn) / hmw
 resp179( eb305 : exp, naut-1745 : resp) / hmw
 creation-date( eb305 : exp, date27 : dyn) / hmw
 
-[eb306 : exp = "內紹種禪師語錄"
+[eb306 : exp = "內紹種禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b306"
 ]
 {eb306, extent, [[1]]} / hmw
 {eb306-01, extent, [[1]]} / hmw
 
-[eb307 : exp = "首楞嚴經如說"
+[eb307 : exp = "首楞嚴經如說" / zh
 @"http://psi.iba-net.org/exp/hmw_b307"
 @"http://psi.iba-net.org/exp/hnx_0286"]
 {eb307, extent, [[10]]} / hmw
 resp19( eb307 : exp, naut-655 : resp) / hmw
 creation-date( eb307 : exp, date23 : dyn) / hmw
 
-[eb308 : exp = "象崖珽禪師語錄"
+[eb308 : exp = "象崖珽禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b308"
 ]
 {eb308, extent, [[1]]} / hmw
 
-[eb309 : exp = "雲腹智禪師語錄"
+[eb309 : exp = "雲腹智禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b309"
 ]
 {eb309, extent, [[1]]} / hmw
 
-[eb310 : exp = "雲叟住禪師語錄"
+[eb310 : exp = "雲叟住禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b310"
 ]
 {eb310, extent, [[1]]} / hmw
 
-[eb311 : exp = "天界覺浪盛禪師全錄"
+[eb311 : exp = "天界覺浪盛禪師全錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b311"
 ]
 {eb311, extent, [[33]]} / hmw
@@ -3496,7 +3496,7 @@ resp144( eb311 : exp, naut-1746 : resp) / hmw
 creation-date( eb311 : exp, date23 : dyn) / hmw
 {eb311-01, extent, [[2]]} / hmw
 
-[eb312 : exp = "天界覺浪盛禪師嘉禾語錄"
+[eb312 : exp = "天界覺浪盛禪師嘉禾語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b312"
 ]
 {eb312, extent, [[1]]} / hmw
@@ -3505,113 +3505,113 @@ creation-date( eb312 : exp, date23 : dyn) / hmw
 resp179( eb312 : exp, naut-1747 : resp) / hmw
 creation-date( eb312 : exp, date23 : dyn) / hmw
 
-[eb313 : exp = "青原愚者智禪師語錄"
+[eb313 : exp = "青原愚者智禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b313"
 ]
 {eb313, extent, [[]]} / hmw
 
-[eb314 : exp = "四分律名義標釋"
+[eb314 : exp = "四分律名義標釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b314"
 @"http://psi.iba-net.org/exp/hnx_0744"]
 {eb314, extent, [[40]]} / hmw
 resp95( eb314 : exp, naut-725 : resp) / hmw
 creation-date( eb314 : exp, date23 : dyn) / hmw
 
-[eb315 : exp = "四分戒本如釋"
+[eb315 : exp = "四分戒本如釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b315"
 @"http://psi.iba-net.org/exp/hnx_0717"]
 {eb315, extent, [[12]]} / hmw
 resp93( eb315 : exp, naut-725 : resp) / hmw
 creation-date( eb315 : exp, date23 : dyn) / hmw
 
-[eb316 : exp = "佛說梵網經菩薩心地品下略疏"
+[eb316 : exp = "佛說梵網經菩薩心地品下略疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b316"
 @"http://psi.iba-net.org/exp/hnx_0696"]
 {eb316, extent, [[1]]} / hmw
 resp23( eb316 : exp, naut-725 : resp) / hmw
 creation-date( eb316 : exp, date23 : dyn) / hmw
 
-[eb317 : exp = "沙彌律儀要略增註"
+[eb317 : exp = "沙彌律儀要略增註" / zh
 @"http://psi.iba-net.org/exp/hmw_b317"
 @"http://psi.iba-net.org/exp/hnx_1118"]
 {eb317, extent, [[2]]} / hmw
 resp21( eb317 : exp, naut-725 : resp) / hmw
 creation-date( eb317 : exp, date27 : dyn) / hmw
 
-[eb318 : exp = "沙彌學戒儀軌頌註"
+[eb318 : exp = "沙彌學戒儀軌頌註" / zh
 @"http://psi.iba-net.org/exp/hmw_b318"
 @"http://psi.iba-net.org/exp/hnx_1133"]
 {eb318, extent, [[1]]} / hmw
 resp204( eb318 : exp, naut-725 : resp) / hmw
 creation-date( eb318 : exp, date27 : dyn) / hmw
 
-[eb319 : exp = "禮佛儀式"
+[eb319 : exp = "禮佛儀式" / zh
 @"http://psi.iba-net.org/exp/hmw_b319"
 @"http://psi.iba-net.org/exp/hnx_1492"]
 {eb319, extent, [[1]]} / hmw
 resp56( eb319 : exp, naut-725 : resp) / hmw
 creation-date( eb319 : exp, date27 : dyn) / hmw
 
-[eb320 : exp = "式叉摩那尼戒本"
+[eb320 : exp = "式叉摩那尼戒本" / zh
 @"http://psi.iba-net.org/exp/hmw_b320"
 @"http://psi.iba-net.org/exp/hnx_0725"]
 {eb320, extent, [[1]]} / hmw
 resp95( eb320 : exp, naut-725 : resp) / hmw
 creation-date( eb320 : exp, date23 : dyn) / hmw
 
-[eb321 : exp = "比丘尼戒錄"
+[eb321 : exp = "比丘尼戒錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b321"
 @"http://psi.iba-net.org/exp/hnx_1132"]
 {eb321, extent, [[1]]} / hmw
 resp9( eb321 : exp, naut-725 : resp) / hmw
 creation-date( eb321 : exp, date27 : dyn) / hmw
 
-[eb322 : exp = "沙門日用"
+[eb322 : exp = "沙門日用" / zh
 @"http://psi.iba-net.org/exp/hmw_b322"
 @"http://psi.iba-net.org/exp/hnx_1117"]
 {eb322, extent, [[2]]} / hmw
 resp56( eb322 : exp, naut-725 : resp) / hmw
 creation-date( eb322 : exp, date27 : dyn) / hmw
 
-[eb323 : exp = "供諸天科儀"
+[eb323 : exp = "供諸天科儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b323"
 @"http://psi.iba-net.org/exp/hnx_1493"]
 {eb323, extent, [[1]]} / hmw
 resp6( eb323 : exp, naut-725 : resp) / hmw
 creation-date( eb323 : exp, date27 : dyn) / hmw
 
-[eb324 : exp = "禮舍利塔儀式"
+[eb324 : exp = "禮舍利塔儀式" / zh
 @"http://psi.iba-net.org/exp/hmw_b324"
 @"http://psi.iba-net.org/exp/hnx_1491"]
 {eb324, extent, [[1]]} / hmw
 resp56( eb324 : exp, naut-725 : resp) / hmw
 creation-date( eb324 : exp, date27 : dyn) / hmw
 
-[eb325 : exp = "解惑篇"
+[eb325 : exp = "解惑篇" / zh
 @"http://psi.iba-net.org/exp/hmw_b325"
 ]
 {eb325, extent, [[]]} / hmw
 
-[eb326 : exp = "木人剩稿"
+[eb326 : exp = "木人剩稿" / zh
 @"http://psi.iba-net.org/exp/hmw_b326"
 ]
 {eb326, extent, [[]]} / hmw
 
-[eb327 : exp = "六道集"
+[eb327 : exp = "六道集" / zh
 @"http://psi.iba-net.org/exp/hmw_b327"
 @"http://psi.iba-net.org/exp/hnx_1645"]
 {eb327, extent, [[5]]} / hmw
 resp95( eb327 : exp, naut-725 : resp) / hmw
 creation-date( eb327 : exp, date27 : dyn) / hmw
 
-[eb328 : exp = "七俱胝佛母所說準提陀羅尼經會釋"
+[eb328 : exp = "七俱胝佛母所說準提陀羅尼經會釋" / zh
 @"http://psi.iba-net.org/exp/hmw_b328"
 @"http://psi.iba-net.org/exp/hnx_0446"]
 {eb328, extent, [[3]]} / hmw
 resp51( eb328 : exp, naut-725 : resp) / hmw
 creation-date( eb328 : exp, date27 : dyn) / hmw
 
-[eb329 : exp = "溈山警策句釋記"
+[eb329 : exp = "溈山警策句釋記" / zh
 @"http://psi.iba-net.org/exp/hmw_b329"
 @"http://psi.iba-net.org/exp/hnx_1240"]
 {eb329, extent, [[2]]} / hmw
@@ -3619,64 +3619,64 @@ resp21( eb329 : exp, naut-725 : resp) / hmw
 creation-date( eb329 : exp, date23 : dyn) / hmw
 aut(eb329 : exp, naut-1067 : resp) / hmw
 
-[eb330 : exp = "歸戒要集"
+[eb330 : exp = "歸戒要集" / zh
 @"http://psi.iba-net.org/exp/hmw_b330"
 @"http://psi.iba-net.org/exp/hnx_1129"]
 {eb330, extent, [[3]]} / hmw
 resp95( eb330 : exp, naut-725 : resp) / hmw
 creation-date( eb330 : exp, date27 : dyn) / hmw
 
-[eb331 : exp = "兜率龜鏡集"
+[eb331 : exp = "兜率龜鏡集" / zh
 @"http://psi.iba-net.org/exp/hmw_b331"
 @"http://psi.iba-net.org/exp/hnx_1643"]
 {eb331, extent, [[3]]} / hmw
 resp95( eb331 : exp, naut-725 : resp) / hmw
 creation-date( eb331 : exp, date27 : dyn) / hmw
 
-[eb332 : exp = "觀音慈林集"
+[eb332 : exp = "觀音慈林集" / zh
 @"http://psi.iba-net.org/exp/hmw_b332"
 @"http://psi.iba-net.org/exp/hnx_1644"]
 {eb332, extent, [[3]]} / hmw
 resp95( eb332 : exp, naut-725 : resp) / hmw
 creation-date( eb332 : exp, date27 : dyn) / hmw
 
-[eb333 : exp = "般若波羅蜜多心經添足"
+[eb333 : exp = "般若波羅蜜多心經添足" / zh
 @"http://psi.iba-net.org/exp/hmw_b333"
 @"http://psi.iba-net.org/exp/hnx_0553"]
 {eb333, extent, [[1]]} / hmw
 resp9( eb333 : exp, naut-725 : resp) / hmw
 creation-date( eb333 : exp, date23 : dyn) / hmw
 
-[eb334 : exp = "持誦準提真言法要"
+[eb334 : exp = "持誦準提真言法要" / zh
 @"http://psi.iba-net.org/exp/hmw_b334"
 @"http://psi.iba-net.org/exp/hnx_1079"]
 {eb334, extent, [[1]]} / hmw
 resp95( eb334 : exp, naut-725 : resp) / hmw
 creation-date( eb334 : exp, date27 : dyn) / hmw
 
-[eb335 : exp = "八關齋法"
+[eb335 : exp = "八關齋法" / zh
 @"http://psi.iba-net.org/exp/hmw_b335"
 @"http://psi.iba-net.org/exp/hnx_1130"]
 {eb335, extent, [[1]]} / hmw
 resp95( eb335 : exp, naut-725 : resp) / hmw
 creation-date( eb335 : exp, date27 : dyn) / hmw
 
-[eb336 : exp = "南海寶象林慧弓詗禪師語錄"
+[eb336 : exp = "南海寶象林慧弓詗禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b336"
 ]
 {eb336, extent, [[1]]} / hmw
 
-[eb337 : exp = "寶持總禪師語錄"
+[eb337 : exp = "寶持總禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b337"
 ]
 {eb337, extent, [[1]]} / hmw
 
-[eb338 : exp = "靈瑞尼祖揆符禪師妙湛錄"
+[eb338 : exp = "靈瑞尼祖揆符禪師妙湛錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b338"
 ]
 {eb338, extent, [[1]]} / hmw
 
-[eb339 : exp = "靈瑞禪師嵒華集"
+[eb339 : exp = "靈瑞禪師嵒華集" / zh
 @"http://psi.iba-net.org/exp/hmw_b339"
 ]
 {eb339, extent, [[5]]} / hmw
@@ -3685,12 +3685,12 @@ creation-date( eb339 : exp, date27 : dyn) / hmw
 resp8( eb339 : exp, naut-1749 : resp) / hmw
 creation-date( eb339 : exp, date27 : dyn) / hmw
 
-[eb340 : exp = "慧覺衣禪師語錄"
+[eb340 : exp = "慧覺衣禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b340"
 ]
 {eb340, extent, [[1]]} / hmw
 
-[eb341 : exp = "佛語御禪師語錄"
+[eb341 : exp = "佛語御禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b341"
 ]
 {eb341, extent, [[1]]} / hmw
@@ -3699,17 +3699,17 @@ creation-date( eb341 : exp, date27 : dyn) / hmw
 resp152( eb341 : exp, naut-1751 : resp) / hmw
 creation-date( eb341 : exp, date27 : dyn) / hmw
 
-[eb342 : exp = "華嚴聖可禪師語錄"
+[eb342 : exp = "華嚴聖可禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b342"
 ]
 {eb342, extent, [[]]} / hmw
 
-[eb343 : exp = "廣福山勝覺寺密印禪師語錄"
+[eb343 : exp = "廣福山勝覺寺密印禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b343"
 ]
 {eb343, extent, [[1]]} / hmw
 
-[eb344 : exp = "佛說梵網經菩薩心地品合註"
+[eb344 : exp = "佛說梵網經菩薩心地品合註" / zh
 @"http://psi.iba-net.org/exp/hmw_b344"
 @"http://psi.iba-net.org/exp/hnx_0694"]
 {eb344, extent, [[7]]} / hmw
@@ -3718,12 +3718,12 @@ creation-date( eb344 : exp, date23 : dyn) / hmw
 aut(eb344 : exp, naut-842 : resp) / hmw
 {eb344-01, extent, [[1]]} / hmw
 
-[eb345 : exp = "蘇州竹庵衍禪師語錄"
+[eb345 : exp = "蘇州竹庵衍禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b345"
 ]
 {eb345, extent, [[1]]} / hmw
 
-[eb346 : exp = "古林如禪師語錄"
+[eb346 : exp = "古林如禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b346"
 ]
 {eb346, extent, [[4]]} / hmw
@@ -3732,48 +3732,48 @@ creation-date( eb346 : exp, date27 : dyn) / hmw
 resp179( eb346 : exp, naut-1753 : resp) / hmw
 creation-date( eb346 : exp, date27 : dyn) / hmw
 
-[eb347 : exp = "成唯識論觀心法要"
+[eb347 : exp = "成唯識論觀心法要" / zh
 @"http://psi.iba-net.org/exp/hmw_b347"
 @"http://psi.iba-net.org/exp/hnx_0824"]
 {eb347, extent, [[10]]} / hmw
 resp9( eb347 : exp, aut-319 : resp) / hmw
 creation-date( eb347 : exp, date23 : dyn) / hmw
 
-[eb348 : exp = "靈峰蕅益大師宗論"
+[eb348 : exp = "靈峰蕅益大師宗論" / zh
 @"http://psi.iba-net.org/exp/hmw_b348"
 ]
 {eb348, extent, [[1]]} / hmw
 
-[eb349 : exp = "佛說梵網經順硃"
+[eb349 : exp = "佛說梵網經順硃" / zh
 @"http://psi.iba-net.org/exp/hmw_b349"
 @"http://psi.iba-net.org/exp/hnx_0699"]
 {eb349, extent, [[2]]} / hmw
 resp89( eb349 : exp, naut-844 : resp) / hmw
 creation-date( eb349 : exp, date27 : dyn) / hmw
 
-[eb350 : exp = "禪林寶訓順硃"
+[eb350 : exp = "禪林寶訓順硃" / zh
 @"http://psi.iba-net.org/exp/hmw_b350"
 @"http://psi.iba-net.org/exp/hnx_1265"]
 {eb350, extent, [[4]]} / hmw
 resp89( eb350 : exp, naut-844 : resp) / hmw
 creation-date( eb350 : exp, date27 : dyn) / hmw
 
-[eb351 : exp = "道德經順硃"
+[eb351 : exp = "道德經順硃" / zh
 @"http://psi.iba-net.org/exp/hmw_b351"
 ]
 {eb351, extent, [[1]]} / hmw
 
-[eb352 : exp = "東山破峰重禪師語錄"
+[eb352 : exp = "東山破峰重禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b352"
 ]
 {eb352, extent, [[]]} / hmw
 
-[eb353 : exp = "雲幻宸禪師語錄"
+[eb353 : exp = "雲幻宸禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b353"
 ]
 {eb353, extent, [[1]]} / hmw
 
-[eb354 : exp = "錦屏破石卓禪師雜著"
+[eb354 : exp = "錦屏破石卓禪師雜著" / zh
 @"http://psi.iba-net.org/exp/hmw_b354"
 ]
 {eb354, extent, [[1]]} / hmw
@@ -3782,163 +3782,163 @@ creation-date( eb354 : exp, date23 : dyn) / hmw
 resp8( eb354 : exp, naut-1755 : resp) / hmw
 creation-date( eb354 : exp, date23 : dyn) / hmw
 
-[eb355 : exp = "綠蘿恒秀林禪師語錄"
+[eb355 : exp = "綠蘿恒秀林禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b355"
 ]
 {eb355, extent, [[1]]} / hmw
 
-[eb356 : exp = "奇然智禪師語錄"
+[eb356 : exp = "奇然智禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b356"
 ]
 {eb356, extent, [[1]]} / hmw
 
-[eb357 : exp = "秀野林禪師語錄"
+[eb357 : exp = "秀野林禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b357"
 ]
 {eb357, extent, [[1]]} / hmw
 
-[eb358 : exp = "智覃正禪師語錄"
+[eb358 : exp = "智覃正禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b358"
 ]
 {eb358, extent, [[1]]} / hmw
 
-[eb359 : exp = "百愚禪師語錄"
+[eb359 : exp = "百愚禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b359"
 ]
 {eb359, extent, [[1]]} / hmw
 {eb359-01, extent, [[4]]} / hmw
 
-[eb360 : exp = "建陽東苑晦臺鏡禪師語錄"
+[eb360 : exp = "建陽東苑晦臺鏡禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b360"
 @"http://psi.iba-net.org/exp/hnx_1433"]
 {eb360, extent, [[1]]} / hmw
 resp6( eb360 : exp, naut-1509 : resp) / hmw
 role( naut-1509 : exp, role-47 : role) / hmw
 
-[eb361 : exp = "壽昌見如謐禪師語錄"
+[eb361 : exp = "壽昌見如謐禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b361"
 @"http://psi.iba-net.org/exp/hnx_1434"]
 {eb361, extent, [[1]]} / hmw
 resp6( eb361 : exp, naut-1510 : resp) / hmw
 role( naut-1510 : exp, role-43 : role) / hmw
 
-[eb362 : exp = "觀濤奇禪師語錄"
+[eb362 : exp = "觀濤奇禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b362"
 ]
 {eb362, extent, [[1]]} / hmw
 
-[eb363 : exp = "文穆念禪師語錄"
+[eb363 : exp = "文穆念禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b363"
 ]
 {eb363, extent, [[]]} / hmw
 
-[eb364 : exp = "佛古聞禪師語錄"
+[eb364 : exp = "佛古聞禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b364"
 ]
 {eb364, extent, [[]]} / hmw
 
-[eb365 : exp = "石璞質禪師語錄"
+[eb365 : exp = "石璞質禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b365"
 ]
 {eb365, extent, [[]]} / hmw
 
-[eb366 : exp = "大方禪師語錄"
+[eb366 : exp = "大方禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b366"
 ]
 {eb366, extent, [[1]]} / hmw
 
-[eb367 : exp = "寂光豁禪師語錄"
+[eb367 : exp = "寂光豁禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b367"
 ]
 {eb367, extent, [[1]]} / hmw
 
-[eb368 : exp = "天台通玄寺獨朗禪師語錄"
+[eb368 : exp = "天台通玄寺獨朗禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b368"
 ]
 {eb368, extent, [[1]]} / hmw
 
-[eb369 : exp = "蔗菴範禪師語錄"
+[eb369 : exp = "蔗菴範禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b369"
 ]
 {eb369, extent, [[]]} / hmw
 
-[eb370 : exp = "草堂耨雲實禪師語錄"
+[eb370 : exp = "草堂耨雲實禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b370"
 ]
 {eb370, extent, [[1]]} / hmw
 
-[eb371 : exp = "佛冤禪師語錄"
+[eb371 : exp = "佛冤禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b371"
 ]
 {eb371, extent, [[1]]} / hmw
 
-[eb372 : exp = "印心佛敏訥禪師語錄"
+[eb372 : exp = "印心佛敏訥禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b372"
 ]
 {eb372, extent, [[1]]} / hmw
 
-[eb373 : exp = "藥師三昧行法"
+[eb373 : exp = "藥師三昧行法" / zh
 @"http://psi.iba-net.org/exp/hmw_b373"
 @"http://psi.iba-net.org/exp/hnx_1483"]
 {eb373, extent, [[1]]} / hmw
 resp6( eb373 : exp, naut-1552 : resp) / hmw
 creation-date( eb373 : exp, date23 : dyn) / hmw
 
-[eb374 : exp = "準提三昧行法"
+[eb374 : exp = "準提三昧行法" / zh
 @"http://psi.iba-net.org/exp/hmw_b374"
 @"http://psi.iba-net.org/exp/hnx_1481"]
 {eb374, extent, [[1]]} / hmw
 resp6( eb374 : exp, naut-1552 : resp) / hmw
 creation-date( eb374 : exp, date23 : dyn) / hmw
 
-[eb375 : exp = "金剛般若波羅蜜經部旨"
+[eb375 : exp = "金剛般若波羅蜜經部旨" / zh
 @"http://psi.iba-net.org/exp/hmw_b375"
 @"http://psi.iba-net.org/exp/hnx_0493"]
 {eb375, extent, [[2]]} / hmw
 resp19( eb375 : exp, naut-668 : resp) / hmw
 creation-date( eb375 : exp, date27 : dyn) / hmw
 
-[eb376 : exp = "藥師[王*留]璃光如來本願功德經直解"
+[eb376 : exp = "藥師[王*留]璃光如來本願功德經直解" / zh
 @"http://psi.iba-net.org/exp/hmw_b376"
 @"http://psi.iba-net.org/exp/hnx_0381"]
 {eb376, extent, [[1]]} / hmw
 resp19( eb376 : exp, naut-668 : resp) / hmw
 creation-date( eb376 : exp, date27 : dyn) / hmw
 
-[eb377 : exp = "觀世音菩薩普門品膚說"
+[eb377 : exp = "觀世音菩薩普門品膚說" / zh
 @"http://psi.iba-net.org/exp/hmw_b377"
 @"http://psi.iba-net.org/exp/hnx_0647"]
 {eb377, extent, [[1]]} / hmw
 resp32( eb377 : exp, naut-668 : resp) / hmw
 creation-date( eb377 : exp, date27 : dyn) / hmw
 
-[eb378 : exp = "佛說盂蘭盆經折中疏"
+[eb378 : exp = "佛說盂蘭盆經折中疏" / zh
 @"http://psi.iba-net.org/exp/hmw_b378"
 @"http://psi.iba-net.org/exp/hnx_0378"]
 {eb378, extent, [[1]]} / hmw
 resp19( eb378 : exp, naut-668 : resp) / hmw
 creation-date( eb378 : exp, date27 : dyn) / hmw
 
-[eb379 : exp = "天台傳佛心印記註"
+[eb379 : exp = "天台傳佛心印記註" / zh
 @"http://psi.iba-net.org/exp/hmw_b379"
 @"http://psi.iba-net.org/exp/hnx_0969"]
 {eb379, extent, [[2]]} / hmw
 resp21( eb379 : exp, aut-360 : resp) / hmw
 creation-date( eb379 : exp, date23 : dyn) / hmw
 
-[eb380 : exp = "四教集註節義"
+[eb380 : exp = "四教集註節義" / zh
 @"http://psi.iba-net.org/exp/hmw_b380"
 @"http://psi.iba-net.org/exp/hnx_0979"]
 {eb380, extent, [[1]]} / hmw
 resp70( eb380 : exp, naut-668 : resp) / hmw
 creation-date( eb380 : exp, date27 : dyn) / hmw
 
-[eb381 : exp = "釋籤緣起序指明"
+[eb381 : exp = "釋籤緣起序指明" / zh
 @"http://psi.iba-net.org/exp/hmw_b381"
 ]
 {eb381, extent, [[1]]} / hmw
 
-[eb382 : exp = "摩訶止觀貫義科"
+[eb382 : exp = "摩訶止觀貫義科" / zh
 @"http://psi.iba-net.org/exp/hmw_b382"
 @"http://psi.iba-net.org/exp/hnx_0924"]
 {eb382, extent, [[2]]} / hmw
@@ -3947,64 +3947,64 @@ creation-date( eb382 : exp, date27 : dyn) / hmw
 resp181( eb382 : exp, naut-668 : resp) / hmw
 creation-date( eb382 : exp, date27 : dyn) / hmw
 
-[eb383 : exp = "憨休禪師語錄"
+[eb383 : exp = "憨休禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b383"
 ]
 {eb383, extent, [[1]]} / hmw
 
-[eb384 : exp = "憨休禪師敲空遺響"
+[eb384 : exp = "憨休禪師敲空遺響" / zh
 @"http://psi.iba-net.org/exp/hmw_b384"
 ]
 {eb384, extent, [[1]]} / hmw
 
-[eb385 : exp = "佛祖正傳古今捷錄"
+[eb385 : exp = "佛祖正傳古今捷錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b385"
 @"http://psi.iba-net.org/exp/hnx_1595"]
 {eb385, extent, [[1]]} / hmw
 resp6( eb385 : exp, naut-1610 : resp) / hmw
 creation-date( eb385 : exp, date27 : dyn) / hmw
 
-[eb386 : exp = "遠菴[仲-中+豐]禪師語錄"
+[eb386 : exp = "遠菴[仲-中+豐]禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b386"
 ]
 {eb386, extent, [[]]} / hmw
 
-[eb387 : exp = "古宿尊禪師語錄"
+[eb387 : exp = "古宿尊禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b387"
 ]
 {eb387, extent, [[1]]} / hmw
 
-[eb388 : exp = "神鼎一揆禪師語錄"
+[eb388 : exp = "神鼎一揆禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b388"
 ]
 {eb388, extent, [[]]} / hmw
 
-[eb389 : exp = "洪山俞昭允汾禪師語錄"
+[eb389 : exp = "洪山俞昭允汾禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b389"
 ]
 {eb389, extent, [[1]]} / hmw
 
-[eb390 : exp = "北京楚林禪師語錄"
+[eb390 : exp = "北京楚林禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b390"
 ]
 {eb390, extent, [[1]]} / hmw
 
-[eb391 : exp = "長目電禪師語錄"
+[eb391 : exp = "長目電禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b391"
 ]
 {eb391, extent, [[1]]} / hmw
 
-[eb392 : exp = "寒松操禪師語錄"
+[eb392 : exp = "寒松操禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b392"
 ]
 {eb392, extent, [[1]]} / hmw
 
-[eb393 : exp = "華巖還初佛禪師語錄"
+[eb393 : exp = "華巖還初佛禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b393"
 ]
 {eb393, extent, [[1]]} / hmw
 
-[eb394 : exp = "翼菴禪師語錄"
+[eb394 : exp = "翼菴禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b394"
 ]
 {eb394, extent, [[1]]} / hmw
@@ -4013,17 +4013,17 @@ creation-date( eb385 : exp, date27 : dyn) / hmw
 {eb394-03, extent, [[1]]} / hmw
 {eb394-04, extent, [[2]]} / hmw
 
-[eb395 : exp = "荊南內護國寺啟真誠禪師語錄"
+[eb395 : exp = "荊南內護國寺啟真誠禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b395"
 ]
 {eb395, extent, [[1]]} / hmw
 
-[eb396 : exp = "終南山蟠龍子肅禪師語錄"
+[eb396 : exp = "終南山蟠龍子肅禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b396"
 ]
 {eb396, extent, [[1]]} / hmw
 
-[eb397 : exp = "傳授三壇弘戒法儀"
+[eb397 : exp = "傳授三壇弘戒法儀" / zh
 @"http://psi.iba-net.org/exp/hmw_b397"
 @"http://psi.iba-net.org/exp/hnx_1127"]
 {eb397, extent, [[1]]} / hmw
@@ -4032,102 +4032,102 @@ creation-date( eb397 : exp, date23 : dyn) / hmw
 resp25( eb397 : exp, naut-999 : resp) / hmw
 creation-date( eb397 : exp, date27 : dyn) / hmw
 
-[eb398 : exp = "緇門世譜"
+[eb398 : exp = "緇門世譜" / zh
 @"http://psi.iba-net.org/exp/hmw_b398"
 @"http://psi.iba-net.org/exp/hnx_1603"]
 {eb398, extent, [[1]]} / hmw
 resp159( eb398 : exp, naut-1618 : resp) / hmw
 creation-date( eb398 : exp, date27 : dyn) / hmw
 
-[eb399 : exp = "鶴林天樹植禪師語錄"
+[eb399 : exp = "鶴林天樹植禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b399"
 ]
 {eb399, extent, [[]]} / hmw
 
-[eb400 : exp = "知空蘊禪師語錄"
+[eb400 : exp = "知空蘊禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b400"
 ]
 {eb400, extent, [[1]]} / hmw
 
-[eb401 : exp = "浦峰長明炅禪師語錄"
+[eb401 : exp = "浦峰長明炅禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b401"
 ]
 {eb401, extent, [[]]} / hmw
 
-[eb402 : exp = "浦峰法柱棟禪師語錄"
+[eb402 : exp = "浦峰法柱棟禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b402"
 ]
 {eb402, extent, [[1]]} / hmw
 
-[eb403 : exp = "首楞嚴經直指"
+[eb403 : exp = "首楞嚴經直指" / zh
 @"http://psi.iba-net.org/exp/hmw_b403"
 @"http://psi.iba-net.org/exp/hnx_0291"]
 {eb403, extent, [[10]]} / hmw
 resp31( eb403 : exp, naut-658 : resp) / hmw
 creation-date( eb403 : exp, date23 : dyn) / hmw
 
-[eb404 : exp = "楞伽阿跋多羅寶經心印"
+[eb404 : exp = "楞伽阿跋多羅寶經心印" / zh
 @"http://psi.iba-net.org/exp/hmw_b404"
 @"http://psi.iba-net.org/exp/hnx_0334"]
 {eb404, extent, [[8]]} / hmw
 resp31( eb404 : exp, naut-658 : resp) / hmw
 creation-date( eb404 : exp, date27 : dyn) / hmw
 
-[eb405 : exp = "長慶宗寶禪師語錄"
+[eb405 : exp = "長慶宗寶禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b405"
 @"http://psi.iba-net.org/exp/hnx_1443"]
 {eb405, extent, [[6]]} / hmw
 resp165( eb405 : exp, naut-841 : resp) / hmw
 role( naut-841 : exp, role-55 : role) / hmw
 
-[eb406 : exp = "廬山天然禪師語錄"
+[eb406 : exp = "廬山天然禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b406"
 ]
 {eb406, extent, [[]]} / hmw
 
-[eb407 : exp = "千山剩人禪師語錄"
+[eb407 : exp = "千山剩人禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b407"
 ]
 {eb407, extent, [[]]} / hmw
 
-[eb408 : exp = "海幢阿字無禪師語錄"
+[eb408 : exp = "海幢阿字無禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b408"
 ]
 {eb408, extent, [[2]]} / hmw
 resp165( eb408 : exp, naut-1756 : resp) / hmw
 creation-date( eb408 : exp, date27 : dyn) / hmw
 
-[eb409 : exp = "丹霞澹歸禪師語錄"
+[eb409 : exp = "丹霞澹歸禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b409"
 ]
 {eb409, extent, [[1]]} / hmw
 
-[eb410 : exp = "蓮峰禪師語錄"
+[eb410 : exp = "蓮峰禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b410"
 ]
 {eb410, extent, [[]]} / hmw
 
-[eb411 : exp = "德風禪師般若語錄"
+[eb411 : exp = "德風禪師般若語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b411"
 ]
 {eb411, extent, [[1]]} / hmw
 
-[eb412 : exp = "三塔主峰禪師語錄"
+[eb412 : exp = "三塔主峰禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b412"
 ]
 {eb412, extent, [[1]]} / hmw
 
-[eb413 : exp = "黃蓮東巖禪師語錄"
+[eb413 : exp = "黃蓮東巖禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b413"
 ]
 {eb413, extent, [[1]]} / hmw
 
-[eb414 : exp = "山鐸真在禪師語錄"
+[eb414 : exp = "山鐸真在禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b414"
 ]
 {eb414, extent, [[]]} / hmw
 
-[eb415 : exp = "大悲妙雲禪師語錄"
+[eb415 : exp = "大悲妙雲禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b415"
 ]
 {eb415, extent, [[6]]} / hmw
@@ -4136,76 +4136,76 @@ creation-date( eb415 : exp, date27 : dyn) / hmw
 resp152( eb415 : exp, naut-1758 : resp) / hmw
 creation-date( eb415 : exp, date27 : dyn) / hmw
 
-[eb416 : exp = "調實居士證源錄"
+[eb416 : exp = "調實居士證源錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b416"
 ]
 {eb416, extent, [[1]]} / hmw
 
-[eb417 : exp = "天則能禪師語錄"
+[eb417 : exp = "天則能禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b417"
 ]
 {eb417, extent, [[1]]} / hmw
 
-[eb418 : exp = "晦嶽旭禪師語錄"
+[eb418 : exp = "晦嶽旭禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b418"
 ]
 {eb418, extent, [[1]]} / hmw
 
-[eb419 : exp = "華岩不厭樂禪師語錄"
+[eb419 : exp = "華岩不厭樂禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b419"
 ]
 {eb419, extent, [[1]]} / hmw
 
-[eb420 : exp = "三峰半水元禪師語錄"
+[eb420 : exp = "三峰半水元禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b420"
 ]
 {eb420, extent, [[]]} / hmw
 
-[eb421 : exp = "鶴峰禪師語錄"
+[eb421 : exp = "鶴峰禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b421"
 ]
 {eb421, extent, [[1]]} / hmw
 
-[eb422 : exp = "林我禪師語錄"
+[eb422 : exp = "林我禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b422"
 ]
 {eb422, extent, [[1]]} / hmw
 
-[eb423 : exp = "石關禪師語錄"
+[eb423 : exp = "石關禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b423"
 ]
 {eb423, extent, [[]]} / hmw
 
-[eb424 : exp = "香嚴禪師語錄"
+[eb424 : exp = "香嚴禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b424"
 ]
 {eb424, extent, [[1]]} / hmw
 
-[eb425 : exp = "即非禪師全錄"
+[eb425 : exp = "即非禪師全錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b425"
 ]
 {eb425, extent, [[]]} / hmw
 {eb425-01, extent, [[1]]} / hmw
 
-[eb426 : exp = "錦江禪燈"
+[eb426 : exp = "錦江禪燈" / zh
 @"http://psi.iba-net.org/exp/hmw_b426"
 @"http://psi.iba-net.org/exp/hnx_1590"]
 {eb426, extent, [[20]]} / hmw
 resp95( eb426 : exp, naut-1604 : resp) / hmw
 creation-date( eb426 : exp, date27 : dyn) / hmw
 
-[eb427 : exp = "青城竹浪生禪師語錄"
+[eb427 : exp = "青城竹浪生禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b427"
 ]
 {eb427, extent, [[1]]} / hmw
 
-[eb428 : exp = "密行忍禪師語錄"
+[eb428 : exp = "密行忍禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b428"
 ]
 {eb428, extent, [[]]} / hmw
 {eb428-01, extent, [[1]]} / hmw
 
-[eb429 : exp = "盛京奉天般若古林禪師語錄"
+[eb429 : exp = "盛京奉天般若古林禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b429"
 ]
 {eb429, extent, [[6]]} / hmw
@@ -4214,55 +4214,55 @@ creation-date( eb429 : exp, date27 : dyn) / hmw
 resp179( eb429 : exp, naut-1760 : resp) / hmw
 creation-date( eb429 : exp, date27 : dyn) / hmw
 
-[eb430 : exp = "玉泉其白富禪師語錄"
+[eb430 : exp = "玉泉其白富禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b430"
 ]
 {eb430, extent, [[1]]} / hmw
 {eb430-01, extent, [[1]]} / hmw
 
-[eb431 : exp = "雲峰體宗寧禪師語錄"
+[eb431 : exp = "雲峰體宗寧禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b431"
 ]
 {eb431, extent, [[1]]} / hmw
 
-[eb432 : exp = "幻住明禪師語錄"
+[eb432 : exp = "幻住明禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b432"
 ]
 {eb432, extent, [[1]]} / hmw
 
-[eb433 : exp = "純備德禪師語錄"
+[eb433 : exp = "純備德禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b433"
 ]
 {eb433, extent, [[1]]} / hmw
 
-[eb434 : exp = "法幢遠禪師語錄"
+[eb434 : exp = "法幢遠禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b434"
 ]
 {eb434, extent, [[1]]} / hmw
 
-[eb435 : exp = "伏獅義公禪師語錄"
+[eb435 : exp = "伏獅義公禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b435"
 ]
 {eb435, extent, [[1]]} / hmw
 
-[eb436 : exp = "參同一揆禪師語錄"
+[eb436 : exp = "參同一揆禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b436"
 ]
 {eb436, extent, [[1]]} / hmw
 
-[eb437 : exp = "續燈正統"
+[eb437 : exp = "續燈正統" / zh
 @"http://psi.iba-net.org/exp/hmw_b437"
 @"http://psi.iba-net.org/exp/hnx_1583"]
 {eb437, extent, [[43]]} / hmw
 resp146( eb437 : exp, naut-1101 : resp) / hmw
 creation-date( eb437 : exp, date27 : dyn) / hmw
 
-[eb438 : exp = "衡山禪師語錄"
+[eb438 : exp = "衡山禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b438"
 ]
 {eb438, extent, [[1]]} / hmw
 
-[eb439 : exp = "高峰三山來禪師疏語"
+[eb439 : exp = "高峰三山來禪師疏語" / zh
 @"http://psi.iba-net.org/exp/hmw_b439"
 ]
 {eb439, extent, [[3]]} / hmw
@@ -4271,167 +4271,167 @@ creation-date( eb439 : exp, date27 : dyn) / hmw
 resp56( eb439 : exp, naut-1101 : resp) / hmw
 creation-date( eb439 : exp, date27 : dyn) / hmw
 
-[eb440 : exp = "高峰喬松億禪師語錄"
+[eb440 : exp = "高峰喬松億禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b440"
 ]
 {eb440, extent, [[1]]} / hmw
 
-[eb441 : exp = "萬峰童真禪師語錄"
+[eb441 : exp = "萬峰童真禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b441"
 ]
 {eb441, extent, [[1]]} / hmw
 {eb441-01, extent, [[1]]} / hmw
 {eb441-02, extent, [[2]]} / hmw
 
-[eb442 : exp = "大笑崇禪師禪師語錄"
+[eb442 : exp = "大笑崇禪師禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b442"
 ]
 {eb442, extent, [[1]]} / hmw
 
-[eb443 : exp = "玉眉亮禪師語錄"
+[eb443 : exp = "玉眉亮禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b443"
 ]
 {eb443, extent, [[]]} / hmw
 
-[eb444 : exp = "卓峰[王*玉]禪師語錄"
+[eb444 : exp = "卓峰[王*玉]禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b444"
 ]
 {eb444, extent, [[1]]} / hmw
 {eb444-01, extent, [[1]]} / hmw
 
-[eb445 : exp = "別菴禪師同門錄"
+[eb445 : exp = "別菴禪師同門錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b445"
 ]
 {eb445, extent, [[]]} / hmw
 
-[eb446 : exp = "靈隱文禪師語錄"
+[eb446 : exp = "靈隱文禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b446"
 ]
 {eb446, extent, [[1]]} / hmw
 
-[eb447 : exp = "東山梅溪度禪師語錄"
+[eb447 : exp = "東山梅溪度禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b447"
 ]
 {eb447, extent, [[]]} / hmw
 
-[eb448 : exp = "靈機禪師語錄"
+[eb448 : exp = "靈機禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b448"
 ]
 {eb448, extent, [[1]]} / hmw
 
-[eb449 : exp = "祖亮啟禪師語錄"
+[eb449 : exp = "祖亮啟禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b449"
 ]
 {eb449, extent, [[1]]} / hmw
 
-[eb450 : exp = "敏樹禪師語錄"
+[eb450 : exp = "敏樹禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b450"
 ]
 {eb450, extent, [[]]} / hmw
 
-[eb451 : exp = "赤松領禪師語錄"
+[eb451 : exp = "赤松領禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b451"
 ]
 {eb451, extent, [[]]} / hmw
 
-[eb452 : exp = "侶巖荷禪師語錄"
+[eb452 : exp = "侶巖荷禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b452"
 ]
 {eb452, extent, [[]]} / hmw
 
-[eb453 : exp = "元潔瑩禪師語錄"
+[eb453 : exp = "元潔瑩禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b453"
 ]
 {eb453, extent, [[1]]} / hmw
 
-[eb454 : exp = "頻吉祥禪師語錄"
+[eb454 : exp = "頻吉祥禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b454"
 ]
 {eb454, extent, [[]]} / hmw
 
-[eb455 : exp = "通天逸叟高禪師語錄"
+[eb455 : exp = "通天逸叟高禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b455"
 ]
 {eb455, extent, [[1]]} / hmw
 
-[eb456 : exp = "通天澹崖原禪師語錄"
+[eb456 : exp = "通天澹崖原禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b456"
 ]
 {eb456, extent, [[1]]} / hmw
 
-[eb457 : exp = "白雲象林本真禪師語錄"
+[eb457 : exp = "白雲象林本真禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b457"
 ]
 {eb457, extent, [[1]]} / hmw
 
-[eb458 : exp = "正覺潤光澤禪師澡雪集"
+[eb458 : exp = "正覺潤光澤禪師澡雪集" / zh
 @"http://psi.iba-net.org/exp/hmw_b458"
 ]
 {eb458, extent, [[1]]} / hmw
 
-[eb459 : exp = "香巖洗心水禪師語錄"
+[eb459 : exp = "香巖洗心水禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b459"
 ]
 {eb459, extent, [[1]]} / hmw
 
-[eb460 : exp = "灤州萬善暉州昊禪師語錄"
+[eb460 : exp = "灤州萬善暉州昊禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b460"
 ]
 {eb460, extent, [[1]]} / hmw
 
-[eb461 : exp = "性空臻禪師語錄"
+[eb461 : exp = "性空臻禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b461"
 ]
 {eb461, extent, [[1]]} / hmw
 
-[eb462 : exp = "何一自禪師語錄"
+[eb462 : exp = "何一自禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b462"
 ]
 {eb462, extent, [[1]]} / hmw
 
-[eb463 : exp = "溈山古梅冽禪師語錄"
+[eb463 : exp = "溈山古梅冽禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b463"
 ]
 {eb463, extent, [[]]} / hmw
 
-[eb464 : exp = "華嚴起宗真禪師語錄"
+[eb464 : exp = "華嚴起宗真禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b464"
 ]
 {eb464, extent, [[]]} / hmw
 
-[eb465 : exp = "子雍如禪師語錄"
+[eb465 : exp = "子雍如禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b465"
 ]
 {eb465, extent, [[1]]} / hmw
 
-[eb466 : exp = "山西柏山楷禪師語錄"
+[eb466 : exp = "山西柏山楷禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b466"
 ]
 {eb466, extent, [[1]]} / hmw
 
-[eb467 : exp = "黔南會燈錄"
+[eb467 : exp = "黔南會燈錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b467"
 @"http://psi.iba-net.org/exp/hnx_1591"]
 {eb467, extent, [[8]]} / hmw
 resp95( eb467 : exp, naut-1605 : resp) / hmw
 creation-date( eb467 : exp, date27 : dyn) / hmw
 
-[eb468 : exp = "善一純禪師語錄"
+[eb468 : exp = "善一純禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b468"
 ]
 {eb468, extent, [[]]} / hmw
 
-[eb469 : exp = "善權位禪師語錄"
+[eb469 : exp = "善權位禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b469"
 ]
 {eb469, extent, [[]]} / hmw
 
-[eb470 : exp = "天一悅禪師語錄"
+[eb470 : exp = "天一悅禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b470"
 ]
 {eb470, extent, [[1]]} / hmw
 
-[eb471 : exp = "空谷道澄禪師語錄"
+[eb471 : exp = "空谷道澄禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b471"
 ]
 {eb471, extent, [[20]]} / hmw
@@ -4440,7 +4440,7 @@ creation-date( eb471 : exp, date27 : dyn) / hmw
 resp56( eb471 : exp, naut-1762 : resp) / hmw
 creation-date( eb471 : exp, date27 : dyn) / hmw
 
-[eb472 : exp = "大博乾禪師語錄"
+[eb472 : exp = "大博乾禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b472"
 ]
 {eb472, extent, [[5]]} / hmw
@@ -4449,7 +4449,7 @@ creation-date( eb472 : exp, date27 : dyn) / hmw
 resp179( eb472 : exp, naut-1764 : resp) / hmw
 creation-date( eb472 : exp, date27 : dyn) / hmw
 
-[eb473 : exp = "盤山朗空順禪師語錄"
+[eb473 : exp = "盤山朗空順禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b473"
 ]
 {eb473, extent, [[1]]} / hmw
@@ -4458,7 +4458,7 @@ creation-date( eb473 : exp, date27 : dyn) / hmw
 resp25( eb473 : exp, naut-1766 : resp) / hmw
 creation-date( eb473 : exp, date27 : dyn) / hmw
 
-[eb474 : exp = "盤山了宗禪師語錄"
+[eb474 : exp = "盤山了宗禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b474"
 ]
 {eb474, extent, [[4]]} / hmw
@@ -4467,7 +4467,7 @@ creation-date( eb474 : exp, date27 : dyn) / hmw
 resp179( eb474 : exp, naut-1768 : resp) / hmw
 creation-date( eb474 : exp, date27 : dyn) / hmw
 
-[eb475 : exp = "逕庭宗禪師語錄"
+[eb475 : exp = "逕庭宗禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b475"
 ]
 {eb475, extent, [[2]]} / hmw
@@ -4476,7 +4476,7 @@ creation-date( eb475 : exp, date27 : dyn) / hmw
 resp152( eb475 : exp, naut-1770 : resp) / hmw
 creation-date( eb475 : exp, date27 : dyn) / hmw
 
-[eb476 : exp = "別牧純禪師語錄"
+[eb476 : exp = "別牧純禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b476"
 ]
 {eb476, extent, [[1]]} / hmw
@@ -4485,7 +4485,7 @@ creation-date( eb476 : exp, date27 : dyn) / hmw
 resp152( eb476 : exp, naut-1772 : resp) / hmw
 creation-date( eb476 : exp, date27 : dyn) / hmw
 
-[eb477 : exp = "天翼翔禪師語錄"
+[eb477 : exp = "天翼翔禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b477"
 ]
 {eb477, extent, [[2]]} / hmw
@@ -4494,7 +4494,7 @@ creation-date( eb477 : exp, date27 : dyn) / hmw
 resp25( eb477 : exp, naut-1774 : resp) / hmw
 creation-date( eb477 : exp, date27 : dyn) / hmw
 
-[eb478 : exp = "雲山燕居申禪師語錄"
+[eb478 : exp = "雲山燕居申禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b478"
 ]
 {eb478, extent, [[8]]} / hmw
@@ -4503,7 +4503,7 @@ creation-date( eb478 : exp, date27 : dyn) / hmw
 resp152( eb478 : exp, naut-1776 : resp) / hmw
 creation-date( eb478 : exp, date27 : dyn) / hmw
 
-[eb479 : exp = "昭覺竹峰續禪師語錄"
+[eb479 : exp = "昭覺竹峰續禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b479"
 ]
 {eb479, extent, [[6]]} / hmw
@@ -4512,28 +4512,28 @@ creation-date( eb479 : exp, date27 : dyn) / hmw
 resp152( eb479 : exp, naut-1778 : resp) / hmw
 creation-date( eb479 : exp, date27 : dyn) / hmw
 
-[eb480 : exp = "一貫別傳"
+[eb480 : exp = "一貫別傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b480"
 ]
 {eb480, extent, [[5]]} / hmw
 resp24( eb480 : exp, naut-1725 : resp) / hmw
 creation-date( eb480 : exp, date27 : dyn) / hmw
 
-[eb481 : exp = "古音王傳"
+[eb481 : exp = "古音王傳" / zh
 @"http://psi.iba-net.org/exp/hmw_b481"
 ]
 {eb481, extent, [[1]]} / hmw
 resp24( eb481 : exp, naut-1725 : resp) / hmw
 creation-date( eb481 : exp, date27 : dyn) / hmw
 
-[eb482 : exp = "五家宗旨纂要"
+[eb482 : exp = "五家宗旨纂要" / zh
 @"http://psi.iba-net.org/exp/hmw_b482"
 @"http://psi.iba-net.org/exp/hnx_1282"]
 {eb482, extent, [[3]]} / hmw
 resp56( eb482 : exp, naut-1101 : resp) / hmw
 creation-date( eb482 : exp, date27 : dyn) / hmw
 
-[eb483 : exp = "竺峰敏禪師語錄"
+[eb483 : exp = "竺峰敏禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b483"
 ]
 {eb483, extent, [[8]]} / hmw
@@ -4543,14 +4543,14 @@ resp152( eb483 : exp, naut-1779 : resp) / hmw
 creation-date( eb483 : exp, date27 : dyn) / hmw
 {eb483-01, extent, [[2]]} / hmw
 
-[eb484 : exp = "野雲映禪師宗統頌"
+[eb484 : exp = "野雲映禪師宗統頌" / zh
 @"http://psi.iba-net.org/exp/hmw_b484"
 ]
 {eb484, extent, [[1]]} / hmw
 resp223( eb484 : exp, naut-1780 : resp) / hmw
 creation-date( eb484 : exp, date27 : dyn) / hmw
 
-[eb485 : exp = "普門顯禪師語錄"
+[eb485 : exp = "普門顯禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b485"
 ]
 {eb485, extent, [[2]]} / hmw
@@ -4559,7 +4559,7 @@ creation-date( eb485 : exp, date27 : dyn) / hmw
 resp25( eb485 : exp, naut-1782 : resp) / hmw
 creation-date( eb485 : exp, date27 : dyn) / hmw
 
-[eb486 : exp = "鑑堂一禪師語錄"
+[eb486 : exp = "鑑堂一禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b486"
 ]
 {eb486, extent, [[1]]} / hmw
@@ -4568,7 +4568,7 @@ creation-date( eb486 : exp, date27 : dyn) / hmw
 resp179( eb486 : exp, naut-1784 : resp) / hmw
 creation-date( eb486 : exp, date27 : dyn) / hmw
 
-[eb487 : exp = "翠崖必禪師語錄"
+[eb487 : exp = "翠崖必禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b487"
 ]
 {eb487, extent, [[3]]} / hmw
@@ -4577,7 +4577,7 @@ creation-date( eb487 : exp, date27 : dyn) / hmw
 resp25( eb487 : exp, naut-626 : resp) / hmw
 creation-date( eb487 : exp, date27 : dyn) / hmw
 
-[eb488 : exp = "斗南暐禪師語錄"
+[eb488 : exp = "斗南暐禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b488"
 ]
 {eb488, extent, [[2]]} / hmw
@@ -4586,14 +4586,14 @@ creation-date( eb488 : exp, date27 : dyn) / hmw
 resp179( eb488 : exp, naut-1787 : resp) / hmw
 creation-date( eb488 : exp, date27 : dyn) / hmw
 
-[eb489 : exp = "博山無異禪師廣錄"
+[eb489 : exp = "博山無異禪師廣錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b489"
 @"http://psi.iba-net.org/exp/hnx_1435"]
 {eb489, extent, [[33]]} / hmw
 resp237( eb489 : exp, naut-1511 : resp) / hmw
 role( naut-1511 : exp, role-55 : role) / hmw
 
-[eb490 : exp = "博山粟如瀚禪師語錄"
+[eb490 : exp = "博山粟如瀚禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b490"
 ]
 {eb490, extent, [[6]]} / hmw
@@ -4602,7 +4602,7 @@ creation-date( eb490 : exp, date27 : dyn) / hmw
 resp56( eb490 : exp, naut-1788 : resp) / hmw
 creation-date( eb490 : exp, date27 : dyn) / hmw
 
-[eb491 : exp = "天寧法舟濟禪師剩語"
+[eb491 : exp = "天寧法舟濟禪師剩語" / zh
 @"http://psi.iba-net.org/exp/hmw_b491"
 ]
 {eb491, extent, [[1]]} / hmw
@@ -4611,7 +4611,7 @@ creation-date( eb491 : exp, date23 : dyn) / hmw
 resp152( eb491 : exp, naut-1790 : resp) / hmw
 creation-date( eb491 : exp, date23 : dyn) / hmw
 
-[eb492 : exp = "萬峰和尚語錄"
+[eb492 : exp = "萬峰和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b492"
 ]
 {eb492, extent, [[1]]} / hmw
@@ -4620,7 +4620,7 @@ creation-date( eb492 : exp, date23 : dyn) / hmw
 resp56( eb492 : exp, naut-1792 : resp) / hmw
 creation-date( eb492 : exp, date23 : dyn) / hmw
 
-[eb493 : exp = "磬山牧亭樸夫拙禪師語錄"
+[eb493 : exp = "磬山牧亭樸夫拙禪師語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b493"
 ]
 {eb493, extent, [[6]]} / hmw
@@ -4629,14 +4629,14 @@ creation-date( eb493 : exp, date27 : dyn) / hmw
 resp152( eb493 : exp, naut-1794 : resp) / hmw
 creation-date( eb493 : exp, date27 : dyn) / hmw
 
-[eb494 : exp = "雨山和尚語錄"
+[eb494 : exp = "雨山和尚語錄" / zh
 @"http://psi.iba-net.org/exp/hmw_b494"
 ]
 {eb494, extent, [[20]]} / hmw
 resp32( eb494 : exp, naut-1795 : resp) / hmw
 creation-date( eb494 : exp, date27 : dyn) / hmw
 
-[eb495 : exp = "天然居士懷淨土詩"
+[eb495 : exp = "天然居士懷淨土詩" / zh
 @"http://psi.iba-net.org/exp/hmw_b495"
 ]
 {eb495, extent, [[1]]} / hmw
@@ -4645,14 +4645,14 @@ creation-date( eb495 : exp, date27 : dyn) / hmw
 resp25( eb495 : exp, naut-1797 : resp) / hmw
 creation-date( eb495 : exp, date27 : dyn) / hmw
 
-[eb496 : exp = "成唯識論音響補遺"
+[eb496 : exp = "成唯識論音響補遺" / zh
 @"http://psi.iba-net.org/exp/hmw_b496"
 @"http://psi.iba-net.org/exp/hnx_0826"]
 {eb496, extent, [[10]]} / hmw
 resp109( eb496 : exp, naut-895 : resp) / hmw
 creation-date( eb496 : exp, date27 : dyn) / hmw
 
-[eb497 : exp = "鶴山禪師執帚集"
+[eb497 : exp = "鶴山禪師執帚集" / zh
 @"http://psi.iba-net.org/exp/hmw_b497"
 ]
 {eb497, extent, [[2]]} / hmw
