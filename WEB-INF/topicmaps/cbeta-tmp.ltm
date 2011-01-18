@@ -8,9 +8,18 @@
 ]
 [eT01n0001 : exp = "長阿含經" /zh @"http://psi.iba-net.org/exp/hnt_0001"]
 is-embodied-in(mT01n0001 : man, eT01n0001 : exp)
+{mT01n0001, resp [[後秦 佛陀耶舍共竺佛念譯]]}
 {mT01n0001, revision, [[1.6]]}
 {mT01n0001, revdate, [[2011/01/01 12:16:03]]}
 {mT01n0001, extent, [[22卷]]}
 {mT01n0001, distributor [[中華電子佛典協會 (CBETA)]]}
 /* need to think about how to model this */
 {mT01n0001, listwit, [[【大】,【宋】]]}
+{mT01n0001, filename, [[T01n0001.xml]]}
+{mT01n0001, charcount [[259536]]}
+{mT01n0001, lbcount [[12896]]}
+{mT01n0001, firstlb [[0001a01]]}
+{mT01n0001, lastlb [[0149c24]]}
+/* orgmode like hierarchy, lb after colon */
+{mT01n0001, mulu [[長阿含經序
+*** 2 鬱單曰品:T01n0001-0117c13]]}
