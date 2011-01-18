@@ -7,6 +7,7 @@
 #INCLUDE "hmw-exp.ltm"
 #INCLUDE "hkb-exp.ltm"
 #INCLUDE "canwww.ltm"
+#INCLUDE "cbeta-exp.ltm"
 /* manifestations */
 /* #INCLUDE "hkd-man.ltm" */
 /* #INCLUDE "hnx-man.ltm" */
