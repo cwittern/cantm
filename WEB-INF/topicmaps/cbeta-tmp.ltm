@@ -1,0 +1,16 @@
+@"utf-8"
+#VERSION "1.3"
+#INCLUDE "ontology.ltm"
+[mT01n0001 : man
+   = "Taisho Tripitaka, Electronic version, No. 0001 長阿含經" /cbeta
+   = "長阿含經" /zh
+   @"http://psi.iba-net.org/man/cbeta/t01n0001"
+]
+[eT01n0001 : exp = "長阿含經" /zh @"http://psi.iba-net.org/exp/hnt_0001"]
+is-embodied-in(mT01n0001 : man, eT01n0001 : exp)
+{mT01n0001, revision, [[1.6]]}
+{mT01n0001, revdate, [[2011/01/01 12:16:03]]}
+{mT01n0001, extent, [[22卷]]}
+{mT01n0001, distributor [[中華電子佛典協會 (CBETA)]]}
+/* need to think about how to model this */
+{mT01n0001, listwit, [[【大】,【宋】]]}
