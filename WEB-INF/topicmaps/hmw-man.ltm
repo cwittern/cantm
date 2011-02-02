@@ -1,4 +1,5 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
 
 [ea001 : exp = "大方廣佛華嚴經" / zh @"http://psi.iba-net.org/exp/hmw_a001"]
 [ma001 : man = "大方廣佛華嚴經" / zh

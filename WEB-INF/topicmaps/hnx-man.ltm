@@ -1,4 +1,5 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
 
 [ehnx_0001 : exp = "圓覺經佚文" / zh hnx
  @"http://psi.iba-net.org/exp/hnx_0001" ]

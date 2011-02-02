@@ -1,2160 +1,2162 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
+
 /* textual agents */
-[naut-1353 : person = "" / zh 
+[naut-1353 : person = "" / zh
  @"http://psi.iba-net.org/person/naut-1353"]
-[naut-891 : person = "如理" / zh 
+[naut-891 : person = "如理" / zh
  @"http://psi.iba-net.org/person/naut-891"]
-[naut-933 : person = "如吉" / zh 
+[naut-933 : person = "如吉" / zh
  @"http://psi.iba-net.org/person/naut-933"]
-[naut-858 : person = "法礪" / zh 
+[naut-858 : person = "法礪" / zh
  @"http://psi.iba-net.org/person/naut-858"]
-[naut-1536 : person = "惟能" / zh 
+[naut-1536 : person = "惟能" / zh
  @"http://psi.iba-net.org/person/naut-1536"]
-[naut-1126 : person = "行秀" / zh 
+[naut-1126 : person = "行秀" / zh
  @"http://psi.iba-net.org/person/naut-1126"]
-[naut-1617 : person = "悟進" / zh 
+[naut-1617 : person = "悟進" / zh
  @"http://psi.iba-net.org/person/naut-1617"]
-[naut-730 : person = "曇應" / zh 
+[naut-730 : person = "曇應" / zh
  @"http://psi.iba-net.org/person/naut-730"]
-[naut-1240 : person = "祖誾" / zh 
+[naut-1240 : person = "祖誾" / zh
  @"http://psi.iba-net.org/person/naut-1240"]
-[naut-574 : person = "日稱" / zh 
+[naut-574 : person = "日稱" / zh
  @"http://psi.iba-net.org/person/naut-574"]
-[naut-1096 : person = "如瑛" / zh 
+[naut-1096 : person = "如瑛" / zh
  @"http://psi.iba-net.org/person/naut-1096"]
-[naut-819 : person = "實乘" / zh 
+[naut-819 : person = "實乘" / zh
  @"http://psi.iba-net.org/person/naut-819"]
-[naut-677 : person = "楊彥國" / zh 
+[naut-677 : person = "楊彥國" / zh
  @"http://psi.iba-net.org/person/naut-677"]
-[naut-1209 : person = "法奇" / zh 
+[naut-1209 : person = "法奇" / zh
  @"http://psi.iba-net.org/person/naut-1209"]
-[naut-760 : person = "性起" / zh 
+[naut-760 : person = "性起" / zh
  @"http://psi.iba-net.org/person/naut-760"]
-[naut-667 : person = "劉道開" / zh 
+[naut-667 : person = "劉道開" / zh
  @"http://psi.iba-net.org/person/naut-667"]
-[naut-1156 : person = "圓淨" / zh 
+[naut-1156 : person = "圓淨" / zh
  @"http://psi.iba-net.org/person/naut-1156"]
-[naut-583 : person = "竺佛念譯" / zh 
+[naut-583 : person = "竺佛念譯" / zh
  @"http://psi.iba-net.org/person/naut-583"]
-[naut-1280 : person = "無" / zh 
+[naut-1280 : person = "無" / zh
  @"http://psi.iba-net.org/person/naut-1280"]
-[naut-1427 : person = "宗義" / zh 
+[naut-1427 : person = "宗義" / zh
  @"http://psi.iba-net.org/person/naut-1427"]
-[naut-795 : person = "智雲" / zh 
+[naut-795 : person = "智雲" / zh
  @"http://psi.iba-net.org/person/naut-795"]
-[naut-1090 : person = "智昭" / zh 
+[naut-1090 : person = "智昭" / zh
  @"http://psi.iba-net.org/person/naut-1090"]
-[naut-1403 : person = "祖運" / zh 
+[naut-1403 : person = "祖運" / zh
  @"http://psi.iba-net.org/person/naut-1403"]
-[naut-1397 : person = "應槐" / zh 
+[naut-1397 : person = "應槐" / zh
  @"http://psi.iba-net.org/person/naut-1397"]
-[naut-1118 : person = "克勤擊節" / zh 
+[naut-1118 : person = "克勤擊節" / zh
  @"http://psi.iba-net.org/person/naut-1118"]
-[naut-701 : person = "彭際清" / zh 
+[naut-701 : person = "彭際清" / zh
  @"http://psi.iba-net.org/person/naut-701"]
-[naut-854 : person = "智旭輯" / zh 
+[naut-854 : person = "智旭輯" / zh
  @"http://psi.iba-net.org/person/naut-854"]
-[naut-582 : person = "秦" / zh 
+[naut-582 : person = "秦" / zh
  @"http://psi.iba-net.org/person/naut-582"]
-[naut-1207 : person = "實仁" / zh 
+[naut-1207 : person = "實仁" / zh
  @"http://psi.iba-net.org/person/naut-1207"]
-[naut-1592 : person = "玄極" / zh 
+[naut-1592 : person = "玄極" / zh
  @"http://psi.iba-net.org/person/naut-1592"]
-[naut-905 : person = "曉月" / zh 
+[naut-905 : person = "曉月" / zh
  @"http://psi.iba-net.org/person/naut-905"]
-[naut-747 : person = "經" / zh 
+[naut-747 : person = "經" / zh
  @"http://psi.iba-net.org/person/naut-747"]
-[naut-1031 : person = "瑞聖歎" / zh 
+[naut-1031 : person = "瑞聖歎" / zh
  @"http://psi.iba-net.org/person/naut-1031"]
-[naut-695 : person = "靈[亢-几+桀]" / zh 
+[naut-695 : person = "靈[亢-几+桀]" / zh
  @"http://psi.iba-net.org/person/naut-695"]
-[naut-708 : person = "戒度記" / zh 
+[naut-708 : person = "戒度記" / zh
  @"http://psi.iba-net.org/person/naut-708"]
-[naut-577 : person = "利言" / zh 
+[naut-577 : person = "利言" / zh
  @"http://psi.iba-net.org/person/naut-577"]
-[naut-902 : person = "羅什答" / zh 
+[naut-902 : person = "羅什答" / zh
  @"http://psi.iba-net.org/person/naut-902"]
-[naut-692 : person = "元奇" / zh 
+[naut-692 : person = "元奇" / zh
  @"http://psi.iba-net.org/person/naut-692"]
-[naut-1477 : person = "廷璨" / zh 
+[naut-1477 : person = "廷璨" / zh
  @"http://psi.iba-net.org/person/naut-1477"]
-[naut-1265 : person = "可宣" / zh 
+[naut-1265 : person = "可宣" / zh
  @"http://psi.iba-net.org/person/naut-1265"]
-[naut-1431 : person = "妙淨" / zh 
+[naut-1431 : person = "妙淨" / zh
  @"http://psi.iba-net.org/person/naut-1431"]
-[naut-1028 : person = "眞益願" / zh 
+[naut-1028 : person = "眞益願" / zh
  @"http://psi.iba-net.org/person/naut-1028"]
-[naut-735 : person = "韓巖" / zh 
+[naut-735 : person = "韓巖" / zh
  @"http://psi.iba-net.org/person/naut-735"]
-[naut-1188 : person = "覺心" / zh 
+[naut-1188 : person = "覺心" / zh
  @"http://psi.iba-net.org/person/naut-1188"]
-[naut-1233 : person = "若舟" / zh 
+[naut-1233 : person = "若舟" / zh
  @"http://psi.iba-net.org/person/naut-1233"]
-[naut-1384 : person = "思敬" / zh 
+[naut-1384 : person = "思敬" / zh
  @"http://psi.iba-net.org/person/naut-1384"]
-[naut-1162 : person = "法[王*壽]" / zh 
+[naut-1162 : person = "法[王*壽]" / zh
  @"http://psi.iba-net.org/person/naut-1162"]
-[naut-719 : person = "鄭澄源" / zh 
+[naut-719 : person = "鄭澄源" / zh
  @"http://psi.iba-net.org/person/naut-719"]
-[naut-1461 : person = "善成" / zh 
+[naut-1461 : person = "善成" / zh
  @"http://psi.iba-net.org/person/naut-1461"]
-[naut-1500 : person = "唯敬" / zh 
+[naut-1500 : person = "唯敬" / zh
  @"http://psi.iba-net.org/person/naut-1500"]
-[naut-1158 : person = "智本" / zh 
+[naut-1158 : person = "智本" / zh
  @"http://psi.iba-net.org/person/naut-1158"]
-[naut-744 : person = "王起隆" / zh 
+[naut-744 : person = "王起隆" / zh
  @"http://psi.iba-net.org/person/naut-744"]
-[naut-1049 : person = "弟子" / zh 
+[naut-1049 : person = "弟子" / zh
  @"http://psi.iba-net.org/person/naut-1049"]
-[naut-1191 : person = "(侍者)" / zh 
+[naut-1191 : person = "(侍者)" / zh
  @"http://psi.iba-net.org/person/naut-1191"]
-[naut-1524 : person = "編" / zh 
+[naut-1524 : person = "編" / zh
  @"http://psi.iba-net.org/person/naut-1524"]
-[naut-1305 : person = "正從" / zh 
+[naut-1305 : person = "正從" / zh
  @"http://psi.iba-net.org/person/naut-1305"]
-[naut-1498 : person = "文素" / zh 
+[naut-1498 : person = "文素" / zh
  @"http://psi.iba-net.org/person/naut-1498"]
-[naut-1420 : person = "宗黼" / zh 
+[naut-1420 : person = "宗黼" / zh
  @"http://psi.iba-net.org/person/naut-1420"]
-[naut-1027 : person = "張師誠" / zh 
+[naut-1027 : person = "張師誠" / zh
  @"http://psi.iba-net.org/person/naut-1027"]
-[naut-1647 : person = "慧祥" / zh 
+[naut-1647 : person = "慧祥" / zh
  @"http://psi.iba-net.org/person/naut-1647"]
-[naut-1376 : person = "可橖" / zh 
+[naut-1376 : person = "可橖" / zh
  @"http://psi.iba-net.org/person/naut-1376"]
-[naut-1273 : person = "如阜" / zh 
+[naut-1273 : person = "如阜" / zh
  @"http://psi.iba-net.org/person/naut-1273"]
-[naut-1264 : person = "妙源" / zh 
+[naut-1264 : person = "妙源" / zh
  @"http://psi.iba-net.org/person/naut-1264"]
-[naut-786 : person = "敬止" / zh 
+[naut-786 : person = "敬止" / zh
  @"http://psi.iba-net.org/person/naut-786"]
-[naut-738 : person = "眞可" / zh 
+[naut-738 : person = "眞可" / zh
  @"http://psi.iba-net.org/person/naut-738"]
-[naut-1133 : person = "宗紹" / zh 
+[naut-1133 : person = "宗紹" / zh
  @"http://psi.iba-net.org/person/naut-1133"]
-[naut-1436 : person = "普莊" / zh 
+[naut-1436 : person = "普莊" / zh
  @"http://psi.iba-net.org/person/naut-1436"]
-[naut-882 : person = "志福" / zh 
+[naut-882 : person = "志福" / zh
  @"http://psi.iba-net.org/person/naut-882"]
-[naut-894 : person = "大惠" / zh 
+[naut-894 : person = "大惠" / zh
  @"http://psi.iba-net.org/person/naut-894"]
-[naut-1402 : person = "文康" / zh 
+[naut-1402 : person = "文康" / zh
  @"http://psi.iba-net.org/person/naut-1402"]
-[naut-1173 : person = "法孜" / zh 
+[naut-1173 : person = "法孜" / zh
  @"http://psi.iba-net.org/person/naut-1173"]
-[naut-1370 : person = "祖森" / zh 
+[naut-1370 : person = "祖森" / zh
  @"http://psi.iba-net.org/person/naut-1370"]
-[naut-1439 : person = "文度" / zh 
+[naut-1439 : person = "文度" / zh
  @"http://psi.iba-net.org/person/naut-1439"]
-[naut-1102 : person = "錢伊庵編" / zh 
+[naut-1102 : person = "錢伊庵編" / zh
  @"http://psi.iba-net.org/person/naut-1102"]
-[naut-1553 : person = "夏道人" / zh 
+[naut-1553 : person = "夏道人" / zh
  @"http://psi.iba-net.org/person/naut-1553"]
-[naut-1518 : person = "潘道靖" / zh 
+[naut-1518 : person = "潘道靖" / zh
  @"http://psi.iba-net.org/person/naut-1518"]
-[naut-1479 : person = "自覺" / zh 
+[naut-1479 : person = "自覺" / zh
  @"http://psi.iba-net.org/person/naut-1479"]
-[naut-1199 : person = "淨志" / zh 
+[naut-1199 : person = "淨志" / zh
  @"http://psi.iba-net.org/person/naut-1199"]
-[naut-1141 : person = "圓信" / zh 
+[naut-1141 : person = "圓信" / zh
  @"http://psi.iba-net.org/person/naut-1141"]
-[naut-1147 : person = "楚圓" / zh 
+[naut-1147 : person = "楚圓" / zh
  @"http://psi.iba-net.org/person/naut-1147"]
-[naut-1354 : person = "持正" / zh 
+[naut-1354 : person = "持正" / zh
  @"http://psi.iba-net.org/person/naut-1354"]
-[naut-852 : person = "即靜" / zh 
+[naut-852 : person = "即靜" / zh
  @"http://psi.iba-net.org/person/naut-852"]
-[naut-671 : person = "行策" / zh 
+[naut-671 : person = "行策" / zh
  @"http://psi.iba-net.org/person/naut-671"]
-[naut-1186 : person = "法宏" / zh 
+[naut-1186 : person = "法宏" / zh
  @"http://psi.iba-net.org/person/naut-1186"]
-[naut-664 : person = "乘[ㄓ/日]講" / zh 
+[naut-664 : person = "乘[ㄓ/日]講" / zh
  @"http://psi.iba-net.org/person/naut-664"]
-[naut-1649 : person = "盛熙明" / zh 
+[naut-1649 : person = "盛熙明" / zh
  @"http://psi.iba-net.org/person/naut-1649"]
-[naut-1480 : person = "慶預" / zh 
+[naut-1480 : person = "慶預" / zh
  @"http://psi.iba-net.org/person/naut-1480"]
-[naut-877 : person = "法藏造" / zh 
+[naut-877 : person = "法藏造" / zh
  @"http://psi.iba-net.org/person/naut-877"]
-[naut-1056 : person = "北天竺" / zh 
+[naut-1056 : person = "北天竺" / zh
  @"http://psi.iba-net.org/person/naut-1056"]
-[naut-651 : person = "圓澄" / zh 
+[naut-651 : person = "圓澄" / zh
  @"http://psi.iba-net.org/person/naut-651"]
-[naut-972 : person = "武徹" / zh 
+[naut-972 : person = "武徹" / zh
  @"http://psi.iba-net.org/person/naut-972"]
-[naut-688 : person = "來舟" / zh 
+[naut-688 : person = "來舟" / zh
  @"http://psi.iba-net.org/person/naut-688"]
-[naut-865 : person = "慧顯" / zh 
+[naut-865 : person = "慧顯" / zh
  @"http://psi.iba-net.org/person/naut-865"]
-[naut-1283 : person = "禧" / zh 
+[naut-1283 : person = "禧" / zh
  @"http://psi.iba-net.org/person/naut-1283"]
-[naut-1048 : person = "尼量海" / zh 
+[naut-1048 : person = "尼量海" / zh
  @"http://psi.iba-net.org/person/naut-1048"]
-[naut-1274 : person = "似藻" / zh 
+[naut-1274 : person = "似藻" / zh
  @"http://psi.iba-net.org/person/naut-1274"]
-[naut-1130 : person = "宗杲集竝著" / zh 
+[naut-1130 : person = "宗杲集竝著" / zh
  @"http://psi.iba-net.org/person/naut-1130"]
-[naut-1117 : person = "克勤評唱" / zh 
+[naut-1117 : person = "克勤評唱" / zh
  @"http://psi.iba-net.org/person/naut-1117"]
-[naut-1519 : person = "黃大廣" / zh 
+[naut-1519 : person = "黃大廣" / zh
  @"http://psi.iba-net.org/person/naut-1519"]
-[naut-1646 : person = "慧堅" / zh 
+[naut-1646 : person = "慧堅" / zh
  @"http://psi.iba-net.org/person/naut-1646"]
-[naut-1580 : person = "彭希涑" / zh 
+[naut-1580 : person = "彭希涑" / zh
  @"http://psi.iba-net.org/person/naut-1580"]
-[naut-656 : person = "錢謙益" / zh 
+[naut-656 : person = "錢謙益" / zh
  @"http://psi.iba-net.org/person/naut-656"]
-[naut-1177 : person = "一見" / zh 
+[naut-1177 : person = "一見" / zh
  @"http://psi.iba-net.org/person/naut-1177"]
-[naut-1516 : person = "性朗" / zh 
+[naut-1516 : person = "性朗" / zh
  @"http://psi.iba-net.org/person/naut-1516"]
-[naut-1493 : person = "清萃" / zh 
+[naut-1493 : person = "清萃" / zh
  @"http://psi.iba-net.org/person/naut-1493"]
-[naut-715 : person = "大慧" / zh 
+[naut-715 : person = "大慧" / zh
  @"http://psi.iba-net.org/person/naut-715"]
-[naut-1482 : person = "義初" / zh 
+[naut-1482 : person = "義初" / zh
  @"http://psi.iba-net.org/person/naut-1482"]
-[naut-1412 : person = "元寶" / zh 
+[naut-1412 : person = "元寶" / zh
  @"http://psi.iba-net.org/person/naut-1412"]
-[naut-1059 : person = "慧海" / zh 
+[naut-1059 : person = "慧海" / zh
  @"http://psi.iba-net.org/person/naut-1059"]
-[naut-1650 : person = "慧影" / zh 
+[naut-1650 : person = "慧影" / zh
  @"http://psi.iba-net.org/person/naut-1650"]
-[naut-655 : person = "鍾惺" / zh 
+[naut-655 : person = "鍾惺" / zh
  @"http://psi.iba-net.org/person/naut-655"]
-[naut-1045 : person = "鄭韋庵" / zh 
+[naut-1045 : person = "鄭韋庵" / zh
  @"http://psi.iba-net.org/person/naut-1045"]
-[naut-1571 : person = "法藏集" / zh 
+[naut-1571 : person = "法藏集" / zh
  @"http://psi.iba-net.org/person/naut-1571"]
-[naut-996 : person = "濟嶽彙箋" / zh 
+[naut-996 : person = "濟嶽彙箋" / zh
  @"http://psi.iba-net.org/person/naut-996"]
-[naut-1153 : person = "慧弼" / zh 
+[naut-1153 : person = "慧弼" / zh
  @"http://psi.iba-net.org/person/naut-1153"]
-[naut-976 : person = "謝于教" / zh 
+[naut-976 : person = "謝于教" / zh
  @"http://psi.iba-net.org/person/naut-976"]
-[naut-1290 : person = "智折" / zh 
+[naut-1290 : person = "智折" / zh
  @"http://psi.iba-net.org/person/naut-1290"]
-[naut-782 : person = "通容" / zh 
+[naut-782 : person = "通容" / zh
  @"http://psi.iba-net.org/person/naut-782"]
-[naut-824 : person = "[言*(上/小)]震" / zh 
+[naut-824 : person = "[言*(上/小)]震" / zh
  @"http://psi.iba-net.org/person/naut-824"]
-[naut-1631 : person = "心泰" / zh 
+[naut-1631 : person = "心泰" / zh
  @"http://psi.iba-net.org/person/naut-1631"]
-[naut-960 : person = "希[廷-壬+由]註" / zh 
+[naut-960 : person = "希[廷-壬+由]註" / zh
  @"http://psi.iba-net.org/person/naut-960"]
-[naut-1242 : person = "了悟" / zh 
+[naut-1242 : person = "了悟" / zh
  @"http://psi.iba-net.org/person/naut-1242"]
-[naut-665 : person = "眞界" / zh 
+[naut-665 : person = "眞界" / zh
  @"http://psi.iba-net.org/person/naut-665"]
-[naut-773 : person = "慧忠" / zh 
+[naut-773 : person = "慧忠" / zh
  @"http://psi.iba-net.org/person/naut-773"]
-[naut-1351 : person = "從心" / zh 
+[naut-1351 : person = "從心" / zh
  @"http://psi.iba-net.org/person/naut-1351"]
-[naut-1111 : person = "淨符" / zh 
+[naut-1111 : person = "淨符" / zh
  @"http://psi.iba-net.org/person/naut-1111"]
-[naut-603 : person = "義雲法金剛．菩提仙" / zh 
+[naut-603 : person = "義雲法金剛．菩提仙" / zh
  @"http://psi.iba-net.org/person/naut-603"]
-[naut-1169 : person = "普敬" / zh 
+[naut-1169 : person = "普敬" / zh
  @"http://psi.iba-net.org/person/naut-1169"]
-[naut-1526 : person = "朱嘉謨" / zh 
+[naut-1526 : person = "朱嘉謨" / zh
  @"http://psi.iba-net.org/person/naut-1526"]
-[naut-1037 : person = "張淵" / zh 
+[naut-1037 : person = "張淵" / zh
  @"http://psi.iba-net.org/person/naut-1037"]
-[naut-922 : person = "可度" / zh 
+[naut-922 : person = "可度" / zh
  @"http://psi.iba-net.org/person/naut-922"]
-[naut-637 : person = "元粹" / zh 
+[naut-637 : person = "元粹" / zh
  @"http://psi.iba-net.org/person/naut-637"]
-[naut-964 : person = "圓覺" / zh 
+[naut-964 : person = "圓覺" / zh
  @"http://psi.iba-net.org/person/naut-964"]
-[naut-920 : person = "宗翌" / zh 
+[naut-920 : person = "宗翌" / zh
  @"http://psi.iba-net.org/person/naut-920"]
-[naut-949 : person = "承遷" / zh 
+[naut-949 : person = "承遷" / zh
  @"http://psi.iba-net.org/person/naut-949"]
-[naut-1630 : person = "靈操撰" / zh 
+[naut-1630 : person = "靈操撰" / zh
  @"http://psi.iba-net.org/person/naut-1630"]
-[naut-825 : person = "寶亮" / zh 
+[naut-825 : person = "寶亮" / zh
  @"http://psi.iba-net.org/person/naut-825"]
-[naut-1506 : person = "清茂" / zh 
+[naut-1506 : person = "清茂" / zh
  @"http://psi.iba-net.org/person/naut-1506"]
-[naut-578 : person = "唐僧鎧" / zh 
+[naut-578 : person = "唐僧鎧" / zh
  @"http://psi.iba-net.org/person/naut-578"]
-[naut-1581 : person = "胡[王*延]" / zh 
+[naut-1581 : person = "胡[王*延]" / zh
  @"http://psi.iba-net.org/person/naut-1581"]
-[naut-1256 : person = "了能" / zh 
+[naut-1256 : person = "了能" / zh
  @"http://psi.iba-net.org/person/naut-1256"]
-[naut-686 : person = "從義" / zh 
+[naut-686 : person = "從義" / zh
  @"http://psi.iba-net.org/person/naut-686"]
-[naut-1349 : person = "行純" / zh 
+[naut-1349 : person = "行純" / zh
  @"http://psi.iba-net.org/person/naut-1349"]
-[naut-605 : person = "僧伽婆羅譯抄之" / zh 
+[naut-605 : person = "僧伽婆羅譯抄之" / zh
  @"http://psi.iba-net.org/person/naut-605"]
-[naut-1159 : person = "智華" / zh 
+[naut-1159 : person = "智華" / zh
  @"http://psi.iba-net.org/person/naut-1159"]
-[naut-1202 : person = "光從" / zh 
+[naut-1202 : person = "光從" / zh
  @"http://psi.iba-net.org/person/naut-1202"]
-[naut-766 : person = "謝承謨" / zh 
+[naut-766 : person = "謝承謨" / zh
  @"http://psi.iba-net.org/person/naut-766"]
-[naut-660 : person = "觀衡" / zh 
+[naut-660 : person = "觀衡" / zh
  @"http://psi.iba-net.org/person/naut-660"]
-[naut-1099 : person = "眞啟編" / zh 
+[naut-1099 : person = "眞啟編" / zh
  @"http://psi.iba-net.org/person/naut-1099"]
-[naut-683 : person = "聖德太子" / zh 
+[naut-683 : person = "聖德太子" / zh
  @"http://psi.iba-net.org/person/naut-683"]
-[naut-992 : person = "省悟" / zh 
+[naut-992 : person = "省悟" / zh
  @"http://psi.iba-net.org/person/naut-992"]
-[naut-791 : person = "有嚴" / zh 
+[naut-791 : person = "有嚴" / zh
  @"http://psi.iba-net.org/person/naut-791"]
-[naut-1591 : person = "超永" / zh 
+[naut-1591 : person = "超永" / zh
  @"http://psi.iba-net.org/person/naut-1591"]
-[naut-832 : person = "眞宗皇帝" / zh 
+[naut-832 : person = "眞宗皇帝" / zh
  @"http://psi.iba-net.org/person/naut-832"]
-[naut-1644 : person = "李華" / zh 
+[naut-1644 : person = "李華" / zh
  @"http://psi.iba-net.org/person/naut-1644"]
-[naut-650 : person = "眞鑑" / zh 
+[naut-650 : person = "眞鑑" / zh
  @"http://psi.iba-net.org/person/naut-650"]
-[naut-1275 : person = "至源" / zh 
+[naut-1275 : person = "至源" / zh
  @"http://psi.iba-net.org/person/naut-1275"]
-[naut-965 : person = "揚嘉祚" / zh 
+[naut-965 : person = "揚嘉祚" / zh
  @"http://psi.iba-net.org/person/naut-965"]
-[naut-1470 : person = "至寶" / zh 
+[naut-1470 : person = "至寶" / zh
  @"http://psi.iba-net.org/person/naut-1470"]
-[naut-1026 : person = "悟開" / zh 
+[naut-1026 : person = "悟開" / zh
  @"http://psi.iba-net.org/person/naut-1026"]
-[naut-1387 : person = "本眞" / zh 
+[naut-1387 : person = "本眞" / zh
  @"http://psi.iba-net.org/person/naut-1387"]
-[naut-1015 : person = "正寂" / zh 
+[naut-1015 : person = "正寂" / zh
  @"http://psi.iba-net.org/person/naut-1015"]
-[naut-1136 : person = "一辯" / zh 
+[naut-1136 : person = "一辯" / zh
  @"http://psi.iba-net.org/person/naut-1136"]
-[naut-684 : person = "明空私" / zh 
+[naut-684 : person = "明空私" / zh
  @"http://psi.iba-net.org/person/naut-684"]
-[naut-1020 : person = "周克復" / zh 
+[naut-1020 : person = "周克復" / zh
  @"http://psi.iba-net.org/person/naut-1020"]
-[naut-1227 : person = "覺孫" / zh 
+[naut-1227 : person = "覺孫" / zh
  @"http://psi.iba-net.org/person/naut-1227"]
-[naut-969 : person = "不空奉詔" / zh 
+[naut-969 : person = "不空奉詔" / zh
  @"http://psi.iba-net.org/person/naut-969"]
-[naut-1598 : person = "黎眉" / zh 
+[naut-1598 : person = "黎眉" / zh
  @"http://psi.iba-net.org/person/naut-1598"]
-[naut-619 : person = "李贄簡" / zh 
+[naut-619 : person = "李贄簡" / zh
  @"http://psi.iba-net.org/person/naut-619"]
-[naut-823 : person = "亮潤" / zh 
+[naut-823 : person = "亮潤" / zh
  @"http://psi.iba-net.org/person/naut-823"]
-[naut-1310 : person = "正定" / zh 
+[naut-1310 : person = "正定" / zh
  @"http://psi.iba-net.org/person/naut-1310"]
-[naut-1011 : person = "莊廣還輯" / zh 
+[naut-1011 : person = "莊廣還輯" / zh
  @"http://psi.iba-net.org/person/naut-1011"]
-[naut-763 : person = "孫念劬" / zh 
+[naut-763 : person = "孫念劬" / zh
  @"http://psi.iba-net.org/person/naut-763"]
-[naut-1642 : person = "佐伯定胤" / zh 
+[naut-1642 : person = "佐伯定胤" / zh
  @"http://psi.iba-net.org/person/naut-1642"]
-[naut-916 : person = "道邃說乾淑" / zh 
+[naut-916 : person = "道邃說乾淑" / zh
  @"http://psi.iba-net.org/person/naut-916"]
-[naut-1468 : person = "忻悟" / zh 
+[naut-1468 : person = "忻悟" / zh
  @"http://psi.iba-net.org/person/naut-1468"]
-[naut-1319 : person = "了舜" / zh 
+[naut-1319 : person = "了舜" / zh
  @"http://psi.iba-net.org/person/naut-1319"]
-[naut-1262 : person = "智能" / zh 
+[naut-1262 : person = "智能" / zh
  @"http://psi.iba-net.org/person/naut-1262"]
-[naut-914 : person = "智顗(略出)" / zh 
+[naut-914 : person = "智顗(略出)" / zh
  @"http://psi.iba-net.org/person/naut-914"]
-[naut-1515 : person = "心亮" / zh 
+[naut-1515 : person = "心亮" / zh
  @"http://psi.iba-net.org/person/naut-1515"]
-[naut-1377 : person = "祖安" / zh 
+[naut-1377 : person = "祖安" / zh
  @"http://psi.iba-net.org/person/naut-1377"]
-[naut-604 : person = "同譯" / zh 
+[naut-604 : person = "同譯" / zh
  @"http://psi.iba-net.org/person/naut-604"]
-[naut-925 : person = "時舉" / zh 
+[naut-925 : person = "時舉" / zh
  @"http://psi.iba-net.org/person/naut-925"]
-[naut-1371 : person = "(門人)" / zh 
+[naut-1371 : person = "(門人)" / zh
  @"http://psi.iba-net.org/person/naut-1371"]
-[naut-1550 : person = "智肱" / zh 
+[naut-1550 : person = "智肱" / zh
  @"http://psi.iba-net.org/person/naut-1550"]
-[naut-1488 : person = "行從" / zh 
+[naut-1488 : person = "行從" / zh
  @"http://psi.iba-net.org/person/naut-1488"]
-[naut-1057 : person = "覺愛略說" / zh 
+[naut-1057 : person = "覺愛略說" / zh
  @"http://psi.iba-net.org/person/naut-1057"]
-[naut-1440 : person = "文朗" / zh 
+[naut-1440 : person = "文朗" / zh
  @"http://psi.iba-net.org/person/naut-1440"]
-[naut-1135 : person = "行秀仰答" / zh 
+[naut-1135 : person = "行秀仰答" / zh
  @"http://psi.iba-net.org/person/naut-1135"]
-[naut-953 : person = "希[廷-壬+由]" / zh 
+[naut-953 : person = "希[廷-壬+由]" / zh
  @"http://psi.iba-net.org/person/naut-953"]
-[naut-1497 : person = "明總" / zh 
+[naut-1497 : person = "明總" / zh
  @"http://psi.iba-net.org/person/naut-1497"]
-[naut-843 : person = "寂光直" / zh 
+[naut-843 : person = "寂光直" / zh
  @"http://psi.iba-net.org/person/naut-843"]
-[naut-745 : person = "無是道人" / zh 
+[naut-745 : person = "無是道人" / zh
  @"http://psi.iba-net.org/person/naut-745"]
-[naut-635 : person = "智聰" / zh 
+[naut-635 : person = "智聰" / zh
  @"http://psi.iba-net.org/person/naut-635"]
-[naut-754 : person = "溥仁乩" / zh 
+[naut-754 : person = "溥仁乩" / zh
  @"http://psi.iba-net.org/person/naut-754"]
-[naut-1215 : person = "法從" / zh 
+[naut-1215 : person = "法從" / zh
  @"http://psi.iba-net.org/person/naut-1215"]
-[naut-1248 : person = "行彌" / zh 
+[naut-1248 : person = "行彌" / zh
  @"http://psi.iba-net.org/person/naut-1248"]
-[naut-1079 : person = "退隱" / zh 
+[naut-1079 : person = "退隱" / zh
  @"http://psi.iba-net.org/person/naut-1079"]
-[naut-993 : person = "嗣良參訂" / zh 
+[naut-993 : person = "嗣良參訂" / zh
  @"http://psi.iba-net.org/person/naut-993"]
-[naut-1621 : person = "道融" / zh 
+[naut-1621 : person = "道融" / zh
  @"http://psi.iba-net.org/person/naut-1621"]
-[naut-904 : person = "元康" / zh 
+[naut-904 : person = "元康" / zh
  @"http://psi.iba-net.org/person/naut-904"]
-[naut-1341 : person = "雲岑" / zh 
+[naut-1341 : person = "雲岑" / zh
  @"http://psi.iba-net.org/person/naut-1341"]
-[naut-626 : person = "道通" / zh 
+[naut-626 : person = "道通" / zh
  @"http://psi.iba-net.org/person/naut-626"]
-[naut-1110 : person = "普會" / zh 
+[naut-1110 : person = "普會" / zh
  @"http://psi.iba-net.org/person/naut-1110"]
-[naut-632 : person = "孝宗帝" / zh 
+[naut-632 : person = "孝宗帝" / zh
  @"http://psi.iba-net.org/person/naut-632"]
-[naut-762 : person = "孚佑帝君" / zh 
+[naut-762 : person = "孚佑帝君" / zh
  @"http://psi.iba-net.org/person/naut-762"]
-[naut-1128 : person = "眞在" / zh 
+[naut-1128 : person = "眞在" / zh
  @"http://psi.iba-net.org/person/naut-1128"]
-[naut-859 : person = "志鴻" / zh 
+[naut-859 : person = "志鴻" / zh
  @"http://psi.iba-net.org/person/naut-859"]
-[naut-618 : person = "志寧釐經合論" / zh 
+[naut-618 : person = "志寧釐經合論" / zh
  @"http://psi.iba-net.org/person/naut-618"]
-[naut-924 : person = "辯才" / zh 
+[naut-924 : person = "辯才" / zh
  @"http://psi.iba-net.org/person/naut-924"]
-[naut-1306 : person = "自永" / zh 
+[naut-1306 : person = "自永" / zh
  @"http://psi.iba-net.org/person/naut-1306"]
-[naut-1359 : person = "道昭" / zh 
+[naut-1359 : person = "道昭" / zh
  @"http://psi.iba-net.org/person/naut-1359"]
-[naut-1047 : person = "乘戒" / zh 
+[naut-1047 : person = "乘戒" / zh
  @"http://psi.iba-net.org/person/naut-1047"]
-[naut-1342 : person = "文寶" / zh 
+[naut-1342 : person = "文寶" / zh
  @"http://psi.iba-net.org/person/naut-1342"]
-[naut-579 : person = "工布查布" / zh 
+[naut-579 : person = "工布查布" / zh
  @"http://psi.iba-net.org/person/naut-579"]
-[naut-1040 : person = "果能" / zh 
+[naut-1040 : person = "果能" / zh
  @"http://psi.iba-net.org/person/naut-1040"]
-[naut-1044 : person = "沈善登" / zh 
+[naut-1044 : person = "沈善登" / zh
  @"http://psi.iba-net.org/person/naut-1044"]
-[naut-1287 : person = "尚賢" / zh 
+[naut-1287 : person = "尚賢" / zh
  @"http://psi.iba-net.org/person/naut-1287"]
-[naut-783 : person = "大文" / zh 
+[naut-783 : person = "大文" / zh
  @"http://psi.iba-net.org/person/naut-783"]
-[naut-1267 : person = "梵" / zh 
+[naut-1267 : person = "梵" / zh
  @"http://psi.iba-net.org/person/naut-1267"]
-[naut-588 : person = "龍樹菩薩造" / zh 
+[naut-588 : person = "龍樹菩薩造" / zh
  @"http://psi.iba-net.org/person/naut-588"]
-[naut-1003 : person = "懷感" / zh 
+[naut-1003 : person = "懷感" / zh
  @"http://psi.iba-net.org/person/naut-1003"]
-[naut-685 : person = "明得" / zh 
+[naut-685 : person = "明得" / zh
  @"http://psi.iba-net.org/person/naut-685"]
-[naut-1362 : person = "住顯" / zh 
+[naut-1362 : person = "住顯" / zh
  @"http://psi.iba-net.org/person/naut-1362"]
-[naut-1200 : person = "普暉" / zh 
+[naut-1200 : person = "普暉" / zh
  @"http://psi.iba-net.org/person/naut-1200"]
-[naut-598 : person = "伽梵達摩" / zh 
+[naut-598 : person = "伽梵達摩" / zh
  @"http://psi.iba-net.org/person/naut-598"]
-[naut-1216 : person = "紹熏" / zh 
+[naut-1216 : person = "紹熏" / zh
  @"http://psi.iba-net.org/person/naut-1216"]
-[naut-1467 : person = "希顏" / zh 
+[naut-1467 : person = "希顏" / zh
  @"http://psi.iba-net.org/person/naut-1467"]
-[naut-982 : person = "良信" / zh 
+[naut-982 : person = "良信" / zh
  @"http://psi.iba-net.org/person/naut-982"]
-[naut-1183 : person = "祖淳" / zh 
+[naut-1183 : person = "祖淳" / zh
  @"http://psi.iba-net.org/person/naut-1183"]
-[naut-793 : person = "道暹" / zh 
+[naut-793 : person = "道暹" / zh
  @"http://psi.iba-net.org/person/naut-793"]
-[naut-1585 : person = "惠洪" / zh 
+[naut-1585 : person = "惠洪" / zh
  @"http://psi.iba-net.org/person/naut-1585"]
-[naut-1501 : person = "如玉" / zh 
+[naut-1501 : person = "如玉" / zh
  @"http://psi.iba-net.org/person/naut-1501"]
-[naut-700 : person = "玄一" / zh 
+[naut-700 : person = "玄一" / zh
  @"http://psi.iba-net.org/person/naut-700"]
-[naut-1555 : person = "建基" / zh 
+[naut-1555 : person = "建基" / zh
  @"http://psi.iba-net.org/person/naut-1555"]
-[naut-873 : person = "元曉(疏竝別記)" / zh 
+[naut-873 : person = "元曉(疏竝別記)" / zh
  @"http://psi.iba-net.org/person/naut-873"]
-[naut-1570 : person = "元復" / zh 
+[naut-1570 : person = "元復" / zh
  @"http://psi.iba-net.org/person/naut-1570"]
-[naut-921 : person = "處謙" / zh 
+[naut-921 : person = "處謙" / zh
  @"http://psi.iba-net.org/person/naut-921"]
-[naut-1321 : person = "惠洇" / zh 
+[naut-1321 : person = "惠洇" / zh
  @"http://psi.iba-net.org/person/naut-1321"]
-[naut-1512 : person = "太靖" / zh 
+[naut-1512 : person = "太靖" / zh
  @"http://psi.iba-net.org/person/naut-1512"]
-[naut-580 : person = "法月重" / zh 
+[naut-580 : person = "法月重" / zh
  @"http://psi.iba-net.org/person/naut-580"]
-[naut-1296 : person = "普明" / zh 
+[naut-1296 : person = "普明" / zh
  @"http://psi.iba-net.org/person/naut-1296"]
-[naut-1103 : person = "超溟" / zh 
+[naut-1103 : person = "超溟" / zh
  @"http://psi.iba-net.org/person/naut-1103"]
-[naut-871 : person = "智愷" / zh 
+[naut-871 : person = "智愷" / zh
  @"http://psi.iba-net.org/person/naut-871"]
-[naut-1411 : person = "汝" / zh 
+[naut-1411 : person = "汝" / zh
  @"http://psi.iba-net.org/person/naut-1411"]
-[naut-1327 : person = "修義" / zh 
+[naut-1327 : person = "修義" / zh
  @"http://psi.iba-net.org/person/naut-1327"]
-[naut-961 : person = "善熹註" / zh 
+[naut-961 : person = "善熹註" / zh
  @"http://psi.iba-net.org/person/naut-961"]
-[naut-1167 : person = "道果" / zh 
+[naut-1167 : person = "道果" / zh
  @"http://psi.iba-net.org/person/naut-1167"]
-[naut-705 : person = "實觀" / zh 
+[naut-705 : person = "實觀" / zh
  @"http://psi.iba-net.org/person/naut-705"]
-[naut-1073 : person = "宗壽" / zh 
+[naut-1073 : person = "宗壽" / zh
  @"http://psi.iba-net.org/person/naut-1073"]
-[naut-849 : person = "智旭會補" / zh 
+[naut-849 : person = "智旭會補" / zh
  @"http://psi.iba-net.org/person/naut-849"]
-[naut-689 : person = "普觀" / zh 
+[naut-689 : person = "普觀" / zh
  @"http://psi.iba-net.org/person/naut-689"]
-[naut-1466 : person = "正除" / zh 
+[naut-1466 : person = "正除" / zh
  @"http://psi.iba-net.org/person/naut-1466"]
-[naut-1378 : person = "具德" / zh 
+[naut-1378 : person = "具德" / zh
  @"http://psi.iba-net.org/person/naut-1378"]
-[naut-1148 : person = "慧南" / zh 
+[naut-1148 : person = "慧南" / zh
  @"http://psi.iba-net.org/person/naut-1148"]
-[naut-1633 : person = "段成式" / zh 
+[naut-1633 : person = "段成式" / zh
  @"http://psi.iba-net.org/person/naut-1633"]
-[naut-1407 : person = "克明" / zh 
+[naut-1407 : person = "克明" / zh
  @"http://psi.iba-net.org/person/naut-1407"]
-[naut-709 : person = "性澄" / zh 
+[naut-709 : person = "性澄" / zh
  @"http://psi.iba-net.org/person/naut-709"]
-[naut-1357 : person = "淨韻" / zh 
+[naut-1357 : person = "淨韻" / zh
  @"http://psi.iba-net.org/person/naut-1357"]
-[naut-1201 : person = "元偉" / zh 
+[naut-1201 : person = "元偉" / zh
  @"http://psi.iba-net.org/person/naut-1201"]
-[naut-774 : person = "道楷" / zh 
+[naut-774 : person = "道楷" / zh
  @"http://psi.iba-net.org/person/naut-774"]
-[naut-1165 : person = "有宗" / zh 
+[naut-1165 : person = "有宗" / zh
  @"http://psi.iba-net.org/person/naut-1165"]
-[naut-1322 : person = "希革" / zh 
+[naut-1322 : person = "希革" / zh
  @"http://psi.iba-net.org/person/naut-1322"]
-[naut-1454 : person = "景瓛" / zh 
+[naut-1454 : person = "景瓛" / zh
  @"http://psi.iba-net.org/person/naut-1454"]
-[naut-1235 : person = "宗坦" / zh 
+[naut-1235 : person = "宗坦" / zh
  @"http://psi.iba-net.org/person/naut-1235"]
-[naut-991 : person = "妙蓮" / zh 
+[naut-991 : person = "妙蓮" / zh
  @"http://psi.iba-net.org/person/naut-991"]
-[naut-1358 : person = "清澤" / zh 
+[naut-1358 : person = "清澤" / zh
  @"http://psi.iba-net.org/person/naut-1358"]
-[naut-595 : person = "菩提[口*栗]使" / zh 
+[naut-595 : person = "菩提[口*栗]使" / zh
  @"http://psi.iba-net.org/person/naut-595"]
-[naut-694 : person = "嶽玄" / zh 
+[naut-694 : person = "嶽玄" / zh
  @"http://psi.iba-net.org/person/naut-694"]
-[naut-1175 : person = "普覺" / zh 
+[naut-1175 : person = "普覺" / zh
  @"http://psi.iba-net.org/person/naut-1175"]
-[naut-1281 : person = "法光" / zh 
+[naut-1281 : person = "法光" / zh
  @"http://psi.iba-net.org/person/naut-1281"]
-[naut-636 : person = "如山" / zh 
+[naut-636 : person = "如山" / zh
  @"http://psi.iba-net.org/person/naut-636"]
-[naut-1071 : person = "大訴" / zh 
+[naut-1071 : person = "大訴" / zh
  @"http://psi.iba-net.org/person/naut-1071"]
-[naut-758 : person = "石成金" / zh 
+[naut-758 : person = "石成金" / zh
  @"http://psi.iba-net.org/person/naut-758"]
-[naut-1222 : person = "正因" / zh 
+[naut-1222 : person = "正因" / zh
  @"http://psi.iba-net.org/person/naut-1222"]
-[naut-1602 : person = "了貞" / zh 
+[naut-1602 : person = "了貞" / zh
  @"http://psi.iba-net.org/person/naut-1602"]
-[naut-1263 : person = "惟衍" / zh 
+[naut-1263 : person = "惟衍" / zh
  @"http://psi.iba-net.org/person/naut-1263"]
-[naut-669 : person = "正相" / zh 
+[naut-669 : person = "正相" / zh
  @"http://psi.iba-net.org/person/naut-669"]
-[naut-1471 : person = "慧鏡" / zh 
+[naut-1471 : person = "慧鏡" / zh
  @"http://psi.iba-net.org/person/naut-1471"]
-[naut-584 : person = "附西晉錄" / zh 
+[naut-584 : person = "附西晉錄" / zh
  @"http://psi.iba-net.org/person/naut-584"]
-[naut-800 : person = "守倫" / zh 
+[naut-800 : person = "守倫" / zh
  @"http://psi.iba-net.org/person/naut-800"]
-[naut-1174 : person = "普巖" / zh 
+[naut-1174 : person = "普巖" / zh
  @"http://psi.iba-net.org/person/naut-1174"]
-[naut-1067 : person = "開詗記" / zh 
+[naut-1067 : person = "開詗記" / zh
  @"http://psi.iba-net.org/person/naut-1067"]
-[naut-1502 : person = "智湖" / zh 
+[naut-1502 : person = "智湖" / zh
  @"http://psi.iba-net.org/person/naut-1502"]
-[naut-1457 : person = "明遠" / zh 
+[naut-1457 : person = "明遠" / zh
  @"http://psi.iba-net.org/person/naut-1457"]
-[naut-1593 : person = "文琇" / zh 
+[naut-1593 : person = "文琇" / zh
  @"http://psi.iba-net.org/person/naut-1593"]
-[naut-830 : person = "守遂" / zh 
+[naut-830 : person = "守遂" / zh
  @"http://psi.iba-net.org/person/naut-830"]
-[naut-811 : person = "一松講" / zh 
+[naut-811 : person = "一松講" / zh
  @"http://psi.iba-net.org/person/naut-811"]
-[naut-1375 : person = "大機" / zh 
+[naut-1375 : person = "大機" / zh
  @"http://psi.iba-net.org/person/naut-1375"]
-[naut-815 : person = "智一" / zh 
+[naut-815 : person = "智一" / zh
  @"http://psi.iba-net.org/person/naut-815"]
-[naut-1460 : person = "正隆" / zh 
+[naut-1460 : person = "正隆" / zh
  @"http://psi.iba-net.org/person/naut-1460"]
-[naut-1543 : person = "戒度注" / zh 
+[naut-1543 : person = "戒度注" / zh
  @"http://psi.iba-net.org/person/naut-1543"]
-[naut-1127 : person = "性福編集" / zh 
+[naut-1127 : person = "性福編集" / zh
  @"http://psi.iba-net.org/person/naut-1127"]
-[naut-707 : person = "灌頂記" / zh 
+[naut-707 : person = "灌頂記" / zh
  @"http://psi.iba-net.org/person/naut-707"]
-[naut-1392 : person = "自成" / zh 
+[naut-1392 : person = "自成" / zh
  @"http://psi.iba-net.org/person/naut-1392"]
-[naut-590 : person = "禪那崛多別譯" / zh 
+[naut-590 : person = "禪那崛多別譯" / zh
  @"http://psi.iba-net.org/person/naut-590"]
-[naut-1389 : person = "文闡" / zh 
+[naut-1389 : person = "文闡" / zh
  @"http://psi.iba-net.org/person/naut-1389"]
-[naut-1418 : person = "智辯" / zh 
+[naut-1418 : person = "智辯" / zh
  @"http://psi.iba-net.org/person/naut-1418"]
-[naut-1522 : person = "明凡" / zh 
+[naut-1522 : person = "明凡" / zh
  @"http://psi.iba-net.org/person/naut-1522"]
-[naut-1640 : person = "夏樹芳" / zh 
+[naut-1640 : person = "夏樹芳" / zh
  @"http://psi.iba-net.org/person/naut-1640"]
-[naut-644 : person = "子璿" / zh 
+[naut-644 : person = "子璿" / zh
  @"http://psi.iba-net.org/person/naut-644"]
-[naut-1348 : person = "希陵" / zh 
+[naut-1348 : person = "希陵" / zh
  @"http://psi.iba-net.org/person/naut-1348"]
-[naut-1154 : person = "介諶" / zh 
+[naut-1154 : person = "介諶" / zh
  @"http://psi.iba-net.org/person/naut-1154"]
-[naut-822 : person = "處咸續" / zh 
+[naut-822 : person = "處咸續" / zh
  @"http://psi.iba-net.org/person/naut-822"]
-[naut-1335 : person = "彌安" / zh 
+[naut-1335 : person = "彌安" / zh
  @"http://psi.iba-net.org/person/naut-1335"]
-[naut-1008 : person = "道衍" / zh 
+[naut-1008 : person = "道衍" / zh
  @"http://psi.iba-net.org/person/naut-1008"]
-[naut-1594 : person = "道行" / zh 
+[naut-1594 : person = "道行" / zh
  @"http://psi.iba-net.org/person/naut-1594"]
-[naut-868 : person = "玄惲" / zh 
+[naut-868 : person = "玄惲" / zh
  @"http://psi.iba-net.org/person/naut-868"]
-[naut-1151 : person = "子和" / zh 
+[naut-1151 : person = "子和" / zh
  @"http://psi.iba-net.org/person/naut-1151"]
-[naut-1624 : person = "德諫" / zh 
+[naut-1624 : person = "德諫" / zh
  @"http://psi.iba-net.org/person/naut-1624"]
-[naut-729 : person = "道川頌竝著" / zh 
+[naut-729 : person = "道川頌竝著" / zh
  @"http://psi.iba-net.org/person/naut-729"]
-[naut-1360 : person = "景用" / zh 
+[naut-1360 : person = "景用" / zh
  @"http://psi.iba-net.org/person/naut-1360"]
-[naut-1465 : person = "溥震" / zh 
+[naut-1465 : person = "溥震" / zh
  @"http://psi.iba-net.org/person/naut-1465"]
-[naut-788 : person = "何道全" / zh 
+[naut-788 : person = "何道全" / zh
  @"http://psi.iba-net.org/person/naut-788"]
-[naut-1286 : person = "淨嘉" / zh 
+[naut-1286 : person = "淨嘉" / zh
  @"http://psi.iba-net.org/person/naut-1286"]
-[naut-919 : person = "源清" / zh 
+[naut-919 : person = "源清" / zh
  @"http://psi.iba-net.org/person/naut-919"]
-[naut-1291 : person = "覺圓" / zh 
+[naut-1291 : person = "覺圓" / zh
  @"http://psi.iba-net.org/person/naut-1291"]
-[naut-1641 : person = "彥琮" / zh 
+[naut-1641 : person = "彥琮" / zh
  @"http://psi.iba-net.org/person/naut-1641"]
-[naut-1068 : person = "彥琪" / zh 
+[naut-1068 : person = "彥琪" / zh
  @"http://psi.iba-net.org/person/naut-1068"]
-[naut-750 : person = "仲之屏" / zh 
+[naut-750 : person = "仲之屏" / zh
  @"http://psi.iba-net.org/person/naut-750"]
-[naut-643 : person = "徐鍔" / zh 
+[naut-643 : person = "徐鍔" / zh
  @"http://psi.iba-net.org/person/naut-643"]
-[naut-1535 : person = "道傑" / zh 
+[naut-1535 : person = "道傑" / zh
  @"http://psi.iba-net.org/person/naut-1535"]
-[naut-743 : person = "圓杲" / zh 
+[naut-743 : person = "圓杲" / zh
  @"http://psi.iba-net.org/person/naut-743"]
-[naut-1061 : person = "文益" / zh 
+[naut-1061 : person = "文益" / zh
  @"http://psi.iba-net.org/person/naut-1061"]
-[naut-1187 : person = "道謙" / zh 
+[naut-1187 : person = "道謙" / zh
  @"http://psi.iba-net.org/person/naut-1187"]
-[naut-1036 : person = "戒香" / zh 
+[naut-1036 : person = "戒香" / zh
  @"http://psi.iba-net.org/person/naut-1036"]
-[naut-725 : person = "弘贊" / zh 
+[naut-725 : person = "弘贊" / zh
  @"http://psi.iba-net.org/person/naut-725"]
-[naut-942 : person = "自慶" / zh 
+[naut-942 : person = "自慶" / zh
  @"http://psi.iba-net.org/person/naut-942"]
-[naut-1528 : person = "師皎" / zh 
+[naut-1528 : person = "師皎" / zh
  @"http://psi.iba-net.org/person/naut-1528"]
-[naut-986 : person = "俊芿" / zh 
+[naut-986 : person = "俊芿" / zh
  @"http://psi.iba-net.org/person/naut-986"]
-[naut-1050 : person = "陶善" / zh 
+[naut-1050 : person = "陶善" / zh
  @"http://psi.iba-net.org/person/naut-1050"]
-[naut-1552 : person = "受登" / zh 
+[naut-1552 : person = "受登" / zh
  @"http://psi.iba-net.org/person/naut-1552"]
-[naut-1247 : person = "智沂" / zh 
+[naut-1247 : person = "智沂" / zh
  @"http://psi.iba-net.org/person/naut-1247"]
-[naut-1302 : person = "至慧" / zh 
+[naut-1302 : person = "至慧" / zh
  @"http://psi.iba-net.org/person/naut-1302"]
-[naut-607 : person = "龜玆國" / zh 
+[naut-607 : person = "龜玆國" / zh
  @"http://psi.iba-net.org/person/naut-607"]
-[naut-1599 : person = "通問" / zh 
+[naut-1599 : person = "通問" / zh
  @"http://psi.iba-net.org/person/naut-1599"]
-[naut-613 : person = "靈祐" / zh 
+[naut-613 : person = "靈祐" / zh
  @"http://psi.iba-net.org/person/naut-613"]
-[naut-573 : person = "松本文三郎" / zh 
+[naut-573 : person = "松本文三郎" / zh
  @"http://psi.iba-net.org/person/naut-573"]
-[naut-612 : person = "靈辨" / zh 
+[naut-612 : person = "靈辨" / zh
  @"http://psi.iba-net.org/person/naut-612"]
-[naut-1181 : person = "齊巳" / zh 
+[naut-1181 : person = "齊巳" / zh
  @"http://psi.iba-net.org/person/naut-1181"]
-[naut-1025 : person = "了亮" / zh 
+[naut-1025 : person = "了亮" / zh
  @"http://psi.iba-net.org/person/naut-1025"]
-[naut-1638 : person = "唐臨" / zh 
+[naut-1638 : person = "唐臨" / zh
  @"http://psi.iba-net.org/person/naut-1638"]
-[naut-1336 : person = "元勗" / zh 
+[naut-1336 : person = "元勗" / zh
  @"http://psi.iba-net.org/person/naut-1336"]
-[naut-615 : person = "復[共/(電-雨)]" / zh 
+[naut-615 : person = "復[共/(電-雨)]" / zh
  @"http://psi.iba-net.org/person/naut-615"]
-[naut-785 : person = "王澤泩" / zh 
+[naut-785 : person = "王澤泩" / zh
  @"http://psi.iba-net.org/person/naut-785"]
-[naut-1279 : person = "以文" / zh 
+[naut-1279 : person = "以文" / zh
  @"http://psi.iba-net.org/person/naut-1279"]
-[naut-752 : person = "王錫琯" / zh 
+[naut-752 : person = "王錫琯" / zh
  @"http://psi.iba-net.org/person/naut-752"]
-[naut-587 : person = "龍樹菩薩集" / zh 
+[naut-587 : person = "龍樹菩薩集" / zh
  @"http://psi.iba-net.org/person/naut-587"]
-[naut-821 : person = "本如" / zh 
+[naut-821 : person = "本如" / zh
  @"http://psi.iba-net.org/person/naut-821"]
-[naut-657 : person = "凌弘憲點" / zh 
+[naut-657 : person = "凌弘憲點" / zh
  @"http://psi.iba-net.org/person/naut-657"]
-[naut-861 : person = "大覺" / zh 
+[naut-861 : person = "大覺" / zh
  @"http://psi.iba-net.org/person/naut-861"]
-[naut-1490 : person = "法爲" / zh 
+[naut-1490 : person = "法爲" / zh
  @"http://psi.iba-net.org/person/naut-1490"]
-[naut-1582 : person = "瑞璋" / zh 
+[naut-1582 : person = "瑞璋" / zh
  @"http://psi.iba-net.org/person/naut-1582"]
-[naut-908 : person = "雲[山/夆]" / zh 
+[naut-908 : person = "雲[山/夆]" / zh
  @"http://psi.iba-net.org/person/naut-908"]
-[naut-888 : person = "廣益" / zh 
+[naut-888 : person = "廣益" / zh
  @"http://psi.iba-net.org/person/naut-888"]
-[naut-867 : person = "道標" / zh 
+[naut-867 : person = "道標" / zh
  @"http://psi.iba-net.org/person/naut-867"]
-[naut-751 : person = "翁春" / zh 
+[naut-751 : person = "翁春" / zh
  @"http://psi.iba-net.org/person/naut-751"]
-[naut-1340 : person = "處林" / zh 
+[naut-1340 : person = "處林" / zh
  @"http://psi.iba-net.org/person/naut-1340"]
-[naut-1272 : person = "似涇" / zh 
+[naut-1272 : person = "似涇" / zh
  @"http://psi.iba-net.org/person/naut-1272"]
-[naut-853 : person = "道言" / zh 
+[naut-853 : person = "道言" / zh
  @"http://psi.iba-net.org/person/naut-853"]
-[naut-1525 : person = "柳湞" / zh 
+[naut-1525 : person = "柳湞" / zh
  @"http://psi.iba-net.org/person/naut-1525"]
-[naut-1612 : person = "曇噩撰" / zh 
+[naut-1612 : person = "曇噩撰" / zh
  @"http://psi.iba-net.org/person/naut-1612"]
-[naut-1038 : person = "卍蓮" / zh 
+[naut-1038 : person = "卍蓮" / zh
  @"http://psi.iba-net.org/person/naut-1038"]
-[naut-1578 : person = "道詵" / zh 
+[naut-1578 : person = "道詵" / zh
  @"http://psi.iba-net.org/person/naut-1578"]
-[naut-1344 : person = "先[者*見]" / zh 
+[naut-1344 : person = "先[者*見]" / zh
  @"http://psi.iba-net.org/person/naut-1344"]
-[naut-1563 : person = "宗鑑" / zh 
+[naut-1563 : person = "宗鑑" / zh
  @"http://psi.iba-net.org/person/naut-1563"]
-[naut-893 : person = "王肯堂" / zh 
+[naut-893 : person = "王肯堂" / zh
  @"http://psi.iba-net.org/person/naut-893"]
-[naut-779 : person = "李贄" / zh 
+[naut-779 : person = "李贄" / zh
  @"http://psi.iba-net.org/person/naut-779"]
-[naut-1143 : person = "慧印校" / zh 
+[naut-1143 : person = "慧印校" / zh
  @"http://psi.iba-net.org/person/naut-1143"]
-[naut-1545 : person = "古崑錄" / zh 
+[naut-1545 : person = "古崑錄" / zh
  @"http://psi.iba-net.org/person/naut-1545"]
-[naut-1123 : person = "從倫" / zh 
+[naut-1123 : person = "從倫" / zh
  @"http://psi.iba-net.org/person/naut-1123"]
-[naut-1192 : person = "大觀" / zh 
+[naut-1192 : person = "大觀" / zh
  @"http://psi.iba-net.org/person/naut-1192"]
-[naut-585 : person = "馬鳴菩薩集" / zh 
+[naut-585 : person = "馬鳴菩薩集" / zh
  @"http://psi.iba-net.org/person/naut-585"]
-[naut-1566 : person = "覺岸(編集再治)" / zh 
+[naut-1566 : person = "覺岸(編集再治)" / zh
  @"http://psi.iba-net.org/person/naut-1566"]
-[naut-1229 : person = "宗和" / zh 
+[naut-1229 : person = "宗和" / zh
  @"http://psi.iba-net.org/person/naut-1229"]
-[naut-842 : person = "道昉訂" / zh 
+[naut-842 : person = "道昉訂" / zh
  @"http://psi.iba-net.org/person/naut-842"]
-[naut-1404 : person = "志道" / zh 
+[naut-1404 : person = "志道" / zh
  @"http://psi.iba-net.org/person/naut-1404"]
-[naut-896 : person = "明昱錄" / zh 
+[naut-896 : person = "明昱錄" / zh
  @"http://psi.iba-net.org/person/naut-896"]
-[naut-1318 : person = "自悟" / zh 
+[naut-1318 : person = "自悟" / zh
  @"http://psi.iba-net.org/person/naut-1318"]
-[naut-1300 : person = "師坦" / zh 
+[naut-1300 : person = "師坦" / zh
  @"http://psi.iba-net.org/person/naut-1300"]
-[naut-839 : person = "法銑" / zh 
+[naut-839 : person = "法銑" / zh
  @"http://psi.iba-net.org/person/naut-839"]
-[naut-1458 : person = "胤丘" / zh 
+[naut-1458 : person = "胤丘" / zh
  @"http://psi.iba-net.org/person/naut-1458"]
-[naut-1237 : person = "淨球" / zh 
+[naut-1237 : person = "淨球" / zh
  @"http://psi.iba-net.org/person/naut-1237"]
-[naut-641 : person = "弘麗" / zh 
+[naut-641 : person = "弘麗" / zh
  @"http://psi.iba-net.org/person/naut-641"]
-[naut-1152 : person = "仲介" / zh 
+[naut-1152 : person = "仲介" / zh
  @"http://psi.iba-net.org/person/naut-1152"]
-[naut-1142 : person = "郭凝之" / zh 
+[naut-1142 : person = "郭凝之" / zh
  @"http://psi.iba-net.org/person/naut-1142"]
-[naut-642 : person = "通理" / zh 
+[naut-642 : person = "通理" / zh
  @"http://psi.iba-net.org/person/naut-642"]
-[naut-799 : person = "聞達" / zh 
+[naut-799 : person = "聞達" / zh
  @"http://psi.iba-net.org/person/naut-799"]
-[naut-673 : person = "溥畹" / zh 
+[naut-673 : person = "溥畹" / zh
  @"http://psi.iba-net.org/person/naut-673"]
-[naut-775 : person = "懷深" / zh 
+[naut-775 : person = "懷深" / zh
  @"http://psi.iba-net.org/person/naut-775"]
-[naut-699 : person = "守千" / zh 
+[naut-699 : person = "守千" / zh
  @"http://psi.iba-net.org/person/naut-699"]
-[naut-995 : person = "戒顯" / zh 
+[naut-995 : person = "戒顯" / zh
  @"http://psi.iba-net.org/person/naut-995"]
-[naut-870 : person = "永海" / zh 
+[naut-870 : person = "永海" / zh
  @"http://psi.iba-net.org/person/naut-870"]
-[naut-1241 : person = "崇嶽" / zh 
+[naut-1241 : person = "崇嶽" / zh
  @"http://psi.iba-net.org/person/naut-1241"]
-[naut-658 : person = "函[曰/正]" / zh 
+[naut-658 : person = "函[曰/正]" / zh
  @"http://psi.iba-net.org/person/naut-658"]
-[naut-1131 : person = "祖慶" / zh 
+[naut-1131 : person = "祖慶" / zh
  @"http://psi.iba-net.org/person/naut-1131"]
-[naut-679 : person = "大乘基" / zh 
+[naut-679 : person = "大乘基" / zh
  @"http://psi.iba-net.org/person/naut-679"]
-[naut-1053 : person = "德潤" / zh 
+[naut-1053 : person = "德潤" / zh
  @"http://psi.iba-net.org/person/naut-1053"]
-[naut-698 : person = "憬興" / zh 
+[naut-698 : person = "憬興" / zh
  @"http://psi.iba-net.org/person/naut-698"]
-[naut-1065 : person = "廣輝釋" / zh 
+[naut-1065 : person = "廣輝釋" / zh
  @"http://psi.iba-net.org/person/naut-1065"]
-[naut-1586 : person = "自融" / zh 
+[naut-1586 : person = "自融" / zh
  @"http://psi.iba-net.org/person/naut-1586"]
-[naut-720 : person = "了根" / zh 
+[naut-720 : person = "了根" / zh
  @"http://psi.iba-net.org/person/naut-720"]
-[naut-975 : person = "造玄增" / zh 
+[naut-975 : person = "造玄增" / zh
  @"http://psi.iba-net.org/person/naut-975"]
-[naut-1444 : person = "德琇" / zh 
+[naut-1444 : person = "德琇" / zh
  @"http://psi.iba-net.org/person/naut-1444"]
-[naut-1116 : person = "重顯" / zh 
+[naut-1116 : person = "重顯" / zh
  @"http://psi.iba-net.org/person/naut-1116"]
-[naut-901 : person = "元瑜" / zh 
+[naut-901 : person = "元瑜" / zh
  @"http://psi.iba-net.org/person/naut-901"]
-[naut-772 : person = "仲希" / zh 
+[naut-772 : person = "仲希" / zh
  @"http://psi.iba-net.org/person/naut-772"]
-[naut-1394 : person = "本光" / zh 
+[naut-1394 : person = "本光" / zh
  @"http://psi.iba-net.org/person/naut-1394"]
-[naut-1064 : person = "慧霞" / zh 
+[naut-1064 : person = "慧霞" / zh
  @"http://psi.iba-net.org/person/naut-1064"]
-[naut-670 : person = "續法" / zh 
+[naut-670 : person = "續法" / zh
  @"http://psi.iba-net.org/person/naut-670"]
-[naut-940 : person = "宗印" / zh 
+[naut-940 : person = "宗印" / zh
  @"http://psi.iba-net.org/person/naut-940"]
-[naut-1636 : person = "非濁集" / zh 
+[naut-1636 : person = "非濁集" / zh
  @"http://psi.iba-net.org/person/naut-1636"]
-[naut-787 : person = "大顛祖師" / zh 
+[naut-787 : person = "大顛祖師" / zh
  @"http://psi.iba-net.org/person/naut-787"]
-[naut-1002 : person = "彭紹升" / zh 
+[naut-1002 : person = "彭紹升" / zh
  @"http://psi.iba-net.org/person/naut-1002"]
-[naut-1024 : person = "柳子厚" / zh 
+[naut-1024 : person = "柳子厚" / zh
  @"http://psi.iba-net.org/person/naut-1024"]
-[naut-622 : person = "鮮演" / zh 
+[naut-622 : person = "鮮演" / zh
  @"http://psi.iba-net.org/person/naut-622"]
-[naut-1092 : person = "師遠" / zh 
+[naut-1092 : person = "師遠" / zh
  @"http://psi.iba-net.org/person/naut-1092"]
-[naut-1588 : person = "寶曇" / zh 
+[naut-1588 : person = "寶曇" / zh
  @"http://psi.iba-net.org/person/naut-1588"]
-[naut-1597 : person = "聶先" / zh 
+[naut-1597 : person = "聶先" / zh
  @"http://psi.iba-net.org/person/naut-1597"]
-[naut-1288 : person = "惠明" / zh 
+[naut-1288 : person = "惠明" / zh
  @"http://psi.iba-net.org/person/naut-1288"]
-[naut-721 : person = "眞嵩" / zh 
+[naut-721 : person = "眞嵩" / zh
  @"http://psi.iba-net.org/person/naut-721"]
-[naut-1146 : person = "于[由*頁]" / zh 
+[naut-1146 : person = "于[由*頁]" / zh
  @"http://psi.iba-net.org/person/naut-1146"]
-[naut-1062 : person = "文[冰-水+中](重校編集)" / zh 
+[naut-1062 : person = "文[冰-水+中](重校編集)" / zh
  @"http://psi.iba-net.org/person/naut-1062"]
-[naut-947 : person = "性權" / zh 
+[naut-947 : person = "性權" / zh
  @"http://psi.iba-net.org/person/naut-947"]
-[naut-1426 : person = "清歲" / zh 
+[naut-1426 : person = "清歲" / zh
  @"http://psi.iba-net.org/person/naut-1426"]
-[naut-812 : person = "廣和編定" / zh 
+[naut-812 : person = "廣和編定" / zh
  @"http://psi.iba-net.org/person/naut-812"]
-[naut-1352 : person = "至柔" / zh 
+[naut-1352 : person = "至柔" / zh
  @"http://psi.iba-net.org/person/naut-1352"]
-[naut-714 : person = "徐槐廷" / zh 
+[naut-714 : person = "徐槐廷" / zh
  @"http://psi.iba-net.org/person/naut-714"]
-[naut-617 : person = "李通玄" / zh 
+[naut-617 : person = "李通玄" / zh
  @"http://psi.iba-net.org/person/naut-617"]
-[naut-1304 : person = "妙恩" / zh 
+[naut-1304 : person = "妙恩" / zh
  @"http://psi.iba-net.org/person/naut-1304"]
-[naut-971 : person = "跋折羅菩提" / zh 
+[naut-971 : person = "跋折羅菩提" / zh
  @"http://psi.iba-net.org/person/naut-971"]
-[naut-1396 : person = "清欲" / zh 
+[naut-1396 : person = "清欲" / zh
  @"http://psi.iba-net.org/person/naut-1396"]
-[naut-608 : person = "若那譯" / zh 
+[naut-608 : person = "若那譯" / zh
  @"http://psi.iba-net.org/person/naut-608"]
-[naut-706 : person = "戒度" / zh 
+[naut-706 : person = "戒度" / zh
  @"http://psi.iba-net.org/person/naut-706"]
-[naut-1618 : person = "明喜" / zh 
+[naut-1618 : person = "明喜" / zh
  @"http://psi.iba-net.org/person/naut-1618"]
-[naut-1312 : person = "德" / zh 
+[naut-1312 : person = "德" / zh
  @"http://psi.iba-net.org/person/naut-1312"]
-[naut-581 : person = "惟淨" / zh 
+[naut-581 : person = "惟淨" / zh
  @"http://psi.iba-net.org/person/naut-581"]
-[naut-1308 : person = "慈" / zh 
+[naut-1308 : person = "慈" / zh
  @"http://psi.iba-net.org/person/naut-1308"]
-[naut-1596 : person = "瞿汝稷" / zh 
+[naut-1596 : person = "瞿汝稷" / zh
  @"http://psi.iba-net.org/person/naut-1596"]
-[naut-627 : person = "德清" / zh 
+[naut-627 : person = "德清" / zh
  @"http://psi.iba-net.org/person/naut-627"]
-[naut-712 : person = "古德法師" / zh 
+[naut-712 : person = "古德法師" / zh
  @"http://psi.iba-net.org/person/naut-712"]
-[naut-732 : person = "宗鏡" / zh 
+[naut-732 : person = "宗鏡" / zh
  @"http://psi.iba-net.org/person/naut-732"]
-[naut-1625 : person = "無慍" / zh 
+[naut-1625 : person = "無慍" / zh
  @"http://psi.iba-net.org/person/naut-1625"]
-[naut-702 : person = "王耕心衷" / zh 
+[naut-702 : person = "王耕心衷" / zh
  @"http://psi.iba-net.org/person/naut-702"]
-[naut-653 : person = "一松" / zh 
+[naut-653 : person = "一松" / zh
  @"http://psi.iba-net.org/person/naut-653"]
-[naut-589 : person = "筏提摩多" / zh 
+[naut-589 : person = "筏提摩多" / zh
  @"http://psi.iba-net.org/person/naut-589"]
-[naut-1232 : person = "慧雲" / zh 
+[naut-1232 : person = "慧雲" / zh
  @"http://psi.iba-net.org/person/naut-1232"]
-[naut-1530 : person = "善清" / zh 
+[naut-1530 : person = "善清" / zh
  @"http://psi.iba-net.org/person/naut-1530"]
-[naut-840 : person = "慧因" / zh 
+[naut-840 : person = "慧因" / zh
  @"http://psi.iba-net.org/person/naut-840"]
-[naut-1190 : person = "了見" / zh 
+[naut-1190 : person = "了見" / zh
  @"http://psi.iba-net.org/person/naut-1190"]
-[naut-1556 : person = "智證" / zh 
+[naut-1556 : person = "智證" / zh
  @"http://psi.iba-net.org/person/naut-1556"]
-[naut-1463 : person = "正參" / zh 
+[naut-1463 : person = "正參" / zh
  @"http://psi.iba-net.org/person/naut-1463"]
-[naut-1299 : person = "了覺" / zh 
+[naut-1299 : person = "了覺" / zh
  @"http://psi.iba-net.org/person/naut-1299"]
-[naut-1000 : person = "如馨" / zh 
+[naut-1000 : person = "如馨" / zh
  @"http://psi.iba-net.org/person/naut-1000"]
-[naut-1218 : person = "文煥" / zh 
+[naut-1218 : person = "文煥" / zh
  @"http://psi.iba-net.org/person/naut-1218"]
-[naut-676 : person = "正受" / zh 
+[naut-676 : person = "正受" / zh
  @"http://psi.iba-net.org/person/naut-676"]
-[naut-1193 : person = "德溥" / zh 
+[naut-1193 : person = "德溥" / zh
  @"http://psi.iba-net.org/person/naut-1193"]
-[naut-1268 : person = "德溢" / zh 
+[naut-1268 : person = "德溢" / zh
  @"http://psi.iba-net.org/person/naut-1268"]
-[naut-1115 : person = "道泰" / zh 
+[naut-1115 : person = "道泰" / zh
  @"http://psi.iba-net.org/person/naut-1115"]
-[naut-1328 : person = "景元" / zh 
+[naut-1328 : person = "景元" / zh
  @"http://psi.iba-net.org/person/naut-1328"]
-[naut-1514 : person = "興燈" / zh 
+[naut-1514 : person = "興燈" / zh
  @"http://psi.iba-net.org/person/naut-1514"]
-[naut-594 : person = "菩提留支" / zh 
+[naut-594 : person = "菩提留支" / zh
  @"http://psi.iba-net.org/person/naut-594"]
-[naut-1098 : person = "圓悟" / zh 
+[naut-1098 : person = "圓悟" / zh
  @"http://psi.iba-net.org/person/naut-1098"]
-[naut-710 : person = "大佑" / zh 
+[naut-710 : person = "大佑" / zh
  @"http://psi.iba-net.org/person/naut-710"]
-[naut-1405 : person = "祖杲" / zh 
+[naut-1405 : person = "祖杲" / zh
  @"http://psi.iba-net.org/person/naut-1405"]
-[naut-1253 : person = "光睦" / zh 
+[naut-1253 : person = "光睦" / zh
  @"http://psi.iba-net.org/person/naut-1253"]
-[naut-875 : person = "正遠" / zh 
+[naut-875 : person = "正遠" / zh
  @"http://psi.iba-net.org/person/naut-875"]
-[naut-1589 : person = "普濟" / zh 
+[naut-1589 : person = "普濟" / zh
  @"http://psi.iba-net.org/person/naut-1589"]
-[naut-661 : person = "陸西星" / zh 
+[naut-661 : person = "陸西星" / zh
  @"http://psi.iba-net.org/person/naut-661"]
-[naut-1277 : person = "惟份" / zh 
+[naut-1277 : person = "惟份" / zh
  @"http://psi.iba-net.org/person/naut-1277"]
-[naut-1441 : person = "慧啟" / zh 
+[naut-1441 : person = "慧啟" / zh
  @"http://psi.iba-net.org/person/naut-1441"]
-[naut-1432 : person = "無我" / zh 
+[naut-1432 : person = "無我" / zh
  @"http://psi.iba-net.org/person/naut-1432"]
-[naut-955 : person = "明皛" / zh 
+[naut-955 : person = "明皛" / zh
  @"http://psi.iba-net.org/person/naut-955"]
-[naut-1604 : person = "通醉" / zh 
+[naut-1604 : person = "通醉" / zh
  @"http://psi.iba-net.org/person/naut-1604"]
-[naut-648 : person = "德洪" / zh 
+[naut-648 : person = "德洪" / zh
  @"http://psi.iba-net.org/person/naut-648"]
-[naut-1532 : person = "宗先" / zh 
+[naut-1532 : person = "宗先" / zh
  @"http://psi.iba-net.org/person/naut-1532"]
-[naut-1363 : person = "宗煥" / zh 
+[naut-1363 : person = "宗煥" / zh
  @"http://psi.iba-net.org/person/naut-1363"]
-[naut-1579 : person = "王古輯" / zh 
+[naut-1579 : person = "王古輯" / zh
  @"http://psi.iba-net.org/person/naut-1579"]
-[naut-601 : person = "婆羅門僧" / zh 
+[naut-601 : person = "婆羅門僧" / zh
  @"http://psi.iba-net.org/person/naut-601"]
-[naut-1077 : person = "清覺" / zh 
+[naut-1077 : person = "清覺" / zh
  @"http://psi.iba-net.org/person/naut-1077"]
-[naut-1648 : person = "張商英" / zh 
+[naut-1648 : person = "張商英" / zh
  @"http://psi.iba-net.org/person/naut-1648"]
-[naut-1129 : person = "機雲重續" / zh 
+[naut-1129 : person = "機雲重續" / zh
  @"http://psi.iba-net.org/person/naut-1129"]
-[naut-733 : person = "覺連" / zh 
+[naut-733 : person = "覺連" / zh
  @"http://psi.iba-net.org/person/naut-733"]
-[naut-1400 : person = "元皓" / zh 
+[naut-1400 : person = "元皓" / zh
  @"http://psi.iba-net.org/person/naut-1400"]
-[naut-1554 : person = "繼僧" / zh 
+[naut-1554 : person = "繼僧" / zh
  @"http://psi.iba-net.org/person/naut-1554"]
-[naut-1324 : person = "道信" / zh 
+[naut-1324 : person = "道信" / zh
  @"http://psi.iba-net.org/person/naut-1324"]
-[naut-1294 : person = "惟一" / zh 
+[naut-1294 : person = "惟一" / zh
  @"http://psi.iba-net.org/person/naut-1294"]
-[naut-633 : person = "行霆" / zh 
+[naut-633 : person = "行霆" / zh
  @"http://psi.iba-net.org/person/naut-633"]
-[naut-1132 : person = "慧開" / zh 
+[naut-1132 : person = "慧開" / zh
  @"http://psi.iba-net.org/person/naut-1132"]
-[naut-756 : person = "寂燄" / zh 
+[naut-756 : person = "寂燄" / zh
  @"http://psi.iba-net.org/person/naut-756"]
-[naut-1250 : person = "元省" / zh 
+[naut-1250 : person = "元省" / zh
  @"http://psi.iba-net.org/person/naut-1250"]
-[naut-1435 : person = "思謙" / zh 
+[naut-1435 : person = "思謙" / zh
  @"http://psi.iba-net.org/person/naut-1435"]
-[naut-948 : person = "杜順" / zh 
+[naut-948 : person = "杜順" / zh
  @"http://psi.iba-net.org/person/naut-948"]
-[naut-1269 : person = "惟俊" / zh 
+[naut-1269 : person = "惟俊" / zh
  @"http://psi.iba-net.org/person/naut-1269"]
-[naut-1069 : person = "傳燈重編竝" / zh 
+[naut-1069 : person = "傳燈重編竝" / zh
  @"http://psi.iba-net.org/person/naut-1069"]
-[naut-1088 : person = "行盛" / zh 
+[naut-1088 : person = "行盛" / zh
  @"http://psi.iba-net.org/person/naut-1088"]
-[naut-680 : person = "道暹私" / zh 
+[naut-680 : person = "道暹私" / zh
  @"http://psi.iba-net.org/person/naut-680"]
-[naut-938 : person = "法登" / zh 
+[naut-938 : person = "法登" / zh
  @"http://psi.iba-net.org/person/naut-938"]
-[naut-864 : person = "慧門等" / zh 
+[naut-864 : person = "慧門等" / zh
  @"http://psi.iba-net.org/person/naut-864"]
-[naut-1637 : person = "智覺" / zh 
+[naut-1637 : person = "智覺" / zh
  @"http://psi.iba-net.org/person/naut-1637"]
-[naut-1261 : person = "元靖" / zh 
+[naut-1261 : person = "元靖" / zh
  @"http://psi.iba-net.org/person/naut-1261"]
-[naut-1540 : person = "通炯" / zh 
+[naut-1540 : person = "通炯" / zh
  @"http://psi.iba-net.org/person/naut-1540"]
-[naut-1503 : person = "祖日" / zh 
+[naut-1503 : person = "祖日" / zh
  @"http://psi.iba-net.org/person/naut-1503"]
-[naut-649 : person = "正受會合" / zh 
+[naut-649 : person = "正受會合" / zh
  @"http://psi.iba-net.org/person/naut-649"]
-[naut-736 : person = "程衷懋補註" / zh 
+[naut-736 : person = "程衷懋補註" / zh
  @"http://psi.iba-net.org/person/naut-736"]
-[naut-1249 : person = "紹甄" / zh 
+[naut-1249 : person = "紹甄" / zh
  @"http://psi.iba-net.org/person/naut-1249"]
-[naut-1452 : person = "文玹" / zh 
+[naut-1452 : person = "文玹" / zh
  @"http://psi.iba-net.org/person/naut-1452"]
-[naut-944 : person = "仁潮" / zh 
+[naut-944 : person = "仁潮" / zh
  @"http://psi.iba-net.org/person/naut-944"]
-[naut-599 : person = "阿目佉譯" / zh 
+[naut-599 : person = "阿目佉譯" / zh
  @"http://psi.iba-net.org/person/naut-599"]
-[naut-1455 : person = "良彥" / zh 
+[naut-1455 : person = "良彥" / zh
  @"http://psi.iba-net.org/person/naut-1455"]
-[naut-1419 : person = "寶日" / zh 
+[naut-1419 : person = "寶日" / zh
  @"http://psi.iba-net.org/person/naut-1419"]
-[naut-1185 : person = "沈孟柈敘" / zh 
+[naut-1185 : person = "沈孟柈敘" / zh
  @"http://psi.iba-net.org/person/naut-1185"]
-[naut-826 : person = "本純" / zh 
+[naut-826 : person = "本純" / zh
  @"http://psi.iba-net.org/person/naut-826"]
-[naut-1325 : person = "道亨" / zh 
+[naut-1325 : person = "道亨" / zh
  @"http://psi.iba-net.org/person/naut-1325"]
-[naut-951 : person = "道亭" / zh 
+[naut-951 : person = "道亭" / zh
  @"http://psi.iba-net.org/person/naut-951"]
-[naut-1495 : person = "道京" / zh 
+[naut-1495 : person = "道京" / zh
  @"http://psi.iba-net.org/person/naut-1495"]
-[naut-1627 : person = "陶明潛" / zh 
+[naut-1627 : person = "陶明潛" / zh
  @"http://psi.iba-net.org/person/naut-1627"]
-[naut-1610 : person = "果性" / zh 
+[naut-1610 : person = "果性" / zh
  @"http://psi.iba-net.org/person/naut-1610"]
-[naut-1282 : person = "道準" / zh 
+[naut-1282 : person = "道準" / zh
  @"http://psi.iba-net.org/person/naut-1282"]
-[naut-1029 : person = "古崑" / zh 
+[naut-1029 : person = "古崑" / zh
  @"http://psi.iba-net.org/person/naut-1029"]
-[naut-1307 : person = "守靜" / zh 
+[naut-1307 : person = "守靜" / zh
  @"http://psi.iba-net.org/person/naut-1307"]
-[naut-1347 : person = "昭如" / zh 
+[naut-1347 : person = "昭如" / zh
  @"http://psi.iba-net.org/person/naut-1347"]
-[naut-790 : person = "法雲" / zh 
+[naut-790 : person = "法雲" / zh
  @"http://psi.iba-net.org/person/naut-790"]
-[naut-1323 : person = "彌紹" / zh 
+[naut-1323 : person = "彌紹" / zh
  @"http://psi.iba-net.org/person/naut-1323"]
-[naut-962 : person = "忠" / zh 
+[naut-962 : person = "忠" / zh
  @"http://psi.iba-net.org/person/naut-962"]
-[naut-957 : person = "本嵩" / zh 
+[naut-957 : person = "本嵩" / zh
  @"http://psi.iba-net.org/person/naut-957"]
-[naut-897 : person = "法盈" / zh 
+[naut-897 : person = "法盈" / zh
  @"http://psi.iba-net.org/person/naut-897"]
-[naut-1124 : person = "子淳" / zh 
+[naut-1124 : person = "子淳" / zh
  @"http://psi.iba-net.org/person/naut-1124"]
-[naut-838 : person = "知周" / zh 
+[naut-838 : person = "知周" / zh
  @"http://psi.iba-net.org/person/naut-838"]
-[naut-1424 : person = "宗寄" / zh 
+[naut-1424 : person = "宗寄" / zh
  @"http://psi.iba-net.org/person/naut-1424"]
-[naut-734 : person = "洪蓮" / zh 
+[naut-734 : person = "洪蓮" / zh
  @"http://psi.iba-net.org/person/naut-734"]
-[naut-939 : person = "義銛" / zh 
+[naut-939 : person = "義銛" / zh
  @"http://psi.iba-net.org/person/naut-939"]
-[naut-1410 : person = "起宗" / zh 
+[naut-1410 : person = "起宗" / zh
  @"http://psi.iba-net.org/person/naut-1410"]
-[naut-1034 : person = "治兆" / zh 
+[naut-1034 : person = "治兆" / zh
  @"http://psi.iba-net.org/person/naut-1034"]
-[naut-1097 : person = "性音" / zh 
+[naut-1097 : person = "性音" / zh
  @"http://psi.iba-net.org/person/naut-1097"]
-[naut-1311 : person = "善珙" / zh 
+[naut-1311 : person = "善珙" / zh
  @"http://psi.iba-net.org/person/naut-1311"]
-[naut-1285 : person = "正一" / zh 
+[naut-1285 : person = "正一" / zh
  @"http://psi.iba-net.org/person/naut-1285"]
-[naut-1106 : person = "永盛" / zh 
+[naut-1106 : person = "永盛" / zh
  @"http://psi.iba-net.org/person/naut-1106"]
-[naut-1163 : person = "慶" / zh 
+[naut-1163 : person = "慶" / zh
  @"http://psi.iba-net.org/person/naut-1163"]
-[naut-984 : person = "道詢集" / zh 
+[naut-984 : person = "道詢集" / zh
  @"http://psi.iba-net.org/person/naut-984"]
-[naut-1021 : person = "周夢顏" / zh 
+[naut-1021 : person = "周夢顏" / zh
  @"http://psi.iba-net.org/person/naut-1021"]
-[naut-980 : person = "彥起" / zh 
+[naut-980 : person = "彥起" / zh
  @"http://psi.iba-net.org/person/naut-980"]
-[naut-1476 : person = "復初" / zh 
+[naut-1476 : person = "復初" / zh
  @"http://psi.iba-net.org/person/naut-1476"]
-[naut-638 : person = "通潤" / zh 
+[naut-638 : person = "通潤" / zh
  @"http://psi.iba-net.org/person/naut-638"]
-[naut-1094 : person = "普照" / zh 
+[naut-1094 : person = "普照" / zh
  @"http://psi.iba-net.org/person/naut-1094"]
-[naut-597 : person = "失" / zh 
+[naut-597 : person = "失" / zh
  @"http://psi.iba-net.org/person/naut-597"]
-[naut-1219 : person = "淨伏" / zh 
+[naut-1219 : person = "淨伏" / zh
  @"http://psi.iba-net.org/person/naut-1219"]
-[naut-814 : person = "智一拾" / zh 
+[naut-814 : person = "智一拾" / zh
  @"http://psi.iba-net.org/person/naut-814"]
-[naut-718 : person = "鄭澄德" / zh 
+[naut-718 : person = "鄭澄德" / zh
  @"http://psi.iba-net.org/person/naut-718"]
-[naut-682 : person = "義令記" / zh 
+[naut-682 : person = "義令記" / zh
  @"http://psi.iba-net.org/person/naut-682"]
-[naut-954 : person = "希迪" / zh 
+[naut-954 : person = "希迪" / zh
  @"http://psi.iba-net.org/person/naut-954"]
-[naut-759 : person = "龔穊綵" / zh 
+[naut-759 : person = "龔穊綵" / zh
  @"http://psi.iba-net.org/person/naut-759"]
-[naut-1485 : person = "宗信" / zh 
+[naut-1485 : person = "宗信" / zh
  @"http://psi.iba-net.org/person/naut-1485"]
-[naut-1010 : person = "實賢" / zh 
+[naut-1010 : person = "實賢" / zh
  @"http://psi.iba-net.org/person/naut-1010"]
-[naut-704 : person = "眞覺重" / zh 
+[naut-704 : person = "眞覺重" / zh
  @"http://psi.iba-net.org/person/naut-704"]
-[naut-1084 : person = "善卿" / zh 
+[naut-1084 : person = "善卿" / zh
  @"http://psi.iba-net.org/person/naut-1084"]
-[naut-1078 : person = "道安注" / zh 
+[naut-1078 : person = "道安注" / zh
  @"http://psi.iba-net.org/person/naut-1078"]
-[naut-1329 : person = "宗清" / zh 
+[naut-1329 : person = "宗清" / zh
  @"http://psi.iba-net.org/person/naut-1329"]
-[naut-1576 : person = "慧詳" / zh 
+[naut-1576 : person = "慧詳" / zh
  @"http://psi.iba-net.org/person/naut-1576"]
-[naut-1054 : person = "寬量" / zh 
+[naut-1054 : person = "寬量" / zh
  @"http://psi.iba-net.org/person/naut-1054"]
-[naut-1523 : person = "丁元公．祁駿隹" / zh 
+[naut-1523 : person = "丁元公．祁駿隹" / zh
  @"http://psi.iba-net.org/person/naut-1523"]
-[naut-770 : person = "淨源" / zh 
+[naut-770 : person = "淨源" / zh
  @"http://psi.iba-net.org/person/naut-770"]
-[naut-1239 : person = "志諶" / zh 
+[naut-1239 : person = "志諶" / zh
  @"http://psi.iba-net.org/person/naut-1239"]
-[naut-1046 : person = "廣貴" / zh 
+[naut-1046 : person = "廣貴" / zh
  @"http://psi.iba-net.org/person/naut-1046"]
-[naut-696 : person = "胡" / zh 
+[naut-696 : person = "胡" / zh
  @"http://psi.iba-net.org/person/naut-696"]
-[naut-1481 : person = "德初" / zh 
+[naut-1481 : person = "德初" / zh
  @"http://psi.iba-net.org/person/naut-1481"]
-[naut-746 : person = "徐昌治" / zh 
+[naut-746 : person = "徐昌治" / zh
  @"http://psi.iba-net.org/person/naut-746"]
-[naut-610 : person = "阿謨伽三藏譯" / zh 
+[naut-610 : person = "阿謨伽三藏譯" / zh
  @"http://psi.iba-net.org/person/naut-610"]
-[naut-857 : person = "則安" / zh 
+[naut-857 : person = "則安" / zh
  @"http://psi.iba-net.org/person/naut-857"]
-[naut-1334 : person = "了因" / zh 
+[naut-1334 : person = "了因" / zh
  @"http://psi.iba-net.org/person/naut-1334"]
-[naut-890 : person = "道邑" / zh 
+[naut-890 : person = "道邑" / zh
  @"http://psi.iba-net.org/person/naut-890"]
-[naut-918 : person = "道邃" / zh 
+[naut-918 : person = "道邃" / zh
  @"http://psi.iba-net.org/person/naut-918"]
-[naut-1491 : person = "中翼" / zh 
+[naut-1491 : person = "中翼" / zh
  @"http://psi.iba-net.org/person/naut-1491"]
-[naut-1537 : person = "宗[山/乃]" / zh 
+[naut-1537 : person = "宗[山/乃]" / zh
  @"http://psi.iba-net.org/person/naut-1537"]
-[naut-1170 : person = "普通" / zh 
+[naut-1170 : person = "普通" / zh
  @"http://psi.iba-net.org/person/naut-1170"]
-[naut-1051 : person = "弟子節鈔" / zh 
+[naut-1051 : person = "弟子節鈔" / zh
  @"http://psi.iba-net.org/person/naut-1051"]
-[naut-1214 : person = "淨" / zh 
+[naut-1214 : person = "淨" / zh
  @"http://psi.iba-net.org/person/naut-1214"]
-[naut-1546 : person = "一行慧覺" / zh 
+[naut-1546 : person = "一行慧覺" / zh
  @"http://psi.iba-net.org/person/naut-1546"]
-[naut-1379 : person = "宗滿" / zh 
+[naut-1379 : person = "宗滿" / zh
  @"http://psi.iba-net.org/person/naut-1379"]
-[naut-927 : person = "廣修" / zh 
+[naut-927 : person = "廣修" / zh
  @"http://psi.iba-net.org/person/naut-927"]
-[naut-1055 : person = "菩提達磨" / zh 
+[naut-1055 : person = "菩提達磨" / zh
  @"http://psi.iba-net.org/person/naut-1055"]
-[naut-1251 : person = "元樞" / zh 
+[naut-1251 : person = "元樞" / zh
  @"http://psi.iba-net.org/person/naut-1251"]
-[naut-1075 : person = "惟勉" / zh 
+[naut-1075 : person = "惟勉" / zh
  @"http://psi.iba-net.org/person/naut-1075"]
-[naut-863 : person = "景霄纂" / zh 
+[naut-863 : person = "景霄纂" / zh
  @"http://psi.iba-net.org/person/naut-863"]
-[naut-1070 : person = "德煇" / zh 
+[naut-1070 : person = "德煇" / zh
  @"http://psi.iba-net.org/person/naut-1070"]
-[naut-829 : person = "可度重訂" / zh 
+[naut-829 : person = "可度重訂" / zh
  @"http://psi.iba-net.org/person/naut-829"]
-[naut-1314 : person = "銳彰" / zh 
+[naut-1314 : person = "銳彰" / zh
  @"http://psi.iba-net.org/person/naut-1314"]
-[naut-1614 : person = "紀蔭" / zh 
+[naut-1614 : person = "紀蔭" / zh
  @"http://psi.iba-net.org/person/naut-1614"]
-[naut-952 : person = "善熹" / zh 
+[naut-952 : person = "善熹" / zh
  @"http://psi.iba-net.org/person/naut-952"]
-[naut-1619 : person = "高承埏補" / zh 
+[naut-1619 : person = "高承埏補" / zh
  @"http://psi.iba-net.org/person/naut-1619"]
-[naut-1626 : person = "善燦" / zh 
+[naut-1626 : person = "善燦" / zh
  @"http://psi.iba-net.org/person/naut-1626"]
-[naut-1001 : person = "周思仁" / zh 
+[naut-1001 : person = "周思仁" / zh
  @"http://psi.iba-net.org/person/naut-1001"]
-[naut-1595 : person = "曉瑩" / zh 
+[naut-1595 : person = "曉瑩" / zh
  @"http://psi.iba-net.org/person/naut-1595"]
-[naut-886 : person = "均正" / zh 
+[naut-886 : person = "均正" / zh
  @"http://psi.iba-net.org/person/naut-886"]
-[naut-856 : person = "禪能" / zh 
+[naut-856 : person = "禪能" / zh
  @"http://psi.iba-net.org/person/naut-856"]
-[naut-1234 : person = "正賢" / zh 
+[naut-1234 : person = "正賢" / zh
  @"http://psi.iba-net.org/person/naut-1234"]
-[naut-1238 : person = "智瑾" / zh 
+[naut-1238 : person = "智瑾" / zh
  @"http://psi.iba-net.org/person/naut-1238"]
-[naut-1517 : person = "謝大材" / zh 
+[naut-1517 : person = "謝大材" / zh
  @"http://psi.iba-net.org/person/naut-1517"]
-[naut-652 : person = "惟則" / zh 
+[naut-652 : person = "惟則" / zh
  @"http://psi.iba-net.org/person/naut-652"]
-[naut-742 : person = "如觀" / zh 
+[naut-742 : person = "如觀" / zh
  @"http://psi.iba-net.org/person/naut-742"]
-[naut-1016 : person = "受教" / zh 
+[naut-1016 : person = "受教" / zh
  @"http://psi.iba-net.org/person/naut-1016"]
-[naut-1213 : person = "善之" / zh 
+[naut-1213 : person = "善之" / zh
  @"http://psi.iba-net.org/person/naut-1213"]
-[naut-1561 : person = "寶成" / zh 
+[naut-1561 : person = "寶成" / zh
  @"http://psi.iba-net.org/person/naut-1561"]
-[naut-1373 : person = "居簡" / zh 
+[naut-1373 : person = "居簡" / zh
  @"http://psi.iba-net.org/person/naut-1373"]
-[naut-1346 : person = "機雲" / zh 
+[naut-1346 : person = "機雲" / zh
  @"http://psi.iba-net.org/person/naut-1346"]
-[naut-987 : person = "智瑞" / zh 
+[naut-987 : person = "智瑞" / zh
  @"http://psi.iba-net.org/person/naut-987"]
-[naut-1381 : person = "慧觀" / zh 
+[naut-1381 : person = "慧觀" / zh
  @"http://psi.iba-net.org/person/naut-1381"]
-[naut-739 : person = "廣伸" / zh 
+[naut-739 : person = "廣伸" / zh
  @"http://psi.iba-net.org/person/naut-739"]
-[naut-1504 : person = "義遠" / zh 
+[naut-1504 : person = "義遠" / zh
  @"http://psi.iba-net.org/person/naut-1504"]
-[naut-1004 : person = "道鏡" / zh 
+[naut-1004 : person = "道鏡" / zh
  @"http://psi.iba-net.org/person/naut-1004"]
-[naut-630 : person = "觀復" / zh 
+[naut-630 : person = "觀復" / zh
  @"http://psi.iba-net.org/person/naut-630"]
-[naut-757 : person = "[這-言+亦]刪鷲" / zh 
+[naut-757 : person = "[這-言+亦]刪鷲" / zh
  @"http://psi.iba-net.org/person/naut-757"]
-[naut-1180 : person = "守詮" / zh 
+[naut-1180 : person = "守詮" / zh
  @"http://psi.iba-net.org/person/naut-1180"]
-[naut-1448 : person = "曇噩" / zh 
+[naut-1448 : person = "曇噩" / zh
  @"http://psi.iba-net.org/person/naut-1448"]
-[naut-1577 : person = "了圓" / zh 
+[naut-1577 : person = "了圓" / zh
  @"http://psi.iba-net.org/person/naut-1577"]
-[naut-1559 : person = "王勃" / zh 
+[naut-1559 : person = "王勃" / zh
  @"http://psi.iba-net.org/person/naut-1559"]
-[naut-1182 : person = "如本" / zh 
+[naut-1182 : person = "如本" / zh
  @"http://psi.iba-net.org/person/naut-1182"]
-[naut-817 : person = "法清集疏" / zh 
+[naut-817 : person = "法清集疏" / zh
  @"http://psi.iba-net.org/person/naut-817"]
-[naut-1220 : person = "慧行" / zh 
+[naut-1220 : person = "慧行" / zh
  @"http://psi.iba-net.org/person/naut-1220"]
-[naut-1309 : person = "宗永" / zh 
+[naut-1309 : person = "宗永" / zh
  @"http://psi.iba-net.org/person/naut-1309"]
-[naut-1430 : person = "思靜" / zh 
+[naut-1430 : person = "思靜" / zh
  @"http://psi.iba-net.org/person/naut-1430"]
-[naut-1374 : person = "妙心" / zh 
+[naut-1374 : person = "妙心" / zh
  @"http://psi.iba-net.org/person/naut-1374"]
-[naut-740 : person = "林兆恩" / zh 
+[naut-740 : person = "林兆恩" / zh
  @"http://psi.iba-net.org/person/naut-740"]
-[naut-1541 : person = "許元釗" / zh 
+[naut-1541 : person = "許元釗" / zh
  @"http://psi.iba-net.org/person/naut-1541"]
-[naut-1398 : person = "海壽" / zh 
+[naut-1398 : person = "海壽" / zh
  @"http://psi.iba-net.org/person/naut-1398"]
-[naut-697 : person = "吉藏撰" / zh 
+[naut-697 : person = "吉藏撰" / zh
  @"http://psi.iba-net.org/person/naut-697"]
-[naut-1107 : person = "德弘編" / zh 
+[naut-1107 : person = "德弘編" / zh
  @"http://psi.iba-net.org/person/naut-1107"]
-[naut-1456 : person = "應訢" / zh 
+[naut-1456 : person = "應訢" / zh
  @"http://psi.iba-net.org/person/naut-1456"]
-[naut-818 : person = "栖復" / zh 
+[naut-818 : person = "栖復" / zh
  @"http://psi.iba-net.org/person/naut-818"]
-[naut-1365 : person = "宗茙" / zh 
+[naut-1365 : person = "宗茙" / zh
  @"http://psi.iba-net.org/person/naut-1365"]
-[naut-1629 : person = "朴永善" / zh 
+[naut-1629 : person = "朴永善" / zh
  @"http://psi.iba-net.org/person/naut-1629"]
-[naut-1315 : person = "心寧" / zh 
+[naut-1315 : person = "心寧" / zh
  @"http://psi.iba-net.org/person/naut-1315"]
-[naut-646 : person = "思坦" / zh 
+[naut-646 : person = "思坦" / zh
  @"http://psi.iba-net.org/person/naut-646"]
-[naut-834 : person = "明曠刪" / zh 
+[naut-834 : person = "明曠刪" / zh
  @"http://psi.iba-net.org/person/naut-834"]
-[naut-802 : person = "一如" / zh 
+[naut-802 : person = "一如" / zh
  @"http://psi.iba-net.org/person/naut-802"]
-[naut-1639 : person = "佐佐木憲德" / zh 
+[naut-1639 : person = "佐佐木憲德" / zh
  @"http://psi.iba-net.org/person/naut-1639"]
-[naut-611 : person = "闍那多迦" / zh 
+[naut-611 : person = "闍那多迦" / zh
  @"http://psi.iba-net.org/person/naut-611"]
-[naut-1303 : person = "了垠" / zh 
+[naut-1303 : person = "了垠" / zh
  @"http://psi.iba-net.org/person/naut-1303"]
-[naut-717 : person = "達林參訂" / zh 
+[naut-717 : person = "達林參訂" / zh
  @"http://psi.iba-net.org/person/naut-717"]
-[naut-1356 : person = "善遇" / zh 
+[naut-1356 : person = "善遇" / zh
  @"http://psi.iba-net.org/person/naut-1356"]
-[naut-937 : person = "可觀" / zh 
+[naut-937 : person = "可觀" / zh
  @"http://psi.iba-net.org/person/naut-937"]
-[naut-1483 : person = "宗法" / zh 
+[naut-1483 : person = "宗法" / zh
  @"http://psi.iba-net.org/person/naut-1483"]
-[naut-970 : person = "灌頂阿闍梨" / zh 
+[naut-970 : person = "灌頂阿闍梨" / zh
  @"http://psi.iba-net.org/person/naut-970"]
-[naut-1166 : person = "惟珪" / zh 
+[naut-1166 : person = "惟珪" / zh
  @"http://psi.iba-net.org/person/naut-1166"]
-[naut-668 : person = "靈耀" / zh 
+[naut-668 : person = "靈耀" / zh
  @"http://psi.iba-net.org/person/naut-668"]
-[naut-1076 : person = "弋咸" / zh 
+[naut-1076 : person = "弋咸" / zh
  @"http://psi.iba-net.org/person/naut-1076"]
-[naut-1005 : person = "善道" / zh 
+[naut-1005 : person = "善道" / zh
  @"http://psi.iba-net.org/person/naut-1005"]
-[naut-885 : person = "碩法師" / zh 
+[naut-885 : person = "碩法師" / zh
  @"http://psi.iba-net.org/person/naut-885"]
-[naut-1548 : person = "木增" / zh 
+[naut-1548 : person = "木增" / zh
  @"http://psi.iba-net.org/person/naut-1548"]
-[naut-1574 : person = "弘璧" / zh 
+[naut-1574 : person = "弘璧" / zh
  @"http://psi.iba-net.org/person/naut-1574"]
-[naut-917 : person = "處元" / zh 
+[naut-917 : person = "處元" / zh
  @"http://psi.iba-net.org/person/naut-917"]
-[naut-1072 : person = "宗賾" / zh 
+[naut-1072 : person = "宗賾" / zh
  @"http://psi.iba-net.org/person/naut-1072"]
-[naut-1496 : person = "師儼" / zh 
+[naut-1496 : person = "師儼" / zh
  @"http://psi.iba-net.org/person/naut-1496"]
-[naut-1538 : person = "祖祿" / zh 
+[naut-1538 : person = "祖祿" / zh
  @"http://psi.iba-net.org/person/naut-1538"]
-[naut-726 : person = "大隱" / zh 
+[naut-726 : person = "大隱" / zh
  @"http://psi.iba-net.org/person/naut-726"]
-[naut-1259 : person = "法洪" / zh 
+[naut-1259 : person = "法洪" / zh
  @"http://psi.iba-net.org/person/naut-1259"]
-[naut-1568 : person = "明河" / zh 
+[naut-1568 : person = "明河" / zh
  @"http://psi.iba-net.org/person/naut-1568"]
-[naut-912 : person = "善漳等錄" / zh 
+[naut-912 : person = "善漳等錄" / zh
  @"http://psi.iba-net.org/person/naut-912"]
-[naut-1443 : person = "智勝" / zh 
+[naut-1443 : person = "智勝" / zh
  @"http://psi.iba-net.org/person/naut-1443"]
-[naut-1603 : person = "達珍" / zh 
+[naut-1603 : person = "達珍" / zh
  @"http://psi.iba-net.org/person/naut-1603"]
-[naut-1246 : person = "道[冰-水+中]" / zh 
+[naut-1246 : person = "道[冰-水+中]" / zh
  @"http://psi.iba-net.org/person/naut-1246"]
-[naut-1492 : person = "曇像" / zh 
+[naut-1492 : person = "曇像" / zh
  @"http://psi.iba-net.org/person/naut-1492"]
-[naut-936 : person = "可觀述智增" / zh 
+[naut-936 : person = "可觀述智增" / zh
  @"http://psi.iba-net.org/person/naut-936"]
-[naut-930 : person = "德圓" / zh 
+[naut-930 : person = "德圓" / zh
  @"http://psi.iba-net.org/person/naut-930"]
-[naut-1505 : person = "德霑" / zh 
+[naut-1505 : person = "德霑" / zh
  @"http://psi.iba-net.org/person/naut-1505"]
-[naut-1041 : person = "德眞" / zh 
+[naut-1041 : person = "德眞" / zh
  @"http://psi.iba-net.org/person/naut-1041"]
-[naut-792 : person = "智銓" / zh 
+[naut-792 : person = "智銓" / zh
  @"http://psi.iba-net.org/person/naut-792"]
-[naut-781 : person = "諸萬里" / zh 
+[naut-781 : person = "諸萬里" / zh
  @"http://psi.iba-net.org/person/naut-781"]
-[naut-956 : person = "宗豫" / zh 
+[naut-956 : person = "宗豫" / zh
  @"http://psi.iba-net.org/person/naut-956"]
-[naut-586 : person = "觀無畏尊者集" / zh 
+[naut-586 : person = "觀無畏尊者集" / zh
  @"http://psi.iba-net.org/person/naut-586"]
-[naut-1104 : person = "行海" / zh 
+[naut-1104 : person = "行海" / zh
  @"http://psi.iba-net.org/person/naut-1104"]
-[naut-1018 : person = "嚴培西" / zh 
+[naut-1018 : person = "嚴培西" / zh
  @"http://psi.iba-net.org/person/naut-1018"]
-[naut-780 : person = "洪恩" / zh 
+[naut-780 : person = "洪恩" / zh
  @"http://psi.iba-net.org/person/naut-780"]
-[naut-1260 : person = "唯道" / zh 
+[naut-1260 : person = "唯道" / zh
  @"http://psi.iba-net.org/person/naut-1260"]
-[naut-855 : person = "德基" / zh 
+[naut-855 : person = "德基" / zh
  @"http://psi.iba-net.org/person/naut-855"]
-[naut-672 : person = "諦閑" / zh 
+[naut-672 : person = "諦閑" / zh
  @"http://psi.iba-net.org/person/naut-672"]
-[naut-1462 : person = "中端" / zh 
+[naut-1462 : person = "中端" / zh
  @"http://psi.iba-net.org/person/naut-1462"]
-[naut-777 : person = "宋濂文" / zh 
+[naut-777 : person = "宋濂文" / zh
  @"http://psi.iba-net.org/person/naut-777"]
-[naut-1276 : person = "文衡" / zh 
+[naut-1276 : person = "文衡" / zh
  @"http://psi.iba-net.org/person/naut-1276"]
-[naut-866 : person = "戒月" / zh 
+[naut-866 : person = "戒月" / zh
  @"http://psi.iba-net.org/person/naut-866"]
-[naut-1052 : person = "觀如" / zh 
+[naut-1052 : person = "觀如" / zh
  @"http://psi.iba-net.org/person/naut-1052"]
-[naut-909 : person = "正誨" / zh 
+[naut-909 : person = "正誨" / zh
  @"http://psi.iba-net.org/person/naut-909"]
-[naut-647 : person = "惟愍科可度" / zh 
+[naut-647 : person = "惟愍科可度" / zh
  @"http://psi.iba-net.org/person/naut-647"]
-[naut-1343 : person = "善靖" / zh 
+[naut-1343 : person = "善靖" / zh
  @"http://psi.iba-net.org/person/naut-1343"]
-[naut-1388 : person = "紹宗" / zh 
+[naut-1388 : person = "紹宗" / zh
  @"http://psi.iba-net.org/person/naut-1388"]
-[naut-621 : person = "淨源錄疏注經" / zh 
+[naut-621 : person = "淨源錄疏注經" / zh
  @"http://psi.iba-net.org/person/naut-621"]
-[naut-666 : person = "元賢" / zh 
+[naut-666 : person = "元賢" / zh
  @"http://psi.iba-net.org/person/naut-666"]
-[naut-946 : person = "蒙潤" / zh 
+[naut-946 : person = "蒙潤" / zh
  @"http://psi.iba-net.org/person/naut-946"]
-[naut-1313 : person = "慧澄" / zh 
+[naut-1313 : person = "慧澄" / zh
  @"http://psi.iba-net.org/person/naut-1313"]
-[naut-1542 : person = "本晳" / zh 
+[naut-1542 : person = "本晳" / zh
  @"http://psi.iba-net.org/person/naut-1542"]
-[naut-602 : person = "善護尊者造" / zh 
+[naut-602 : person = "善護尊者造" / zh
  @"http://psi.iba-net.org/person/naut-602"]
-[naut-1572 : person = "崔致遠結" / zh 
+[naut-1572 : person = "崔致遠結" / zh
  @"http://psi.iba-net.org/person/naut-1572"]
-[naut-959 : person = "見登之" / zh 
+[naut-959 : person = "見登之" / zh
  @"http://psi.iba-net.org/person/naut-959"]
-[naut-1549 : person = "正止" / zh 
+[naut-1549 : person = "正止" / zh
  @"http://psi.iba-net.org/person/naut-1549"]
-[naut-778 : person = "謝觀光" / zh 
+[naut-778 : person = "謝觀光" / zh
  @"http://psi.iba-net.org/person/naut-778"]
-[naut-737 : person = "屠根" / zh 
+[naut-737 : person = "屠根" / zh
  @"http://psi.iba-net.org/person/naut-737"]
-[naut-1105 : person = "法泉繼" / zh 
+[naut-1105 : person = "法泉繼" / zh
  @"http://psi.iba-net.org/person/naut-1105"]
-[naut-803 : person = "如愚" / zh 
+[naut-803 : person = "如愚" / zh
  @"http://psi.iba-net.org/person/naut-803"]
-[naut-1196 : person = "中孚" / zh 
+[naut-1196 : person = "中孚" / zh
  @"http://psi.iba-net.org/person/naut-1196"]
-[naut-913 : person = "了然" / zh 
+[naut-913 : person = "了然" / zh
  @"http://psi.iba-net.org/person/naut-913"]
-[naut-1100 : person = "世宗皇帝" / zh 
+[naut-1100 : person = "世宗皇帝" / zh
  @"http://psi.iba-net.org/person/naut-1100"]
-[naut-659 : person = "大韶" / zh 
+[naut-659 : person = "大韶" / zh
  @"http://psi.iba-net.org/person/naut-659"]
-[naut-1217 : person = "普璋" / zh 
+[naut-1217 : person = "普璋" / zh
  @"http://psi.iba-net.org/person/naut-1217"]
-[naut-1320 : person = "普和" / zh 
+[naut-1320 : person = "普和" / zh
  @"http://psi.iba-net.org/person/naut-1320"]
-[naut-846 : person = "蕅益" / zh 
+[naut-846 : person = "蕅益" / zh
  @"http://psi.iba-net.org/person/naut-846"]
-[naut-741 : person = "大韻" / zh 
+[naut-741 : person = "大韻" / zh
  @"http://psi.iba-net.org/person/naut-741"]
-[naut-966 : person = "一行撰" / zh 
+[naut-966 : person = "一行撰" / zh
  @"http://psi.iba-net.org/person/naut-966"]
-[naut-1395 : person = "元浩" / zh 
+[naut-1395 : person = "元浩" / zh
  @"http://psi.iba-net.org/person/naut-1395"]
-[naut-845 : person = "書玉" / zh 
+[naut-845 : person = "書玉" / zh
  @"http://psi.iba-net.org/person/naut-845"]
-[naut-1369 : person = "永珍" / zh 
+[naut-1369 : person = "永珍" / zh
  @"http://psi.iba-net.org/person/naut-1369"]
-[naut-1203 : person = "道鑑" / zh 
+[naut-1203 : person = "道鑑" / zh
  @"http://psi.iba-net.org/person/naut-1203"]
-[naut-810 : person = "廣和標" / zh 
+[naut-810 : person = "廣和標" / zh
  @"http://psi.iba-net.org/person/naut-810"]
-[naut-923 : person = "正謐" / zh 
+[naut-923 : person = "正謐" / zh
  @"http://psi.iba-net.org/person/naut-923"]
-[naut-1421 : person = "道瑄" / zh 
+[naut-1421 : person = "道瑄" / zh
  @"http://psi.iba-net.org/person/naut-1421"]
-[naut-606 : person = "不空譯抄之" / zh 
+[naut-606 : person = "不空譯抄之" / zh
  @"http://psi.iba-net.org/person/naut-606"]
-[naut-1520 : person = "等純" / zh 
+[naut-1520 : person = "等純" / zh
  @"http://psi.iba-net.org/person/naut-1520"]
-[naut-1422 : person = "宗[一/旦]" / zh 
+[naut-1422 : person = "宗[一/旦]" / zh
  @"http://psi.iba-net.org/person/naut-1422"]
-[naut-623 : person = "普瑞" / zh 
+[naut-623 : person = "普瑞" / zh
  @"http://psi.iba-net.org/person/naut-623"]
-[naut-874 : person = "見登" / zh 
+[naut-874 : person = "見登" / zh
  @"http://psi.iba-net.org/person/naut-874"]
-[naut-1066 : person = "淨訥" / zh 
+[naut-1066 : person = "淨訥" / zh
  @"http://psi.iba-net.org/person/naut-1066"]
-[naut-1330 : person = "繼燖" / zh 
+[naut-1330 : person = "繼燖" / zh
  @"http://psi.iba-net.org/person/naut-1330"]
-[naut-1406 : person = "得度" / zh 
+[naut-1406 : person = "得度" / zh
  @"http://psi.iba-net.org/person/naut-1406"]
-[naut-1231 : person = "有智" / zh 
+[naut-1231 : person = "有智" / zh
  @"http://psi.iba-net.org/person/naut-1231"]
-[naut-1415 : person = "大圓" / zh 
+[naut-1415 : person = "大圓" / zh
  @"http://psi.iba-net.org/person/naut-1415"]
-[naut-1510 : person = "道璞" / zh 
+[naut-1510 : person = "道璞" / zh
  @"http://psi.iba-net.org/person/naut-1510"]
-[naut-639 : person = "寂正" / zh 
+[naut-639 : person = "寂正" / zh
  @"http://psi.iba-net.org/person/naut-639"]
-[naut-1337 : person = "師楷" / zh 
+[naut-1337 : person = "師楷" / zh
  @"http://psi.iba-net.org/person/naut-1337"]
-[naut-1607 : person = "火蓮集梓" / zh 
+[naut-1607 : person = "火蓮集梓" / zh
  @"http://psi.iba-net.org/person/naut-1607"]
-[naut-575 : person = "魏源" / zh 
+[naut-575 : person = "魏源" / zh
  @"http://psi.iba-net.org/person/naut-575"]
-[naut-1189 : person = "志清" / zh 
+[naut-1189 : person = "志清" / zh
  @"http://psi.iba-net.org/person/naut-1189"]
-[naut-1245 : person = "懷珠" / zh 
+[naut-1245 : person = "懷珠" / zh
  @"http://psi.iba-net.org/person/naut-1245"]
-[naut-1317 : person = "覺此" / zh 
+[naut-1317 : person = "覺此" / zh
  @"http://psi.iba-net.org/person/naut-1317"]
-[naut-1446 : person = "道哲" / zh 
+[naut-1446 : person = "道哲" / zh
  @"http://psi.iba-net.org/person/naut-1446"]
-[naut-1093 : person = "胡文煥" / zh 
+[naut-1093 : person = "胡文煥" / zh
  @"http://psi.iba-net.org/person/naut-1093"]
-[naut-1091 : person = "惠彬" / zh 
+[naut-1091 : person = "惠彬" / zh
  @"http://psi.iba-net.org/person/naut-1091"]
-[naut-1645 : person = "趙遷" / zh 
+[naut-1645 : person = "趙遷" / zh
  @"http://psi.iba-net.org/person/naut-1645"]
-[naut-1399 : person = "一志" / zh 
+[naut-1399 : person = "一志" / zh
  @"http://psi.iba-net.org/person/naut-1399"]
-[naut-805 : person = "明海" / zh 
+[naut-805 : person = "明海" / zh
  @"http://psi.iba-net.org/person/naut-805"]
-[naut-1450 : person = "梵琦" / zh 
+[naut-1450 : person = "梵琦" / zh
  @"http://psi.iba-net.org/person/naut-1450"]
-[naut-1122 : person = "義青" / zh 
+[naut-1122 : person = "義青" / zh
  @"http://psi.iba-net.org/person/naut-1122"]
-[naut-1434 : person = "雲澹" / zh 
+[naut-1434 : person = "雲澹" / zh
  @"http://psi.iba-net.org/person/naut-1434"]
-[naut-1575 : person = "曇照" / zh 
+[naut-1575 : person = "曇照" / zh
  @"http://psi.iba-net.org/person/naut-1575"]
-[naut-1012 : person = "一念" / zh 
+[naut-1012 : person = "一念" / zh
  @"http://psi.iba-net.org/person/naut-1012"]
-[naut-1017 : person = "虞執西" / zh 
+[naut-1017 : person = "虞執西" / zh
  @"http://psi.iba-net.org/person/naut-1017"]
-[naut-1487 : person = "信悟" / zh 
+[naut-1487 : person = "信悟" / zh
  @"http://psi.iba-net.org/person/naut-1487"]
-[naut-1252 : person = "善開" / zh 
+[naut-1252 : person = "善開" / zh
  @"http://psi.iba-net.org/person/naut-1252"]
-[naut-1198 : person = "元清" / zh 
+[naut-1198 : person = "元清" / zh
  @"http://psi.iba-net.org/person/naut-1198"]
-[naut-753 : person = "大璸" / zh 
+[naut-753 : person = "大璸" / zh
  @"http://psi.iba-net.org/person/naut-753"]
-[naut-1584 : person = "悟明" / zh 
+[naut-1584 : person = "悟明" / zh
  @"http://psi.iba-net.org/person/naut-1584"]
-[naut-1226 : person = "持志" / zh 
+[naut-1226 : person = "持志" / zh
  @"http://psi.iba-net.org/person/naut-1226"]
-[naut-1425 : person = "慧浩" / zh 
+[naut-1425 : person = "慧浩" / zh
  @"http://psi.iba-net.org/person/naut-1425"]
-[naut-764 : person = "俞樾" / zh 
+[naut-764 : person = "俞樾" / zh
  @"http://psi.iba-net.org/person/naut-764"]
-[naut-1160 : person = "法演" / zh 
+[naut-1160 : person = "法演" / zh
  @"http://psi.iba-net.org/person/naut-1160"]
-[naut-1019 : person = "道霑" / zh 
+[naut-1019 : person = "道霑" / zh
  @"http://psi.iba-net.org/person/naut-1019"]
-[naut-1120 : person = "道霖" / zh 
+[naut-1120 : person = "道霖" / zh
  @"http://psi.iba-net.org/person/naut-1120"]
-[naut-1605 : person = "如純" / zh 
+[naut-1605 : person = "如純" / zh
  @"http://psi.iba-net.org/person/naut-1605"]
-[naut-767 : person = "道霈" / zh 
+[naut-767 : person = "道霈" / zh
  @"http://psi.iba-net.org/person/naut-767"]
-[naut-1475 : person = "妙門" / zh 
+[naut-1475 : person = "妙門" / zh
  @"http://psi.iba-net.org/person/naut-1475"]
-[naut-1270 : person = "淨覃" / zh 
+[naut-1270 : person = "淨覃" / zh
  @"http://psi.iba-net.org/person/naut-1270"]
-[naut-1442 : person = "智粵" / zh 
+[naut-1442 : person = "智粵" / zh
  @"http://psi.iba-net.org/person/naut-1442"]
-[naut-645 : person = "懷遠" / zh 
+[naut-645 : person = "懷遠" / zh
  @"http://psi.iba-net.org/person/naut-645"]
-[naut-1205 : person = "妙高" / zh 
+[naut-1205 : person = "妙高" / zh
  @"http://psi.iba-net.org/person/naut-1205"]
-[naut-1486 : person = "法潤" / zh 
+[naut-1486 : person = "法潤" / zh
  @"http://psi.iba-net.org/person/naut-1486"]
-[naut-884 : person = "遍滿" / zh 
+[naut-884 : person = "遍滿" / zh
  @"http://psi.iba-net.org/person/naut-884"]
-[naut-797 : person = "慧洪" / zh 
+[naut-797 : person = "慧洪" / zh
  @"http://psi.iba-net.org/person/naut-797"]
-[naut-1366 : person = "光玉" / zh 
+[naut-1366 : person = "光玉" / zh
  @"http://psi.iba-net.org/person/naut-1366"]
-[naut-806 : person = "際慶" / zh 
+[naut-806 : person = "際慶" / zh
  @"http://psi.iba-net.org/person/naut-806"]
-[naut-1611 : person = "弘儲" / zh 
+[naut-1611 : person = "弘儲" / zh
  @"http://psi.iba-net.org/person/naut-1611"]
-[naut-1236 : person = "延輝" / zh 
+[naut-1236 : person = "延輝" / zh
  @"http://psi.iba-net.org/person/naut-1236"]
-[naut-1014 : person = "明教標" / zh 
+[naut-1014 : person = "明教標" / zh
  @"http://psi.iba-net.org/person/naut-1014"]
-[naut-1284 : person = "紹賢" / zh 
+[naut-1284 : person = "紹賢" / zh
  @"http://psi.iba-net.org/person/naut-1284"]
-[naut-1042 : person = "信菴" / zh 
+[naut-1042 : person = "信菴" / zh
  @"http://psi.iba-net.org/person/naut-1042"]
-[naut-989 : person = "守一" / zh 
+[naut-989 : person = "守一" / zh
  @"http://psi.iba-net.org/person/naut-989"]
-[naut-1095 : person = "天[正*頁]" / zh 
+[naut-1095 : person = "天[正*頁]" / zh
  @"http://psi.iba-net.org/person/naut-1095"]
-[naut-1484 : person = "宗榮" / zh 
+[naut-1484 : person = "宗榮" / zh
  @"http://psi.iba-net.org/person/naut-1484"]
-[naut-1194 : person = "延俊" / zh 
+[naut-1194 : person = "延俊" / zh
  @"http://psi.iba-net.org/person/naut-1194"]
-[naut-1087 : person = "張文憲參閱" / zh 
+[naut-1087 : person = "張文憲參閱" / zh
  @"http://psi.iba-net.org/person/naut-1087"]
-[naut-862 : person = "後唐" / zh 
+[naut-862 : person = "後唐" / zh
  @"http://psi.iba-net.org/person/naut-862"]
-[naut-1211 : person = "行佑" / zh 
+[naut-1211 : person = "行佑" / zh
  @"http://psi.iba-net.org/person/naut-1211"]
-[naut-1326 : person = "法澄" / zh 
+[naut-1326 : person = "法澄" / zh
  @"http://psi.iba-net.org/person/naut-1326"]
-[naut-958 : person = "裴休" / zh 
+[naut-958 : person = "裴休" / zh
  @"http://psi.iba-net.org/person/naut-958"]
-[naut-1176 : person = "光祖" / zh 
+[naut-1176 : person = "光祖" / zh
  @"http://psi.iba-net.org/person/naut-1176"]
-[naut-768 : person = "成蓮" / zh 
+[naut-768 : person = "成蓮" / zh
  @"http://psi.iba-net.org/person/naut-768"]
-[naut-801 : person = "法濟" / zh 
+[naut-801 : person = "法濟" / zh
  @"http://psi.iba-net.org/person/naut-801"]
-[naut-990 : person = "行枝" / zh 
+[naut-990 : person = "行枝" / zh
  @"http://psi.iba-net.org/person/naut-990"]
-[naut-1150 : person = "秀人錢密" / zh 
+[naut-1150 : person = "秀人錢密" / zh
  @"http://psi.iba-net.org/person/naut-1150"]
-[naut-1472 : person = "護位" / zh 
+[naut-1472 : person = "護位" / zh
  @"http://psi.iba-net.org/person/naut-1472"]
-[naut-929 : person = "宗[(匕/示)*頁]" / zh 
+[naut-929 : person = "宗[(匕/示)*頁]" / zh
  @"http://psi.iba-net.org/person/naut-929"]
-[naut-727 : person = "葛[鼎*彗]提" / zh 
+[naut-727 : person = "葛[鼎*彗]提" / zh
  @"http://psi.iba-net.org/person/naut-727"]
-[naut-634 : person = "周琪" / zh 
+[naut-634 : person = "周琪" / zh
  @"http://psi.iba-net.org/person/naut-634"]
-[naut-827 : person = "行滿" / zh 
+[naut-827 : person = "行滿" / zh
  @"http://psi.iba-net.org/person/naut-827"]
-[naut-1499 : person = "妙宗" / zh 
+[naut-1499 : person = "妙宗" / zh
  @"http://psi.iba-net.org/person/naut-1499"]
-[naut-640 : person = "焦竑" / zh 
+[naut-640 : person = "焦竑" / zh
  @"http://psi.iba-net.org/person/naut-640"]
-[naut-624 : person = "表員" / zh 
+[naut-624 : person = "表員" / zh
  @"http://psi.iba-net.org/person/naut-624"]
-[naut-1243 : person = "士洵" / zh 
+[naut-1243 : person = "士洵" / zh
  @"http://psi.iba-net.org/person/naut-1243"]
-[naut-1164 : person = "法清" / zh 
+[naut-1164 : person = "法清" / zh
  @"http://psi.iba-net.org/person/naut-1164"]
-[naut-1428 : person = "有端" / zh 
+[naut-1428 : person = "有端" / zh
  @"http://psi.iba-net.org/person/naut-1428"]
-[naut-1297 : person = "了南" / zh 
+[naut-1297 : person = "了南" / zh
  @"http://psi.iba-net.org/person/naut-1297"]
-[naut-1414 : person = "景毅" / zh 
+[naut-1414 : person = "景毅" / zh
  @"http://psi.iba-net.org/person/naut-1414"]
-[naut-1332 : person = "妙寅" / zh 
+[naut-1332 : person = "妙寅" / zh
  @"http://psi.iba-net.org/person/naut-1332"]
-[naut-1155 : person = "道務" / zh 
+[naut-1155 : person = "道務" / zh
  @"http://psi.iba-net.org/person/naut-1155"]
-[naut-1511 : person = "弘瀚" / zh 
+[naut-1511 : person = "弘瀚" / zh
  @"http://psi.iba-net.org/person/naut-1511"]
-[naut-1081 : person = "元來" / zh 
+[naut-1081 : person = "元來" / zh
  @"http://psi.iba-net.org/person/naut-1081"]
-[naut-1635 : person = "常謹" / zh 
+[naut-1635 : person = "常謹" / zh
  @"http://psi.iba-net.org/person/naut-1635"]
-[naut-1521 : person = "淨煥" / zh 
+[naut-1521 : person = "淨煥" / zh
  @"http://psi.iba-net.org/person/naut-1521"]
-[naut-828 : person = "師正" / zh 
+[naut-828 : person = "師正" / zh
  @"http://psi.iba-net.org/person/naut-828"]
-[naut-631 : person = "清遠" / zh 
+[naut-631 : person = "清遠" / zh
  @"http://psi.iba-net.org/person/naut-631"]
-[naut-776 : person = "道隆" / zh 
+[naut-776 : person = "道隆" / zh
  @"http://psi.iba-net.org/person/naut-776"]
-[naut-1587 : person = "性磊補輯" / zh 
+[naut-1587 : person = "性磊補輯" / zh
  @"http://psi.iba-net.org/person/naut-1587"]
-[naut-1221 : person = "文謙" / zh 
+[naut-1221 : person = "文謙" / zh
  @"http://psi.iba-net.org/person/naut-1221"]
-[naut-614 : person = "智儼" / zh 
+[naut-614 : person = "智儼" / zh
  @"http://psi.iba-net.org/person/naut-614"]
-[naut-1125 : person = "正覺" / zh 
+[naut-1125 : person = "正覺" / zh
  @"http://psi.iba-net.org/person/naut-1125"]
-[naut-1509 : person = "道盛" / zh 
+[naut-1509 : person = "道盛" / zh
  @"http://psi.iba-net.org/person/naut-1509"]
-[naut-628 : person = "永光" / zh 
+[naut-628 : person = "永光" / zh
  @"http://psi.iba-net.org/person/naut-628"]
-[naut-1560 : person = "無寄" / zh 
+[naut-1560 : person = "無寄" / zh
  @"http://psi.iba-net.org/person/naut-1560"]
-[naut-1417 : person = "清逸" / zh 
+[naut-1417 : person = "清逸" / zh
  @"http://psi.iba-net.org/person/naut-1417"]
-[naut-928 : person = "維蠲" / zh 
+[naut-928 : person = "維蠲" / zh
  @"http://psi.iba-net.org/person/naut-928"]
-[naut-879 : person = "聖法" / zh 
+[naut-879 : person = "聖法" / zh
  @"http://psi.iba-net.org/person/naut-879"]
-[naut-1179 : person = "嗣端" / zh 
+[naut-1179 : person = "嗣端" / zh
  @"http://psi.iba-net.org/person/naut-1179"]
-[naut-1401 : person = "可興" / zh 
+[naut-1401 : person = "可興" / zh
  @"http://psi.iba-net.org/person/naut-1401"]
-[naut-592 : person = "尸羅達摩" / zh 
+[naut-592 : person = "尸羅達摩" / zh
  @"http://psi.iba-net.org/person/naut-592"]
-[naut-1449 : person = "祖銘" / zh 
+[naut-1449 : person = "祖銘" / zh
  @"http://psi.iba-net.org/person/naut-1449"]
-[naut-906 : person = "道衡" / zh 
+[naut-906 : person = "道衡" / zh
  @"http://psi.iba-net.org/person/naut-906"]
-[naut-1368 : person = "應儼" / zh 
+[naut-1368 : person = "應儼" / zh
  @"http://psi.iba-net.org/person/naut-1368"]
-[naut-1009 : person = "宗本" / zh 
+[naut-1009 : person = "宗本" / zh
  @"http://psi.iba-net.org/person/naut-1009"]
-[naut-1035 : person = "妙空子" / zh 
+[naut-1035 : person = "妙空子" / zh
  @"http://psi.iba-net.org/person/naut-1035"]
-[naut-973 : person = "西天竺" / zh 
+[naut-973 : person = "西天竺" / zh
  @"http://psi.iba-net.org/person/naut-973"]
-[naut-794 : person = "智度" / zh 
+[naut-794 : person = "智度" / zh
  @"http://psi.iba-net.org/person/naut-794"]
-[naut-1590 : person = "淨柱" / zh 
+[naut-1590 : person = "淨柱" / zh
  @"http://psi.iba-net.org/person/naut-1590"]
-[naut-1149 : person = "元聚" / zh 
+[naut-1149 : person = "元聚" / zh
  @"http://psi.iba-net.org/person/naut-1149"]
-[naut-850 : person = "讀體" / zh 
+[naut-850 : person = "讀體" / zh
  @"http://psi.iba-net.org/person/naut-850"]
-[naut-1364 : person = "祖" / zh 
+[naut-1364 : person = "祖" / zh
  @"http://psi.iba-net.org/person/naut-1364"]
-[naut-1184 : person = "法慧" / zh 
+[naut-1184 : person = "法慧" / zh
  @"http://psi.iba-net.org/person/naut-1184"]
-[naut-934 : person = "眞覺" / zh 
+[naut-934 : person = "眞覺" / zh
  @"http://psi.iba-net.org/person/naut-934"]
-[naut-1137 : person = "覺" / zh 
+[naut-1137 : person = "覺" / zh
  @"http://psi.iba-net.org/person/naut-1137"]
-[naut-1172 : person = "普禮" / zh 
+[naut-1172 : person = "普禮" / zh
  @"http://psi.iba-net.org/person/naut-1172"]
-[naut-847 : person = "道宣刪" / zh 
+[naut-847 : person = "道宣刪" / zh
  @"http://psi.iba-net.org/person/naut-847"]
-[naut-1161 : person = "善果" / zh 
+[naut-1161 : person = "善果" / zh
  @"http://psi.iba-net.org/person/naut-1161"]
-[naut-1178 : person = "子文" / zh 
+[naut-1178 : person = "子文" / zh
  @"http://psi.iba-net.org/person/naut-1178"]
-[naut-978 : person = "寂暹" / zh 
+[naut-978 : person = "寂暹" / zh
  @"http://psi.iba-net.org/person/naut-978"]
-[naut-596 : person = "輸婆迦羅" / zh 
+[naut-596 : person = "輸婆迦羅" / zh
  @"http://psi.iba-net.org/person/naut-596"]
-[naut-1474 : person = "宗謐" / zh 
+[naut-1474 : person = "宗謐" / zh
  @"http://psi.iba-net.org/person/naut-1474"]
-[naut-931 : person = "元悟" / zh 
+[naut-931 : person = "元悟" / zh
  @"http://psi.iba-net.org/person/naut-931"]
-[naut-784 : person = "益證" / zh 
+[naut-784 : person = "益證" / zh
  @"http://psi.iba-net.org/person/naut-784"]
-[naut-1145 : person = "樓[(匕/示)*頁]" / zh 
+[naut-1145 : person = "樓[(匕/示)*頁]" / zh
  @"http://psi.iba-net.org/person/naut-1145"]
-[naut-985 : person = "惟顯" / zh 
+[naut-985 : person = "惟顯" / zh
  @"http://psi.iba-net.org/person/naut-985"]
-[naut-796 : person = "道威入" / zh 
+[naut-796 : person = "道威入" / zh
  @"http://psi.iba-net.org/person/naut-796"]
-[naut-1063 : person = "覺慈編" / zh 
+[naut-1063 : person = "覺慈編" / zh
  @"http://psi.iba-net.org/person/naut-1063"]
-[naut-1058 : person = "明恂" / zh 
+[naut-1058 : person = "明恂" / zh
  @"http://psi.iba-net.org/person/naut-1058"]
-[naut-789 : person = "竺道生" / zh 
+[naut-789 : person = "竺道生" / zh
  @"http://psi.iba-net.org/person/naut-789"]
-[naut-1109 : person = "法應" / zh 
+[naut-1109 : person = "法應" / zh
  @"http://psi.iba-net.org/person/naut-1109"]
-[naut-1289 : person = "宗" / zh 
+[naut-1289 : person = "宗" / zh
  @"http://psi.iba-net.org/person/naut-1289"]
-[naut-662 : person = "傳如" / zh 
+[naut-662 : person = "傳如" / zh
  @"http://psi.iba-net.org/person/naut-662"]
-[naut-899 : person = "遁麟" / zh 
+[naut-899 : person = "遁麟" / zh
  @"http://psi.iba-net.org/person/naut-899"]
-[naut-1023 : person = "濟能" / zh 
+[naut-1023 : person = "濟能" / zh
  @"http://psi.iba-net.org/person/naut-1023"]
-[naut-716 : person = "達默" / zh 
+[naut-716 : person = "達默" / zh
  @"http://psi.iba-net.org/person/naut-716"]
-[naut-1391 : person = "文藻" / zh 
+[naut-1391 : person = "文藻" / zh
  @"http://psi.iba-net.org/person/naut-1391"]
-[naut-968 : person = "遍智" / zh 
+[naut-968 : person = "遍智" / zh
  @"http://psi.iba-net.org/person/naut-968"]
-[naut-1206 : person = "元愷" / zh 
+[naut-1206 : person = "元愷" / zh
  @"http://psi.iba-net.org/person/naut-1206"]
-[naut-703 : person = "法聰" / zh 
+[naut-703 : person = "法聰" / zh
  @"http://psi.iba-net.org/person/naut-703"]
-[naut-1494 : person = "法恭" / zh 
+[naut-1494 : person = "法恭" / zh
  @"http://psi.iba-net.org/person/naut-1494"]
-[naut-1082 : person = "成正" / zh 
+[naut-1082 : person = "成正" / zh
  @"http://psi.iba-net.org/person/naut-1082"]
-[naut-1223 : person = "法恩" / zh 
+[naut-1223 : person = "法恩" / zh
  @"http://psi.iba-net.org/person/naut-1223"]
-[naut-798 : person = "張商英撰" / zh 
+[naut-798 : person = "張商英撰" / zh
  @"http://psi.iba-net.org/person/naut-798"]
-[naut-1338 : person = "文斌" / zh 
+[naut-1338 : person = "文斌" / zh
  @"http://psi.iba-net.org/person/naut-1338"]
-[naut-1615 : person = "道忞" / zh 
+[naut-1615 : person = "道忞" / zh
  @"http://psi.iba-net.org/person/naut-1615"]
-[naut-1083 : person = "行悅" / zh 
+[naut-1083 : person = "行悅" / zh
  @"http://psi.iba-net.org/person/naut-1083"]
-[naut-1292 : person = "如海" / zh 
+[naut-1292 : person = "如海" / zh
  @"http://psi.iba-net.org/person/naut-1292"]
-[naut-1601 : person = "際源" / zh 
+[naut-1601 : person = "際源" / zh
  @"http://psi.iba-net.org/person/naut-1601"]
-[naut-983 : person = "妙生" / zh 
+[naut-983 : person = "妙生" / zh
  @"http://psi.iba-net.org/person/naut-983"]
-[naut-816 : person = "崇俊" / zh 
+[naut-816 : person = "崇俊" / zh
  @"http://psi.iba-net.org/person/naut-816"]
-[naut-576 : person = "員珂" / zh 
+[naut-576 : person = "員珂" / zh
  @"http://psi.iba-net.org/person/naut-576"]
-[naut-1210 : person = "守愿" / zh 
+[naut-1210 : person = "守愿" / zh
  @"http://psi.iba-net.org/person/naut-1210"]
-[naut-616 : person = "慧苑" / zh 
+[naut-616 : person = "慧苑" / zh
  @"http://psi.iba-net.org/person/naut-616"]
-[naut-1453 : person = "曇紹" / zh 
+[naut-1453 : person = "曇紹" / zh
  @"http://psi.iba-net.org/person/naut-1453"]
-[naut-625 : person = "戒環" / zh 
+[naut-625 : person = "戒環" / zh
  @"http://psi.iba-net.org/person/naut-625"]
-[naut-1033 : person = "常攝" / zh 
+[naut-1033 : person = "常攝" / zh
  @"http://psi.iba-net.org/person/naut-1033"]
-[naut-690 : person = "遇榮" / zh 
+[naut-690 : person = "遇榮" / zh
  @"http://psi.iba-net.org/person/naut-690"]
-[naut-1244 : person = "德高" / zh 
+[naut-1244 : person = "德高" / zh
  @"http://psi.iba-net.org/person/naut-1244"]
-[naut-883 : person = "楊文會" / zh 
+[naut-883 : person = "楊文會" / zh
  @"http://psi.iba-net.org/person/naut-883"]
-[naut-932 : person = "慧觀重編" / zh 
+[naut-932 : person = "慧觀重編" / zh
  @"http://psi.iba-net.org/person/naut-932"]
-[naut-887 : person = "從芳" / zh 
+[naut-887 : person = "從芳" / zh
  @"http://psi.iba-net.org/person/naut-887"]
-[naut-1507 : person = "德祥" / zh 
+[naut-1507 : person = "德祥" / zh
  @"http://psi.iba-net.org/person/naut-1507"]
-[naut-841 : person = "今釋" / zh 
+[naut-841 : person = "今釋" / zh
  @"http://psi.iba-net.org/person/naut-841"]
-[naut-1609 : person = "朱時恩" / zh 
+[naut-1609 : person = "朱時恩" / zh
  @"http://psi.iba-net.org/person/naut-1609"]
-[naut-1007 : person = "王日休" / zh 
+[naut-1007 : person = "王日休" / zh
  @"http://psi.iba-net.org/person/naut-1007"]
-[naut-1620 : person = "通旭" / zh 
+[naut-1620 : person = "通旭" / zh
  @"http://psi.iba-net.org/person/naut-1620"]
-[naut-663 : person = "廣莫直" / zh 
+[naut-663 : person = "廣莫直" / zh
  @"http://psi.iba-net.org/person/naut-663"]
-[naut-907 : person = "鎭澄" / zh 
+[naut-907 : person = "鎭澄" / zh
  @"http://psi.iba-net.org/person/naut-907"]
-[naut-591 : person = "金剛仙菩薩造" / zh 
+[naut-591 : person = "金剛仙菩薩造" / zh
  @"http://psi.iba-net.org/person/naut-591"]
-[naut-1433 : person = "文暐" / zh 
+[naut-1433 : person = "文暐" / zh
  @"http://psi.iba-net.org/person/naut-1433"]
-[naut-872 : person = "曇延" / zh 
+[naut-872 : person = "曇延" / zh
  @"http://psi.iba-net.org/person/naut-872"]
-[naut-1613 : person = "大壑" / zh 
+[naut-1613 : person = "大壑" / zh
  @"http://psi.iba-net.org/person/naut-1613"]
-[naut-593 : person = "般若斫羯囉" / zh 
+[naut-593 : person = "般若斫羯囉" / zh
  @"http://psi.iba-net.org/person/naut-593"]
-[naut-1534 : person = "宗敬" / zh 
+[naut-1534 : person = "宗敬" / zh
  @"http://psi.iba-net.org/person/naut-1534"]
-[naut-731 : person = "徐行善" / zh 
+[naut-731 : person = "徐行善" / zh
  @"http://psi.iba-net.org/person/naut-731"]
-[naut-1208 : person = "宗文" / zh 
+[naut-1208 : person = "宗文" / zh
  @"http://psi.iba-net.org/person/naut-1208"]
-[naut-1086 : person = "張文嘉" / zh 
+[naut-1086 : person = "張文嘉" / zh
  @"http://psi.iba-net.org/person/naut-1086"]
-[naut-1114 : person = "如祐錄" / zh 
+[naut-1114 : person = "如祐錄" / zh
  @"http://psi.iba-net.org/person/naut-1114"]
-[naut-1459 : person = "文晟" / zh 
+[naut-1459 : person = "文晟" / zh
  @"http://psi.iba-net.org/person/naut-1459"]
-[naut-1266 : person = "無隱" / zh 
+[naut-1266 : person = "無隱" / zh
  @"http://psi.iba-net.org/person/naut-1266"]
-[naut-1168 : person = "德秀" / zh 
+[naut-1168 : person = "德秀" / zh
  @"http://psi.iba-net.org/person/naut-1168"]
-[naut-1527 : person = "文智" / zh 
+[naut-1527 : person = "文智" / zh
  @"http://psi.iba-net.org/person/naut-1527"]
-[naut-977 : person = "施堯挺" / zh 
+[naut-977 : person = "施堯挺" / zh
  @"http://psi.iba-net.org/person/naut-977"]
-[naut-835 : person = "與咸(入疏箋經加註釋疏)" / zh 
+[naut-835 : person = "與咸(入疏箋經加註釋疏)" / zh
  @"http://psi.iba-net.org/person/naut-835"]
-[naut-1101 : person = "性統" / zh 
+[naut-1101 : person = "性統" / zh
  @"http://psi.iba-net.org/person/naut-1101"]
-[naut-1583 : person = "李遵勗" / zh 
+[naut-1583 : person = "李遵勗" / zh
  @"http://psi.iba-net.org/person/naut-1583"]
-[naut-1416 : person = "祖灊" / zh 
+[naut-1416 : person = "祖灊" / zh
  @"http://psi.iba-net.org/person/naut-1416"]
-[naut-1140 : person = "師明" / zh 
+[naut-1140 : person = "師明" / zh
  @"http://psi.iba-net.org/person/naut-1140"]
-[naut-629 : person = "宗密(於大疏略出)" / zh 
+[naut-629 : person = "宗密(於大疏略出)" / zh
  @"http://psi.iba-net.org/person/naut-629"]
-[naut-804 : person = "無相" / zh 
+[naut-804 : person = "無相" / zh
  @"http://psi.iba-net.org/person/naut-804"]
-[naut-1438 : person = "思廉" / zh 
+[naut-1438 : person = "思廉" / zh
  @"http://psi.iba-net.org/person/naut-1438"]
-[naut-1006 : person = "澄彧" / zh 
+[naut-1006 : person = "澄彧" / zh
  @"http://psi.iba-net.org/person/naut-1006"]
-[naut-1628 : person = "郭凝之彙編" / zh 
+[naut-1628 : person = "郭凝之彙編" / zh
  @"http://psi.iba-net.org/person/naut-1628"]
-[naut-1225 : person = "可能" / zh 
+[naut-1225 : person = "可能" / zh
  @"http://psi.iba-net.org/person/naut-1225"]
-[naut-903 : person = "惠達" / zh 
+[naut-903 : person = "惠達" / zh
  @"http://psi.iba-net.org/person/naut-903"]
-[naut-1032 : person = "覺明菩薩說" / zh 
+[naut-1032 : person = "覺明菩薩說" / zh
  @"http://psi.iba-net.org/person/naut-1032"]
-[naut-749 : person = "徐發詮" / zh 
+[naut-749 : person = "徐發詮" / zh
  @"http://psi.iba-net.org/person/naut-749"]
-[naut-1558 : person = "咫觀" / zh 
+[naut-1558 : person = "咫觀" / zh
  @"http://psi.iba-net.org/person/naut-1558"]
-[naut-1316 : person = "慧恭" / zh 
+[naut-1316 : person = "慧恭" / zh
  @"http://psi.iba-net.org/person/naut-1316"]
-[naut-1478 : person = "良玓" / zh 
+[naut-1478 : person = "良玓" / zh
  @"http://psi.iba-net.org/person/naut-1478"]
-[naut-1423 : person = "惟寂" / zh 
+[naut-1423 : person = "惟寂" / zh
  @"http://psi.iba-net.org/person/naut-1423"]
-[naut-1108 : person = "大香" / zh 
+[naut-1108 : person = "大香" / zh
  @"http://psi.iba-net.org/person/naut-1108"]
-[naut-755 : person = "子眞乩訂" / zh 
+[naut-755 : person = "子眞乩訂" / zh
  @"http://psi.iba-net.org/person/naut-755"]
-[naut-1204 : person = "惟實" / zh 
+[naut-1204 : person = "惟實" / zh
  @"http://psi.iba-net.org/person/naut-1204"]
-[naut-1564 : person = "本覺" / zh 
+[naut-1564 : person = "本覺" / zh
  @"http://psi.iba-net.org/person/naut-1564"]
-[naut-1043 : person = "程兆鸞錄" / zh 
+[naut-1043 : person = "程兆鸞錄" / zh
  @"http://psi.iba-net.org/person/naut-1043"]
-[naut-1345 : person = "祖燈" / zh 
+[naut-1345 : person = "祖燈" / zh
  @"http://psi.iba-net.org/person/naut-1345"]
-[naut-1508 : person = "士慘" / zh 
+[naut-1508 : person = "士慘" / zh
  @"http://psi.iba-net.org/person/naut-1508"]
-[naut-1429 : person = "思齊" / zh 
+[naut-1429 : person = "思齊" / zh
  @"http://psi.iba-net.org/person/naut-1429"]
-[naut-1139 : person = "賾藏主" / zh 
+[naut-1139 : person = "賾藏主" / zh
  @"http://psi.iba-net.org/person/naut-1139"]
-[naut-1539 : person = "福善" / zh 
+[naut-1539 : person = "福善" / zh
  @"http://psi.iba-net.org/person/naut-1539"]
-[naut-988 : person = "妙音" / zh 
+[naut-988 : person = "妙音" / zh
  @"http://psi.iba-net.org/person/naut-988"]
-[naut-713 : person = "慈航智願定本" / zh 
+[naut-713 : person = "慈航智願定本" / zh
  @"http://psi.iba-net.org/person/naut-713"]
-[naut-1367 : person = "仁安" / zh 
+[naut-1367 : person = "仁安" / zh
  @"http://psi.iba-net.org/person/naut-1367"]
-[naut-728 : person = "慧能" / zh 
+[naut-728 : person = "慧能" / zh
  @"http://psi.iba-net.org/person/naut-728"]
-[naut-963 : person = "善堅" / zh 
+[naut-963 : person = "善堅" / zh
  @"http://psi.iba-net.org/person/naut-963"]
-[naut-687 : person = "受汰" / zh 
+[naut-687 : person = "受汰" / zh
  @"http://psi.iba-net.org/person/naut-687"]
-[naut-654 : person = "道昉參訂" / zh 
+[naut-654 : person = "道昉參訂" / zh
  @"http://psi.iba-net.org/person/naut-654"]
-[naut-1333 : person = "子昶" / zh 
+[naut-1333 : person = "子昶" / zh
  @"http://psi.iba-net.org/person/naut-1333"]
-[naut-1451 : person = "祖光" / zh 
+[naut-1451 : person = "祖光" / zh
  @"http://psi.iba-net.org/person/naut-1451"]
-[naut-895 : person = "智素" / zh 
+[naut-895 : person = "智素" / zh
  @"http://psi.iba-net.org/person/naut-895"]
-[naut-1022 : person = "俞行敏" / zh 
+[naut-1022 : person = "俞行敏" / zh
  @"http://psi.iba-net.org/person/naut-1022"]
-[naut-1171 : person = "了心" / zh 
+[naut-1171 : person = "了心" / zh
  @"http://psi.iba-net.org/person/naut-1171"]
-[naut-1119 : person = "本瑞直" / zh 
+[naut-1119 : person = "本瑞直" / zh
  @"http://psi.iba-net.org/person/naut-1119"]
-[naut-711 : person = "傳燈鈔" / zh 
+[naut-711 : person = "傳燈鈔" / zh
  @"http://psi.iba-net.org/person/naut-711"]
-[naut-1608 : person = "如巹" / zh 
+[naut-1608 : person = "如巹" / zh
  @"http://psi.iba-net.org/person/naut-1608"]
-[naut-1113 : person = "子昇" / zh 
+[naut-1113 : person = "子昇" / zh
  @"http://psi.iba-net.org/person/naut-1113"]
-[naut-910 : person = "行舟" / zh 
+[naut-910 : person = "行舟" / zh
  @"http://psi.iba-net.org/person/naut-910"]
-[naut-1573 : person = "幽貞刊纂" / zh 
+[naut-1573 : person = "幽貞刊纂" / zh
  @"http://psi.iba-net.org/person/naut-1573"]
-[naut-693 : person = "太賢" / zh 
+[naut-693 : person = "太賢" / zh
  @"http://psi.iba-net.org/person/naut-693"]
-[naut-1513 : person = "太泉" / zh 
+[naut-1513 : person = "太泉" / zh
  @"http://psi.iba-net.org/person/naut-1513"]
-[naut-1030 : person = "芳慧" / zh 
+[naut-1030 : person = "芳慧" / zh
  @"http://psi.iba-net.org/person/naut-1030"]
-[naut-1380 : person = "自然" / zh 
+[naut-1380 : person = "自然" / zh
  @"http://psi.iba-net.org/person/naut-1380"]
-[naut-1544 : person = "王子成" / zh 
+[naut-1544 : person = "王子成" / zh
  @"http://psi.iba-net.org/person/naut-1544"]
-[naut-1254 : person = "師肇" / zh 
+[naut-1254 : person = "師肇" / zh
  @"http://psi.iba-net.org/person/naut-1254"]
-[naut-748 : person = "偈" / zh 
+[naut-748 : person = "偈" / zh
  @"http://psi.iba-net.org/person/naut-748"]
-[naut-1085 : person = "大建" / zh 
+[naut-1085 : person = "大建" / zh
  @"http://psi.iba-net.org/person/naut-1085"]
-[naut-1413 : person = "慧朗" / zh 
+[naut-1413 : person = "慧朗" / zh
  @"http://psi.iba-net.org/person/naut-1413"]
-[naut-997 : person = "儀潤" / zh 
+[naut-997 : person = "儀潤" / zh
  @"http://psi.iba-net.org/person/naut-997"]
-[naut-1437 : person = "宗遠" / zh 
+[naut-1437 : person = "宗遠" / zh
  @"http://psi.iba-net.org/person/naut-1437"]
-[naut-880 : person = "法敏" / zh 
+[naut-880 : person = "法敏" / zh
  @"http://psi.iba-net.org/person/naut-880"]
-[naut-724 : person = "覺苑" / zh 
+[naut-724 : person = "覺苑" / zh
  @"http://psi.iba-net.org/person/naut-724"]
-[naut-833 : person = "淨挺" / zh 
+[naut-833 : person = "淨挺" / zh
  @"http://psi.iba-net.org/person/naut-833"]
-[naut-1445 : person = "曇頓" / zh 
+[naut-1445 : person = "曇頓" / zh
  @"http://psi.iba-net.org/person/naut-1445"]
-[naut-1386 : person = "景行" / zh 
+[naut-1386 : person = "景行" / zh
  @"http://psi.iba-net.org/person/naut-1386"]
-[naut-1600 : person = "施沛" / zh 
+[naut-1600 : person = "施沛" / zh
  @"http://psi.iba-net.org/person/naut-1600"]
-[naut-926 : person = "海眼" / zh 
+[naut-926 : person = "海眼" / zh
  @"http://psi.iba-net.org/person/naut-926"]
-[naut-1293 : person = "妙倫" / zh 
+[naut-1293 : person = "妙倫" / zh
  @"http://psi.iba-net.org/person/naut-1293"]
-[naut-1469 : person = "寶盈" / zh 
+[naut-1469 : person = "寶盈" / zh
  @"http://psi.iba-net.org/person/naut-1469"]
-[naut-761 : person = "行敏" / zh 
+[naut-761 : person = "行敏" / zh
  @"http://psi.iba-net.org/person/naut-761"]
-[naut-851 : person = "允堪" / zh 
+[naut-851 : person = "允堪" / zh
  @"http://psi.iba-net.org/person/naut-851"]
-[naut-1298 : person = "紹曇" / zh 
+[naut-1298 : person = "紹曇" / zh
  @"http://psi.iba-net.org/person/naut-1298"]
-[naut-943 : person = "克勤" / zh 
+[naut-943 : person = "克勤" / zh
  @"http://psi.iba-net.org/person/naut-943"]
-[naut-974 : person = "金俱吒撰集" / zh 
+[naut-974 : person = "金俱吒撰集" / zh
  @"http://psi.iba-net.org/person/naut-974"]
-[naut-1489 : person = "普崇" / zh 
+[naut-1489 : person = "普崇" / zh
  @"http://psi.iba-net.org/person/naut-1489"]
-[naut-1255 : person = "道巖" / zh 
+[naut-1255 : person = "道巖" / zh
  @"http://psi.iba-net.org/person/naut-1255"]
-[naut-1533 : person = "普紹" / zh 
+[naut-1533 : person = "普紹" / zh
  @"http://psi.iba-net.org/person/naut-1533"]
-[naut-1361 : person = "禪了" / zh 
+[naut-1361 : person = "禪了" / zh
  @"http://psi.iba-net.org/person/naut-1361"]
-[naut-1529 : person = "慧辯" / zh 
+[naut-1529 : person = "慧辯" / zh
  @"http://psi.iba-net.org/person/naut-1529"]
-[naut-1408 : person = "宗成" / zh 
+[naut-1408 : person = "宗成" / zh
  @"http://psi.iba-net.org/person/naut-1408"]
-[naut-609 : person = "縛日羅枳惹曩" / zh 
+[naut-609 : person = "縛日羅枳惹曩" / zh
  @"http://psi.iba-net.org/person/naut-609"]
-[naut-807 : person = "大義" / zh 
+[naut-807 : person = "大義" / zh
  @"http://psi.iba-net.org/person/naut-807"]
-[naut-1393 : person = "繼祖" / zh 
+[naut-1393 : person = "繼祖" / zh
  @"http://psi.iba-net.org/person/naut-1393"]
-[naut-1547 : person = "讀徹" / zh 
+[naut-1547 : person = "讀徹" / zh
  @"http://psi.iba-net.org/person/naut-1547"]
-[naut-1622 : person = "曇秀" / zh 
+[naut-1622 : person = "曇秀" / zh
  @"http://psi.iba-net.org/person/naut-1622"]
-[naut-1464 : person = "觀通" / zh 
+[naut-1464 : person = "觀通" / zh
  @"http://psi.iba-net.org/person/naut-1464"]
-[naut-1157 : person = "處凝" / zh 
+[naut-1157 : person = "處凝" / zh
  @"http://psi.iba-net.org/person/naut-1157"]
-[naut-1134 : person = "圓通" / zh 
+[naut-1134 : person = "圓通" / zh
  @"http://psi.iba-net.org/person/naut-1134"]
-[naut-1569 : person = "元敬" / zh 
+[naut-1569 : person = "元敬" / zh
  @"http://psi.iba-net.org/person/naut-1569"]
-[naut-769 : person = "眞貴" / zh 
+[naut-769 : person = "眞貴" / zh
  @"http://psi.iba-net.org/person/naut-769"]
-[naut-981 : person = "慧光" / zh 
+[naut-981 : person = "慧光" / zh
  @"http://psi.iba-net.org/person/naut-981"]
-[naut-979 : person = "澄照" / zh 
+[naut-979 : person = "澄照" / zh
  @"http://psi.iba-net.org/person/naut-979"]
-[naut-1551 : person = "禪修" / zh 
+[naut-1551 : person = "禪修" / zh
  @"http://psi.iba-net.org/person/naut-1551"]
-[naut-1080 : person = "[虎-儿+丘]一" / zh 
+[naut-1080 : person = "[虎-儿+丘]一" / zh
  @"http://psi.iba-net.org/person/naut-1080"]
-[naut-1195 : person = "慧曇" / zh 
+[naut-1195 : person = "慧曇" / zh
  @"http://psi.iba-net.org/person/naut-1195"]
-[naut-1257 : person = "妙儼" / zh 
+[naut-1257 : person = "妙儼" / zh
  @"http://psi.iba-net.org/person/naut-1257"]
-[naut-1295 : person = "了禪" / zh 
+[naut-1295 : person = "了禪" / zh
  @"http://psi.iba-net.org/person/naut-1295"]
-[naut-844 : person = "德玉順" / zh 
+[naut-844 : person = "德玉順" / zh
  @"http://psi.iba-net.org/person/naut-844"]
-[naut-915 : person = "梁肅" / zh 
+[naut-915 : person = "梁肅" / zh
  @"http://psi.iba-net.org/person/naut-915"]
-[naut-1623 : person = "志明" / zh 
+[naut-1623 : person = "志明" / zh
  @"http://psi.iba-net.org/person/naut-1623"]
-[naut-1144 : person = "林弘衍" / zh 
+[naut-1144 : person = "林弘衍" / zh
  @"http://psi.iba-net.org/person/naut-1144"]
-[naut-1278 : person = "文愷" / zh 
+[naut-1278 : person = "文愷" / zh
  @"http://psi.iba-net.org/person/naut-1278"]
-[naut-1258 : person = "妙全" / zh 
+[naut-1258 : person = "妙全" / zh
  @"http://psi.iba-net.org/person/naut-1258"]
-[naut-935 : person = "與咸" / zh 
+[naut-935 : person = "與咸" / zh
  @"http://psi.iba-net.org/person/naut-935"]
-[naut-808 : person = "淨昇" / zh 
+[naut-808 : person = "淨昇" / zh
  @"http://psi.iba-net.org/person/naut-808"]
-[naut-898 : person = "慧暉" / zh 
+[naut-898 : person = "慧暉" / zh
  @"http://psi.iba-net.org/person/naut-898"]
-[naut-945 : person = "智旭重" / zh 
+[naut-945 : person = "智旭重" / zh
  @"http://psi.iba-net.org/person/naut-945"]
-[naut-967 : person = "一行修" / zh 
+[naut-967 : person = "一行修" / zh
  @"http://psi.iba-net.org/person/naut-967"]
-[naut-1632 : person = "孟獻忠" / zh 
+[naut-1632 : person = "孟獻忠" / zh
  @"http://psi.iba-net.org/person/naut-1632"]
-[naut-911 : person = "性起論" / zh 
+[naut-911 : person = "性起論" / zh
  @"http://psi.iba-net.org/person/naut-911"]
-[naut-723 : person = "一行述" / zh 
+[naut-723 : person = "一行述" / zh
  @"http://psi.iba-net.org/person/naut-723"]
-[naut-1013 : person = "成時(評點節要)" / zh 
+[naut-1013 : person = "成時(評點節要)" / zh
  @"http://psi.iba-net.org/person/naut-1013"]
-[naut-1557 : person = "西宗" / zh 
+[naut-1557 : person = "西宗" / zh
  @"http://psi.iba-net.org/person/naut-1557"]
-[naut-600 : person = "三昧蘇[口*縛]羅" / zh 
+[naut-600 : person = "三昧蘇[口*縛]羅" / zh
  @"http://psi.iba-net.org/person/naut-600"]
-[naut-1121 : person = "性福" / zh 
+[naut-1121 : person = "性福" / zh
  @"http://psi.iba-net.org/person/naut-1121"]
-[naut-836 : person = "傳奧" / zh 
+[naut-836 : person = "傳奧" / zh
  @"http://psi.iba-net.org/person/naut-836"]
-[naut-678 : person = "廣莫" / zh 
+[naut-678 : person = "廣莫" / zh
  @"http://psi.iba-net.org/person/naut-678"]
-[naut-771 : person = "明曠" / zh 
+[naut-771 : person = "明曠" / zh
  @"http://psi.iba-net.org/person/naut-771"]
-[naut-1350 : person = "道彰" / zh 
+[naut-1350 : person = "道彰" / zh
  @"http://psi.iba-net.org/person/naut-1350"]
-[naut-998 : person = "陳熙願" / zh 
+[naut-998 : person = "陳熙願" / zh
  @"http://psi.iba-net.org/person/naut-998"]
-[naut-1060 : person = "宗密答" / zh 
+[naut-1060 : person = "宗密答" / zh
  @"http://psi.iba-net.org/person/naut-1060"]
-[naut-1112 : person = "集雲堂" / zh 
+[naut-1112 : person = "集雲堂" / zh
  @"http://psi.iba-net.org/person/naut-1112"]
-[naut-1473 : person = "道彝" / zh 
+[naut-1473 : person = "道彝" / zh
  @"http://psi.iba-net.org/person/naut-1473"]
-[naut-1224 : person = "德紀" / zh 
+[naut-1224 : person = "德紀" / zh
  @"http://psi.iba-net.org/person/naut-1224"]
-[naut-1228 : person = "惟康" / zh 
+[naut-1228 : person = "惟康" / zh
  @"http://psi.iba-net.org/person/naut-1228"]
-[naut-820 : person = "周上智" / zh 
+[naut-820 : person = "周上智" / zh
  @"http://psi.iba-net.org/person/naut-820"]
-[naut-722 : person = "工布查布譯竝解" / zh 
+[naut-722 : person = "工布查布譯竝解" / zh
  @"http://psi.iba-net.org/person/naut-722"]
-[naut-1301 : person = "妙因" / zh 
+[naut-1301 : person = "妙因" / zh
  @"http://psi.iba-net.org/person/naut-1301"]
-[naut-1197 : person = "崇裕" / zh 
+[naut-1197 : person = "崇裕" / zh
  @"http://psi.iba-net.org/person/naut-1197"]
-[naut-1562 : person = "祖琇" / zh 
+[naut-1562 : person = "祖琇" / zh
  @"http://psi.iba-net.org/person/naut-1562"]
-[naut-1271 : person = "德惟" / zh 
+[naut-1271 : person = "德惟" / zh
  @"http://psi.iba-net.org/person/naut-1271"]
-[naut-889 : person = "明昱" / zh 
+[naut-889 : person = "明昱" / zh
  @"http://psi.iba-net.org/person/naut-889"]
-[naut-878 : person = "德清纂" / zh 
+[naut-878 : person = "德清纂" / zh
  @"http://psi.iba-net.org/person/naut-878"]
-[naut-941 : person = "普容" / zh 
+[naut-941 : person = "普容" / zh
  @"http://psi.iba-net.org/person/naut-941"]
-[naut-1447 : person = "法林" / zh 
+[naut-1447 : person = "法林" / zh
  @"http://psi.iba-net.org/person/naut-1447"]
-[naut-681 : person = "楊起元評" / zh 
+[naut-681 : person = "楊起元評" / zh
  @"http://psi.iba-net.org/person/naut-681"]
-[naut-1089 : person = "超記錄" / zh 
+[naut-1089 : person = "超記錄" / zh
  @"http://psi.iba-net.org/person/naut-1089"]
-[naut-1331 : person = "宗應" / zh 
+[naut-1331 : person = "宗應" / zh
  @"http://psi.iba-net.org/person/naut-1331"]
-[naut-1355 : person = "洪喬祖" / zh 
+[naut-1355 : person = "洪喬祖" / zh
  @"http://psi.iba-net.org/person/naut-1355"]
-[naut-1138 : person = "道忠" / zh 
+[naut-1138 : person = "道忠" / zh
  @"http://psi.iba-net.org/person/naut-1138"]
-[naut-1634 : person = "淨慧" / zh 
+[naut-1634 : person = "淨慧" / zh
  @"http://psi.iba-net.org/person/naut-1634"]
-[naut-837 : person = "勝莊" / zh 
+[naut-837 : person = "勝莊" / zh
  @"http://psi.iba-net.org/person/naut-837"]
-[naut-869 : person = "性祗" / zh 
+[naut-869 : person = "性祗" / zh
  @"http://psi.iba-net.org/person/naut-869"]
-[naut-1565 : person = "熙仲" / zh 
+[naut-1565 : person = "熙仲" / zh
  @"http://psi.iba-net.org/person/naut-1565"]
-[naut-1531 : person = "善隨" / zh 
+[naut-1531 : person = "善隨" / zh
  @"http://psi.iba-net.org/person/naut-1531"]
-[naut-994 : person = "性祇" / zh 
+[naut-994 : person = "性祇" / zh
  @"http://psi.iba-net.org/person/naut-994"]
-[naut-831 : person = "了童" / zh 
+[naut-831 : person = "了童" / zh
  @"http://psi.iba-net.org/person/naut-831"]
-[naut-1039 : person = "照瑩" / zh 
+[naut-1039 : person = "照瑩" / zh
  @"http://psi.iba-net.org/person/naut-1039"]
-[naut-892 : person = "靈泰" / zh 
+[naut-892 : person = "靈泰" / zh
  @"http://psi.iba-net.org/person/naut-892"]
-[naut-1382 : person = "壽椿" / zh 
+[naut-1382 : person = "壽椿" / zh
  @"http://psi.iba-net.org/person/naut-1382"]
-[naut-1372 : person = "及藏主" / zh 
+[naut-1372 : person = "及藏主" / zh
  @"http://psi.iba-net.org/person/naut-1372"]
-[naut-620 : person = "方澤" / zh 
+[naut-620 : person = "方澤" / zh
  @"http://psi.iba-net.org/person/naut-620"]
-[naut-1567 : person = "寶唱" / zh 
+[naut-1567 : person = "寶唱" / zh
  @"http://psi.iba-net.org/person/naut-1567"]
-[naut-900 : person = "失名者補作" / zh 
+[naut-900 : person = "失名者補作" / zh
  @"http://psi.iba-net.org/person/naut-900"]
-[naut-1230 : person = "如止" / zh 
+[naut-1230 : person = "如止" / zh
  @"http://psi.iba-net.org/person/naut-1230"]
-[naut-881 : person = "法悟[束*力]" / zh 
+[naut-881 : person = "法悟[束*力]" / zh
  @"http://psi.iba-net.org/person/naut-881"]
-[naut-950 : person = "淨源刊" / zh 
+[naut-950 : person = "淨源刊" / zh
  @"http://psi.iba-net.org/person/naut-950"]
-[naut-860 : person = "智首" / zh 
+[naut-860 : person = "智首" / zh
  @"http://psi.iba-net.org/person/naut-860"]
-[naut-1390 : person = "寶生" / zh 
+[naut-1390 : person = "寶生" / zh
  @"http://psi.iba-net.org/person/naut-1390"]
-[naut-1074 : person = "明本" / zh 
+[naut-1074 : person = "明本" / zh
  @"http://psi.iba-net.org/person/naut-1074"]
-[naut-813 : person = "佛閑立" / zh 
+[naut-813 : person = "佛閑立" / zh
  @"http://psi.iba-net.org/person/naut-813"]
-[naut-809 : person = "智祥" / zh 
+[naut-809 : person = "智祥" / zh
  @"http://psi.iba-net.org/person/naut-809"]
-[naut-876 : person = "通潤述" / zh 
+[naut-876 : person = "通潤述" / zh
  @"http://psi.iba-net.org/person/naut-876"]
-[naut-1339 : person = "汝均" / zh 
+[naut-1339 : person = "汝均" / zh
  @"http://psi.iba-net.org/person/naut-1339"]
-[naut-848 : person = "廣承" / zh 
+[naut-848 : person = "廣承" / zh
  @"http://psi.iba-net.org/person/naut-848"]
-[naut-1606 : person = "心圓" / zh 
+[naut-1606 : person = "心圓" / zh
  @"http://psi.iba-net.org/person/naut-1606"]
-[naut-674 : person = "濟時" / zh 
+[naut-674 : person = "濟時" / zh
  @"http://psi.iba-net.org/person/naut-674"]
-[naut-1385 : person = "良圭" / zh 
+[naut-1385 : person = "良圭" / zh
  @"http://psi.iba-net.org/person/naut-1385"]
-[naut-1616 : person = "吳侗集" / zh 
+[naut-1616 : person = "吳侗集" / zh
  @"http://psi.iba-net.org/person/naut-1616"]
-[naut-765 : person = "存吾闡" / zh 
+[naut-765 : person = "存吾闡" / zh
  @"http://psi.iba-net.org/person/naut-765"]
-[naut-675 : person = "曾鳳儀" / zh 
+[naut-675 : person = "曾鳳儀" / zh
  @"http://psi.iba-net.org/person/naut-675"]
-[naut-691 : person = "日新" / zh 
+[naut-691 : person = "日新" / zh
  @"http://psi.iba-net.org/person/naut-691"]
-[naut-1383 : person = "德粹" / zh 
+[naut-1383 : person = "德粹" / zh
  @"http://psi.iba-net.org/person/naut-1383"]
-[naut-1409 : person = "宗胤" / zh 
+[naut-1409 : person = "宗胤" / zh
  @"http://psi.iba-net.org/person/naut-1409"]
-[naut-1643 : person = "中野達慧共" / zh 
+[naut-1643 : person = "中野達慧共" / zh
  @"http://psi.iba-net.org/person/naut-1643"]
-[naut-999 : person = "超遠檢" / zh 
+[naut-999 : person = "超遠檢" / zh
  @"http://psi.iba-net.org/person/naut-999"]
-[naut-1212 : person = "了元" / zh 
+[naut-1212 : person = "了元" / zh
  @"http://psi.iba-net.org/person/naut-1212"]
 /* dynasties, roles */
 [role-58 : role = "傳法" / zh]

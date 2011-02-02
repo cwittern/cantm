@@ -1,4 +1,6 @@
 @"utf-8"
+#INCLUDE "ontology.ltm"
+
 /* [2011-01-17T14:46:08+0900] added scope hmw to zh title */
 [ea001 : exp = "大方廣佛華嚴經" / zh hmw
 @"http://psi.iba-net.org/exp/hmw_a001"
